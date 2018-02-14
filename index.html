@@ -148,6 +148,17 @@
 		catch(err){}
 	};
 	function onLoadFct(){
+		$('#limpar').on('click', function(e){
+			// close pop up
+			$('#ruaLogradouro')[0].value = "";
+			$('#estabIE')[0].value = "";
+			$('#estabRazao')[0].value = "";
+			$('#estabFantasia')[0].value = "";
+			$('#demo-table').simple_datagrid('selectRow', -1);
+			onChangeRuaLogradouro();
+			$('#estab-table').simple_datagrid('selectRow', -1);
+			onChangeEstab();
+		});
 		$('[data-popup-close]').on('click', function(e){
 			// close pop up
 			$('[data-popup="popup-1"]').fadeOut(350);
@@ -183,19 +194,22 @@
 		$('#demo-table').bind(
 			'datagrid.select',
 			function(e){
-				clica1("estabs-table");
+				$('#estabs-table').simple_datagrid('setCurrentPage', 1);
+				//clica1("estabs-table");
 				filtroRua = e.row.logradouro;
 				$('#estabs-table').simple_datagrid('reload');
 			}
 		);
 	};
 	function onChangeRuaLogradouro(){
-		clica1("demo-table");
+		//clica1("demo-table");
+		$('#demo-table').simple_datagrid('setCurrentPage', 1);
 		filtroRuaLogradouro = $('#ruaLogradouro')[0].value;
 		$('#demo-table').simple_datagrid('reload');
 	};
 	function onChangeEstab(){
-		clica1("estabs-table")
+		//clica1("estabs-table")
+		$('#estabs-table').simple_datagrid('setCurrentPage', 1);
 		filtroEstabIE = $('#estabIE')[0].value;
 		filtroEstabRazao = $('#estabRazao')[0].value;
 		filtroEstabFantasia = $('#estabFantasia')[0].value;
@@ -234,6 +248,7 @@
 		<table>
 		<tr valign="top" style="height: 30px;">
 			<td>&nbsp;&nbsp;&nbsp;
+				<a href="#" id="limpar">LIMPAR</a>&nbsp;&nbsp;&nbsp;
 				logradouro: <input type="text" id="ruaLogradouro" onchange="onChangeRuaLogradouro()"/>
 			</td>
 			<td>&nbsp;&nbsp;&nbsp;
