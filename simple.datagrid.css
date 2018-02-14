@@ -12,6 +12,10 @@ a{
 a:focus,a:hover{
 	color:#23527c;
 }
+input
+{
+	font-size: 9px;
+}
 .container{
 	font-size: 9px;
 }

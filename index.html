@@ -128,28 +128,18 @@
 	function formatarIE(ie){
 		return "0" + ie;
 	};
-	function formatarDinheiro(numero){
-		var numero = numero.toFixed(2).split('.');
+	function formatarDinheiro(n){
+		var numero = n.toFixed(2).split('.');
 		numero[0] = "R$ " + numero[0].split(/(?=(?:...)*$)/).join('.');
 		return numero.join(',');
 	};
 	function formatarEndereco(ob){
 		return ob.logradouro+", "+(ob.numero ? ob.numero : "S/N")+(ob.bairro ? ", " + ob.bairro : "")+", "+ob.municipio+" - PE";
 	};
-	function clica1(alvo){
-		try{
-			var a = document.querySelectorAll('[data-page]');
-			for (var i in a) if (a.hasOwnProperty(i) && a[i].getAttribute('data-page')==1){
-				if(a[i].parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.getAttribute("id") == alvo){
-					$(a[i]).trigger( "click" );
-				}
-			}
-		}
-		catch(err){}
-	};
 	function onLoadFct(){
 		$('#limpar').on('click', function(e){
 			// close pop up
+			filtroRua = "";
 			$('#ruaLogradouro')[0].value = "";
 			$('#estabIE')[0].value = "";
 			$('#estabRazao')[0].value = "";
@@ -187,7 +177,7 @@
 				$('[data-popup="popup-1"]').fadeIn(350);
 				e.preventDefault();
 				$('#popup-content')[0].innerHTML = formatarEstab(e.row);
-				setTimeout(function(){initMap(e.row);}, 1000);
+				initMap(e.row);
 			}
 		);
 		// select rua
@@ -195,20 +185,17 @@
 			'datagrid.select',
 			function(e){
 				$('#estabs-table').simple_datagrid('setCurrentPage', 1);
-				//clica1("estabs-table");
 				filtroRua = e.row.logradouro;
 				$('#estabs-table').simple_datagrid('reload');
 			}
 		);
 	};
 	function onChangeRuaLogradouro(){
-		//clica1("demo-table");
 		$('#demo-table').simple_datagrid('setCurrentPage', 1);
 		filtroRuaLogradouro = $('#ruaLogradouro')[0].value;
 		$('#demo-table').simple_datagrid('reload');
 	};
 	function onChangeEstab(){
-		//clica1("estabs-table")
 		$('#estabs-table').simple_datagrid('setCurrentPage', 1);
 		filtroEstabIE = $('#estabIE')[0].value;
 		filtroEstabRazao = $('#estabRazao')[0].value;
@@ -222,7 +209,7 @@
 		geocoder.geocode({address: endereco}, function(results, status){
 			if (status === google.maps.GeocoderStatus.OK){
 				map = new google.maps.Map(document.getElementById('map'),{
-					zoom: 16,
+					zoom: 18,
 					center: results[0].geometry.location,
 					scrollwheel: false,
 					draggable: mouseMapEnable,
@@ -230,8 +217,7 @@
 				});
 				var marker = new google.maps.Marker({
 					map: map,
-					position: results[0].geometry.location,
-					animation: google.maps.Animation.DROP
+					position: results[0].geometry.location
 				});
 				//setTimeout(function(){console.log(map);var center = map.getCenter(); google.maps.event.trigger(map, 'resize'); map.setCenter(center);}, 1000);
 			} else {
