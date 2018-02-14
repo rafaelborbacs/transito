@@ -21,15 +21,8 @@
 	var filtroEstabRazao = "";
 	var filtroEstabFantasia = "";
 	var geocoder, map;
-	function clica1(alvo){
-		var a = document.querySelectorAll('[data-page]');
-		for (var i in a) if (a.hasOwnProperty(i) && a[i].getAttribute('data-page')==1){
-			if(a[i].parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.getAttribute("id") == alvo){
-				$(a[i]).trigger( "click" );
-			}
-		}
-	}
 	ExampleData = {};
+	EstabsData = {};
 	ExampleData.pagedReponse = function(settings){
 		// RUAS
 		var page = settings.data.page || 1;
@@ -66,7 +59,6 @@
 		};
 		this.responseText = result;
 	};
-	EstabsData = {};
 	EstabsData.pagedReponse = function(settings){
 		// Return mockjax response; handle paging and sorting
 		var page = settings.data.page || 1;
@@ -112,99 +104,6 @@
 		};
 		this.responseText = result;
 	};
-	function loadjs(filename){
-		var fileref=document.createElement('script')
-		fileref.setAttribute("type","text/javascript")
-		fileref.setAttribute("src", filename)
-		if (typeof fileref!="undefined")
-			document.getElementsByTagName("head")[0].appendChild(fileref)
-	}
-	function onLoadFct(){
-		loadjs("CARUARUruas.js");
-		loadjs("CARUARUestabs.js");
-		setTimeout(function (){
-			$(function(){
-				$.mockjax({
-					url: '/estabs/',
-					response: EstabsData.pagedReponse,
-					responseTime: 0
-				});
-				$('#estabs-table').simple_datagrid({order_by: true});
-			});
-			$(function() {
-				$.mockjax({
-					url: '/ruas/',
-					response: ExampleData.pagedReponse,
-					responseTime: 0
-				});
-				$('#demo-table').simple_datagrid({order_by: true});
-			});
-			$('#demo-table').bind(
-				'datagrid.select',
-				function(e){
-					alert("demo-table select");
-					clica1("estabs-table");
-					filtroRua = e.row.logradouro;
-					$('#estabs-table').simple_datagrid('reload');
-				}
-			);
-			$('#estabs-table').bind(
-				'datagrid.select',
-				function(e){
-					alert("estabs-table select");
-					$('[data-popup="popup-1"]').fadeIn(350);
-					e.preventDefault();
-					$('#popup-content')[0].innerHTML = formatarEstab(e.row);
-					setTimeout(function(){initMap(e.row);}, 1000);
-				}
-			);
-		}, 2000);
-	}
-	function onChangeRuaLogradouro(){
-		alert("onChangeRuaLogradouro");
-		clica1("demo-table");
-		filtroRuaLogradouro = $('#ruaLogradouro')[0].value;
-		$('#demo-table').simple_datagrid('reload');
-	}
-	function onChangeEstab(){
-		alert("onChangeEstab");
-		clica1("estabs-table")
-		filtroEstabIE = $('#estabIE')[0].value;
-		filtroEstabRazao = $('#estabRazao')[0].value;
-		filtroEstabFantasia = $('#estabFantasia')[0].value;
-		$('#estabs-table').simple_datagrid('reload');
-	}
-	//----- CLOSE pop up
-	$(function() {
-		$('[data-popup-close]').on('click', function(e){
-			$('[data-popup="popup-1"]').fadeOut(350);
-			e.preventDefault();
-		});
-	});
-	function initMap(ob){
-		var endereco = (ob.fantasia && ob.fantasia.length>2 && !ob.numero ? "\"" + ob.fantasia + "\" " : "") + formatarEndereco(ob);
-		var mouseMapEnable = true;
-		geocoder = new google.maps.Geocoder();
-		geocoder.geocode({address: endereco}, function(results, status){
-			if (status === google.maps.GeocoderStatus.OK){
-				map = new google.maps.Map(document.getElementById('map'),{
-					zoom: 16,
-					center: results[0].geometry.location,
-					scrollwheel: false,
-					draggable: mouseMapEnable,
-					zoomControlOptions: {style: google.maps.ZoomControlStyle.SMALL}
-				});
-				var marker = new google.maps.Marker({
-					map: map,
-					position: results[0].geometry.location,
-					animation: google.maps.Animation.DROP
-				});
-				//setTimeout(function(){console.log(map);var center = map.getCenter(); google.maps.event.trigger(map, 'resize'); map.setCenter(center);}, 1000);
-			} else {
-				document.getElementById('map').innerHTML = "<p align='center'><i>Endereço não localizado no Google maps ("+status+")<br><br>"+endereco+"</i></p>" ;
-			}
-		});
-	};
 	function formatarEstab(ob){
 		return "<table><tr><td width='100'><b>ie</b></td><td>" + formatarIE(ob.ie) + "</td></tr>" + 
 		"<tr><td><b>arrecadacao</b></td><td>" + formatarDinheiro(ob.arrecadacao) + "</td></tr>" + 
@@ -237,11 +136,102 @@
 	function formatarEndereco(ob){
 		return ob.logradouro+", "+(ob.numero ? ob.numero : "S/N")+(ob.bairro ? ", " + ob.bairro : "")+", "+ob.municipio+" - PE";
 	};
+	function clica1(alvo){
+		try{
+			var a = document.querySelectorAll('[data-page]');
+			for (var i in a) if (a.hasOwnProperty(i) && a[i].getAttribute('data-page')==1){
+				if(a[i].parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.getAttribute("id") == alvo){
+					$(a[i]).trigger( "click" );
+				}
+			}
+		}
+		catch(err){}
+	};
+	function onLoadFct(){
+		$('[data-popup-close]').on('click', function(e){
+			// close pop up
+			$('[data-popup="popup-1"]').fadeOut(350);
+			e.preventDefault();
+		});
+		$(function(){
+			// estabs
+			$.mockjax({
+				url: '/estabs/',
+				response: EstabsData.pagedReponse,
+				responseTime: 0
+			});
+			$('#estabs-table').simple_datagrid({order_by: true});
+			// ruas
+			$.mockjax({
+				url: '/ruas/',
+				response: ExampleData.pagedReponse,
+				responseTime: 0
+			});
+			$('#demo-table').simple_datagrid({order_by: true});
+		});
+		// select estab
+		$('#estabs-table').bind(
+			'datagrid.select',
+			function(e){
+				$('[data-popup="popup-1"]').fadeIn(350);
+				e.preventDefault();
+				$('#popup-content')[0].innerHTML = formatarEstab(e.row);
+				setTimeout(function(){initMap(e.row);}, 1000);
+			}
+		);
+		// select rua
+		$('#demo-table').bind(
+			'datagrid.select',
+			function(e){
+				clica1("estabs-table");
+				filtroRua = e.row.logradouro;
+				$('#estabs-table').simple_datagrid('reload');
+			}
+		);
+	};
+	function onChangeRuaLogradouro(){
+		clica1("demo-table");
+		filtroRuaLogradouro = $('#ruaLogradouro')[0].value;
+		$('#demo-table').simple_datagrid('reload');
+	};
+	function onChangeEstab(){
+		clica1("estabs-table")
+		filtroEstabIE = $('#estabIE')[0].value;
+		filtroEstabRazao = $('#estabRazao')[0].value;
+		filtroEstabFantasia = $('#estabFantasia')[0].value;
+		$('#estabs-table').simple_datagrid('reload');
+	};
+	function initMap(ob){
+		var endereco = (ob.fantasia && ob.fantasia.length>2 && !ob.numero ? "\"" + ob.fantasia + "\" " : "") + formatarEndereco(ob);
+		var mouseMapEnable = true;
+		geocoder = new google.maps.Geocoder();
+		geocoder.geocode({address: endereco}, function(results, status){
+			if (status === google.maps.GeocoderStatus.OK){
+				map = new google.maps.Map(document.getElementById('map'),{
+					zoom: 16,
+					center: results[0].geometry.location,
+					scrollwheel: false,
+					draggable: mouseMapEnable,
+					zoomControlOptions: {style: google.maps.ZoomControlStyle.SMALL}
+				});
+				var marker = new google.maps.Marker({
+					map: map,
+					position: results[0].geometry.location,
+					animation: google.maps.Animation.DROP
+				});
+				//setTimeout(function(){console.log(map);var center = map.getCenter(); google.maps.event.trigger(map, 'resize'); map.setCenter(center);}, 1000);
+			} else {
+				document.getElementById('map').innerHTML = "<p align='center'><i>Endereço não localizado no Google maps ("+status+")<br><br>"+endereco+"</i></p>" ;
+			}
+		});
+	};
 </script>
+<script src="./ruas.js"></script>
+<script src="./estabs.js"></script>
 <body onload="onLoadFct()">
 	<br/>
     <div class="container">
-		<table width="100%">
+		<table>
 		<tr valign="top" style="height: 30px;">
 			<td>&nbsp;&nbsp;&nbsp;
 				logradouro: <input type="text" id="ruaLogradouro" onchange="onChangeRuaLogradouro()"/>
@@ -254,7 +244,7 @@
 		</tr>
 		<tr valign="top">
 			<td>	
-				<table id="demo-table" data-url="/ruas/" style="width: 350px;">
+				<table id="demo-table" data-url="/ruas/" style="width: 300px;">
 					<thead>
 						<tr>
 							<th>logradouro</th>
@@ -265,7 +255,7 @@
 				</table>
 			</td>
 			<td>
-				<table id="estabs-table" data-url="/estabs/" style="width: 680px;">
+				<table id="estabs-table" data-url="/estabs/" style="width: 650px;">
 					<thead>
 						<tr>
 							<th>ie</th>
