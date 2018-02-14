@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>CARUARU</title>
+    <title>TRANSITO</title>
     <link rel="stylesheet" href="./simple.datagrid.css">
 </head>
 <!--[if lt IE 9]>
@@ -142,6 +142,7 @@
 			$('#demo-table').bind(
 				'datagrid.select',
 				function(e){
+					alert("demo-table select");
 					clica1("estabs-table");
 					filtroRua = e.row.logradouro;
 					$('#estabs-table').simple_datagrid('reload');
@@ -150,6 +151,7 @@
 			$('#estabs-table').bind(
 				'datagrid.select',
 				function(e){
+					alert("estabs-table select");
 					$('[data-popup="popup-1"]').fadeIn(350);
 					e.preventDefault();
 					$('#popup-content')[0].innerHTML = formatarEstab(e.row);
@@ -159,20 +161,21 @@
 		}, 2000);
 	}
 	function onChangeRuaLogradouro(){
+		alert("onChangeRuaLogradouro");
 		clica1("demo-table");
 		filtroRuaLogradouro = $('#ruaLogradouro')[0].value;
 		$('#demo-table').simple_datagrid('reload');
 	}
 	function onChangeEstab(){
+		alert("onChangeEstab");
 		clica1("estabs-table")
 		filtroEstabIE = $('#estabIE')[0].value;
 		filtroEstabRazao = $('#estabRazao')[0].value;
 		filtroEstabFantasia = $('#estabFantasia')[0].value;
 		$('#estabs-table').simple_datagrid('reload');
 	}
+	//----- CLOSE pop up
 	$(function() {
-		
-		//----- CLOSE pop up
 		$('[data-popup-close]').on('click', function(e){
 			$('[data-popup="popup-1"]').fadeOut(350);
 			e.preventDefault();
@@ -251,7 +254,7 @@
 		</tr>
 		<tr valign="top">
 			<td>	
-				<table id="demo-table" data-url="/ruas/" style="width: 400px;">
+				<table id="demo-table" data-url="/ruas/" style="width: 350px;">
 					<thead>
 						<tr>
 							<th>logradouro</th>
@@ -262,7 +265,7 @@
 				</table>
 			</td>
 			<td>
-				<table id="estabs-table" data-url="/estabs/" style="width: 700px;">
+				<table id="estabs-table" data-url="/estabs/" style="width: 680px;">
 					<thead>
 						<tr>
 							<th>ie</th>
@@ -281,7 +284,7 @@
     </div>
 	<div class="popup" data-popup="popup-1">
 	<div class="popup-inner">
-		<div id="popup-content">bbbbbbbbbbbbbb</div>
+		<div id="popup-content"></div>
 		<div id="map"></div>
 		<a class="popup-close" data-popup-close="popup-1" href="#">X</a>
 	</div>
