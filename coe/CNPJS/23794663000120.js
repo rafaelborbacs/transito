@@ -1,0 +1,6 @@
+EstabelecimentoData.estabelecimento = [{"ie":65340310,"cnpj":"23794663000120","razao":"MICILA MUSSALEM COSTA 02248172486","sit":"C","entradas":5111.70,"saidas":0.00,"regime":"NORMAL","segmento":"VAREJO","municipio":"CARPINA","drr":"I","igi":1}];
+EntradasData.entradas = [{"ie":0,"cnpj":"06235763000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"valor":3516.40}];
+SaidasData.saidas = [];
+SociosData.socios = [{"cpf":"02248172486","nome":"MICILA MUSSALEM COSTA","ie":65340310,"cnpj":"23794663000120","razao":"MICILA MUSSALEM COSTA 02248172486","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":1},
+{"cpf":"02248172486","nome":"MICILA MUSSALEM COSTA","ie":34117296,"cnpj":"08228151000103","razao":"LEOPEN INDUSTRIA E COMERCIO DE PAPELARIA LTDA E","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0},
+{"cpf":"02248172486","nome":"MICILA MUSSALEM COSTA","ie":20487282,"cnpj":"69950863000126","razao":"MACFIOS BRASIL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];

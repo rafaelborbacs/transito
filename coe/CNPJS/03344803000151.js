@@ -1,0 +1,26 @@
+EstabelecimentoData.estabelecimento = [{"ie":26607840,"cnpj":"03344803000151","razao":"LIMA & FREITAS ALIMENTOS LTDA","sit":"S","arrecadacao":939.63,"entradas":256705.18,"saidas":0.00,"regime":"SIMPLES","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"17/12/1999"}];
+EntradasData.entradas = [{"ie":61550655,"cnpj":"67620377006660","razao":"MINERVA S.A.","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1006.04},
+{"ie":53543661,"cnpj":"18434711000130","razao":"DEMARCHI COMERCIO DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":7781.46},
+{"ie":38392496,"cnpj":"10960053000108","razao":"FOCUS DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":779.10},
+{"ie":24425826,"cnpj":"02046455000254","razao":"MINASGAS S/A INDUSTRIA E COMERCIO","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":831.52},
+{"ie":23388587,"cnpj":"01781436000128","razao":"DPC PRODUTOS DE HIGIENE E LIMPEZA EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5030.25},
+{"ie":34653813,"cnpj":"08593008000110","razao":"DISTCARNES - DISTRIBUIDORA DE CARNES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":19168.13},
+{"ie":28544307,"cnpj":"04609653000123","razao":"DISTRIBUIDORA DE ALIMENTOS MARFIM LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":42835.84},
+{"ie":36031801,"cnpj":"09257917000140","razao":"EPITACIO PESCADOS IMPORTADORA LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5513.80},
+{"ie":57679037,"cnpj":"02558157038640","razao":"TELEFONICA BRASIL S.A.","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":45.00},
+{"ie":33069689,"cnpj":"07534303000133","razao":"COMAL - COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":11719.35},
+{"ie":55319181,"cnpj":"10334488000309","razao":"AUJO DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":5111.33},
+{"ie":42299594,"cnpj":"02916265015434","razao":"JBS S/A","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":35236.50},
+{"ie":49899023,"cnpj":"11363695000192","razao":"A. L. SIMOES APOLINARIO DISTRIBUICAO DE ALIMENTOS ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":27009.54},
+{"ie":48213608,"cnpj":"07028065000275","razao":"INDUSTRIA DE LATICINIO LETA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3073.08},
+{"ie":26519801,"cnpj":"03504437000150","razao":"FRINSCAL - DISTRIBUIDORA E IMPORTADORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":393.10},
+{"ie":34981071,"cnpj":"08690652000107","razao":"PERNAMBUCO COMERCIO DE POLPAS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3009.50},
+{"ie":58246568,"cnpj":"07196033003970","razao":"NORSA REFRIGERANTES S.A","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":25008.01},
+{"ie":61211109,"cnpj":"07196033005086","razao":"NORSA REFRIGERANTES S.A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6137.87},
+{"ie":56947364,"cnpj":"11744898000390","razao":"ATACADAO COMERCIO DE CARNES LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":44597.17},
+{"ie":28567277,"cnpj":"04666316000178","razao":"MARITIMOS PESCADOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12418.59}];
+SaidasData.saidas = [];
+SociosData.socios = [{"cpf":"77718291472","nome":"CANDIDA EFIGENCIA LIMA RAMALHO DE FREITAS","ie":26607840,"cnpj":"03344803000151","razao":"LIMA & FREITAS ALIMENTOS LTDA","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1},
+{"cpf":"46012702434","nome":"ANA VITORIA MORAIS DE LIMA","ie":26607840,"cnpj":"03344803000151","razao":"LIMA & FREITAS ALIMENTOS LTDA","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1},
+{"cpf":"35196629491","nome":"DARIO LIMA DE SOUZA","ie":26607840,"cnpj":"03344803000151","razao":"LIMA & FREITAS ALIMENTOS LTDA","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1},
+{"cpf":"12717959491","nome":"ARNALDO CORREIA CAVALCANTI","ie":26607840,"cnpj":"03344803000151","razao":"LIMA & FREITAS ALIMENTOS LTDA","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1}];

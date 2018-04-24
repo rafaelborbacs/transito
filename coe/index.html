@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>COE</title>
+    <link rel="stylesheet" href="./simple.datagrid.css">
+</head>
+<!--[if lt IE 9]>
+	<script src="./jquery-1.11.3.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+	<script src="./jquery.min.js"></script>
+<!--<![endif]-->
+<script src="./simple.datagrid.js"></script>
+<script src="./jquery.mockjax.js"></script>
+<script language="javascript">
+	var filtroIE = "";
+	var filtroCNPJ = "";
+	var filtroRazao = "";
+	var filtroRegime = "";
+	var filtroSegmento = "";
+	EstabsData = {};
+	EstabsData.pagedReponse = function(settings){
+		// Return mockjax response; handle paging and sorting
+		var page = settings.data.page || 1;
+		var order_by = settings.data.order_by;
+		var sortorder = settings.data.sortorder;
+		var rows_per_page = 100;
+		var start_index = (page - 1) * rows_per_page;
+		var total_pages = 1;
+		var data = EstabsData.estabs;
+		if(filtroIE != ""){
+			data = data.filter(function(estab){return ("0"+estab.ie).indexOf(filtroIE.toLowerCase()) !== -1;});
+		}
+		if(filtroCNPJ != ""){
+			data = data.filter(function(estab){return estab.cnpj.toLowerCase().indexOf(filtroCNPJ.toLowerCase()) !== -1;});
+		}
+		if(filtroRazao != ""){
+			data = data.filter(function(estab){return estab.razao.toLowerCase().indexOf(filtroRazao.toLowerCase()) !== -1;});
+		}
+		if(filtroRegime != ""){
+			data = data.filter(function(estab){return estab.regime.toLowerCase().indexOf(filtroRegime.toLowerCase()) !== -1;});
+		}
+		if(filtroSegmento != ""){
+			data = data.filter(function(estab){return estab.segmento.toLowerCase().indexOf(filtroSegmento.toLowerCase()) !== -1;});
+		}
+		if (data.length != 0){
+			total_pages = parseInt((data.length - 1) / rows_per_page) + 1;
+		}
+		document.getElementById('numerosDiv').innerHTML = "<i><b>" + data.length + "</b> contribuintes</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;";
+		if (order_by){
+			data.sort(function(left, right){
+				var b = left[order_by];
+				var a = right[order_by];
+				if (sortorder == 'desc'){
+					var c = b;
+					b = a;
+					a = c;
+				}
+				if (a < b) return -1;
+				else if (a > b) return 1;
+				else return 0;
+			});
+		}
+		var result = {
+			total_pages: total_pages,
+			rows: data.slice(start_index, start_index + rows_per_page)
+		};
+		this.responseText = result;
+	};
+	function onLoadFct(){
+		$(function(){
+			// estabs
+			$.mockjax({
+				url: '/estabs/',
+				response: EstabsData.pagedReponse,
+				responseTime: 0
+			});
+			$('#estabs-table').simple_datagrid({order_by: true});
+		});
+		// select estab
+		$('#estabs-table').bind(
+			'datagrid.select',
+			function(e){
+				window.location.href = './vinculos.html?cnpj='+e.row.cnpj;
+			}
+		);
+	};
+	function onChangeEstab(){
+		$('#estabs-table').simple_datagrid('setCurrentPage', 1);
+		filtroIE = $('#estabIE')[0].value;
+		filtroCNPJ = $('#estabCNPJ')[0].value;
+		filtroRazao = $('#estabRazao')[0].value;
+		filtroRegime = $('#estabRegime')[0].value;
+		filtroSegmento = $('#estabSegmento')[0].value;
+		$('#estabs-table').simple_datagrid('reload');
+	};
+</script>
+<script src="./IGI.js"></script>
+<body onload="onLoadFct()">
+	<br/>
+    <div class="container">
+		<table width="100%">
+		<tr valign="middle" style="height: 30px;">
+			<td>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</td>
+			<td>
+				<a href="javascript:window.location.href = window.location.href;"><b>LIMPAR</b></a>
+			</td>
+			<td>
+				IE: <input type="text" id="estabIE" onchange="onChangeEstab()" size="8"/> &nbsp;
+				CNPJ: <input type="text" id="estabCNPJ" onchange="onChangeEstab()" size="10"/>&nbsp;
+				RAZÃO: <input type="text" id="estabRazao" onchange="onChangeEstab()" size="14"/>&nbsp;
+				REGIME: <input type="text" id="estabRegime" onchange="onChangeEstab()" size="9"/> &nbsp;
+				SEGMENTO: <input type="text" id="estabSegmento" onchange="onChangeEstab()" size="9"/>&nbsp;
+			</td>
+			<td align="center" width="300">
+				<a href="javascript:window.location.href = './COE-IGI.csv';"><b>BAIXAR CSV</b></a>
+			</td>
+			<td align="right">
+				<div id="numerosDiv" />
+			</td>
+		</tr>
+		<tr valign="top">
+			<td align="center" colspan="5">
+				<table id="estabs-table" data-url="/estabs/" style="width: 98%;">
+					<thead>
+						<tr>
+							<th>IE</th>
+							<th>CNPJ</th>
+							<th>RAZAO</th>
+							<th>SIT</th>
+							<th>ARRECADACAO</th>
+							<th>ENTRADAS</th>
+							<th>SAIDAS</th>
+							<th>REGIME</th>
+							<th>SEGMENTO</th>
+							<th>MUNICIPIO</th>
+							<th>DATAIE</th>
+							<th>DRR</th>
+						</tr>
+					</thead>
+				</table>
+				<br/><br/><br/>
+			</td>
+		</tr>
+		</table>
+    </div>
+</body>

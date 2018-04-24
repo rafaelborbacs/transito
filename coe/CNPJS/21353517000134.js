@@ -1,0 +1,5 @@
+EstabelecimentoData.estabelecimento = [{"ie":60057300,"cnpj":"21353517000134","razao":"BRISA CICERA R RAMOS","sit":"C","entradas":20955.88,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"PETROLINA","drr":"III","igi":1}];
+EntradasData.entradas = [{"ie":43585892,"cnpj":"13319410000141","razao":"JANESSA CARNEIRO DE OLIVEIRA E SILVA","sit":"A","regime":"SIMPLES NACIONAL","municipio":"TORITAMA","igi":0,"valor":1234.00},
+{"ie":63316617,"cnpj":"22868634000101","razao":"OSIEL DE OLIVEIRA CORDEIRO 82155178468","sit":"A","regime":"SIMEI","municipio":"TORITAMA","igi":0,"valor":1700.00}];
+SaidasData.saidas = [];
+SociosData.socios = [{"cpf":"10330254456","nome":"BRISA CICERA RODRIGUES RAMOS","ie":60057300,"cnpj":"21353517000134","razao":"BRISA CICERA R RAMOS","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1}];

@@ -1,0 +1,26 @@
+EstabelecimentoData.estabelecimento = [{"ie":40902250,"cnpj":"12298218000153","razao":"EDVALDO JOSE DA SILVA 61711047449","sit":"A","arrecadacao":10.94,"entradas":181002.13,"saidas":0.00,"regime":"SIMEI","segmento":"SUPERMERCADOS","municipio":"BARREIROS","drr":"I","igi":1,"dataie":"14/08/2010"}];
+EntradasData.entradas = [{"ie":20876181,"cnpj":"00395333000167","razao":"COBEPAL COMERCIAL BEBIDAS DE PALMARES EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":11795.13},
+{"ie":70584893,"cnpj":"26985400000197","razao":"GELADOS RECIFE COMERCIO DE ALIMENTOS E SORVETES EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1255.49},
+{"ie":9905235,"cnpj":"08811226003876","razao":"SAO BRAZ S/A INDUSTRIA E COMERCIO DE ALIMENTOS","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2519.82},
+{"ie":44569203,"cnpj":"60409075019252","razao":"NESTLE BRASIL LTDA.","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":10791.21},
+{"ie":36372803,"cnpj":"09436688000121","razao":"LIDER DISTRIBUIDORA DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1288.99},
+{"ie":17926440,"cnpj":"40868234000170","razao":"SEDE MIUDEZAS ATACADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":291.41},
+{"ie":27773396,"cnpj":"02914460009298","razao":"SEARA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":2006.66},
+{"ie":26817497,"cnpj":"28053619004685","razao":"CHOCOLATES GAROTO S/A","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":492.97},
+{"ie":666726,"cnpj":"10690063000170","razao":"JANGA INDUSTRIA E COMERCIO DE MATERIAIS DOMESTICOS LTDA","sit":"B","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":3765.25},
+{"ie":93343,"cnpj":"33009911005440","razao":"SOUZA CRUZ LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":66823.58},
+{"ie":30005086,"cnpj":"05554866000168","razao":"RUBI DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":1216.36},
+{"ie":37458728,"cnpj":"01838723016201","razao":"BRF S.A.","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":16964.31},
+{"ie":1738003,"cnpj":"10690063000170","razao":"JANGA INDUSTRIA E COMERCIO DE MATERIAIS DOMESTICOS LTDA","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":3765.25},
+{"ie":52382770,"cnpj":"17889033000137","razao":"DIPS DISTRIBUICAO PLANEJADA DE SORVETES LTDA EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":687.79},
+{"ie":26519801,"cnpj":"03504437000150","razao":"FRINSCAL - DISTRIBUIDORA E IMPORTADORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":17088.98},
+{"ie":10061770,"cnpj":"08811226003876","razao":"SAO BRAZ S/A INDUSTRIA E COMERCIO DE ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2519.82},
+{"ie":57227993,"cnpj":"16622166000937","razao":"CERVEJARIA PETROPOLIS DE PERNAMBUCO LTDA.","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":6798.11},
+{"ie":46332103,"cnpj":"04811902000592","razao":"MEDITERRANEA DISTRIBUIDORA DE BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":16888.37},
+{"ie":50622684,"cnpj":"17090600000190","razao":"GL INDUSTRIA E DISTRIBUICAO DE ALIMENTOS S.A","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":2390.52},
+{"ie":32339798,"cnpj":"07288903000169","razao":"REMIX ATACADISTA E DISTRIBUIDOR LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6459.12},
+{"ie":52818144,"cnpj":"05253499000324","razao":"DCL - DISTRIBUIDORA CARDEAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":677.07},
+{"ie":26811707,"cnpj":"03648522000192","razao":"PESCAVES RECIFE EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3367.07},
+{"ie":29447232,"cnpj":"05253499000162","razao":"DCL - DISTRIBUIDORA CARDEAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":7433.92}];
+SaidasData.saidas = [];
+SociosData.socios = [{"cpf":"61711047449","nome":"EDVALDO JOSE DA SILVA","ie":40902250,"cnpj":"12298218000153","razao":"EDVALDO JOSE DA SILVA 61711047449","sit":"A","regime":"SIMEI","municipio":"BARREIROS","igi":1}];

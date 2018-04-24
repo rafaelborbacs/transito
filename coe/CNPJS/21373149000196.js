@@ -1,0 +1,25 @@
+EstabelecimentoData.estabelecimento = [{"ie":59995106,"cnpj":"21373149000196","razao":"GILBERTO MARTINHO DA SILVA EIRELI ME","sit":"A","entradas":1705182.98,"saidas":1239154.43,"regime":"NORMAL","segmento":"VAREJO","municipio":"CABO DE SANTO AGOSTINHO","drr":"I","igi":1}];
+EntradasData.entradas = [{"ie":21400040,"cnpj":"00742009000178","razao":"R. M. G. DOS SANTOS - INDUSTRIA E COMERCIO DE MOVEIS ME","sit":"A","regime":"SIMPLES NACIONAL","municipio":"ESCADA","igi":0,"valor":835.00},
+{"ie":72675926,"cnpj":"27936211000600","razao":"IMPERIO MOVEIS E ELETRO S.A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"valor":2298.00},
+{"ie":34804617,"cnpj":"08672377000107","razao":"PERFAL- PERFIS FERRO E ACO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"valor":371.90},
+{"ie":66926050,"cnpj":"24602123000160","razao":"D. V. DOS S. GUIMARAES  MOVEIS E ELETRO - EIRELI","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"valor":3442.90},
+{"ie":61639630,"cnpj":"21373149000277","razao":"GILBERTO MARTINHO DA SILVA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"valor":7156.81},
+{"ie":67400906,"cnpj":"24846094000182","razao":"MEL INDUSTRIA DE COLCHOES LTDA","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"valor":160801.51},
+{"ie":0,"cnpj":"77941490015349","razao":"","sit":"","regime":"","municipio":"","igi":0,"valor":8495.00},
+{"ie":67780709,"cnpj":"25035729000124","razao":"M. E. DE OLIVEIRA SAATMAM COMERCIO ATACADISTA DE EQUIPAMENTOS ELETRICOS E MOVEIS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"valor":11954.04}];
+SaidasData.saidas = [{"ie":67089356,"cnpj":"24633630000242","razao":"S. G. DA COSTA FILHO MOVEIS E ELETRO - EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"valor":1649.52},
+{"ie":67089275,"cnpj":"24633630000161","razao":"S. G. DA COSTA FILHO MOVEIS E ELETRO - EIRELI","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"valor":6886.97},
+{"ie":67203744,"cnpj":"24604039000429","razao":"S & L MOVEIS E ELETRO LTDA ME","sit":"A","regime":"SIMPLES NACIONAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"valor":22259.38},
+{"ie":67203582,"cnpj":"24604039000267","razao":"S & L MOVEIS E ELETRO LTDA ME","sit":"A","regime":"SIMPLES NACIONAL","municipio":"IPOJUCA","igi":0,"valor":13559.85},
+{"ie":67203400,"cnpj":"24604039000186","razao":"S & L MOVEIS E ELETRO LTDA ME","sit":"A","regime":"SIMPLES NACIONAL","municipio":"SIRINHAEM","igi":0,"valor":1618.90},
+{"ie":67682022,"cnpj":"24602123000241","razao":"D. V. DOS S. GUIMARAES  MOVEIS E ELETRO - EIRELI","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"valor":3480.39},
+{"ie":66926050,"cnpj":"24602123000160","razao":"D. V. DOS S. GUIMARAES  MOVEIS E ELETRO - EIRELI","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"valor":24034.01},
+{"ie":69754888,"cnpj":"24554335000381","razao":"E. F. DOS S. GUIMARAES MOVEIS E ELETRO - EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"valor":11456.13},
+{"ie":66818087,"cnpj":"24554335000110","razao":"E. F. DOS S. GUIMARAES MOVEIS E ELETRO - EIRELI ME","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"valor":28813.14},
+{"ie":67028993,"cnpj":"24405498000483","razao":"MARTINHO E GUIMARAES MOVEIS E ELETRO LTDA ME","sit":"A","regime":"SIMPLES NACIONAL","municipio":"AMARAJI","igi":0,"valor":10884.76},
+{"ie":67028721,"cnpj":"24405498000300","razao":"MARTINHO E GUIMARAES MOVEIS E ELETRO LTDA ME","sit":"A","regime":"SIMPLES NACIONAL","municipio":"RIBEIRAO","igi":0,"valor":22319.44},
+{"ie":66542154,"cnpj":"24405498000130","razao":"MARTINHO E GUIMARAES MOVEIS E ELETRO LTDA ME","sit":"A","regime":"SIMPLES NACIONAL","municipio":"GAMELEIRA","igi":0,"valor":8965.05},
+{"ie":61639630,"cnpj":"21373149000277","razao":"GILBERTO MARTINHO DA SILVA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"valor":4408.59},
+{"ie":0,"cnpj":"14344530000161","razao":"","sit":"","regime":"","municipio":"","igi":0,"valor":590.00}];
+SociosData.socios = [{"cpf":"35854596415","nome":"GILBERTO MARTINHO DA SILVA","ie":61639630,"cnpj":"21373149000277","razao":"GILBERTO MARTINHO DA SILVA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
+{"cpf":"35854596415","nome":"GILBERTO MARTINHO DA SILVA","ie":59995106,"cnpj":"21373149000196","razao":"GILBERTO MARTINHO DA SILVA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];

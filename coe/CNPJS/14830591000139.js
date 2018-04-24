@@ -1,0 +1,7 @@
+EstabelecimentoData.estabelecimento = [{"ie":47034564,"cnpj":"14830591000139","razao":"M J ALVES VANDERLEI COMERCIO DE TECIDOS ME","sit":"A","entradas":594453.79,"saidas":407267.00,"regime":"SIMPLES NACIONAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1}];
+EntradasData.entradas = [{"ie":63449501,"cnpj":"22930095000185","razao":"FHILIPPE JOSEPH SILVA E LIMA ME","sit":"A","regime":"SIMPLES NACIONAL","municipio":"CARUARU","igi":0,"valor":300.00}];
+SaidasData.saidas = [];
+SociosData.socios = [{"cpf":"24712561807","nome":"MARIA JOSE ALVES VANDERLEI","ie":72122757,"cnpj":"23201868000236","razao":"COMERCIAL VITORIA COMERCIO DE TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
+{"cpf":"24712561807","nome":"MARIA JOSE ALVES VANDERLEI","ie":63998602,"cnpj":"23201868000155","razao":"COMERCIAL VITORIA COMERCIO DE TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1},
+{"cpf":"24712561807","nome":"MARIA JOSE ALVES VANDERLEI","ie":59406135,"cnpj":"14830591000210","razao":"M J ALVES VANDERLEI COMERCIO DE TECIDOS ME","sit":"B","regime":"SIMPLES NACIONAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
+{"cpf":"24712561807","nome":"MARIA JOSE ALVES VANDERLEI","ie":47034564,"cnpj":"14830591000139","razao":"M J ALVES VANDERLEI COMERCIO DE TECIDOS ME","sit":"A","regime":"SIMPLES NACIONAL","municipio":"CARUARU","igi":1}];

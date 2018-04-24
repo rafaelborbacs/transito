@@ -1,0 +1,25 @@
+EstabelecimentoData.estabelecimento = [{"ie":39215903,"cnpj":"11595929000127","razao":"ALINE RANIERE V. CONSTANTINO RESTAURANTE","sit":"A","arrecadacao":156.81,"entradas":124559.31,"saidas":4522.75,"regime":"SIMPLES","segmento":"VAREJO","municipio":"PAUDALHO","drr":"I","igi":1,"dataie":"05/03/2010"}];
+EntradasData.entradas = [{"ie":21379335,"cnpj":"00640872000114","razao":"M D M D INDUSTRIA E COMERCIO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"PAULISTA","igi":0,"uf":"PE","valor":180.00},
+{"ie":31061524,"cnpj":"11173911001290","razao":"UNILEVER BRASIL GELADOS DO NORDESTE S/A","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":13570.83},
+{"ie":61550655,"cnpj":"67620377006660","razao":"MINERVA S.A.","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":997.09},
+{"ie":62205412,"cnpj":"17890397000480","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":22660.20},
+{"ie":19466846,"cnpj":"70220389000166","razao":"COMERCIAL DE CONSTRUCAO 2001 LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":69.80},
+{"ie":6233341,"cnpj":"10064798000199","razao":"ENGEFRIO INDUSTRIAL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":730.86},
+{"ie":74359592,"cnpj":"28634575000266","razao":"ATACAREJO ESTRELA LTDA ME","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":3012.40},
+{"ie":30192331,"cnpj":"05663709000190","razao":"PROMULTT DISTRIBUIDORA E COMERCIO DE PRODUTOS DE HIGIENE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":7142.64},
+{"ie":34918892,"cnpj":"40841728006525","razao":"MASTER ELETRONICA DE BRINQUEDOS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":1225.00},
+{"ie":53841417,"cnpj":"07526557002315","razao":"AMBEV S.A.","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":7000.98},
+{"ie":19937717,"cnpj":"70072996000126","razao":"J R AGROPECUARIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1045.00},
+{"ie":1954644,"cnpj":"10064798000199","razao":"ENGEFRIO INDUSTRIAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":730.86},
+{"ie":31124119,"cnpj":"83310441003485","razao":"COOPERATIVA CENTRAL AURORA ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":10235.50},
+{"ie":24425826,"cnpj":"02046455000254","razao":"MINASGAS S/A INDUSTRIA E COMERCIO","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":477.34},
+{"ie":29556600,"cnpj":"08029696000352","razao":"ESTIVAS NOVO PRADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":542.75},
+{"ie":65783573,"cnpj":"24043530000185","razao":"GETRANK DISTRIBUIDORA DE BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":448.02},
+{"ie":55319181,"cnpj":"10334488000309","razao":"AUJO DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":81.10},
+{"ie":6682227,"cnpj":"24150377000195","razao":"KARNE KEIJO - LOGISTICA INTEGRADA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51626.89},
+{"ie":54812950,"cnpj":"18988073000107","razao":"ALVES INDUSTRIA E COMERCIO DE DOCES LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":320.00},
+{"ie":27766268,"cnpj":"03721769000197","razao":"MASTERBOI LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3092.91},
+{"ie":64188728,"cnpj":"23301365000151","razao":"ANDRADE & CAVALCANTI GRAFICA LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"CARPINA","igi":0,"uf":"PE","valor":100.00}];
+SaidasData.saidas = [{"ie":7779518,"cnpj":"11677283000127","razao":"CONSTRUTORA VERTICAL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2854.95},
+{"ie":0,"cnpj":"09791484001008","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1667.80}];
+SociosData.socios = [{"cpf":"05365117484","nome":"ALINE RANIERE VIEIRA CONSTANTINO","ie":39215903,"cnpj":"11595929000127","razao":"ALINE RANIERE V. CONSTANTINO RESTAURANTE","sit":"A","regime":"SIMPLES","municipio":"PAUDALHO","igi":1}];

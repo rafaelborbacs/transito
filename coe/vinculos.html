@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>COE</title>
+    <link rel="stylesheet" href="./simple.datagrid.css">
+</head>
+<!--[if lt IE 9]>
+	<script src="./jquery-1.11.3.min.js"></script>
+<![endif]-->
+<!--[if gte IE 9]><!-->
+	<script src="./jquery.min.js"></script>
+<!--<![endif]-->
+<script src="./simple.datagrid.js"></script>
+<script src="./jquery.mockjax.js"></script>
+<script language="javascript">
+	EstabelecimentoData = {};
+	EntradasData = {};
+	SaidasData = {};
+	SociosData = {};
+	function formatarEstab(ob){
+		return "<table width='400'><tr><td width='100'>IE</td><td><b>" + formatarIE(ob.ie) + "</b></td></tr>" + 
+		"<tr><td>CNPJ</td><td><b>" + ob.cnpj + "</b></td></tr>" + 
+		"<tr><td>RAZÃO</td><td><b>" + ob.razao + "</b></td></tr>" + 
+		"<tr><td>SITUAÇÃO</td><td><b>" + ob.sit + "</b></td></tr>" + 
+		"<tr><td>ARRECADAÇÃO</td><td><b>" + formatarDinheiro(ob.arrecadacao) + "</b></td></tr>" + 
+		"<tr><td>ENTRADAS</td><td><b>" + formatarDinheiro(ob.entradas) + "</b></td></tr>" + 
+		"<tr><td>SAÍDAS</td><td><b>" + formatarDinheiro(ob.saidas) + "</b></td></tr>" + 
+		"<tr><td>REGIME</td><td><b>" + ob.regime + "</b></td></tr>" + 
+		"<tr><td>SEGMENTO</td><td><b>" + ob.segmento + "</b></td></tr>" + 
+		"<tr><td>MUNICÍPIO</td><td><b>" + ob.municipio + "</b></td></tr>" + 
+		"<tr><td>DRR</td><td><b>" + ob.drr + "</b></td></tr>" + 
+		"<tr><td>DATA DA IE</td><td><b>" + ob.dataie + "</b></td></tr>" + 
+		"<tr><td>IGI</td><td><b>" + (ob.igi ? "SIM" : "NÃO") + "</b></td></tr>" + 
+		"</td></tr></table><br />";
+	};
+	function formatarIE(ie){
+		return "0" + ie;
+	};
+	function formatarDinheiro(n){
+		var numero = n.toFixed(2).split('.');
+		numero[0] = "R$ " + numero[0].split(/(?=(?:...)*$)/).join('.');
+		return numero.join(',');
+	};
+	var loadJS = function(url, implementationCode){
+		var scriptTag = document.createElement('script');
+		scriptTag.src = url;
+		scriptTag.onload = implementationCode;
+		scriptTag.onreadystatechange = implementationCode;
+		document.body.appendChild(scriptTag);
+	};
+	var yourCodeToBeCalled = function(){
+		// estabelecimento
+		document.getElementById('estabelecimentoDiv').innerHTML = formatarEstab(EstabelecimentoData.estabelecimento[0]);
+		//entradas
+		$(function(){
+			$.mockjax({
+				url: '/entradas/',
+				response: EntradasData.pagedReponse,
+				responseTime: 0
+			});
+			$('#entradas-table').simple_datagrid({order_by: true});
+		});
+		$('#entradas-table').bind(
+			'datagrid.select',
+			function(e){
+				if(e.row.razao && e.row.razao.length > 3 && e.row.igi){
+					window.location.href = "./vinculos.html?cnpj=" + e.row.cnpj;
+				}
+			}
+		);
+		// saidas
+		$(function(){
+			$.mockjax({
+				url: '/saidas/',
+				response: SaidasData.pagedReponse,
+				responseTime: 0
+			});
+			$('#saidas-table').simple_datagrid({order_by: true});
+		});
+		$('#saidas-table').bind(
+			'datagrid.select',
+			function(e){
+				if(e.row.razao && e.row.razao.length > 3 && e.row.igi){
+					window.location.href = "./vinculos.html?cnpj=" + e.row.cnpj;
+				}
+			}
+		);
+		// saidas
+		$(function(){
+			$.mockjax({
+				url: '/socios/',
+				response: SociosData.pagedReponse,
+				responseTime: 0
+			});
+			$('#socios-table').simple_datagrid({order_by: true});
+		});
+		$('#socios-table').bind(
+			'datagrid.select',
+			function(e){
+				if(e.row.razao && e.row.razao.length > 3 && e.row.igi){
+					window.location.href = "./vinculos.html?cnpj=" + e.row.cnpj;
+				}
+			}
+		);
+		// totais
+		var entradasTotal = 0;
+		EntradasData.entradas.forEach(function(currentValue, index, arr){entradasTotal += currentValue.valor;});
+		document.getElementById("entradasDiv").innerHTML = "<b>ENTRADAS - " + formatarDinheiro(entradasTotal) + "</b>";
+		var saidasTotal = 0;
+		SaidasData.saidas.forEach(function(currentValue, index, arr){saidasTotal += currentValue.valor;});
+		document.getElementById("saidasDiv").innerHTML = "<b>SAÍDAS - " + formatarDinheiro(saidasTotal) + "</b>";
+	}
+	// Entradas
+	EntradasData.pagedReponse = function(settings){
+		// Return mockjax response; handle paging and sorting
+		var page = settings.data.page || 1;
+		var order_by = settings.data.order_by;
+		var sortorder = settings.data.sortorder;
+		var rows_per_page = 30;
+		var start_index = (page - 1) * rows_per_page;
+		var total_pages = 1;
+		var data = EntradasData.entradas;
+		if (data.length != 0){
+			total_pages = parseInt((data.length - 1) / rows_per_page) + 1;
+		}
+		if (order_by){
+			data.sort(function(left, right){
+				var b = left[order_by];
+				var a = right[order_by];
+				if (sortorder == 'desc'){
+					var c = b;
+					b = a;
+					a = c;
+				}
+				if (a < b) return -1;
+				else if (a > b) return 1;
+				else return 0;
+			});
+		}
+		var result = {
+			total_pages: total_pages,
+			rows: data.slice(start_index, start_index + rows_per_page)
+		};
+		this.responseText = result;
+	};
+	// Saidas
+	SaidasData.pagedReponse = function(settings){
+		// Return mockjax response; handle paging and sorting
+		var page = settings.data.page || 1;
+		var order_by = settings.data.order_by;
+		var sortorder = settings.data.sortorder;
+		var rows_per_page = 20;
+		var start_index = (page - 1) * rows_per_page;
+		var total_pages = 1;
+		var data = SaidasData.saidas;
+		if (data.length != 0){
+			total_pages = parseInt((data.length - 1) / rows_per_page) + 1;
+		}
+		if (order_by){
+			data.sort(function(left, right){
+				var b = left[order_by];
+				var a = right[order_by];
+				if (sortorder == 'desc'){
+					var c = b;
+					b = a;
+					a = c;
+				}
+				if (a < b) return -1;
+				else if (a > b) return 1;
+				else return 0;
+			});
+		}
+		var result = {
+			total_pages: total_pages,
+			rows: data.slice(start_index, start_index + rows_per_page)
+		};
+		this.responseText = result;
+	};
+	// Socios
+	SociosData.pagedReponse = function(settings){
+		// Return mockjax response; handle paging and sorting
+		var page = settings.data.page || 1;
+		var order_by = settings.data.order_by;
+		var sortorder = settings.data.sortorder;
+		var rows_per_page = 5;
+		var start_index = (page - 1) * rows_per_page;
+		var total_pages = 1;
+		var data = SociosData.socios;
+		if (data.length != 0){
+			total_pages = parseInt((data.length - 1) / rows_per_page) + 1;
+		}
+		if (order_by){
+			data.sort(function(left, right){
+				var b = left[order_by];
+				var a = right[order_by];
+				if (sortorder == 'desc'){
+					var c = b;
+					b = a;
+					a = c;
+				}
+				if (a < b) return -1;
+				else if (a > b) return 1;
+				else return 0;
+			});
+		}
+		var result = {
+			total_pages: total_pages,
+			rows: data.slice(start_index, start_index + rows_per_page)
+		};
+		this.responseText = result;
+	};
+	function onLoadFct(){
+		var cnpj = location.search.split('cnpj=')[1];
+		loadJS('./CNPJS/'+cnpj+'.js', yourCodeToBeCalled);
+	};
+</script>
+<body onload="onLoadFct()">
+	<br/>
+    <div class="container">
+		<table width="100%">
+		<tr valign="top">
+			<td>
+				&nbsp;
+			</td>
+			<td colspan="2">
+				&nbsp;<a href="javascript:window.location.href = './index.html';"><b>VOLTAR</b></a><br/><br/>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td>
+				&nbsp;
+			</td>
+			<td style="width: 300px;">
+				<div id="estabelecimentoDiv" />
+			</td>
+			<td align="center">
+				<b>SÓCIOS x PARTICIPAÇÕES</b><br/><br/>
+				<table id="socios-table" data-url="/socios/" style="width: 800px;">
+					<thead>
+						<tr>
+							<th>CPF</th>
+							<th>NOME</th>
+							<th>IE</th>
+							<th>CNPJ</th>
+							<th>RAZAO</th>
+							<th>SIT</th>
+							<th>REGIME</th>
+							<th>MUNICIPIO</th>
+							<th>IGI</th>
+						</tr>
+					</thead>
+				</table>
+			</td>
+		</tr>
+		</table>
+		<br/>
+		<table width="1000">
+		<tr style="height: 30px;">
+			<td align="center"><div id="entradasDiv" /></td>
+			<td align="center"><div id="saidasDiv" /></td>
+		</tr>
+		<tr valign="top">
+			<td align="center">
+				<table id="entradas-table" data-url="/entradas/" style="width: 650px;">
+					<thead>
+						<tr>
+							<th>IE</th>
+							<th>CNPJ</th>
+							<th>RAZAO</th>
+							<th>SIT</th>
+							<th>REGIME</th>
+							<th>MUNICIPIO</th>
+							<th>UF</th>
+							<th>IGI</th>
+							<th>VALOR</th>
+						</tr>
+					</thead>
+				</table>
+			</td>
+			<td align="center">
+				<table id="saidas-table" data-url="/saidas/" style="width: 650px;">
+					<thead>
+						<tr>
+							<th>IE</th>
+							<th>CNPJ</th>
+							<th>RAZAO</th>
+							<th>SIT</th>
+							<th>REGIME</th>
+							<th>MUNICIPIO</th>
+							<th>UF</th>
+							<th>IGI</th>
+							<th>VALOR</th>
+						</tr>
+					</thead>
+				</table>
+			</td>
+		</tr>
+		</table>
+		<br/><br/><br/>
+    </div>
+</body>

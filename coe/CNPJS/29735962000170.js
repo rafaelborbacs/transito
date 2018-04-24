@@ -1,0 +1,4 @@
+EstabelecimentoData.estabelecimento = [{"ie":75949091,"cnpj":"29735962000170","razao":"DIEGO TORRES PEREIRA ATACADO E VAREJO","sit":"S","entradas":37117.85,"saidas":0.00,"regime":"SIMPLES NACIONAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1}];
+EntradasData.entradas = [{"ie":0,"cnpj":"08080487000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"valor":176916.01}];
+SaidasData.saidas = [];
+SociosData.socios = [{"cpf":"06265738402","nome":"DIEGO TORRES PEREIRA","ie":75949091,"cnpj":"29735962000170","razao":"DIEGO TORRES PEREIRA ATACADO E VAREJO","sit":"S","regime":"SIMPLES NACIONAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
