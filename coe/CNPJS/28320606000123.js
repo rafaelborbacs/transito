@@ -9,7 +9,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97124325000118","razao":"","sit":"","regime
 {"ie":0,"cnpj":"86471745000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":3100.00},
 {"ie":0,"cnpj":"84421122000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":10041.80},
 {"ie":0,"cnpj":"79014178549","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1050.00},
-{"ie":0,"cnpj":"75415780610","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1530.00},
+{"ie":0,"cnpj":"75415780610","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1530.00},
 {"ie":0,"cnpj":"70494347449","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2200.00},
 {"ie":0,"cnpj":"63601843000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":1832.00},
 {"ie":0,"cnpj":"62933930404","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
@@ -18,7 +18,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97124325000118","razao":"","sit":"","regime
 {"ie":0,"cnpj":"50332236668","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":18000.00},
 {"ie":0,"cnpj":"49455222604","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":9000.00},
 {"ie":0,"cnpj":"47084340904","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":195.00},
-{"ie":0,"cnpj":"46733884372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1830.00},
+{"ie":0,"cnpj":"46733884372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1830.00},
 {"ie":0,"cnpj":"45410410815","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1006.00},
 {"ie":0,"cnpj":"45032050300","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":8000.00},
 {"ie":0,"cnpj":"44501463368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1834.00},
@@ -185,7 +185,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97124325000118","razao":"","sit":"","regime
 {"ie":0,"cnpj":"09039303000192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":1686.40},
 {"ie":0,"cnpj":"09027007000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":7110.00},
 {"ie":0,"cnpj":"08868032000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":2153.80},
-{"ie":0,"cnpj":"08859928656","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5800.00},
+{"ie":0,"cnpj":"08859928656","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5800.00},
 {"ie":0,"cnpj":"08740519678","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1006.00},
 {"ie":0,"cnpj":"08731668000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":12300.00},
 {"ie":0,"cnpj":"08514735632","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":24000.00},
@@ -222,7 +222,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97124325000118","razao":"","sit":"","regime
 {"ie":0,"cnpj":"04897701000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3005.00},
 {"ie":0,"cnpj":"04883933000125","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":252.00},
 {"ie":0,"cnpj":"04852289000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":1896.30},
-{"ie":0,"cnpj":"04473449602","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1530.00},
+{"ie":0,"cnpj":"04473449602","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1530.00},
 {"ie":0,"cnpj":"04473177505","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1050.00},
 {"ie":0,"cnpj":"04370929000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":2680.00},
 {"ie":0,"cnpj":"04351762000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1200.00},
@@ -255,3 +255,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97124325000118","razao":"","sit":"","regime
 {"ie":0,"cnpj":"00091258000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":6000.00},
 {"ie":0,"cnpj":"00057551316","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1500.00}];
 SociosData.socios = [{"cpf":"09487747460","nome":"ANDSON JOSE DA SILVA","ie":73130630,"cnpj":"28320606000123","razao":"ANDSON JOSE DA SILVA 09487747460","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

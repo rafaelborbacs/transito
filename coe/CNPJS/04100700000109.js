@@ -19,3 +19,5 @@ SociosData.socios = [{"cpf":"74626353487","nome":"LUCIANE CORREIA RIBEIRO","ie":
 {"cpf":"10372725449","nome":"MARLUCE CORREIA RIBEIRO","ie":16576900,"cnpj":"35402098000198","razao":"SOLUT INFORMATICA E MANUTENCAO DE MAQUINAS DE ETIQUETAS LTDA ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"04508975402","nome":"ANA FLAVIA BARBOSA DE AGUIAR","ie":49610309,"cnpj":"15501456000102","razao":"LESSA AGUIAR ARTIGOS DO VESTUARIO LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"04508975402","nome":"ANA FLAVIA BARBOSA DE AGUIAR","ie":27627810,"cnpj":"04100700000109","razao":"EASYNET INDUSTRIA E COMERCIO DE ETIQUETAS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

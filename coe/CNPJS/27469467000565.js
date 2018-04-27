@@ -72,3 +72,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97945765572","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00532779614","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":14020.00},
 {"ie":0,"cnpj":"00132556570","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":14220.00}];
 SociosData.socios = [];
+EmailsData.emails = [{"cnpj":"27174665000410","email":"CAMILARODRIGUES_RIBEIRO@HOTMAIL.COM","razao":"VANESSA BATISTA DE SALES","municipio":"TAQUARITINGA DO NORTE"}];
+TelsData.tels = [];

@@ -98,3 +98,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"94829705191","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"01468320513","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5000.00},
 {"ie":0,"cnpj":"01303124874","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5000.00}];
 SociosData.socios = [{"cpf":"10746485441","nome":"GRESSON DA SILVA","ie":72254157,"cnpj":"27845325000121","razao":"GRESSON DA SILVA 10746485441","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

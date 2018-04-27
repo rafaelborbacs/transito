@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"10869047000140","razao":"","sit":"","re
 {"ie":0,"cnpj":"07664713000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4337.76}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"81117329453","nome":"ANGELA MARIA SANTANA DE MACEDO","ie":45280851,"cnpj":"14082704000165","razao":"ANGELA MARIA SANTANA DE MACEDO ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

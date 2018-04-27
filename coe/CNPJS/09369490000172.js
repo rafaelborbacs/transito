@@ -10,3 +10,5 @@ SociosData.socios = [{"cpf":"71306480825","nome":"LUIZ FRANCISCO PITTA","ie":364
 {"cpf":"02445049709","nome":"EDUARDO LUIS BUENO DE SOUSA FREITAS","ie":37904523,"cnpj":"09229814000258","razao":"ETA BEBIDAS DO NORDESTE LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"02445049709","nome":"EDUARDO LUIS BUENO DE SOUSA FREITAS","ie":36426660,"cnpj":"09369490000172","razao":"PROCEM INDUSTRIAL E COMERCIAL LTDA","sit":"C","regime":"NORMAL","municipio":"PAULISTA","igi":1},
 {"cpf":"02445049709","nome":"EDUARDO LUIS BUENO DE SOUSA FREITAS","ie":36026131,"cnpj":"09229814000177","razao":"ETA BEBIDAS DO NORDESTE LTDA","sit":"B","regime":"NORMAL","municipio":"PAULISTA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -11,3 +11,5 @@ SaidasData.saidas = [{"ie":18796001,"cnpj":"41096520000127","razao":"PRISMA TELE
 {"ie":0,"cnpj":"01908269000133","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":999.00},
 {"ie":21156115,"cnpj":"00580515000108","razao":"COOPERATIVA DOS PROFISSIONAIS EM ATIVIDADES GERAIS-COOPAGEL","sit":"B","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":190.00}];
 SociosData.socios = [{"cpf":"11797123408","nome":"NATHALIA FRANCO REGO ARAUJO","ie":61437506,"cnpj":"21976109000139","razao":"NATHALIA FRANCO REGO ARAUJO CONFECCOES ME","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

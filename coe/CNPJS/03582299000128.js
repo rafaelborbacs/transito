@@ -26,3 +26,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96764386000187","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"02968615459","nome":"MARIA JUCEMAR PEREIRA DA SILVA","ie":38417820,"cnpj":"11072135000189","razao":"DRANREB S JEANS LTDA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"02968615459","nome":"MARIA JUCEMAR PEREIRA DA SILVA","ie":34667369,"cnpj":"03582299000209","razao":"M JUCEMAR PEREIRA SILVA","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"02968615459","nome":"MARIA JUCEMAR PEREIRA DA SILVA","ie":26734524,"cnpj":"03582299000128","razao":"M JUCEMAR PEREIRA SILVA","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

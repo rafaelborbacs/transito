@@ -5,3 +5,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"00229652000100","razao":"","sit":"","re
 {"ie":25614177,"cnpj":"02940206000127","razao":"TRANSALCOOL LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":108.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"27633365404","nome":"GILVANIA MARIA DA ROCHA GALVAO","ie":59674300,"cnpj":"21206890000162","razao":"GILVANIA MARIA DA ROCHA GALVAO 27633365404","sit":"A","regime":"SIMEI","municipio":"OLINDA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

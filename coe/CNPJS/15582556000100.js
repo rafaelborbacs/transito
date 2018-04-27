@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":28544307,"cnpj":"04609653000123","razao":"DISTRIB
 {"ie":61207764,"cnpj":"66471517001734","razao":"DPC DISTRIBUIDOR ATACADISTA S/A","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":26461.50}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"40447529404","nome":"ROSILDA ALEXANDRINO CIPRIANO","ie":48799025,"cnpj":"15582556000100","razao":"ROSILDA ALEXANDRINO CIPRIANO 40447529404","sit":"C","regime":"NORMAL","municipio":"PAUDALHO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

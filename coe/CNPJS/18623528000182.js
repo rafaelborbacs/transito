@@ -22,3 +22,5 @@ SaidasData.saidas = [{"ie":73085588,"cnpj":"28337440000158","razao":"G.A. DE SIQ
 SociosData.socios = [{"cpf":"77388321420","nome":"EDMILSON JOSE DE CARVALHO","ie":59699051,"cnpj":"18623528000182","razao":"A. S. FERREIRA COMERCIO MERCADO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1},
 {"cpf":"71394690401","nome":"ANDERSON SEVERINO FERREIRA","ie":59699051,"cnpj":"18623528000182","razao":"A. S. FERREIRA COMERCIO MERCADO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1},
 {"cpf":"25648551487","nome":"VENUS FERREIRA DA SILVA","ie":59699051,"cnpj":"18623528000182","razao":"A. S. FERREIRA COMERCIO MERCADO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

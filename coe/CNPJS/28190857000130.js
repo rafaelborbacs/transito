@@ -4,7 +4,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"94337004653","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1080.00},
 {"ie":0,"cnpj":"92514111315","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":10620.00},
 {"ie":0,"cnpj":"92373577372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1040.00},
-{"ie":0,"cnpj":"87477173353","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4280.00},
+{"ie":0,"cnpj":"87477173353","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4280.00},
 {"ie":0,"cnpj":"85686948615","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4610.00},
 {"ie":0,"cnpj":"81701241315","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3116.80},
 {"ie":0,"cnpj":"80787819387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1600.00},
@@ -131,7 +131,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"07387337000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":13802.40},
 {"ie":0,"cnpj":"07370421000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":810.00},
 {"ie":0,"cnpj":"06762297609","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1020.00},
-{"ie":0,"cnpj":"06509524643","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2030.00},
+{"ie":0,"cnpj":"06509524643","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2030.00},
 {"ie":0,"cnpj":"06291242000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":428.00},
 {"ie":0,"cnpj":"06228350331","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3174.60},
 {"ie":0,"cnpj":"06117180000253","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":2140.00},
@@ -141,7 +141,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"05548293000402","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3500.00},
 {"ie":0,"cnpj":"05526487369","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4175.20},
 {"ie":0,"cnpj":"05526168000310","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3000.00},
-{"ie":0,"cnpj":"05344141416","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":8020.30},
+{"ie":0,"cnpj":"05344141416","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":8020.30},
 {"ie":0,"cnpj":"05333051000159","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3330.00},
 {"ie":0,"cnpj":"05318350000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1800.00},
 {"ie":0,"cnpj":"05304479000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":10680.00},
@@ -174,3 +174,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00343788632","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5040.00},
 {"ie":0,"cnpj":"00319404000657","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":1196.00}];
 SociosData.socios = [{"cpf":"14219289496","nome":"JOSE ALEFE DE OLIVEIRA","ie":72852720,"cnpj":"28190857000130","razao":"JOSE ALEFE DE OLIVEIRA 14219289496","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

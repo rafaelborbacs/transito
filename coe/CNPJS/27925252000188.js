@@ -9,3 +9,5 @@ SaidasData.saidas = [{"ie":66129117,"cnpj":"24186949000196","razao":"P A SUPERME
 {"ie":25909649,"cnpj":"03162569000141","razao":"COMERCIO DE ALIMENTOS COSTA E SOUZA LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":14196.01},
 {"ie":25656090,"cnpj":"02990020000182","razao":"LEMOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":3472.50}];
 SociosData.socios = [{"cpf":"11943207402","nome":"EDIVAN CANDIDO DA SILVA JUNIOR","ie":72373407,"cnpj":"27925252000188","razao":"EDIVAN CANDIDO DA SILVA JUNIOR 11943207402","sit":"B","regime":"NORMAL","municipio":"GRAVATA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -9,3 +9,5 @@ SociosData.socios = [{"cpf":"09590948499","nome":"DAYANA PATRICIA ARAUJO DE BARR
 {"cpf":"03642764444","nome":"ELIANA DA SILVA ARAUJO","ie":50699121,"cnpj":"17135679000129","razao":"POLLARIZ CONFECCAO E COMERCIO VAREJISTA  DE ARTIGOS DO VESTUARIO LTDA - ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"03642764444","nome":"ELIANA DA SILVA ARAUJO","ie":37593340,"cnpj":"10621018000164","razao":"DMARIE CONFECCAO E COMERCIO DE ARTIGOS DO VESTUARIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"02798814448","nome":"JACIRA DA SILVA ARAUJO","ie":37593340,"cnpj":"10621018000164","razao":"DMARIE CONFECCAO E COMERCIO DE ARTIGOS DO VESTUARIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -30,3 +30,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"60701521002141","razao":"","sit":"","regime
 {"ie":0,"cnpj":"03841406000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1680.00},
 {"ie":25715526,"cnpj":"02919415000199","razao":"TORQUE CONSTRUCOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1400.00}];
 SociosData.socios = [{"cpf":"10591337410","nome":"NICOLE CAVALCANTI RODRIGUES DA SILVA","ie":65177061,"cnpj":"23751599000109","razao":"NICOLE C RODRIGUES DA SILVA ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

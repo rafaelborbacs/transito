@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73713228,"cnpj":"28670846000158","razao":"W DOS REIS COSTA TECIDOS ME","sit":"A","arrecadacao":100586.87,"entradas":2230990.44,"saidas":492976.20,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"19/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73713228,"cnpj":"28670846000158","razao":"W DOS REIS COSTA TECIDOS ME","sit":"A","arrecadacao":106403.86,"entradas":2230990.44,"saidas":492976.20,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"19/09/2017"}];
 EntradasData.entradas = [{"ie":47059630,"cnpj":"14821638000106","razao":"CIA MICRO INFORMATICA LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":5020.00},
 {"ie":0,"cnpj":"56724412000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1112235.17},
 {"ie":0,"cnpj":"05215641000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":52907.05},
@@ -24,3 +24,7 @@ SaidasData.saidas = [{"ie":76608123,"cnpj":"30055782000127","razao":"JONAS FHELI
 SociosData.socios = [{"cpf":"83511881668","nome":"WAGNER DOS REIS COSTA","ie":73713228,"cnpj":"28670846000158","razao":"W DOS REIS COSTA TECIDOS ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":1},
 {"cpf":"83511881668","nome":"WAGNER DOS REIS COSTA","ie":68129025,"cnpj":"25240817000168","razao":"BLENNDEDD EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":1},
 {"cpf":"83511881668","nome":"WAGNER DOS REIS COSTA","ie":35582669,"cnpj":"09026409000151","razao":"WAGNER DOS REIS COSTA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0}];
+EmailsData.emails = [{"cnpj":"83511881668","email":"staffjeanss@hotmail.com","razao":"WAGNER DOS REIS COSTA","municipio":"BELO HORIZONTE"},
+{"cnpj":"24385784000181","email":"staffjeanss@hotmail.com","razao":"LUCAS ANGELICA ME","municipio":"TORITAMA"},
+{"cnpj":"12349432000191","email":"staffjeanss@hotmail.com","razao":"ADILSON ALVES DE MIRANDA ME","municipio":"BELO HORIZONTE"}];
+TelsData.tels = [{"cnpj":"24385784000181","tel":"8137413759","razao":"LUCAS ANGELICA ME","municipio":"TORITAMA"}];

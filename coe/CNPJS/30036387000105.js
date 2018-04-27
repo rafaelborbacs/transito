@@ -23,3 +23,10 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"01570402000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":5820.00},
 {"ie":0,"cnpj":"01434879000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":15700.00}];
 SociosData.socios = [{"cpf":"07077534499","nome":"JOSE LIVALDO DE ARRUDA JUNIOR","ie":76453766,"cnpj":"30036387000105","razao":"JOSE LIVALDO DE ARRUDA JUNIOR","sit":"A","regime":"SIMPLES","municipio":"SURUBIM","igi":1}];
+EmailsData.emails = [{"cnpj":"30157519000149","email":"manuela.farias@hotmail.com","razao":"CARLA KARIELE ARRUDA DOS SANTOS","municipio":"TORITAMA"},
+{"cnpj":"30142989000139","email":"manuela.farias@hotmail.com","razao":"FABIO SANTOS DA SILVA","municipio":"SURUBIM"},
+{"cnpj":"30036393000154","email":"manuela.farias@hotmail.com","razao":"NATALICIO SANTANA DE MOURA","municipio":"SURUBIM"},
+{"cnpj":"28610733000167","email":"manuela.farias@hotmail.com","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI - ME","municipio":"TORITAMA"},
+{"cnpj":"28388579000120","email":"manuela.farias@hotmail.com","razao":"JOSE FRANCISCO DA SILVA NETO MAQUINAS ME","municipio":"VERTENTES"},
+{"cnpj":"07381200490","email":"manuela.farias@hotmail.com","razao":"TIAGO LIMA","municipio":"Toritama"}];
+TelsData.tels = [];

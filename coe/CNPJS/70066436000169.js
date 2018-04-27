@@ -20,3 +20,5 @@ SociosData.socios = [{"cpf":"45423008468","nome":"IVELISE GOMES MATIAS","ie":199
 {"cpf":"27332950472","nome":"MARIA DE FATIMA DE BARROS MATIAS","ie":8692793,"cnpj":"08154981000133","razao":"DISTRIBUIDORA TECIDOS IVAN MATIAS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"07744468899","nome":"ANTONIO CESAR BARBOSA DOS SANTOS","ie":19910517,"cnpj":"70066436000169","razao":"DICESARE INDUSTRIA CONFECCOES LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"07744468899","nome":"ANTONIO CESAR BARBOSA DOS SANTOS","ie":19907729,"cnpj":"70066436000240","razao":"DICESARE INDUSTRIA CONFECCOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

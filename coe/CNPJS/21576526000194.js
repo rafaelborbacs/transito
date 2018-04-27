@@ -19,3 +19,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"00123601000191","razao":"","sit":"","re
 {"ie":38421771,"cnpj":"11080013000134","razao":"DISTRIBUIDORA TRES SERTOES LTDA- EPP","sit":"A","regime":"NORMAL","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":4598.65}];
 SaidasData.saidas = [];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

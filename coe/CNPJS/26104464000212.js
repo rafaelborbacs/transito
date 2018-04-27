@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":73200867,"cnpj":"26104464000212","razao":"JOSE EDUARDO DOS SANTOS SILVA VAREJISTA DE TECIDOS","sit":"S","arrecadacao":0.00,"entradas":428953.02,"saidas":655059.59,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"15/08/2017"}];
 EntradasData.entradas = [{"ie":71288198,"cnpj":"27376196000170","razao":"JOSEANE CRISTINA DE LEMOS","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1.00},
-{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":201898.41},
 {"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":105661.50},
 {"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":54532.58},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":66859.53}];
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":66859.53},
+{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":201898.41}];
 SaidasData.saidas = [{"ie":0,"cnpj":"92051421315","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2018.00},
 {"ie":0,"cnpj":"84593857287","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3027.20},
 {"ie":0,"cnpj":"83464816320","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2127.00},
@@ -23,7 +23,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92051421315","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"35223154134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
 {"ie":0,"cnpj":"34326146168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3500.00},
 {"ie":0,"cnpj":"29709970100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3650.00},
-{"ie":0,"cnpj":"29166381134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
+{"ie":0,"cnpj":"29166381134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1000.00},
 {"ie":0,"cnpj":"28502222000121","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":15084.00},
 {"ie":0,"cnpj":"28100026149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
 {"ie":0,"cnpj":"27958609000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1105.00},
@@ -181,3 +181,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92051421315","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00456572000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2607.50},
 {"ie":0,"cnpj":"00320762157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2293.00}];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

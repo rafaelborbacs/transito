@@ -117,3 +117,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97543881000129","razao":"","sit":"","regime
 {"ie":0,"cnpj":"00921876769","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":999.50},
 {"ie":0,"cnpj":"00903716232","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":1010.00}];
 SociosData.socios = [{"cpf":"39123935839","nome":"ALEXANDRE BARBOSA DE SOUZA","ie":74549960,"cnpj":"29024430000125","razao":"ALEXANDRE BARBOSA DE SOUZA 39123935839","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

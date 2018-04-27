@@ -5,3 +5,5 @@ EntradasData.entradas = [{"ie":33272565,"cnpj":"01231013000134","razao":"EDJANE 
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"92103979400","nome":"ANA CAROLINA ALBUQUERQUE DA SILVA","ie":36220108,"cnpj":"09284276000113","razao":"REI COMERCIO DE COMBUSTIVEIS LTDA","sit":"C","regime":"NORMAL","municipio":"PAULISTA","igi":1},
 {"cpf":"28874765568","nome":"ALZENIRA SOUZA CONCEICAO ALBUQUERQUE","ie":36220108,"cnpj":"09284276000113","razao":"REI COMERCIO DE COMBUSTIVEIS LTDA","sit":"C","regime":"NORMAL","municipio":"PAULISTA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

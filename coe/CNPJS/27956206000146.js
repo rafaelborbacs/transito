@@ -16,3 +16,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"46126058000187","razao":"","sit":"","regime
 {"ie":0,"cnpj":"03749237000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":163543.50},
 {"ie":0,"cnpj":"03157269000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":18960.00}];
 SociosData.socios = [{"cpf":"02079332430","nome":"IRAPOAN FREITAS WANDERLEY","ie":72411511,"cnpj":"27956206000146","razao":"REALEZA RESIDUOS  E LOCACOES EIRELI ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

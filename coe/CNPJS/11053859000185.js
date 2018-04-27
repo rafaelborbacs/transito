@@ -16,3 +16,5 @@ SociosData.socios = [{"cpf":"98708511420","nome":"JURANDI MACHADO FERREIRA","ie"
 {"cpf":"03340165416","nome":"CARLOS EDUARDO CAMPOS CAVALCANTI","ie":36907685,"cnpj":"10249558000169","razao":"DROGARIA DO POVO ALAGOINHA LTDA ME","sit":"C","regime":"NORMAL","municipio":"ALAGOINHA","igi":0},
 {"cpf":"03340165416","nome":"CARLOS EDUARDO CAMPOS CAVALCANTI","ie":34639748,"cnpj":"05291213000214","razao":"CARLOS EDUARDO CAMPOS CAVALCANTI","sit":"B","regime":"NORMAL","municipio":"PESQUEIRA","igi":0},
 {"cpf":"03340165416","nome":"CARLOS EDUARDO CAMPOS CAVALCANTI","ie":30065143,"cnpj":"05291213000133","razao":"CARLOS EDUARDO CAMPOS CAVALCANTI","sit":"B","regime":"NORMAL","municipio":"PESQUEIRA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

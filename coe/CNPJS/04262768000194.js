@@ -12,3 +12,5 @@ SociosData.socios = [{"cpf":"59313943468","nome":"JOSE VICENTE BARBOSA CINTRA GA
 {"cpf":"59313943468","nome":"JOSE VICENTE BARBOSA CINTRA GALVAO","ie":7697708,"cnpj":"11569555000175","razao":"CEGUARA CERAMICA GUARANI LTDA","sit":"B","regime":"NORMAL","municipio":"BELO JARDIM","igi":0},
 {"cpf":"26626861468","nome":"JOSE WILSON DA SILVA DUARTE","ie":28354877,"cnpj":"04262768000194","razao":"WJV COMPANY - INDUSTRIA E COMERCIO LTDA ME","sit":"C","regime":"NORMAL","municipio":"BELO JARDIM","igi":1},
 {"cpf":"26626861468","nome":"JOSE WILSON DA SILVA DUARTE","ie":25076175,"cnpj":"02685108000190","razao":"W FRANCA & DUARTE LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

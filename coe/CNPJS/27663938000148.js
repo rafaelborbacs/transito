@@ -34,3 +34,5 @@ SaidasData.saidas = [{"ie":16909305,"cnpj":"35600691000149","razao":"EMANUELI CR
 {"ie":20323840,"cnpj":"00184852000186","razao":"FABRICIO GONCALVES BRITO","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":1050.00}];
 SociosData.socios = [{"cpf":"70884238474","nome":"JOSE FERNANDO DA SILVA","ie":73712418,"cnpj":"28664107000153","razao":"J FERNANDO DA SILVA COMERCIO EPP","sit":"C","regime":"NORMAL","municipio":"FLORES","igi":0},
 {"cpf":"70884238474","nome":"JOSE FERNANDO DA SILVA","ie":71812725,"cnpj":"27663938000148","razao":"COMERCIAL RAIAR DO DIA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"CACHOEIRINHA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

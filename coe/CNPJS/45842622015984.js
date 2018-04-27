@@ -33,3 +33,5 @@ SociosData.socios = [{"cpf":"62297333820","nome":"VALDIVINA PEREIRA DE AGUIAR","
 {"cpf":"01157377823","nome":"DACIO ANTONIO PEREIRA OLIVEIRA","ie":27876527,"cnpj":"45842622008180","razao":"VALDAC LTDA.","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"01157377823","nome":"DACIO ANTONIO PEREIRA OLIVEIRA","ie":27876446,"cnpj":"45842622008007","razao":"VALDAC LTDA.","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"01157377823","nome":"DACIO ANTONIO PEREIRA OLIVEIRA","ie":27875121,"cnpj":"45842622007965","razao":"VALDAC LTDA.","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

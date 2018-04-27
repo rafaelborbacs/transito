@@ -14,3 +14,5 @@ SociosData.socios = [{"cpf":"11502879859","nome":"ALEXANDRE RUAS","ie":67491359,
 {"cpf":"11502879859","nome":"ALEXANDRE RUAS","ie":60375507,"cnpj":"02016260000261","razao":"R Z AFRETAMENTOS E MODA EIRELI","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"11502879859","nome":"ALEXANDRE RUAS","ie":60375000,"cnpj":"02016260000180","razao":"R Z AFRETAMENTOS E MODA EIRELI","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"11502879859","nome":"ALEXANDRE RUAS","ie":58127712,"cnpj":"20461613000133","razao":"ALEXANDRE RUAS","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

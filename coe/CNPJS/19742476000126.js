@@ -6,3 +6,9 @@ EntradasData.entradas = [{"ie":0,"cnpj":"27423270000161","razao":"","sit":"","re
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"76788105472","nome":"EDNALDO SIMPLICIO BARBOSA FILHO","ie":56571801,"cnpj":"19742476000126","razao":"COMERCIAL SERRA DAS FLORES EIRELI","sit":"S","regime":"NORMAL","municipio":"BEZERROS","igi":1},
 {"cpf":"06673206446","nome":"MARIA DO CARMO DA SILVA","ie":56571801,"cnpj":"19742476000126","razao":"COMERCIAL SERRA DAS FLORES EIRELI","sit":"S","regime":"NORMAL","municipio":"BEZERROS","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"29553098000196","tel":"8132310000","razao":"MUNDO DAS FESTAS EIRELI","municipio":"RECIFE"},
+{"cnpj":"29378097000152","tel":"8132310000","razao":"RSS BOZI EPP","municipio":"LAGOA DOS GATOS"},
+{"cnpj":"29298765000131","tel":"8132310000","razao":"ISABELA FRANCISCA AMORIM DE ALMEIDA ME","municipio":"FLORES"},
+{"cnpj":"27666894000100","tel":"8132310000","razao":"SUPERMERCADO LITORIAL NORTE LTDA ME","municipio":"PAULISTA"},
+{"cnpj":"06110915000136","tel":"8132310000","razao":"ELLA SUL DISTRIBUIDORA LTDA","municipio":"RECIFE"}];

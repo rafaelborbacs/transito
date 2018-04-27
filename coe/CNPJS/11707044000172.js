@@ -13,3 +13,5 @@ SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PROD
 {"ie":30676703,"cnpj":"04480244000170","razao":"M C DISTRIBUIDORADA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":144102.01},
 {"ie":25652931,"cnpj":"02871166000109","razao":"AJS - COMERCIO E REPRESENTACOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":300001.63}];
 SociosData.socios = [{"cpf":"06718224464","nome":"JORGE LUIZ LIMA DO NASCIMENTO","ie":73514969,"cnpj":"11707044000172","razao":"JORGE L L DO NASCIMENTO LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

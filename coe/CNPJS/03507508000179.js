@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":26568926,"cnpj":"03507508000179","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"45489459468","nome":"EDILENE FERREIRA DOS SANTOS","ie":26568926,"cnpj":"03507508000179","razao":"EDILENE FERREIRA SANTOS-ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":72689986,"cnpj":"28088625000176","r
 EntradasData.entradas = [{"ie":0,"cnpj":"22215993000151","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":301778.24}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"00266870627","nome":"MAURO SERGIO GOMES DE OLIVEIRA","ie":72689986,"cnpj":"28088625000176","razao":"MAURO SERGIO GOMES DE OLIVEIRA 00266870627","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

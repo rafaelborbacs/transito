@@ -6,3 +6,5 @@ SaidasData.saidas = [{"ie":66370949,"cnpj":"24285920000161","razao":"CLELIO RANI
 {"ie":26283093,"cnpj":"03371272000196","razao":"MARIA HELENA SOBRAL CONFECCOES - ME","sit":"A","regime":"SIMPLES","municipio":"LAJEDO","igi":0,"uf":"PE","valor":4805.66},
 {"ie":0,"cnpj":"01273943465","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":4897.50}];
 SociosData.socios = [{"cpf":"71577884469","nome":"FEIGUANG ZHAN","ie":74162101,"cnpj":"28881683000152","razao":"FEIGUANG ZHAN TEXTIL ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"24764589000162","tel":"8137311840","razao":"SRP RAMOS - ME","municipio":"SANTA CRUZ DO CAPIBARIBE"}];

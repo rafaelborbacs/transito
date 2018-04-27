@@ -15,3 +15,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime
 {"ie":0,"cnpj":"05319453590","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3900.00},
 {"ie":0,"cnpj":"01017537000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3600.00}];
 SociosData.socios = [{"cpf":"00806929405","nome":"JOAO VIDAL DA SILVA","ie":72686103,"cnpj":"28129483000148","razao":"J VIDAL DA SILVA CONFECCCOES ME","sit":"S","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

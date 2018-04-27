@@ -8,3 +8,5 @@ SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PROD
 {"ie":30931231,"cnpj":"06015530000190","razao":"AGROINDUSTRIAL FRUTNAA LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":117000.00},
 {"ie":30676703,"cnpj":"04480244000170","razao":"M C DISTRIBUIDORADA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":218159.81}];
 SociosData.socios = [{"cpf":"07935884480","nome":"RONALDO RODRIGUES DA SILVA FRANCA","ie":70481652,"cnpj":"26958836000197","razao":"R. R. DA SILVA FRANCA   EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

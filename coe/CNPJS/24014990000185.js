@@ -19,10 +19,12 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84463651468","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"07114699002707","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1950.00},
 {"ie":0,"cnpj":"07114699002618","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":800.00},
 {"ie":0,"cnpj":"07069292414","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1350.00},
-{"ie":31784470,"cnpj":"07007858000127","razao":"ADALMALSON F DE MACEDO CACHOEIRINHA ME","sit":"S","regime":"NORMAL","municipio":"CACHOEIRINHA","igi":0,"uf":"PE","valor":4100.00},
+{"ie":31784470,"cnpj":"07007858000127","razao":"ADALMALSON F DE MACEDO CACHOEIRINHA ME","sit":"A","regime":"NORMAL","municipio":"CACHOEIRINHA","igi":0,"uf":"PE","valor":4100.00},
 {"ie":0,"cnpj":"06855367429","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2950.00},
 {"ie":0,"cnpj":"06469169473","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1450.00},
 {"ie":0,"cnpj":"04857775417","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1800.00},
 {"ie":0,"cnpj":"04553716445","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1850.00},
 {"ie":0,"cnpj":"01184402418","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1900.00}];
 SociosData.socios = [{"cpf":"88355632400","nome":"WASHINGTON CARLOS DOS SANTOS","ie":65872240,"cnpj":"24014990000185","razao":"WASHINGTON CARLOS DOS SANTOS ESTOFADOS ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

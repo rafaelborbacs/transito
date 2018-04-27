@@ -27,17 +27,19 @@ SaidasData.saidas = [{"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL V
 {"ie":68424299,"cnpj":"08735889000248","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1829.28},
 {"ie":34911618,"cnpj":"08735889000167","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1835.20},
 {"ie":8713545,"cnpj":"08071458000143","razao":"CLEUCA B SANTOS DE BRITO ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2314.28},
-{"ie":31938884,"cnpj":"07114263000170","razao":"COMERCIAL DE ALIMENTOS PONTE DOS CARVALHOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1141.70},
-{"ie":31943454,"cnpj":"07114256000179","razao":"DIAMANTE COMERCIO DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":1913.50},
-{"ie":31943373,"cnpj":"07114222000184","razao":"COMERCIAL NORDESTINO DE ALIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":985.70},
+{"ie":31938884,"cnpj":"07114263000170","razao":"COMERCIAL DE ALIMENTOS PONTE DOS CARVALHOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1141.70},
+{"ie":31943454,"cnpj":"07114256000179","razao":"DIAMANTE COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":1913.50},
+{"ie":31943373,"cnpj":"07114222000184","razao":"COMERCIAL NORDESTINO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":985.70},
 {"ie":41400798,"cnpj":"06032732000220","razao":"MERCANTIL NORDESTINO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":985.70},
 {"ie":30835941,"cnpj":"06032732000140","razao":"MERCANTIL NORDESTINO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1991.50},
 {"ie":43289495,"cnpj":"05151403000236","razao":"VAREJAO BRASILEIRO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1087.70},
 {"ie":29299535,"cnpj":"05151403000155","razao":"VAREJAO BRASILEIRO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":2557.50},
-{"ie":29738806,"cnpj":"04549339000283","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":985.70},
-{"ie":28465784,"cnpj":"04549339000100","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":531.80},
+{"ie":29738806,"cnpj":"04549339000283","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":985.70},
+{"ie":28465784,"cnpj":"04549339000100","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":531.80},
 {"ie":23536284,"cnpj":"01832395000151","razao":"INALDO BARBOSA SILVA-FRIGORIFICO","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":9600.00}];
 SociosData.socios = [{"cpf":"08017582463","nome":"FELIPE BARBOSA DE FREITAS","ie":73823830,"cnpj":"28705792000119","razao":"COMERCIAL BEST HOUSE LTDA ME","sit":"C","regime":"NORMAL","municipio":"CAMOCIM DE SAO FELIX","igi":1},
 {"cpf":"08017582463","nome":"FELIPE BARBOSA DE FREITAS","ie":73719420,"cnpj":"28677574000118","razao":"COMERCIAL SUPER MIX LTDA ME","sit":"C","regime":"NORMAL","municipio":"BONITO","igi":1},
 {"cpf":"08017582463","nome":"FELIPE BARBOSA DE FREITAS","ie":73712922,"cnpj":"28664202000157","razao":"COMERCIAL CATENDE DO SUL EIRELI ME","sit":"C","regime":"NORMAL","municipio":"AMARAJI","igi":1},
 {"cpf":"08017582463","nome":"FELIPE BARBOSA DE FREITAS","ie":73702706,"cnpj":"28630070000142","razao":"F BARBOSA DE FREITAS COMERCIO ME","sit":"C","regime":"NORMAL","municipio":"SAIRE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":33010013,"cnpj":"07590855000169","razao":"JEFFERS
 {"ie":48223239,"cnpj":"07590855000320","razao":"JEFFERSON JOSE DA SILVA TECIDOS","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":143248.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"31222641615","nome":"WALDIR CLAUDIO DE PAULA","ie":72560606,"cnpj":"27998030000195","razao":"WALDIR CLAUDIO DE PAULA 31222641615","sit":"A","regime":"SIMEI","municipio":"PASSIRA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

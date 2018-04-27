@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":45897778,"cnpj":"59717553000617","razao":"MULTILA
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"26574617863","nome":"JOSE ADRIANO DA SILVA","ie":75852500,"cnpj":"29641500000194","razao":"JOSE ADRIANO DA SILVA 26574617863","sit":"C","regime":"SIMEI","municipio":"CARUARU","igi":1},
 {"cpf":"26574617863","nome":"JOSE ADRIANO DA SILVA","ie":41112571,"cnpj":"12324940000115","razao":"JOSE ADRIANO DA SILVA 26574617863","sit":"C","regime":"NORMAL","municipio":"AGRESTINA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

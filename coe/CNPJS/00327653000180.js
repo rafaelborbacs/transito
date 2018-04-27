@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":20836635,"cnpj":"00327653000180","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"48589713415","nome":"CLOVIS SOARES DE PAIVA","ie":20836635,"cnpj":"00327653000180","razao":"CLOVIS S PAIVA","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -32,3 +32,5 @@ SaidasData.saidas = [{"ie":17481066,"cnpj":"40819823000168","razao":"KELSCH INDU
 {"ie":23832843,"cnpj":"01956674000127","razao":"MERCADINHO BOM GOSTO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6536.35},
 {"ie":21317577,"cnpj":"00648966000130","razao":"IPUTINGA ADMINISTRADORA E SERVICOS LTDA-EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":432.00}];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -12,3 +12,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"68823350000191","razao":"","sit":"","regime
 {"ie":0,"cnpj":"04025916401","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":10.00},
 {"ie":0,"cnpj":"00809169000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":11600.00}];
 SociosData.socios = [{"cpf":"36041431877","nome":"ADENILTON PIRES DA PAZ","ie":68809409,"cnpj":"26057564000154","razao":"ADENILTON PIRES DA PAZ 36041431877","sit":"A","regime":"SIMEI","municipio":"PAULISTA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

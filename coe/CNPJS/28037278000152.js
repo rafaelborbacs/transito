@@ -18,3 +18,5 @@ SociosData.socios = [{"cpf":"70909577480","nome":"ANDERSON JOSE DOS SANTOS","ie"
 {"cpf":"70909577480","nome":"ANDERSON JOSE DOS SANTOS","ie":38578832,"cnpj":"10941876000196","razao":"DELTAPLAST INDUSTRIA E COMERCIO LTDA","sit":"C","regime":"NORMAL","municipio":"GRAVATA","igi":0},
 {"cpf":"11696553431","nome":"JADIAEL BARBOSA DE ARRUDA","ie":75806304,"cnpj":"29494561000176","razao":"SOLUCOES DE EQUILIBRIOS DE CONSTRUCOES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0},
 {"cpf":"11696553431","nome":"JADIAEL BARBOSA DE ARRUDA","ie":72507039,"cnpj":"28037278000152","razao":"NORDESTINA COMERCIO DE MATERIAIS DE CONSTRUCOES LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

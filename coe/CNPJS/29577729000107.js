@@ -6,3 +6,5 @@ SaidasData.saidas = [{"ie":71471200,"cnpj":"27475885000131","razao":"GIOVANNI F 
 {"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":238893.15}];
 SociosData.socios = [{"cpf":"70181702495","nome":"JOICE BRENA PEREIRA DA SILVA","ie":75661233,"cnpj":"29577729000107","razao":"COMERCIAL PEDRA GRANDE EIRELI","sit":"A","regime":"NORMAL","municipio":"FLORES","igi":1},
 {"cpf":"70181702495","nome":"JOICE BRENA PEREIRA DA SILVA","ie":74930290,"cnpj":"29243692000180","razao":"JOICE BRENA PEREIRA DA SILVA ME","sit":"C","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

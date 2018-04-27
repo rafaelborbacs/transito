@@ -67,3 +67,18 @@ EntradasData.entradas = [{"ie":0,"cnpj":"91669242001280","razao":"","sit":"","re
 {"ie":0,"cnpj":"86837366000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1545.20}];
 SaidasData.saidas = [{"ie":0,"cnpj":"88379771001588","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":926.00}];
 SociosData.socios = [{"cpf":"04377852469","nome":"DAYANA KARLA FERREIRA DA SILVA","ie":38733072,"cnpj":"11245534000102","razao":"DAYANA KARLA FERREIRA DA SILVA","sit":"S","regime":"SIMPLES","municipio":"GAMELEIRA","igi":1}];
+EmailsData.emails = [{"cnpj":"29808146000140","email":"grupodkfashion@gmail.com","razao":"GILSON SANTANA DA SILVA(0001068581)","municipio":"GAMELEIRA"}];
+TelsData.tels = [{"cnpj":"35544055000147","tel":"8136791159","razao":"EZEQUIAS LIRA E SILVA GAMELEIRA","municipio":"GAMELEIRA"},
+{"cnpj":"30124012000199","tel":"8136791159","razao":"INDIANY DYN SILVA DE LIMA","municipio":"GAMELEIRA"},
+{"cnpj":"29808146000140","tel":"8196131816","razao":"GILSON SANTANA DA SILVA","municipio":"GAMELEIRA"},
+{"cnpj":"29808146000140","tel":"8136791633","razao":"GILSON SANTANA DA SILVA(0001068581)","municipio":"GAMELEIRA"},
+{"cnpj":"29807570000170","tel":"81998970968","razao":"IBERALDO FERREIRA DA SILVA 06332324406 - 141704","municipio":"GAMELEIRA"},
+{"cnpj":"29558431000150","tel":"8136791159","razao":"VANDERSON JOSE DE OLIVEIRA","municipio":"GAMELEIRA"},
+{"cnpj":"28156498000103","tel":"8136791159","razao":"FREDERICA NIEDJA SILVA LIMA","municipio":"GAMELEIRA"},
+{"cnpj":"19952220000143","tel":"8136791159","razao":"JOSE R S DE LIMA - ME","municipio":"GAMELEIRA"},
+{"cnpj":"14991651000103","tel":"08136791633","razao":"IBERALDO FERREIRA DA SILVA","municipio":"Gameleira"},
+{"cnpj":"12882504000161","tel":"8136791159","razao":"ALFREDO C. DA SILVA - ME","municipio":"Gameleira"},
+{"cnpj":"10327838000148","tel":"8136791159","razao":"C J DOS SANTOS BOMBONIERE","municipio":"GAMELEIRA"},
+{"cnpj":"04495743422","tel":"8136791633","razao":"GILSON SANTANA DA SILVA","municipio":"GAMELEIRA"},
+{"cnpj":"02608450431","tel":"8136792015","razao":"MARCILIO SOBRINHO DA SILVA","municipio":"GAMELEIRA"},
+{"cnpj":"01983015458","tel":"8136791159","razao":"CLARICE PAULINO DA SILVA","municipio":"CARUARU"}];

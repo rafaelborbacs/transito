@@ -80,3 +80,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84967744000170","razao":"","sit":"","regime
 {"ie":0,"cnpj":"01174429000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2000.00},
 {"ie":0,"cnpj":"01061521737","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1322.00}];
 SociosData.socios = [{"cpf":"10928144429","nome":"ANDRE STEWART DA SILVA LIMA","ie":74161644,"cnpj":"28881212000144","razao":"ANDRE STEWART DA SILVA LIMA ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

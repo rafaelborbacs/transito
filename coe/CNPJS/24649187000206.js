@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"67017509000118","razao":"","sit":"","re
 {"ie":55194893,"cnpj":"04500299000102","razao":"BASICO COMERCIO DE CONFECCOES E ACESSORIOS EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":5671.00}];
 SaidasData.saidas = [{"ie":71071296,"cnpj":"27262174000189","razao":"EKIMAN MENSWEAR INDUSTRIA E COMERCIO EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1000.00}];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

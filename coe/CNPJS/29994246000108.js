@@ -12,3 +12,5 @@ SaidasData.saidas = [{"ie":69972010,"cnpj":"26727035000110","razao":"ATACAREJO N
 {"ie":30722667,"cnpj":"05932995000142","razao":"DISTRIBUIDORA ESTRELA GUIA EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":19200.00},
 {"ie":22767126,"cnpj":"01329442000149","razao":"MINERACAO PAULISTA LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTE DO LERIO","igi":0,"uf":"PE","valor":6710.00}];
 SociosData.socios = [{"cpf":"09455306417","nome":"EDIVANIA GOMES DA SILVA","ie":76433730,"cnpj":"29994246000108","razao":"EDIVANIA GOMES DA SILVA COMERCIO","sit":"A","regime":"NORMAL","municipio":"ITAMBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

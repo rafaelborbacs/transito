@@ -60,3 +60,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"74939661504","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"01434879000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":8200.00},
 {"ie":0,"cnpj":"00121098192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":170.00}];
 SociosData.socios = [{"cpf":"11362542423","nome":"WYLLYEVERTON DE SOUZA SILVA","ie":76346099,"cnpj":"29914687000152","razao":"WYLLYEVERTON DE SOUZA SILVA 11362542423","sit":"A","regime":"SIMEI","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

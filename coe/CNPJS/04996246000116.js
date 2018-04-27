@@ -21,3 +21,5 @@ SociosData.socios = [{"cpf":"77001222453","nome":"SYBELLE FREIRE DUARTE DE LUCEN
 {"cpf":"33003408453","nome":"MARIA DE LOURDES DUARTE DA SILVA","ie":30313902,"cnpj":"04996246000205","razao":"VIVOS INDUSTRIA E COMERCIO LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":1},
 {"cpf":"33003408453","nome":"MARIA DE LOURDES DUARTE DA SILVA","ie":29059658,"cnpj":"04996246000116","razao":"VIVOS INDUSTRIA E COMERCIO LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"TORITAMA","igi":1},
 {"cpf":"33003408453","nome":"MARIA DE LOURDES DUARTE DA SILVA","ie":26413728,"cnpj":"03416097000106","razao":"J LUCENA CONFECCOES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

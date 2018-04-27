@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":42347904,"cnpj":"12871997000134","razao":"J M TEC
 SaidasData.saidas = [{"ie":0,"cnpj":"21084998000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":90000.00},
 {"ie":0,"cnpj":"01174429000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":140.00}];
 SociosData.socios = [{"cpf":"08887887462","nome":"MARIVALDO JOSE DE LIMA","ie":71565027,"cnpj":"27519105000108","razao":"MARIVALDO J DE LIMA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

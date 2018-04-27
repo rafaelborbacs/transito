@@ -135,3 +135,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"89996461220","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00241554039","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":400.00},
 {"ie":0,"cnpj":"00104517654","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1044.00}];
 SociosData.socios = [{"cpf":"08578096444","nome":"EWERTON CESAR SANTOS DO NASCIMENTO","ie":51300346,"cnpj":"17343514000142","razao":"EWERTON CESAR SANTOS DO NASCIMENTO 08578096444","sit":"C","regime":"NORMAL","municipio":"SURUBIM","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -3,14 +3,14 @@ EntradasData.entradas = [{"ie":0,"cnpj":"01425066000196","razao":"","sit":"","re
 {"ie":70358109,"cnpj":"26852295000118","razao":"CLEIDIANA C DE APRIGIO SILVA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":4250.00},
 {"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":101066.90},
 {"ie":70366985,"cnpj":"26881225000198","razao":"N G TECIDOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":67476.27},
-{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":42432.39},
-{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":40156.47},
 {"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":44357.79},
-{"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":2374.61},
-{"ie":25534734,"cnpj":"02932830000182","razao":"KATIA CILENE DE LIMA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":35155.45},
-{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":41554.92},
 {"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":28393.20},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":16262.91}];
+{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":41554.92},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":16262.91},
+{"ie":25534734,"cnpj":"02932830000182","razao":"KATIA CILENE DE LIMA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":35155.45},
+{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":42432.39},
+{"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":2374.61},
+{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":40156.47}];
 SaidasData.saidas = [{"ie":0,"cnpj":"29637363000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1275.00},
 {"ie":75431742,"cnpj":"29471348000149","razao":"LUCLECIO CARLOS SILVA DE LIMA","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":1.00},
 {"ie":0,"cnpj":"29304138000166","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":1500.00},
@@ -53,3 +53,11 @@ SaidasData.saidas = [{"ie":0,"cnpj":"29637363000114","razao":"","sit":"","regime
 {"ie":0,"cnpj":"01425066000196","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":450.00},
 {"ie":0,"cnpj":"00817534000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":760.00}];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"08575786000187","tel":"8137312723","razao":"NASCIMENTO ARMAZENS GERAIS LTDA ME","municipio":"SANTA CRUZ DO CAPIBARIBE"},
+{"cnpj":"08306824000104","tel":"8137312723","razao":"Confecções Nayara Viegas LTDA","municipio":"Passos"},
+{"cnpj":"06237888000167","tel":"8137312723","razao":"Comercial Magazine Center LTDA","municipio":"Sete Lagoas"},
+{"cnpj":"05880913000163","tel":"8137312723","razao":"Confecções Chaves e Viegas LTDA","municipio":"Pouso Alegre"},
+{"cnpj":"03705242000179","tel":"8137312723","razao":"Confecções Viegas LTDA","municipio":"Lavras"},
+{"cnpj":"02994970000185","tel":"8137312723","razao":"Confecções Muzzi LTDA","municipio":"Sete Lagoas"},
+{"cnpj":"01416075000110","tel":"8137312723","razao":"Confecções Lage e Cia LTDA","municipio":"Sete Lagoas"}];

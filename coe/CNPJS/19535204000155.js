@@ -8,3 +8,5 @@ SociosData.socios = [{"cpf":"88661393434","nome":"CLAUDIO SOARES DA SILVA","ie":
 {"cpf":"69263566453","nome":"JOSE IRAN DE LIMA","ie":56100108,"cnpj":"19535204000155","razao":"M. A. M. COMERCIO DE LUBRIFICANTES LTDA ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1},
 {"cpf":"69263566453","nome":"JOSE IRAN DE LIMA","ie":31468985,"cnpj":"06317593000109","razao":"COMERCIO ML LUBRIFICANTES LTDA  ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1},
 {"cpf":"53740726415","nome":"SAMUEL MENDES DE MOURA","ie":56100108,"cnpj":"19535204000155","razao":"M. A. M. COMERCIO DE LUBRIFICANTES LTDA ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

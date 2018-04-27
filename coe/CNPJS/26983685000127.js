@@ -3,3 +3,7 @@ EntradasData.entradas = [{"ie":0,"cnpj":"13464279000106","razao":"","sit":"","re
 {"ie":0,"cnpj":"11495016000139","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":69843.75}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07400982419","nome":"MATHEUS DE SA MATOS","ie":70623627,"cnpj":"26983685000127","razao":"MATHEUS DE SA MATOS 07400982419","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"09005073497","tel":"8133147971","razao":"Belkiss Branca Lacerda Bezerra Falcao","municipio":"RECIFE"},
+{"cnpj":"07400982419","tel":"8133147971","razao":"MATHEUS DE SA MATOS","municipio":"RECIFE"},
+{"cnpj":"00498424472","tel":"8133147971","razao":"OLIMPIO JURUBEBA SA","municipio":"RECIFE"}];

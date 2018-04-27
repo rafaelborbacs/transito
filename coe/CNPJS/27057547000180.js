@@ -5,3 +5,5 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07163664443","nome":"JOSE MARCOS DE MEDEIROS","ie":70825920,"cnpj":"27057547000180","razao":"JOSE MARCOS DE MEDEIROS ALIMENTOS EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"07163664443","nome":"JOSE MARCOS DE MEDEIROS","ie":70602204,"cnpj":"26957693000107","razao":"MERCADOS ALIMENTOS SERTANEJO LTDA EPP","sit":"B","regime":"SIMPLES","municipio":"IBIMIRIM","igi":0},
 {"cpf":"07163664443","nome":"JOSE MARCOS DE MEDEIROS","ie":66004179,"cnpj":"24110433000168","razao":"JOSE MARCOS DE MEDEIROS MERCADOS EPP","sit":"B","regime":"NORMAL","municipio":"PETROLANDIA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

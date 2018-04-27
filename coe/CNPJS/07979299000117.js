@@ -6,3 +6,5 @@ SociosData.socios = [{"cpf":"76690229491","nome":"ROBERVANIA JOSEFA SILVA","ie":
 {"cpf":"76690229491","nome":"ROBERVANIA JOSEFA SILVA","ie":36408336,"cnpj":"05852973000253","razao":"UANASDEY CONFECCOES LTDA","sit":"C","regime":"NORMAL","municipio":"PALMARES","igi":0},
 {"cpf":"76690229491","nome":"ROBERVANIA JOSEFA SILVA","ie":33765677,"cnpj":"07979299000117","razao":"ROBERVANIA JOSEFA SILVA","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":1},
 {"cpf":"76690229491","nome":"ROBERVANIA JOSEFA SILVA","ie":30459354,"cnpj":"05852973000172","razao":"UANASDEY CONFECCOES LTDA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":75571919,"cnpj":"29506184000148","r
 EntradasData.entradas = [{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":189614.99}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"75585103415","nome":"LUSANIRA PIRES DOS SANTOS","ie":75571919,"cnpj":"29506184000148","razao":"LUSANIRA PIRES DOS SANTOS 75585103415","sit":"C","regime":"SIMEI","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

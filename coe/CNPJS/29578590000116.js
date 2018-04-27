@@ -8,3 +8,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"11996461000506","razao":"","sit":"","regime
 {"ie":0,"cnpj":"11130928000298","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":144060.00},
 {"ie":0,"cnpj":"11130928000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":102340.00}];
 SociosData.socios = [{"cpf":"10616018460","nome":"NATALI SOARES CARDOSO DA SILVA","ie":75661748,"cnpj":"29578590000116","razao":"NATALI S C DA SILVA","sit":"S","regime":"NORMAL","municipio":"JATAUBA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

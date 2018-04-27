@@ -5,3 +5,5 @@ SociosData.socios = [{"cpf":"66171822434","nome":"MARIA AUXILIADORA DA SILVA FER
 {"cpf":"66171822434","nome":"MARIA AUXILIADORA DA SILVA FERREIRA","ie":25804707,"cnpj":"02949938000188","razao":"COOPERATIVA DOS TRABALHADORES EM CONFECCAO DE MACAPARANA","sit":"B","regime":"NORMAL","municipio":"MACAPARANA","igi":0},
 {"cpf":"04551813494","nome":"ANALU CRISTINA DA SILVA","ie":35807253,"cnpj":"09033893000146","razao":"COOPERATIVA EM CONFECCOES DE MACAPARANA","sit":"S","regime":"NORMAL","municipio":"MACAPARANA","igi":1},
 {"cpf":"02777124400","nome":"ANA PATRICIA DA SILVA","ie":35807253,"cnpj":"09033893000146","razao":"COOPERATIVA EM CONFECCOES DE MACAPARANA","sit":"S","regime":"NORMAL","municipio":"MACAPARANA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

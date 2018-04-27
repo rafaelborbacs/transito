@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":75975173,"cnpj":"29734920000115","r
 EntradasData.entradas = [{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":302820.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"70164712410","nome":"LUIZ HENRIQUE DA SILVA RIBEIRO","ie":75975173,"cnpj":"29734920000115","razao":"LUIZ HENRIQUE DA SILVA RIBEIRO 70164712410","sit":"C","regime":"SIMEI","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

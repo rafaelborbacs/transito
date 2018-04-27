@@ -28,3 +28,6 @@ SaidasData.saidas = [{"ie":0,"cnpj":"35398478000287","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PEREIRA NACOR","ie":55611672,"cnpj":"19305247000144","razao":"JC NACOR COMBUSTIVEIS LTDA - EPP","sit":"C","regime":"NORMAL","municipio":"CALCADO","igi":0},
 {"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PEREIRA NACOR","ie":38241870,"cnpj":"10826125000129","razao":"JD NACOR COMBUSTIVEIS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JUPI","igi":0},
 {"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PEREIRA NACOR","ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","regime":"NORMAL","municipio":"LAJEDO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"12580684000127","tel":"08737731798","razao":"EVERALDO L SILVA LAJENDENSE - ME","municipio":"Lajedo"},
+{"cnpj":"08987355000128","tel":"08737731798","razao":"ADEMILTON JOSE CAVALCANTE - ME","municipio":"LAJEDO"}];

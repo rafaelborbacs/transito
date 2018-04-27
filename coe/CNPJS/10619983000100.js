@@ -9,3 +9,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"10538296000152","razao":"","sit":"","regime
 {"ie":26812185,"cnpj":"03626590000150","razao":"MEDEXPRESS COMERCIO E IMPORTACAO DE PRODUTOS FARMACEUTICOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":71018.50}];
 SociosData.socios = [{"cpf":"93306989800","nome":"BENEDITO ADALBERTO DE GODOY","ie":39231429,"cnpj":"10619983000100","razao":"GODOY & BAPTISTELLA INDUSTRIA E COMERCIO DE PRODUTOS HIGIENE LTDA","sit":"C","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SANTA MARIA DA SERRA","igi":1},
 {"cpf":"07745992869","nome":"REGINA MARCIA BAPTISTELLA DE GODOY","ie":39231429,"cnpj":"10619983000100","razao":"GODOY & BAPTISTELLA INDUSTRIA E COMERCIO DE PRODUTOS HIGIENE LTDA","sit":"C","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SANTA MARIA DA SERRA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

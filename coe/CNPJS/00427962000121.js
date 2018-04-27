@@ -5,3 +5,5 @@ SociosData.socios = [{"cpf":"42596696487","nome":"LUCICLEIDE DE SOUZA AROUXA","i
 {"cpf":"42596696487","nome":"LUCICLEIDE DE SOUZA AROUXA","ie":20928750,"cnpj":"00427962000121","razao":"AFETO DECORACOES LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"16902602468","nome":"LUCIMAR AROXA MARTINS","ie":27213846,"cnpj":"00427962000202","razao":"AFETO DECORACOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"16902602468","nome":"LUCIMAR AROXA MARTINS","ie":20928750,"cnpj":"00427962000121","razao":"AFETO DECORACOES LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

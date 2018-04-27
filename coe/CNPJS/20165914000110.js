@@ -15,3 +15,5 @@ SociosData.socios = [{"cpf":"05661679483","nome":"MARIA CLARA LIMA PAES BARRETO"
 {"cpf":"03263479415","nome":"JOSE JOAQUIM PAES BARRETO","ie":14250306,"cnpj":"24093007000163","razao":"COMERCIAL DRAGAO OURO LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"03263479415","nome":"JOSE JOAQUIM PAES BARRETO","ie":11619708,"cnpj":"10585404000148","razao":"BRISA COMERCIO LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"03263479415","nome":"JOSE JOAQUIM PAES BARRETO","ie":2240572,"cnpj":"11232444000179","razao":"CEREALISTA ESTRELA NORTE LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

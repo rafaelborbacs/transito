@@ -45,3 +45,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96450479949","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00504039000227","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":6000.00}];
 SociosData.socios = [{"cpf":"06737045480","nome":"RAFAEL DE CARVALHO SILVA","ie":63308517,"cnpj":"22861929000148","razao":"RAFAEL DE CARVALHO SILVA 06737045480","sit":"C","regime":"NORMAL","municipio":"QUIPAPA","igi":1},
 {"cpf":"06737045480","nome":"RAFAEL DE CARVALHO SILVA","ie":35473371,"cnpj":"08987748000131","razao":"RAFAEL DE CARVALHO DA SILVA","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

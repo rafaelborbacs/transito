@@ -22,3 +22,5 @@ SociosData.socios = [{"cpf":"12868671420","nome":"VILMA CARNEIRO CAVALCANTI","ie
 {"cpf":"02897662492","nome":"MARCIO VIANA CAVALCANTI NEVES","ie":25890107,"cnpj":"03131324000157","razao":"MARCIO V C NEVES","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"02897662492","nome":"MARCIO VIANA CAVALCANTI NEVES","ie":15724077,"cnpj":"10681047000111","razao":"MULT-TEX LTDA ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"02897662492","nome":"MARCIO VIANA CAVALCANTI NEVES","ie":15723852,"cnpj":"10681047000111","razao":"MULT-TEX LTDA ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

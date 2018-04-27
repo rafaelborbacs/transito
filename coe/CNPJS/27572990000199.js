@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":71634606,"cnpj":"27572990000199","r
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"14839679000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":300096.00}];
 SociosData.socios = [{"cpf":"89024583420","nome":"FRANCISCO JUNIOR SALES DE MENEZES","ie":71634606,"cnpj":"27572990000199","razao":"FRANCISCO JUNIOR SALES DE MENEZES ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

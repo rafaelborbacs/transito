@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"14012554001004","razao":"","sit":"","re
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05016057460","nome":"ANA PAULA PEREIRA DA SILVA","ie":35950218,"cnpj":"09208952000170","razao":"ANA PAULA PEREIRA DA SILVA","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1},
 {"cpf":"05016057460","nome":"ANA PAULA PEREIRA DA SILVA","ie":15161676,"cnpj":"24397531000128","razao":"VEST BOUTIQUE LTDA","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0}];
+EmailsData.emails = [{"cnpj":"05016057460","email":"ANINHACONT@HOTMAIL.COM","razao":"ANA PAULA PEREIRA DA SILVA","municipio":"Santa Cruz do Capibaribe"}];
+TelsData.tels = [];

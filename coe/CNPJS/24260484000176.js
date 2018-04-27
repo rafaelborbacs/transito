@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"08989701000107","razao":"","sit":"","re
 {"ie":0,"cnpj":"11275512000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":13909.65}];
 SaidasData.saidas = [];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

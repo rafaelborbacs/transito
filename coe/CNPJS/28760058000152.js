@@ -4,3 +4,5 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"25432426862","nome":"EVANIO MAURICIO DE LIMA","ie":73937681,"cnpj":"28760058000152","razao":"SAO LONGUINHO COMERCIO E  EMPACOTAMENTO  LTDA ME","sit":"C","regime":"NORMAL","municipio":"BEZERROS","igi":1},
 {"cpf":"09468885402","nome":"PATRICIA MARIA DA SILVA","ie":74836277,"cnpj":"29206780000102","razao":"P. M. DA SILVA MERCADINHO ME","sit":"C","regime":"NORMAL","municipio":"BEZERROS","igi":1},
 {"cpf":"09468885402","nome":"PATRICIA MARIA DA SILVA","ie":73937681,"cnpj":"28760058000152","razao":"SAO LONGUINHO COMERCIO E  EMPACOTAMENTO  LTDA ME","sit":"C","regime":"NORMAL","municipio":"BEZERROS","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

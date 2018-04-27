@@ -10,3 +10,9 @@ SociosData.socios = [{"cpf":"09388715446","nome":"MARIA CLARA GOMES CHAGAS","ie"
 {"cpf":"06056108430","nome":"THALITA TAVARES NUNES","ie":73301973,"cnpj":"28431949000165","razao":"THALITA T NUNES ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0},
 {"cpf":"06056108430","nome":"THALITA TAVARES NUNES","ie":35556900,"cnpj":"09018592000143","razao":"TOP IMPORT TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"06056108430","nome":"THALITA TAVARES NUNES","ie":35238020,"cnpj":"08927008000100","razao":"J GOMES CHAGAS LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":1}];
+EmailsData.emails = [{"cnpj":"23687299000108","email":"topimportfiscal@hotmail.com","razao":"M C GOMES CHAGAS","municipio":"TORITAMA"},
+{"cnpj":"09018592000143","email":"topimportfiscal@hotmail.com","razao":"TOP IMPORT TECIDOS LTDA","municipio":"TORITAMA"}];
+TelsData.tels = [{"cnpj":"23687299000108","tel":"8137412917","razao":"M C GOMES CHAGAS EPP","municipio":"TORITAMA"},
+{"cnpj":"09018592000143","tel":"8137412917","razao":"TOP IMPORT TORITAMA","municipio":"TORITAMA"},
+{"cnpj":"06098670404","tel":"8137412917","razao":"JASON GOMES CHAGAS","municipio":"FERNANDO DE NORONHA"},
+{"cnpj":"01202724400","tel":"8137412917","razao":"Paulo Fernando Da Silva","municipio":"Caruaru"}];

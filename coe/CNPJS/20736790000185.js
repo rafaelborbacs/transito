@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":58655654,"cnpj":"20736790000185","r
 EntradasData.entradas = [{"ie":40226700,"cnpj":"01515050000174","razao":"LANGON COSMETICOS LTDA","sit":"S","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CURITIBA","igi":1,"uf":"PR","valor":353982.05}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05539248422","nome":"POLYANA ROCHA LOPES","ie":58655654,"cnpj":"20736790000185","razao":"POLYANA ROCHA LOPES 05539248422","sit":"A","regime":"SIMEI","municipio":"GRAVATA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

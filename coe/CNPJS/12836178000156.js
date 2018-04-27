@@ -20,3 +20,12 @@ EntradasData.entradas = [{"ie":17917379,"cnpj":"16701716000156","razao":"FCA FIA
 {"ie":0,"cnpj":"05010190000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":8470.40}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"02615168410","nome":"RAQUEL PACHECO HONORATO","ie":42664047,"cnpj":"12836178000156","razao":"RAQUEL PACHECO HONORATO 02615168410","sit":"A","regime":"SIMEI","municipio":"FERREIROS","igi":1}];
+EmailsData.emails = [{"cnpj":"86679732468","email":"henriqueheitor2@gmail.com","razao":"EDILSON LUIZ MARQUES","municipio":"FERREIROS"},
+{"cnpj":"27767929000105","email":"pholiveira01@outlook.com","razao":"P H OLIVEIRA REPRESENTACOES DE VESTUARIO LTDA ME","municipio":"RECIFE"},
+{"cnpj":"02615168410","email":"raquel@ig.com.br","razao":"RAQUEL PACHECO HONORATO","municipio":"FERREIROS"},
+{"cnpj":"02615168410","email":"henriqueheitor2@gmail.com","razao":"RAQUEL PACHECO HONORATO 02615168410","municipio":"FERREIROS"}];
+TelsData.tels = [{"cnpj":"86679732468","tel":"8136571403","razao":"EDILSON LUIZ MARQUES","municipio":"FERREIROS"},
+{"cnpj":"02615168410","tel":"81991771317","razao":"RAQUEL PACHECO HONORATO - Cod. 0030792","municipio":"FERREIROS"},
+{"cnpj":"02615168410","tel":"81991219222","razao":"raquel pacheco marques","municipio":"Ferreiros"},
+{"cnpj":"02615168410","tel":"8191219222","razao":"RAQUEL PACHECO HONORATO","municipio":"TIMBAUBA"},
+{"cnpj":"02615168410","tel":"8136571403","razao":"RAQUEL PACHECO HONORATO 02615168410","municipio":"FERREIROS"}];

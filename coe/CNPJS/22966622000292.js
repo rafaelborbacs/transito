@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":69043787,"cnpj":"22966622000292","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

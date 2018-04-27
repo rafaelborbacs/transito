@@ -1,5 +1,7 @@
-EstabelecimentoData.estabelecimento = [{"ie":76627268,"cnpj":"30093779000106","razao":"R.M. DE O. E SILVA COMERCIO DE BEBIDAS EIRELI","sit":"A","arrecadacao":0.00,"entradas":338999.16,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"03/04/2018"}];
+EstabelecimentoData.estabelecimento = [{"ie":76627268,"cnpj":"30093779000106","razao":"R.M. DE O. E SILVA COMERCIO DE BEBIDAS EIRELI","sit":"S","arrecadacao":0.00,"entradas":338999.16,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"03/04/2018"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":338999.16}];
 SaidasData.saidas = [];
-SociosData.socios = [{"cpf":"06056478440","nome":"RAFAEL MARTINS DE OLIVEIRA E SILVA","ie":76627268,"cnpj":"30093779000106","razao":"R.M. DE O. E SILVA COMERCIO DE BEBIDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":1},
+SociosData.socios = [{"cpf":"06056478440","nome":"RAFAEL MARTINS DE OLIVEIRA E SILVA","ie":76627268,"cnpj":"30093779000106","razao":"R.M. DE O. E SILVA COMERCIO DE BEBIDAS EIRELI","sit":"S","regime":"NORMAL","municipio":"VERTENTES","igi":1},
 {"cpf":"06056478440","nome":"RAFAEL MARTINS DE OLIVEIRA E SILVA","ie":66767822,"cnpj":"24486751000128","razao":"R.M. DE OLIVEIRA E SILVA ME","sit":"S","regime":"SIMPLES","municipio":"BONITO","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

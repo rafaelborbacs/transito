@@ -72,7 +72,7 @@ SociosData.socios = [{"cpf":"78068061487","nome":"ANA ALICE BARBOSA ROSENDO","ie
 {"cpf":"68504160491","nome":"SANDRO LUIZ GUEDES BARBOSA","ie":34000003,"cnpj":"03284919001700","razao":"P R DISTRIBUIDORA DE BEBIDAS E ALIMENTOS LTDA","sit":"B","regime":"NORMAL","municipio":"CARPINA","igi":0},
 {"cpf":"68504160491","nome":"SANDRO LUIZ GUEDES BARBOSA","ie":33983909,"cnpj":"08113314000102","razao":"MR ATACADOS ALIMENTOS E BEBIDAS LTDA","sit":"B","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
 {"cpf":"68504160491","nome":"SANDRO LUIZ GUEDES BARBOSA","ie":33945144,"cnpj":"07972173000382","razao":"MR SUPERMERCADOS LTDA.","sit":"C","regime":"NORMAL","municipio":"GOIANA","igi":0},
-{"cpf":"68504160491","nome":"SANDRO LUIZ GUEDES BARBOSA","ie":33944091,"cnpj":"07972173000463","razao":"MR SUPERMERCADOS LTDA.","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},
+{"cpf":"68504160491","nome":"SANDRO LUIZ GUEDES BARBOSA","ie":33944091,"cnpj":"07972173000463","razao":"MR SUPERMERCADOS LTDA.","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},
 {"cpf":"68504160491","nome":"SANDRO LUIZ GUEDES BARBOSA","ie":33939411,"cnpj":"07981543000186","razao":"NOVA NEGOCIOS, VEICULOS, PECAS E SERVICOS LTDA","sit":"S","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
 {"cpf":"68504160491","nome":"SANDRO LUIZ GUEDES BARBOSA","ie":33863504,"cnpj":"07972173000200","razao":"MR SUPERMERCADOS LTDA.","sit":"B","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
 {"cpf":"68504160491","nome":"SANDRO LUIZ GUEDES BARBOSA","ie":33863415,"cnpj":"07977164000112","razao":"TIMBAUBA RECICLAGEM LTDA.","sit":"B","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
@@ -141,7 +141,7 @@ SociosData.socios = [{"cpf":"78068061487","nome":"ANA ALICE BARBOSA ROSENDO","ie
 {"cpf":"40806022434","nome":"MARINALDO ROSENDO DE ALBUQUERQUE","ie":34000003,"cnpj":"03284919001700","razao":"P R DISTRIBUIDORA DE BEBIDAS E ALIMENTOS LTDA","sit":"B","regime":"NORMAL","municipio":"CARPINA","igi":0},
 {"cpf":"40806022434","nome":"MARINALDO ROSENDO DE ALBUQUERQUE","ie":33983909,"cnpj":"08113314000102","razao":"MR ATACADOS ALIMENTOS E BEBIDAS LTDA","sit":"B","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
 {"cpf":"40806022434","nome":"MARINALDO ROSENDO DE ALBUQUERQUE","ie":33945144,"cnpj":"07972173000382","razao":"MR SUPERMERCADOS LTDA.","sit":"C","regime":"NORMAL","municipio":"GOIANA","igi":0},
-{"cpf":"40806022434","nome":"MARINALDO ROSENDO DE ALBUQUERQUE","ie":33944091,"cnpj":"07972173000463","razao":"MR SUPERMERCADOS LTDA.","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},
+{"cpf":"40806022434","nome":"MARINALDO ROSENDO DE ALBUQUERQUE","ie":33944091,"cnpj":"07972173000463","razao":"MR SUPERMERCADOS LTDA.","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},
 {"cpf":"40806022434","nome":"MARINALDO ROSENDO DE ALBUQUERQUE","ie":33939411,"cnpj":"07981543000186","razao":"NOVA NEGOCIOS, VEICULOS, PECAS E SERVICOS LTDA","sit":"S","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
 {"cpf":"40806022434","nome":"MARINALDO ROSENDO DE ALBUQUERQUE","ie":33863504,"cnpj":"07972173000200","razao":"MR SUPERMERCADOS LTDA.","sit":"B","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
 {"cpf":"40806022434","nome":"MARINALDO ROSENDO DE ALBUQUERQUE","ie":33863415,"cnpj":"07977164000112","razao":"TIMBAUBA RECICLAGEM LTDA.","sit":"B","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
@@ -215,3 +215,5 @@ SociosData.socios = [{"cpf":"78068061487","nome":"ANA ALICE BARBOSA ROSENDO","ie
 {"cpf":"03304659455","nome":"RIVERLENE ROSENDO DE ALBUQUERQUE","ie":24045241,"cnpj":"01016078000329","razao":"SUBEAL SURUBIM BEBIDAS E ALIMENTOS LTDA","sit":"B","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
 {"cpf":"03304659455","nome":"RIVERLENE ROSENDO DE ALBUQUERQUE","ie":23761997,"cnpj":"01016078000248","razao":"SUBEAL SURUBIM BEBIDAS E ALIMENTOS LTDA","sit":"B","regime":"NORMAL","municipio":"TIMBAUBA","igi":0},
 {"cpf":"03304659455","nome":"RIVERLENE ROSENDO DE ALBUQUERQUE","ie":21872481,"cnpj":"01016078000167","razao":"SUBEAL SURUBIM BEBIDAS E ALIMENTOS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

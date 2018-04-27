@@ -6,3 +6,5 @@ SaidasData.saidas = [{"ie":38302098,"cnpj":"68174069000175","razao":"EXTRA PREST
 {"ie":0,"cnpj":"17376231000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":17647.06},
 {"ie":30931231,"cnpj":"06015530000190","razao":"AGROINDUSTRIAL FRUTNAA LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":456366.10}];
 SociosData.socios = [{"cpf":"70276095413","nome":"MANOEL VICTOR DE SOUZA CAVALCANTE","ie":74735594,"cnpj":"29158943000129","razao":"MANOEL VICTOR DE SOUZA CAVALCANTE EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"AGUA PRETA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

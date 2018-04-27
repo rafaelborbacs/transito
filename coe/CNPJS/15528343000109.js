@@ -10,3 +10,5 @@ SociosData.socios = [{"cpf":"05388847462","nome":"TIAGO JOSE DE FREITAS SILVA","
 {"cpf":"01040991432","nome":"SILVANEIDE DE BARROS SILVA","ie":56697821,"cnpj":"19810087000190","razao":"T & S DA SILVA VESTUARIO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0},
 {"cpf":"01040991432","nome":"SILVANEIDE DE BARROS SILVA","ie":48661260,"cnpj":"15528343000109","razao":"TIAGO & SILVIA CONFECCOES LTDA ME","sit":"C","regime":"NORMAL","municipio":"PALMARES","igi":1},
 {"cpf":"01040991432","nome":"SILVANEIDE DE BARROS SILVA","ie":43279856,"cnpj":"08073851000176","razao":"SILVANEIDE DE BARROS SILVA","sit":"S","regime":"SIMPLES","municipio":"PALMARES","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

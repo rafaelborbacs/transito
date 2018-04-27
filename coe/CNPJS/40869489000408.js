@@ -41,3 +41,5 @@ SociosData.socios = [{"cpf":"65611861415","nome":"MARIA ELZA GOMES MACEDO QUEIRO
 {"cpf":"12532290404","nome":"MARY ELZE GOMES QUEIROZ","ie":17882567,"cnpj":"40869489000157","razao":"GRANDE RIO INDUSTRIA TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":1},
 {"cpf":"12532290404","nome":"MARY ELZE GOMES QUEIROZ","ie":5746604,"cnpj":"11158169000352","razao":"CASAS QUEIROZ LTDA","sit":"B","regime":"NORMAL","municipio":"PETROLINA","igi":0},
 {"cpf":"12532290404","nome":"MARY ELZE GOMES QUEIROZ","ie":1180100,"cnpj":"11158169000190","razao":"CASAS QUEIROZ LTDA","sit":"B","regime":"NORMAL","municipio":"PETROLINA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

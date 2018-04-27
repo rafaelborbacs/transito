@@ -5,3 +5,5 @@ SaidasData.saidas = [{"ie":32873948,"cnpj":"07537519000152","razao":"J F JATOBA 
 {"ie":0,"cnpj":"04171717000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":60406.00},
 {"ie":0,"cnpj":"03419681000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":58656.00}];
 SociosData.socios = [{"cpf":"12254700480","nome":"RAMON RODRIGUES DE LIMA","ie":72222387,"cnpj":"27868709000160","razao":"RAMON RODRIGUES DE LIMA 12254700480","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

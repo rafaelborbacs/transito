@@ -2,7 +2,9 @@ EstabelecimentoData.estabelecimento = [{"ie":67236081,"cnpj":"24720629000174","r
 EntradasData.entradas = [{"ie":0,"cnpj":"01446158000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":264.00},
 {"ie":0,"cnpj":"28385574000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":1044.00},
 {"ie":0,"cnpj":"21803173000118","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":249.60},
-{"ie":0,"cnpj":"20397765000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":620.00},
-{"ie":0,"cnpj":"20991231000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":385.00}];
+{"ie":0,"cnpj":"20991231000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":385.00},
+{"ie":0,"cnpj":"20397765000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":620.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"11493802410","nome":"CAIO ANDRIO DE ANDRADE BEZERRA","ie":67236081,"cnpj":"24720629000174","razao":"CAIO ANDRIO DE ANDRADE BEZERRA 11493802410","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

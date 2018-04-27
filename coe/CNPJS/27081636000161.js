@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":70813248,"cnpj":"27081636000161","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08959074454","nome":"PAULO ALBERTO LOPES OLIVEIRA","ie":70813248,"cnpj":"27081636000161","razao":"P A L OLIVEIRA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

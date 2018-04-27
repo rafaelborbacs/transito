@@ -187,3 +187,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99384825387","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00051309211","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":400.00},
 {"ie":0,"cnpj":"00037547151","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":149.50}];
 SociosData.socios = [{"cpf":"10672534401","nome":"IGOR VENUS DA SILVA","ie":60273500,"cnpj":"21453872000185","razao":"IGOR VENUS DA SILVA 10672534401","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

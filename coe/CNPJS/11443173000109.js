@@ -9,3 +9,5 @@ SociosData.socios = [{"cpf":"07586710406","nome":"SEVERINO FRANCISCO DE ARAUJO",
 {"cpf":"03557219453","nome":"EVANY FRANCISCO DE ARAUJO","ie":6558488,"cnpj":"11443173000109","razao":"MERCANTIL EVAFRAN LIMITADA","sit":"C","regime":"NORMAL","municipio":"PAULISTA","igi":1},
 {"cpf":"02326133463","nome":"MARIA DA SALETE BERNARDES ARAUJO","ie":32239149,"cnpj":"11443173000281","razao":"MERCANTIL EVAFRAN LIMITADA","sit":"B","regime":"NORMAL","municipio":"PAULISTA","igi":0},
 {"cpf":"02326133463","nome":"MARIA DA SALETE BERNARDES ARAUJO","ie":6558488,"cnpj":"11443173000109","razao":"MERCANTIL EVAFRAN LIMITADA","sit":"C","regime":"NORMAL","municipio":"PAULISTA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

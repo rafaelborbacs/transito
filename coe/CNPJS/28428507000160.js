@@ -10,3 +10,5 @@ SociosData.socios = [{"cpf":"05935152428","nome":"GEOVANO JORGE DE LIMA","ie":73
 {"cpf":"05935152428","nome":"GEOVANO JORGE DE LIMA","ie":65172345,"cnpj":"23732643000125","razao":"COMERCIAL LAGOA DO OURO ALIMENTOS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"LAGOA DO OURO","igi":0},
 {"cpf":"05935152428","nome":"GEOVANO JORGE DE LIMA","ie":62899244,"cnpj":"22633425000170","razao":"GEOVANO JORGE DE LIMA MERCADINHO EPP","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0},
 {"cpf":"05935152428","nome":"GEOVANO JORGE DE LIMA","ie":42945801,"cnpj":"13003771000184","razao":"COMERCIAL NELTRO LTDA ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

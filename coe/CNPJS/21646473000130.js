@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"51741684000385","razao":"","sit":"","re
 {"ie":37101730,"cnpj":"10319789000100","razao":"CECILIA CHAVES COMERCIO VAREJISTA DE BOLOS DECORADOS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":797.31}];
 SaidasData.saidas = [];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

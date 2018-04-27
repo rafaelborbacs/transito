@@ -10,3 +10,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"46250411003070","razao":"","sit":"","regime
 {"ie":25054449,"cnpj":"03514896000115","razao":"THOMAS GREG & SONS GRAFICA E SERVICOS, INDUSTRIA E COMERCIO, IMPORTACAO E EXPORTACAO DE EQUIPAMENTO LTDA","sit":"A","regime":"GRAFICAS - OUTROS ESTADOS","municipio":"SAO BERNARDO DO CAMPO","igi":0,"uf":"SP","valor":1000.00},
 {"ie":0,"cnpj":"00353439000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":3840.00}];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -10,3 +10,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"03061901000181","razao":"","sit":"","regime
 {"ie":0,"cnpj":"00358773000306","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":25650.00},
 {"ie":0,"cnpj":"00358773000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":47336.09}];
 SociosData.socios = [{"cpf":"07453621410","nome":"FELIPE EDUARDO DA SILVA","ie":60949538,"cnpj":"21742107000185","razao":"FELIPE EDUARDO DA SILVA 07453621410","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

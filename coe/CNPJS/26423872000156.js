@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":69464707,"cnpj":"26423872000156","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09181987471","nome":"ALINE RAFAELLA MONTENEGRO RAMOS","ie":69464707,"cnpj":"26423872000156","razao":"A R M RAMOS ROUPAS ARMARINHO E SALAO DE BELEZA ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

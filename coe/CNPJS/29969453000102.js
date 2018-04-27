@@ -384,3 +384,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00293094330","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":7980.00},
 {"ie":0,"cnpj":"00117729302","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":7905.00}];
 SociosData.socios = [{"cpf":"11104631466","nome":"EDNALDO ALBUQUERQUE DA SILVA","ie":76323471,"cnpj":"29969453000102","razao":"EDNALDO A DA SILVA","sit":"A","regime":"NORMAL","municipio":"JATAUBA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

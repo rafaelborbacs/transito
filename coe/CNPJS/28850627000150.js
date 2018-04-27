@@ -11,3 +11,5 @@ SociosData.socios = [{"cpf":"37545733819","nome":"RENATTA MIKAELA FERREIRA","ie"
 {"cpf":"11029059411","nome":"LUIZ FERNANDO DA SILVA ALVES","ie":74348710,"cnpj":"28948063000193","razao":"NOSSA TERRA COMERCIAL DE ALIMENTOS LTDA ME","sit":"C","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":1},
 {"cpf":"11029059411","nome":"LUIZ FERNANDO DA SILVA ALVES","ie":74345290,"cnpj":"28941651000103","razao":"L FERNANDO DA SILVA ALVES ME","sit":"C","regime":"NORMAL","municipio":"LAGOA DOS GATOS","igi":1},
 {"cpf":"11029059411","nome":"LUIZ FERNANDO DA SILVA ALVES","ie":74148893,"cnpj":"28850627000150","razao":"COMERCIAL BOA SERRA LTDA ME","sit":"C","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -36,3 +36,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime
 {"ie":0,"cnpj":"01655838784","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1728.00},
 {"ie":0,"cnpj":"01434879000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4100.00}];
 SociosData.socios = [{"cpf":"06232650441","nome":"JOSE WELLINGTON DA SILVA","ie":72013206,"cnpj":"27740207000159","razao":"JOSE WELLINGTON DA SILVA E SILVA EIRELI ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

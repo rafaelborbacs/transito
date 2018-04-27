@@ -18,3 +18,5 @@ SociosData.socios = [{"cpf":"70339887451","nome":"GIULIA SIMAS BARBOZA","ie":452
 {"cpf":"02697186484","nome":"TACIANA SIMAS BARBOZA","ie":65500881,"cnpj":"23893804000162","razao":"SEG ART - COMERCIO ATACADISTA DE EQUIPAMENTOS DE PROTECAO EIRELI ME","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0},
 {"cpf":"02697186484","nome":"TACIANA SIMAS COSTA","ie":45206708,"cnpj":"12320782000125","razao":"ARTSEG - COMERCIO ATACADISTA DE EQUIPAMENTOS DE PROTECAO LTDA ME","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":1},
 {"cpf":"02138753735","nome":"GLAUCIO EMANUEL BARBOZA JUNIOR","ie":45206708,"cnpj":"12320782000125","razao":"ARTSEG - COMERCIO ATACADISTA DE EQUIPAMENTOS DE PROTECAO LTDA ME","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

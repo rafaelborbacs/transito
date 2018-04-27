@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":25482246,"cnpj":"00913443000173","razao":"RENAULT
 {"ie":26570823,"cnpj":"02671595000213","razao":"EUROVIA VEICULOS S/A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":490.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"77050452491","nome":"MARLEIDE MOURA ANDRE","ie":55278132,"cnpj":"19169336000100","razao":"MARLEIDE MOURA ANDRE 77050452491","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

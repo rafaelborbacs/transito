@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":20126344,"cnpj":"70089974000179","razao":"COMERCI
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07962420383","nome":"FRANCISCO WILTON DA SILVA","ie":72403683,"cnpj":"27967981000105","razao":"FRANCISCO WILTON DA SILVA ME","sit":"C","regime":"NORMAL","municipio":"ARCOVERDE","igi":1},
 {"cpf":"07962420383","nome":"FRANCISCO WILTON DA SILVA","ie":72308427,"cnpj":"27924834000140","razao":"FRANCISCO WILTON DA SILVA EIRELI ME","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

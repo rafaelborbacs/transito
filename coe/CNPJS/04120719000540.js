@@ -5,3 +5,5 @@ SociosData.socios = [{"cpf":"87046741891","nome":"JOSE ANOTNIO PALARO","ie":5014
 {"cpf":"87046741891","nome":"JOSE ANOTNIO PALARO","ie":46839437,"cnpj":"04120719000540","razao":"DALKA DO BRASIL LTDA","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1},
 {"cpf":"23269112882","nome":"SIXTO MUGURUZA VALDEOS","ie":50145223,"cnpj":"04120719000974","razao":"DALKA DO BRASIL LTDA","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0},
 {"cpf":"23269112882","nome":"SIXTO MUGURUZA VALDEOS","ie":46839437,"cnpj":"04120719000540","razao":"DALKA DO BRASIL LTDA","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -15,3 +15,5 @@ SociosData.socios = [{"cpf":"72865466434","nome":"GEORGE CORDEIRO DA SILVA","ie"
 {"cpf":"00721832415","nome":"JOSE FRANCISCO DA SILVA","ie":8581533,"cnpj":"08066649000117","razao":"METALURGICA PEIXINHO LTDA","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1},
 {"cpf":"00721832415","nome":"JOSE FRANCISCO DA SILVA","ie":3885216,"cnpj":"10738029000129","razao":"JOSE FRANCISCO DA SILVA PETROLINA","sit":"B","regime":"NORMAL","municipio":"PETROLINA","igi":0},
 {"cpf":"00721832415","nome":"JOSE FRANCISCO DA SILVA","ie":1861638,"cnpj":"10738029000129","razao":"JOSE FRANCISCO DA SILVA PETROLINA","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

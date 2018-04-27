@@ -65,3 +65,5 @@ SociosData.socios = [{"cpf":"79564283515","nome":"JOSE EMERSON DE ARAUJO","ie":5
 {"cpf":"79564283515","nome":"JOSE EMERSON DE ARAUJO","ie":41899229,"cnpj":"03740426000170","razao":"TOK STAR INDUSTRIA E COMERCIO DE CONFECCOES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0},
 {"cpf":"01533811598","nome":"THAISE PEREIRA DE SOUZA ARAUJO","ie":59975423,"cnpj":"03740426000250","razao":"TOK STAR INDUSTRIA E COMERCIO DE CONFECCOES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1},
 {"cpf":"01533811598","nome":"THAISE PEREIRA DE SOUZA ARAUJO","ie":41899229,"cnpj":"03740426000170","razao":"TOK STAR INDUSTRIA E COMERCIO DE CONFECCOES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

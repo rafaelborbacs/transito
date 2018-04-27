@@ -7,3 +7,5 @@ SociosData.socios = [{"cpf":"03569449483","nome":"LUCIANA DE OLIVEIRA QUIRINO","
 {"cpf":"02715607466","nome":"BRUNO ROBERTO PINTO DE SENA","ie":34313982,"cnpj":"06346368000354","razao":"BRUNO ROBERTO PINTO DE SENA ME","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"02715607466","nome":"BRUNO ROBERTO PINTO DE SENA","ie":32881371,"cnpj":"06346368000273","razao":"BRUNO ROBERTO PINTO DE SENA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"02715607466","nome":"BRUNO ROBERTO PINTO DE SENA","ie":31358969,"cnpj":"06346368000192","razao":"BRUNO ROBERTO PINTO DE SENA ME","sit":"S","regime":"NORMAL","municipio":"SURUBIM","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -23,3 +23,5 @@ SociosData.socios = [{"cpf":"96838841649","nome":"RODRIGO NELSON DE SENNA SOUSA 
 {"cpf":"13364294615","nome":"LUIZ CARLOS DOS SANTOS AMANCIO","ie":37841262,"cnpj":"19884626001108","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"13044893615","nome":"EDUARDO VIANA RABELO","ie":43220886,"cnpj":"19884626001299","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","regime":"NORMAL","municipio":"IPOJUCA","igi":1},
 {"cpf":"13044893615","nome":"EDUARDO VIANA RABELO","ie":37841262,"cnpj":"19884626001108","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -6,3 +6,5 @@ SociosData.socios = [{"cpf":"05824291454","nome":"JOELY NASCIMENTO SILVA VERAS",
 {"cpf":"05824291454","nome":"JOELY NASCIMENTO SILVA VERAS","ie":30275032,"cnpj":"05744708000170","razao":"JOEDSON E JOELY CONFECCOESLTDA ME","sit":"A","regime":"SIMPLES","municipio":"CUPIRA","igi":0},
 {"cpf":"03278739493","nome":"JOEDSON NASCIMENTO SILVA","ie":59305371,"cnpj":"21061773000158","razao":"CONFECCOES ALTINENSE LTDA","sit":"A","regime":"SIMPLES","municipio":"ALTINHO","igi":1},
 {"cpf":"03278739493","nome":"JOEDSON NASCIMENTO SILVA","ie":30275032,"cnpj":"05744708000170","razao":"JOEDSON E JOELY CONFECCOESLTDA ME","sit":"A","regime":"SIMPLES","municipio":"CUPIRA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

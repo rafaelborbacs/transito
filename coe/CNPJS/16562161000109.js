@@ -9,3 +9,5 @@ SaidasData.saidas = [{"ie":67670016,"cnpj":"24961652000150","razao":"LUCIANO DE 
 SociosData.socios = [{"cpf":"70258959460","nome":"SAMUEL FRANCISCO DE ANDRADE","ie":70358702,"cnpj":"16562161000109","razao":"SAMUEL FRANCISCO DE ANDRADE EIRELI - ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"70258959460","nome":"SAMUEL FRANCISCO DE ANDRADE","ie":41007352,"cnpj":"12376142000137","razao":"ANS ATACADISTAS DE MASSAS ALIMENTICIAS LTDA ME","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"70258959460","nome":"SAMUEL FRANCISCO DE ANDRADE","ie":38578832,"cnpj":"10941876000196","razao":"DELTAPLAST INDUSTRIA E COMERCIO LTDA","sit":"C","regime":"NORMAL","municipio":"GRAVATA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

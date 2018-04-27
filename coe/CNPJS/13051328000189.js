@@ -9,3 +9,5 @@ SociosData.socios = [{"cpf":"85827460400","nome":"MARLENE QUIRINO DA SILVA","ie"
 {"cpf":"37113321453","nome":"EDUARDO DE MEDEIROS VILA NOVA","ie":34857141,"cnpj":"08695749000102","razao":"COMERCIAL DAS CORREIAS E CORRENTES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"37113321453","nome":"EDUARDO DE MEDEIROS VILA NOVA","ie":18213936,"cnpj":"35517994000100","razao":"LOJAS DAS CORRENTES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"37113321453","nome":"EDUARDO DE MEDEIROS VILA NOVA","ie":15481158,"cnpj":"24552788000107","razao":"CASA DAS CORRENTES DO RECIFE LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"20282321000133","tel":"30360366","razao":"TRANSTEC INDUSTRIA COMERCIO SERVICOS EIRELI","municipio":"Recife"}];

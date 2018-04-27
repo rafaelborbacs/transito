@@ -12,3 +12,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"08948037000158","razao":"","sit":"","re
 {"ie":32049870,"cnpj":"04206050008246","razao":"TIM CELULAR S.A.","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":2958.62}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06753763430","nome":"ROBERTA MACEDO BARBOSA","ie":69560412,"cnpj":"26453914000100","razao":"ROBERTA MACEDO BARBOSA 06753763430","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

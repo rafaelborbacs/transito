@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":54925720,"cnpj":"19002448000172","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"03598005806","nome":"MARIA FERNANDA STIPP MICHELMAM","ie":54925720,"cnpj":"19002448000172","razao":"MARIA FERNANDA STIPP MICHELMAM 03598005806","sit":"A","regime":"SIMEI","municipio":"IPOJUCA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

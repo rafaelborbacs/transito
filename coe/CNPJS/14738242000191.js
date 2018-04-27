@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":46847456,"cnpj":"14738242000191","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10453560423","nome":"GISSELY SANDY VIEIRA DIAS","ie":46847456,"cnpj":"14738242000191","razao":"GISSELY SANDY VIEIRA DIAS ME","sit":"C","regime":"NORMAL","municipio":"PAUDALHO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":55392938,"cnpj":"19220084000105","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08161062404","nome":"GIVANILDO ALEXANDRE VASCONCELOS","ie":55392938,"cnpj":"19220084000105","razao":"GIVANILDO ALEXANDRE VASCONCELOS 08161062404","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

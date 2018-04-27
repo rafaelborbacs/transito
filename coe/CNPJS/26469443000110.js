@@ -5,3 +5,6 @@ EntradasData.entradas = [{"ie":28977335,"cnpj":"03721769000278","razao":"MASTERB
 {"ie":6682227,"cnpj":"24150377000195","razao":"KARNE KEIJO - LOGISTICA INTEGRADA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10460.05}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10284422460","nome":"GLAUBER ANTONIO MONTEIRO DE MELO FILHO","ie":69584192,"cnpj":"26469443000110","razao":"GLAUBER ANTONIO MONTEIRO DE MELO FILHO 10284422460","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"36383775472","tel":"8130401350","razao":"MARIA DA GLORIA BATISTA MONTEIRO","municipio":"RECIFE"},
+{"cnpj":"09090975420","tel":"8130401350","razao":"FERNANDO ANTONIO","municipio":"RECIFE"}];

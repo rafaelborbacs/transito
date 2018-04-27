@@ -15,3 +15,5 @@ SociosData.socios = [{"cpf":"98505351487","nome":"JOELMA MORAES NUNES SILVA","ie
 {"cpf":"47622059404","nome":"ADGILSON RODRIGUES DE MELO","ie":27278891,"cnpj":"03909307000106","razao":"BKP SERVICOS ASSESSORIA EMPRESARIAL LTDA","sit":"B","regime":"NORMAL","municipio":"GARANHUNS","igi":0},
 {"cpf":"10153062410","nome":"MAGDA DE GODOY NUNES","ie":59998121,"cnpj":"21347452000114","razao":"CARUARU MINERACAO LTDA","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"10153062410","nome":"MAGDA DE GODOY NUNES","ie":39037029,"cnpj":"10586255000131","razao":"REZENDE LOCACAO DE VEICULOS LTDA","sit":"B","regime":"NORMAL","municipio":"GARANHUNS","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

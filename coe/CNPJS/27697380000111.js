@@ -1,17 +1,17 @@
 EstabelecimentoData.estabelecimento = [{"ie":71891099,"cnpj":"27697380000111","razao":"COMERCIAL PORTA VELHA EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":2359097.83,"saidas":2851179.28,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"JUPI","drr":"II","igi":1,"dataie":"10/05/2017"}];
-EntradasData.entradas = [{"ie":37242636,"cnpj":"10466311000102","razao":"VIEIRA & SILVA COMERCIO ATACADISTA LTDA ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":29842.37},
+EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":760226.17},
 {"ie":52357317,"cnpj":"75315333015050","razao":"ATACADAO S.A","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":263886.48},
-{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":64245.00},
-{"ie":37162870,"cnpj":"10422303000156","razao":"C.A.A. COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":152946.85},
-{"ie":31278426,"cnpj":"06281775000169","razao":"M. F. SANTOS PRODUTOS ALIMENTICIOS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":93273.86},
-{"ie":21937010,"cnpj":"11797222000101","razao":"USINA CENTRAL OLHO D'AGUA S/A","sit":"B","regime":"NORMAL","municipio":"CAMUTANGA","igi":0,"uf":"PE","valor":726800.00},
 {"ie":55942270,"cnpj":"16538975000108","razao":"MULTI DISTRIBUIDORA COSTA & DONARA LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":47503.65},
-{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":760226.17},
+{"ie":21937010,"cnpj":"11797222000101","razao":"USINA CENTRAL OLHO D'AGUA S/A","sit":"B","regime":"NORMAL","municipio":"CAMUTANGA","igi":0,"uf":"PE","valor":726800.00},
 {"ie":0,"cnpj":"16733677000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":28871.70},
+{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":64245.00},
 {"ie":30722667,"cnpj":"05932995000142","razao":"DISTRIBUIDORA ESTRELA GUIA EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":16702.00},
-{"ie":921181,"cnpj":"11797222000101","razao":"USINA CENTRAL OLHO D'AGUA S/A","sit":"A","regime":"NORMAL","municipio":"CAMUTANGA","igi":0,"uf":"PE","valor":726800.00},
+{"ie":31278426,"cnpj":"06281775000169","razao":"M. F. SANTOS PRODUTOS ALIMENTICIOS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":93273.86},
+{"ie":37162870,"cnpj":"10422303000156","razao":"C.A.A. COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":152946.85},
 {"ie":25656333,"cnpj":"02844542000176","razao":"JOSE NARCIZO LEITE EPP","sit":"A","regime":"NORMAL","municipio":"LAGOA GRANDE","igi":0,"uf":"PE","valor":171850.00},
-{"ie":33472734,"cnpj":"07805481000151","razao":"SUPERMERCADO NOVA OPCAO LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":2949.75}];
+{"ie":33472734,"cnpj":"07805481000151","razao":"SUPERMERCADO NOVA OPCAO LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":2949.75},
+{"ie":37242636,"cnpj":"10466311000102","razao":"VIEIRA & SILVA COMERCIO ATACADISTA LTDA ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":29842.37},
+{"ie":921181,"cnpj":"11797222000101","razao":"USINA CENTRAL OLHO D'AGUA S/A","sit":"A","regime":"NORMAL","municipio":"CAMUTANGA","igi":0,"uf":"PE","valor":726800.00}];
 SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUSTO DE QUEIROZ BATISTA","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":30215.00},
 {"ie":44862938,"cnpj":"97529952000139","razao":"NASCIMENTO & REIS SUPERMERCADOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":5600.00},
 {"ie":19591071,"cnpj":"41255118000148","razao":"JOELSON F FERRAZ BETANIA","sit":"A","regime":"NORMAL","municipio":"BETANIA","igi":0,"uf":"PE","valor":8850.00},
@@ -38,8 +38,8 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":48731498,"cnpj":"15525952000104","razao":"FAL - FABRICA DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":6000.00},
 {"ie":46595201,"cnpj":"14373541000170","razao":"NORDESTE INDUSTRIA E COMERCIO DE DOCES E ALIMENTOS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"GRAVATA","igi":0,"uf":"PE","valor":5280.00},
 {"ie":43356354,"cnpj":"13241574000101","razao":"X 15 COMERCIO ATACADISTA E IMPORTACAO DE ALIMENTOS  LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":300098.00},
-{"ie":13798286,"cnpj":"12778684000136","razao":"G M CHAVES PERAZZO","sit":"A","regime":"NORMAL","municipio":"TUPARETAMA","igi":0,"uf":"PE","valor":4350.00},
 {"ie":13799258,"cnpj":"12778684000136","razao":"G M CHAVES PERAZZO","sit":"B","regime":"NORMAL","municipio":"TUPARETAMA","igi":0,"uf":"PE","valor":4350.00},
+{"ie":13798286,"cnpj":"12778684000136","razao":"G M CHAVES PERAZZO","sit":"A","regime":"NORMAL","municipio":"TUPARETAMA","igi":0,"uf":"PE","valor":4350.00},
 {"ie":40554970,"cnpj":"12240088000106","razao":"MERCADAO CONFIANCA AFOGADENSE LTDA","sit":"A","regime":"NORMAL","municipio":"AFOGADOS DA INGAZEIRA","igi":0,"uf":"PE","valor":14450.00},
 {"ie":49520571,"cnpj":"11400020000338","razao":"MERCANTIL TAVARES SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"AFOGADOS DA INGAZEIRA","igi":0,"uf":"PE","valor":20550.00},
 {"ie":38918609,"cnpj":"11400020000176","razao":"MERCANTIL TAVARES SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"AFOGADOS DA INGAZEIRA","igi":0,"uf":"PE","valor":26050.00},
@@ -87,3 +87,5 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":24789941,"cnpj":"02534585000155","razao":"SUPERMERCADO QUEIROZ LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":1405.00},
 {"ie":39213447,"cnpj":"00807662000259","razao":"SUPERMERCADO M. GRANJA LTDA ME","sit":"A","regime":"NORMAL","municipio":"PARNAMIRIM","igi":0,"uf":"PE","valor":7800.00}];
 SociosData.socios = [{"cpf":"05915200443","nome":"RIVERSON MEDINO DA ROCHA","ie":71891099,"cnpj":"27697380000111","razao":"COMERCIAL PORTA VELHA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"JUPI","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

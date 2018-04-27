@@ -8,3 +8,5 @@ SociosData.socios = [{"cpf":"66946980468","nome":"ANA PAULA RAMOS DO NASCIMENTO 
 {"cpf":"09826926418","nome":"ANNE CAROLINE DE FRANCA FISCHER","ie":47020695,"cnpj":"12256801000100","razao":"GIULIA COMERCIO E SERVICOS LTDA  ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"08859447470","nome":"CAMILLA NASCIMENTO SPECK","ie":61542717,"cnpj":"12256801000282","razao":"GIULIA COMERCIO E SERVICOS LTDA - ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"08859447470","nome":"CAMILLA NASCIMENTO SPECK","ie":47020695,"cnpj":"12256801000100","razao":"GIULIA COMERCIO E SERVICOS LTDA  ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

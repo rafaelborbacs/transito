@@ -5,3 +5,5 @@ EntradasData.entradas = [{"ie":43687628,"cnpj":"16404287029056","razao":"SUZANO 
 {"ie":0,"cnpj":"07806477000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3764.75}];
 SaidasData.saidas = [];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

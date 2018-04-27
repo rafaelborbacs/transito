@@ -242,3 +242,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"98798006053","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00048939218","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":393.40}];
 SociosData.socios = [{"cpf":"70337228426","nome":"DAVID BERNARDINO DE OLIVEIRA","ie":74138669,"cnpj":"28816804000182","razao":"DAVID BERNARDINO DE OLIVEIRA 70337228426","sit":"C","regime":"SIMEI","municipio":"TAQUARITINGA DO NORTE","igi":1},
 {"cpf":"70337228426","nome":"DAVID BERNARDINO DE OLIVEIRA","ie":73428531,"cnpj":"28478656000133","razao":"DAVID BERNARDINO DE OLIVEIRA 70337228426","sit":"B","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":42313414,"cnpj":"12847001000155","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08915135407","nome":"ANTONIO JEFFETON FERREIRA ARAUJO","ie":42313414,"cnpj":"12847001000155","razao":"ANTONIO J FERREIRA ARAUJO ME","sit":"S","regime":"NORMAL","municipio":"LAJEDO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

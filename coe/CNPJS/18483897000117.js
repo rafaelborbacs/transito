@@ -9,3 +9,5 @@ SociosData.socios = [{"cpf":"86135520806","nome":"EDISON VENEZIANO","ie":5667259
 {"cpf":"00378683810","nome":"MARCELO JOAO DOS REIS","ie":56672594,"cnpj":"19787130000144","razao":"TERMOCRAFT INDUSTRIA E COMERCIO DE PAPEIS LTDA","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},
 {"cpf":"00378683810","nome":"MARCELO JOAO DOS REIS","ie":54067308,"cnpj":"18666905000160","razao":"AGROL TRADING IMPORTACAO E EXPORTACAO LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"00378683810","nome":"MARCELO JOAO DOS REIS","ie":53641671,"cnpj":"18483897000117","razao":"QUIMICRAFT NORDESTE INDUSTRIA QUIMICA LTDA","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

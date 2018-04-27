@@ -8,5 +8,7 @@ SaidasData.saidas = [{"ie":32672373,"cnpj":"70089867000221","razao":"LACOMEX-IND
 {"ie":41399250,"cnpj":"12369668000190","razao":"SMALT BRASIL PRODUTOS PARA CERAMICA LTDA","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":3000.00},
 {"ie":34714545,"cnpj":"08602756000112","razao":"MATOS OLIVEIRA ENGENHARIA LTDA","sit":"B","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":4245.00},
 {"ie":33901287,"cnpj":"07998535000142","razao":"PRO DELPHUS SIMULADORES CIRURGICOS LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2992.50}];
-SociosData.socios = [{"cpf":"78217474400","nome":"CASSIA ARAUJO DE MEDEIROS","ie":76648184,"cnpj":"30143323000103","razao":"ARAUJO DE MEDEIROS BARES E RESTAURANTES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
+SociosData.socios = [{"cpf":"78217474400","nome":"CASSIA ARAUJO DE MEDEIROS","ie":76648184,"cnpj":"30143323000103","razao":"ARAUJO DE MEDEIROS BARES E RESTAURANTES LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"78217474400","nome":"CASSIA ARAUJO DE MEDEIROS","ie":52835740,"cnpj":"18085493000175","razao":"CASSIA ARAUJO DE  MEDEIROS ROUPAS ME","sit":"C","regime":"NORMAL","municipio":"ABREU E LIMA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -12,3 +12,5 @@ SociosData.socios = [{"cpf":"82155402449","nome":"JOSE CARLOS DE LIMA","ie":5899
 {"cpf":"11458304477","nome":"CARLOS RAFAEL DE SOUZA LIMA","ie":58990950,"cnpj":"20763430000172","razao":"J R TEXTIL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"08432361402","nome":"SIMONE CABRAL DA SILVA","ie":58990950,"cnpj":"20763430000172","razao":"J R TEXTIL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"08432361402","nome":"SIMONE CABRAL DA SILVA","ie":52533654,"cnpj":"17887870000127","razao":"S CABRAL DA SILVA TECIDOS EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -4,3 +4,5 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08467222409","nome":"LAYS DAYANNE SOUZA FERNANDES BARBOSA","ie":39260607,"cnpj":"11634487000180","razao":"LAIS OTICA LTDA","sit":"C","regime":"NORMAL","municipio":"ESCADA","igi":1},
 {"cpf":"07543569493","nome":"JESONNYAS FERNANDES DE SOUZA BARBOSA","ie":45896020,"cnpj":"14378633000142","razao":"RENOVAR MOVEIS LTDA ME","sit":"C","regime":"NORMAL","municipio":"ESCADA","igi":0},
 {"cpf":"07543569493","nome":"JESONNYAS FERNANDES DE SOUZA BARBOSA","ie":39260607,"cnpj":"11634487000180","razao":"LAIS OTICA LTDA","sit":"C","regime":"NORMAL","municipio":"ESCADA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

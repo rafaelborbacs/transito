@@ -24,3 +24,5 @@ SociosData.socios = [{"cpf":"77008529449","nome":"CLAUDIA LUCK DE MELLO FREYRE",
 {"cpf":"00975965409","nome":"GUILHERME MACIEL","ie":61765937,"cnpj":"22151389000109","razao":"SIC SOLUCOES INTELIGENTES DE CONSTRUCAO LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"00975965409","nome":"GUILHERME MACIEL","ie":36685844,"cnpj":"09568061000124","razao":"LUBICOM - COMERCIO VAREJISTA DE ARTIGOS DE PAPELARIA, LIVRARIA, LANCHONETE, CURSOS LIVRES LTDA-ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0},
 {"cpf":"00975965409","nome":"GUILHERME MACIEL","ie":35140992,"cnpj":"08881029000131","razao":"VILA DO SOL CERAMICAS LTDA - ME","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

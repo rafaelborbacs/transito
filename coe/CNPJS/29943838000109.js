@@ -309,3 +309,5 @@ SociosData.socios = [{"cpf":"12897293446","nome":"THIAGO LUIS SOBRAL DOS SANTOS"
 {"cpf":"12897293446","nome":"THIAGO LUIS SOBRAL DOS SANTOS","ie":74988611,"cnpj":"29239339000127","razao":"THIAGO LUIS SOBRAL DOS SANTOS 12897293446","sit":"B","regime":"NORMAL","municipio":"IBIRAJUBA","igi":0},
 {"cpf":"12897293446","nome":"THIAGO LUIS SOBRAL DOS SANTOS","ie":73430358,"cnpj":"28479380000108","razao":"THIAGO LUIS SOBRAL DOS SANTOS 12897293446","sit":"B","regime":"SIMPLES","municipio":"IBIRAJUBA","igi":0},
 {"cpf":"12897293446","nome":"THIAGO LUIS SOBRAL DOS SANTOS","ie":72941740,"cnpj":"28224524000185","razao":"THIAGO LUIS SOBRAL DOS SANTOS 12897293446","sit":"B","regime":"NORMAL","municipio":"IBIRAJUBA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

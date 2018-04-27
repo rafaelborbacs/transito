@@ -12,3 +12,5 @@ SociosData.socios = [{"cpf":"07631767459","nome":"JULIANE CRISTINA DE SOUSA MOUR
 {"cpf":"02794945483","nome":"JOSE HENRIQUE FEITOSA","ie":56380623,"cnpj":"19630140000171","razao":"J M DE QUEIROZ VESTUARIOS EIRELI ME","sit":"C","regime":"NORMAL","municipio":"BARRA DE GUABIRABA","igi":0},
 {"cpf":"02794945483","nome":"JOSE HENRIQUE FEITOSA","ie":42031605,"cnpj":"12729138000105","razao":"J M DE QUEIROZ E CIA VESTUARIO LTDA ME","sit":"S","regime":"NORMAL","municipio":"CORTES","igi":1},
 {"cpf":"02794945483","nome":"JOSE HENRIQUE FEITOSA","ie":34453806,"cnpj":"08436663000165","razao":"J M DE QUEIROZ E CIA CONFECCOES LTDA ME","sit":"B","regime":"NORMAL","municipio":"CAMOCIM DE SAO FELIX","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

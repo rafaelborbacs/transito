@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":72767960,"cnpj":"28141817000107","razao":"DOUGLAS DA S DE LIMA TECIDOS E CONFECCOES ME","sit":"A","arrecadacao":1526.70,"entradas":469056.32,"saidas":100160.90,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"13/07/2017"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"15102098000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":132328.26},
-{"ie":0,"cnpj":"43248764000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":15948.24},
-{"ie":0,"cnpj":"17934576000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":39470.31},
+EntradasData.entradas = [{"ie":0,"cnpj":"17934576000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":39470.31},
 {"ie":0,"cnpj":"86799814000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":214160.08},
-{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":59522.44},
-{"ie":0,"cnpj":"19791227000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7626.99}];
+{"ie":0,"cnpj":"19791227000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7626.99},
+{"ie":0,"cnpj":"43248764000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":15948.24},
+{"ie":0,"cnpj":"15102098000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":132328.26},
+{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":59522.44}];
 SaidasData.saidas = [{"ie":0,"cnpj":"92231128420","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":35500.00},
 {"ie":0,"cnpj":"28464461000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":2030.50},
 {"ie":0,"cnpj":"28091849000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":1220.50},
@@ -24,3 +24,6 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92231128420","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"02879814000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":6739.20},
 {"ie":0,"cnpj":"00318000000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4200.00}];
 SociosData.socios = [{"cpf":"71389428427","nome":"DOUGLAS DA SILVA DE LIMA","ie":72767960,"cnpj":"28141817000107","razao":"DOUGLAS DA S DE LIMA TECIDOS E CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"28167974000183","tel":"8192647028","razao":"JCR COMERCIO DE TECIDOS EIRELI - EPP","municipio":"CARUARU"},
+{"cnpj":"09087786000109","tel":"8192647028","razao":"KATIA PEREIRA SOARES - ME","municipio":"CARUARU"}];

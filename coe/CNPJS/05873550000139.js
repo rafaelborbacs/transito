@@ -5,3 +5,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"23113100000120","razao":"","sit":"","regime
 {"ie":0,"cnpj":"02615941000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":2499.00}];
 SociosData.socios = [{"cpf":"85917494487","nome":"JEFTE TAVARES DA SILVA","ie":31084060,"cnpj":"05873550000139","razao":"JEFTE TAVARES DA SILVA","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":1},
 {"cpf":"85917494487","nome":"JEFTE TAVARES DA SILVA","ie":30546087,"cnpj":"05873550000210","razao":"JEFTE TAVARES DA SILVA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

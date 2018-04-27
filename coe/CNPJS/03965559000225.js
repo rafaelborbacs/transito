@@ -24,3 +24,5 @@ SociosData.socios = [{"cpf":"74439375472","nome":"MARCELO PERES DA SILVA","ie":4
 {"cpf":"01251276423","nome":"GENIVAL JOSE DA ROCHA","ie":29389526,"cnpj":"03965559000225","razao":"FEMEA MODAS LTDA - EPP","sit":"C","regime":"NORMAL","municipio":"CAMARAGIBE","igi":1},
 {"cpf":"01251276423","nome":"GENIVAL JOSE DA ROCHA","ie":27972321,"cnpj":"04245935000199","razao":"GENIVAL JOSE ROCHA ARMARINHO","sit":"B","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0},
 {"cpf":"01251276423","nome":"GENIVAL JOSE DA ROCHA","ie":27371751,"cnpj":"03965559000144","razao":"FEMEA MODAS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

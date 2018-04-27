@@ -43,3 +43,5 @@ SociosData.socios = [{"cpf":"72855088453","nome":"VERA LUCIA MONTEIRO DE ARAUJO 
 {"cpf":"10545000459","nome":"JOAO PEREIRA FILHO","ie":16436903,"cnpj":"11577665000260","razao":"JOVERA LTDA","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"10545000459","nome":"JOAO PEREIRA FILHO","ie":13122789,"cnpj":"12037024000102","razao":"VERFIL LTDA","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"10545000459","nome":"JOAO PEREIRA FILHO","ie":7768745,"cnpj":"11577665000189","razao":"JOVERA LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

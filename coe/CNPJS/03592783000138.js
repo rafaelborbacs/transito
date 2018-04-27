@@ -5,3 +5,5 @@ SociosData.socios = [{"cpf":"65796454404","nome":"ROSELIO JOSE DA SILVA","ie":58
 {"cpf":"65796454404","nome":"ROSELIO JOSE DA SILVA","ie":55509711,"cnpj":"15865804000201","razao":"CBV SERRALHARIA LTDA ME","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":0},
 {"cpf":"65796454404","nome":"ROSELIO JOSE DA SILVA","ie":50178660,"cnpj":"15865804000120","razao":"CBV SERRALHARIA LTDA - ME","sit":"S","regime":"NORMAL","municipio":"CARPINA","igi":0},
 {"cpf":"65796454404","nome":"ROSELIO JOSE DA SILVA","ie":28640373,"cnpj":"03592783000138","razao":"ROSELIO JOSE SILVA","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

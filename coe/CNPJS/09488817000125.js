@@ -25,3 +25,5 @@ SaidasData.saidas = [{"ie":71285768,"cnpj":"27382546000100","razao":"RBS ALIMENT
 {"ie":26811707,"cnpj":"03648522000192","razao":"PESCAVES RECIFE EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":69933.00},
 {"ie":25761633,"cnpj":"03047105000194","razao":"MELZUM INDUSTRIA & COMERCIO EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":80600.00}];
 SociosData.socios = [{"cpf":"65818296415","nome":"MARIO FRANCISCO DE SOUZA","ie":43029078,"cnpj":"09488817000125","razao":"M F DE SOUZA EMBALAGENS ME","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

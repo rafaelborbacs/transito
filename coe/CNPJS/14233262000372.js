@@ -19,3 +19,5 @@ SociosData.socios = [{"cpf":"92212441487","nome":"AIRON MONTEIRO CHAGAS","ie":69
 {"cpf":"63180375434","nome":"AMAURY MONTEIRO CHAGAS","ie":34261575,"cnpj":"24271660000337","razao":"AMAURY MONTEIRO CHAGAS","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"63180375434","nome":"AMAURY MONTEIRO CHAGAS","ie":33231702,"cnpj":"24271660000256","razao":"AMAURY MONTEIRO CHAGAS","sit":"B","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0},
 {"cpf":"63180375434","nome":"AMAURY MONTEIRO CHAGAS","ie":14540053,"cnpj":"24271660000175","razao":"AMAURY MONTEIRO CHAGAS","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

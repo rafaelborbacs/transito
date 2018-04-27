@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":17917379,"cnpj":"16701716000156","razao":"FCA FIA
 {"ie":60643960,"cnpj":"21612729000199","razao":"EXODO INDUSTRIA E COMERCIO DE BEBIDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":370.50}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"24329819449","nome":"SEVERINO BERNARDO DA SILVA","ie":58895108,"cnpj":"20797622000108","razao":"SEVERINO BERNARDO DA SILVA 24329819449","sit":"A","regime":"SIMEI","municipio":"PAULISTA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

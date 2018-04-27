@@ -5,3 +5,5 @@ SociosData.socios = [{"cpf":"14145448472","nome":"JOSE RONALDO PEREIRA LINS","ie
 {"cpf":"14145448472","nome":"JOSE RONALDO PEREIRA LINS","ie":43480527,"cnpj":"11703668000111","razao":"SILVA E LINS RESIDUOS INDUSTRIAIS LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"ESCADA","igi":0},
 {"cpf":"14145448472","nome":"JOSE RONALDO PEREIRA LINS","ie":16651111,"cnpj":"35522556000122","razao":"OFERTAO COMERCIO VAREJISTA E ATACADISTA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"14145448472","nome":"JOSE RONALDO PEREIRA LINS","ie":13738038,"cnpj":"12855052000129","razao":"PORTAL DE CANDEIAS LTDA","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

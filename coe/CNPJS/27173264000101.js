@@ -23,7 +23,7 @@ SaidasData.saidas = [{"ie":70119031,"cnpj":"26773410000169","razao":"COMERCIAL D
 {"ie":44497547,"cnpj":"13772296000100","razao":"SOBRAL MERCADO EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"LAJEDO","igi":0,"uf":"PE","valor":18403.00},
 {"ie":43588565,"cnpj":"13336186000104","razao":"R. J. DE LIMA ALIMENTOS","sit":"A","regime":"SIMPLES","municipio":"GRAVATA","igi":0,"uf":"PE","valor":155.00},
 {"ie":42354790,"cnpj":"12835371000172","razao":"R J ATACADO DE PRODUTOS ALIMENTICIOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":50154.00},
-{"ie":41862902,"cnpj":"12633363000143","razao":"DISTRIBUIDORA DE ALIMENTOS ARAUJO & SILVA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5200.00},
+{"ie":41862902,"cnpj":"12633363000143","razao":"DISTRIBUIDORA DE ALIMENTOS ARAUJO & SILVA LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5200.00},
 {"ie":12648507,"cnpj":"11966264000110","razao":"J M F ROCHA","sit":"A","regime":"SIMPLES","municipio":"GAMELEIRA","igi":0,"uf":"PE","valor":1749.80},
 {"ie":39703029,"cnpj":"11807836000119","razao":"MARIA ELISANGELA DE LIMA - ME","sit":"A","regime":"SIMPLES","municipio":"BEZERROS","igi":0,"uf":"PE","valor":9488.00},
 {"ie":39662160,"cnpj":"11484958000111","razao":"J. E. SUPERMERCADOS LTDA.","sit":"A","regime":"NORMAL","municipio":"CAMOCIM DE SAO FELIX","igi":0,"uf":"PE","valor":490.00},
@@ -63,3 +63,5 @@ SaidasData.saidas = [{"ie":70119031,"cnpj":"26773410000169","razao":"COMERCIAL D
 SociosData.socios = [{"cpf":"08516204421","nome":"TATIANA SILVA BATISTA","ie":70934118,"cnpj":"27173264000101","razao":"TATIANA SILVA BATISTA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"08516204421","nome":"TATIANA SILVA BATISTA","ie":64291227,"cnpj":"23344397000134","razao":"COMERCIAL IMBURANA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"08516204421","nome":"TATIANA SILVA BATISTA","ie":49330446,"cnpj":"15871129000142","razao":"M.F INDUSTRIA E COMERCIO DE ARTEFATOS DE PLASTICOS E MADEIRA LTDA","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

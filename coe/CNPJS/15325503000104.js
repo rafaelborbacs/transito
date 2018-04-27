@@ -5,3 +5,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"50948819000404","razao":"","sit":"","re
 {"ie":0,"cnpj":"24762997000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":127381.68}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04038404498","nome":"LUIZ CARLOS FERREIRA COSTA JUNIOR","ie":48204102,"cnpj":"15325503000104","razao":"LUIZ CARLOS FERREIRA COSTA JUNIOR 04038404498","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

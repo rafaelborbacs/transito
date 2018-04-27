@@ -8,3 +8,5 @@ EntradasData.entradas = [{"ie":54812607,"cnpj":"18984560000193","razao":"VITORIA
 {"ie":9872124,"cnpj":"08807703000138","razao":"ADERSON ALVES FRANCA","sit":"A","regime":"NORMAL","municipio":"OURICURI","igi":0,"uf":"PE","valor":14689.92}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"12686666617","nome":"JOSE ELIAS SOUZA NETO","ie":73154067,"cnpj":"28338378000119","razao":"JOSE ELIAS SOUZA NETO 12686666617","sit":"A","regime":"SIMEI","municipio":"IPUBI","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

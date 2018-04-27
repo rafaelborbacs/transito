@@ -17,3 +17,5 @@ SociosData.socios = [{"cpf":"06219485432","nome":"LEONARDO CORREIA DE ARAUJO VAS
 {"cpf":"02245783409","nome":"FABIO ALEIXO DE SENA","ie":68672438,"cnpj":"26018605000101","razao":"F. A. DE SENA MOVEIS","sit":"A","regime":"SIMPLES","municipio":"SURUBIM","igi":0},
 {"cpf":"02245783409","nome":"FABIO ALEIXO DE SENA","ie":60772344,"cnpj":"21694759000191","razao":"ROYAL ESTOFADOS NE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"02245783409","nome":"FABIO ALEIXO DE SENA","ie":38295539,"cnpj":"11001303000145","razao":"NOBRART INDUSTRIA E COMERCIO LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

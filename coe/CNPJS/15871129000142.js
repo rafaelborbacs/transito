@@ -11,3 +11,5 @@ SociosData.socios = [{"cpf":"64148033400","nome":"MARIA CLAUDIA CAVALCANTI BARRO
 {"cpf":"08516204421","nome":"TATIANA SILVA BATISTA","ie":70934118,"cnpj":"27173264000101","razao":"TATIANA SILVA BATISTA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"08516204421","nome":"TATIANA SILVA BATISTA","ie":64291227,"cnpj":"23344397000134","razao":"COMERCIAL IMBURANA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"08516204421","nome":"TATIANA SILVA BATISTA","ie":49330446,"cnpj":"15871129000142","razao":"M.F INDUSTRIA E COMERCIO DE ARTEFATOS DE PLASTICOS E MADEIRA LTDA","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

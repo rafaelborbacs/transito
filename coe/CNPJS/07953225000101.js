@@ -10,3 +10,5 @@ SociosData.socios = [{"cpf":"08102171472","nome":"CLEONICE SANTANA FELIPE","ie":
 {"cpf":"02794637401","nome":"CRISTIANO SANTANA FELIPE","ie":43504132,"cnpj":"11036298000297","razao":"C TEXTIL COMERCIO DE TECIDOS LTDA","sit":"B","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"02794637401","nome":"CRISTIANO SANTANA FELIPE","ie":38330628,"cnpj":"11036298000106","razao":"C TEXTIL COMERCIO DE TECIDOS LTDA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"02794637401","nome":"CRISTIANO SANTANA FELIPE","ie":33728631,"cnpj":"07953225000101","razao":"CLEONICE S DA SILVA TECIDOS ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":75186500,"cnpj":"29400635000168","r
 EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":999682.54}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"12092844482","nome":"ANDRESA KATIELE PEREIRA DA SILVA","ie":75186500,"cnpj":"29400635000168","razao":"A.K.P. DA SILVA EPP","sit":"S","regime":"NORMAL","municipio":"AFRANIO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

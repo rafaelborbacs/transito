@@ -6,3 +6,5 @@ SaidasData.saidas = [{"ie":18283713,"cnpj":"46395687001850","razao":"BAHIANA DIS
 SociosData.socios = [{"cpf":"97188697434","nome":"JOSE INACIO DA SILVA VIEIRA","ie":65785940,"cnpj":"24005717000194","razao":"JOSE INACIO DA SILVA VIEIRA 97188697434","sit":"A","regime":"SIMEI","municipio":"PETROLINA","igi":1},
 {"cpf":"97188697434","nome":"JOSE INACIO DA SILVA VIEIRA","ie":48031160,"cnpj":"15231410000110","razao":"SOMA GAS COMERCIO DE GAS LTDA ME","sit":"B","regime":"NORMAL","municipio":"PETROLINA","igi":0},
 {"cpf":"97188697434","nome":"JOSE INACIO DA SILVA VIEIRA","ie":39843890,"cnpj":"11846883000171","razao":"JOSE INACIO DA SILVA VIEIRA 97188697434","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

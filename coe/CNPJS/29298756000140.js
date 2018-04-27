@@ -14,3 +14,5 @@ SaidasData.saidas = [{"ie":69218501,"cnpj":"26287333000137","razao":"SCIUBBA & V
 {"ie":30950376,"cnpj":"06082872000122","razao":"GOMES OLIVEIRA MERCADINHO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":530.00},
 {"ie":21181900,"cnpj":"00547543000123","razao":"M C OLIVEIRA LTDA","sit":"A","regime":"NORMAL","municipio":"TAMANDARE","igi":0,"uf":"PE","valor":3315.90}];
 SociosData.socios = [{"cpf":"70166470481","nome":"THALYANA IZIDIO DE OLIVEIRA","ie":75084848,"cnpj":"29298756000140","razao":"THALYANA IZIDIO DE OLIVEIRA ME","sit":"C","regime":"NORMAL","municipio":"ALAGOINHA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

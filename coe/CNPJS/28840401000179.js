@@ -5,3 +5,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"86439494000201","razao":"","sit":"","re
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"70304931411","nome":"JENNIFFER MARIA COELHO MACHADO","ie":74150448,"cnpj":"28856365000131","razao":"COMERCIAL JENNIFFER DE ALIMENTOS EIRELI ME","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1},
 {"cpf":"70304931411","nome":"JENNIFFER MARIA COELHO MACHADO","ie":74141376,"cnpj":"28840401000179","razao":"JENNIFFER MARIA COELHO MACHADO ALIMENTOS ME","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

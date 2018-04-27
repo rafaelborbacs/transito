@@ -8,3 +8,5 @@ SociosData.socios = [{"cpf":"90597249253","nome":"EDINALVA TAVARES DE SOUZA","ie
 {"cpf":"62842927400","nome":"MARLUCE VICENTE DA SILVA","ie":33097208,"cnpj":"07623307000198","razao":"JACK S CONFECCOES LTDA ME","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"06234246494","nome":"MONICA VICENTE SILVA","ie":34895906,"cnpj":"08727942000188","razao":"ASSIS & HONORATO LTDA  ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"05120989489","nome":"ANTONIO MARIANO DE ASSIS","ie":34895906,"cnpj":"08727942000188","razao":"ASSIS & HONORATO LTDA  ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

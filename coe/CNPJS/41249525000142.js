@@ -61,3 +61,5 @@ SociosData.socios = [{"cpf":"78369037453","nome":"MARINA DE OLIVEIRA AMORIM FERR
 {"cpf":"52088499415","nome":"GERALDO COSTA DE AMORIM JUNIOR","ie":39463710,"cnpj":"41249525000223","razao":"M B F COMERCIO DO VESTUARIO LTDA - ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"52088499415","nome":"GERALDO COSTA DE AMORIM JUNIOR","ie":32896212,"cnpj":"07523920000133","razao":"G & A CAMISARIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"52088499415","nome":"GERALDO COSTA DE AMORIM JUNIOR","ie":19294883,"cnpj":"41249525000142","razao":"M B F COMERCIO DO VESTUARIO LTDA - ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","re
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"11145853439","nome":"DIOGO VITOR SOUZA FRANCISCO","ie":76322408,"cnpj":"10668384000179","razao":"CAPIBARIBE REPRESENTACAO E VENDAS DE PESCADOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"11145853439","nome":"DIOGO VITOR SOUZA FRANCISCO","ie":76095584,"cnpj":"29779250000153","razao":"DIOGO VITOR SOUZA FRANCISCO 11145853439","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

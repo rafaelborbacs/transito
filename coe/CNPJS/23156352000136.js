@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":63955032,"cnpj":"23156352000136","r
 EntradasData.entradas = [{"ie":69321698,"cnpj":"14145272000437","razao":"FRIGORIFICO ITIBAN INDUSTRIA, COMERCIO, IMPORTADORA E EXPORTADORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":401260.29}];
 SaidasData.saidas = [];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

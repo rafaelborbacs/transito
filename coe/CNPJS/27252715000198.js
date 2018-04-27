@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":71158065,"cnpj":"27252715000198","razao":"L SANTINA DA SILVA CONFECCOES ME","sit":"A","arrecadacao":6005.09,"entradas":596174.17,"saidas":489918.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"14/03/2017"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"81321549000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":48397.12},
-{"ie":0,"cnpj":"08780971000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":140455.95},
-{"ie":0,"cnpj":"56257868000207","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":16268.18},
-{"ie":0,"cnpj":"24503689000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1440.00},
-{"ie":0,"cnpj":"76568849000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":7535.50},
+EntradasData.entradas = [{"ie":0,"cnpj":"56257868000207","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":16268.18},
 {"ie":0,"cnpj":"05630873000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":307351.92},
+{"ie":0,"cnpj":"76568849000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":7535.50},
+{"ie":0,"cnpj":"24503689000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1440.00},
 {"ie":0,"cnpj":"78256336000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":18007.11},
-{"ie":0,"cnpj":"07031337000296","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":11454.75},
 {"ie":0,"cnpj":"05973883000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2000.00},
+{"ie":0,"cnpj":"81321549000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":48397.12},
+{"ie":0,"cnpj":"07031337000296","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":11454.75},
+{"ie":0,"cnpj":"08780971000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":140455.95},
 {"ie":0,"cnpj":"04223162000220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":28292.88},
 {"ie":0,"cnpj":"04851006000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1625.88},
 {"ie":0,"cnpj":"08055884000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":13344.88}];
@@ -83,3 +83,10 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96103892368","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00660268140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":39900.00},
 {"ie":0,"cnpj":"00576725390","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":7900.00}];
 SociosData.socios = [{"cpf":"68845545415","nome":"LINDINALVA SANTINA DA SILVA","ie":71158065,"cnpj":"27252715000198","razao":"L SANTINA DA SILVA CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [{"cnpj":"28408387000139","email":"escritorio@vasconcelosemorais.com.br","razao":"RANIELE TAIANI DA SILVA CONFECCOES ME","municipio":"CARUARU"},
+{"cnpj":"00188955000114","email":"escritorio@vasconcelosemorais.com.br","razao":"KITS ELASTICOSLTDA","municipio":"SANTA CRUZ DO CAPIBARIBE"}];
+TelsData.tels = [{"cnpj":"28229402000181","tel":"8137193359","razao":"M DAS GRACAS DE MOURA CONFECCOES ME","municipio":"SANTA CRUZ DO CAPIBARIBE"},
+{"cnpj":"22691419000170","tel":"81998015609","razao":"GABRIEL HENRIQUE FERREIRA CONFECCOES ME","municipio":"CARUARU"},
+{"cnpj":"15694119000189","tel":"81998015609","razao":"PARAIBA MALHAS LTDA","municipio":"Caruaru"},
+{"cnpj":"05921196452","tel":"81998015609","razao":"GENICLIFE FERREIRA BANANEIRA","municipio":"CARUARU"},
+{"cnpj":"05094880489","tel":"8137193359","razao":"geison gomes januari","municipio":"CARUARU"}];

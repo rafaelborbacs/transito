@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"26122412000198","razao":"","sit":"","re
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09025322433","nome":"REGEANE LEAL DA SILVA","ie":71807802,"cnpj":"27653329000108","razao":"LEAL E SILVA COMERCIO DE ROUPAS E ACESSORIOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0},
 {"cpf":"09025322433","nome":"REGEANE LEAL DA SILVA","ie":51055449,"cnpj":"17264302000170","razao":"REGEANE LEAL DA SILVA 09025322433","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

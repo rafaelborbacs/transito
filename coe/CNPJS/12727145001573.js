@@ -25,3 +25,5 @@ SociosData.socios = [{"cpf":"76074765472","nome":"VERONILDO COUTINHO DE SOUSA","
 {"cpf":"04183891442","nome":"ARNOUD CLEMENTINO DE SOUSA NETO","ie":43373011,"cnpj":"12727145001492","razao":"GUARAVES GUARABIRA AVES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"02259977464","nome":"FABIO COUTINHO DE SOUZA","ie":44769806,"cnpj":"12727145001573","razao":"GUARAVES GUARABIRA AVES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"02259977464","nome":"FABIO COUTINHO DE SOUZA","ie":43373011,"cnpj":"12727145001492","razao":"GUARAVES GUARABIRA AVES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

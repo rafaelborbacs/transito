@@ -58,3 +58,5 @@ SociosData.socios = [{"cpf":"66614481800","nome":"RONALDO REEVE GUNN","ie":43665
 {"cpf":"03350532896","nome":"LUIS EDUARDO MOREIRA CAIO","ie":39903702,"cnpj":"04821041000604","razao":"METALFRIO SOLUTIONS S.A.","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},
 {"cpf":"03350532896","nome":"LUIS EDUARDO MOREIRA CAIO","ie":26877120,"cnpj":"60736279001501","razao":"MABE BRASIL ELETRODOMESTICOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"03350532896","nome":"LUIS EDUARDO MOREIRA CAIO","ie":17957249,"cnpj":"48785836000175","razao":"BSH CONTINENTAL DO NORDESTE S/A","sit":"B","regime":"NORMAL","municipio":"PAULISTA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

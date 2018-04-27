@@ -5,3 +5,5 @@ SociosData.socios = [{"cpf":"37545733819","nome":"RENATTA MIKAELA FERREIRA","ie"
 {"cpf":"37545733819","nome":"RENATTA MIKAELA FERREIRA","ie":74154354,"cnpj":"28861049000158","razao":"R MIKAELA FERREIRA ME","sit":"C","regime":"NORMAL","municipio":"CACHOEIRINHA","igi":1},
 {"cpf":"37545733819","nome":"RENATTA MIKAELA FERREIRA","ie":74148893,"cnpj":"28850627000150","razao":"COMERCIAL BOA SERRA LTDA ME","sit":"C","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":1},
 {"cpf":"37545733819","nome":"RENATTA MIKAELA FERREIRA","ie":74146335,"cnpj":"28850012000124","razao":"COMERCIAL SANTO AGOSTINHO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

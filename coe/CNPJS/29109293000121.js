@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","re
 {"ie":0,"cnpj":"09137485000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":64996.75}];
 SaidasData.saidas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":10017.00}];
 SociosData.socios = [{"cpf":"70375088458","nome":"GLEYDSON RHANIELLY FERREIRA LIMA","ie":74718312,"cnpj":"29109293000121","razao":"G R F LIMA COMERCIO DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"EXU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

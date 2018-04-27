@@ -19,10 +19,12 @@ SaidasData.saidas = [{"ie":66688108,"cnpj":"24429732000160","razao":"FTP COMERCI
 {"ie":38189348,"cnpj":"10779172000169","razao":"MERCANTIL DOIS IRMAOS DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":46220.00},
 {"ie":38041197,"cnpj":"10774425000101","razao":"COMERCIO MORENO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":31910.00},
 {"ie":41843436,"cnpj":"09165988000113","razao":"F ARRUDA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":50971.00},
-{"ie":31350550,"cnpj":"06337746000171","razao":"APOENA COMERCIO DE ALIMENTOS EIRELI","sit":"S","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":104455.00},
+{"ie":31350550,"cnpj":"06337746000171","razao":"APOENA COMERCIO DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":104455.00},
 {"ie":31138250,"cnpj":"06196381000102","razao":"RADAR MERCANTIL LTDA - ME","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1,"uf":"PE","valor":158068.10}];
 SociosData.socios = [{"cpf":"47582199820","nome":"FERNANDA CLAUDIA VIEIRA DA SILVA","ie":72220848,"cnpj":"27860267000105","razao":"COMERCIAL FERNANDA CLAUDIA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"JOAQUIM NABUCO","igi":0},
 {"cpf":"47582199820","nome":"FERNANDA CLAUDIA VIEIRA DA SILVA","ie":72217707,"cnpj":"27860252000147","razao":"COMERCIAL AGUAS BELAS VIEIRA LTDA EPP","sit":"C","regime":"NORMAL","municipio":"AGUAS BELAS","igi":1},
 {"cpf":"14212552434","nome":"RINALDO LOPES DE CARVALHO","ie":72217707,"cnpj":"27860252000147","razao":"COMERCIAL AGUAS BELAS VIEIRA LTDA EPP","sit":"C","regime":"NORMAL","municipio":"AGUAS BELAS","igi":1},
 {"cpf":"14212552434","nome":"RINALDO LOPES DE CARVALHO","ie":10133607,"cnpj":"08934697000180","razao":"DISTRIBUIDORA DE ALIMENTOS MONTARROYOS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"14212552434","nome":"RINALDO LOPES DE CARVALHO","ie":10133518,"cnpj":"08934697000180","razao":"DISTRIBUIDORA DE ALIMENTOS MONTARROYOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

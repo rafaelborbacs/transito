@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":49548409,"cnpj":"16625087000122","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"68614349491","nome":"ANA CRISTINA SANTOS","ie":49548409,"cnpj":"16625087000122","razao":"ANA CRISTINA SANTOS 68614349491","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -6,3 +6,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"28786984000288","razao":"","sit":"","regime
 {"ie":50169084,"cnpj":"15641110000100","razao":"EDUARDO GREGORIO MAIA ME","sit":"S","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":6502.00},
 {"ie":0,"cnpj":"14549458000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":3600.00}];
 SociosData.socios = [{"cpf":"07088293412","nome":"JONAS GOMES DE ARAUJO","ie":74917005,"cnpj":"29216552000113","razao":"JONAS G DE ARAUJO ME","sit":"S","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

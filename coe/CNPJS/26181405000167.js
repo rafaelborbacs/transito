@@ -12,3 +12,5 @@ SociosData.socios = [{"cpf":"06522737426","nome":"DAYVISON CHAGAS GOMES","ie":68
 {"cpf":"06522737426","nome":"DAYVISON CHAGAS GOMES","ie":34431403,"cnpj":"08282459000137","razao":"D.C. GOMES AGUA MINERAL","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"06522737426","nome":"DAYVISON CHAGAS GOMES","ie":31317189,"cnpj":"06316380000154","razao":"ATEC-ATACADO DO TECIDO LTDA","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"06522737426","nome":"DAYVISON CHAGAS GOMES","ie":31082017,"cnpj":"06180853000139","razao":"CLAUDIANA DE ALMEIDA BENICIO","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

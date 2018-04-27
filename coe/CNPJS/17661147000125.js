@@ -24,3 +24,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"55891691000152","razao":"","sit":"","regime
 {"ie":0,"cnpj":"04722160000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":2800.00},
 {"ie":0,"cnpj":"01481305778","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1938.00}];
 SociosData.socios = [{"cpf":"02549363426","nome":"JOELCIO LOPES DA SILVA","ie":51998599,"cnpj":"17661147000125","razao":"JOELCIO LOPES DA SILVA 02549363426","sit":"A","regime":"SIMEI","municipio":"TORITAMA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

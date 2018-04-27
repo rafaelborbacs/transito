@@ -6,3 +6,5 @@ SociosData.socios = [{"cpf":"97507237400","nome":"ANA PAULA DE ARRUDA","ie":6269
 {"cpf":"31923070487","nome":"DIMAS GOMES DO NASCIMENTO","ie":62696998,"cnpj":"22575388000191","razao":"STILO W Z LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"31923070487","nome":"DIMAS GOMES DO NASCIMENTO","ie":28685202,"cnpj":"04725950000134","razao":"DIMAS GOMES DO NASCIMENTO","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"05294499436","nome":"ROBERTA ANDRADE DO NASCIMENTO","ie":62696998,"cnpj":"22575388000191","razao":"STILO W Z LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

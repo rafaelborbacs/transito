@@ -48,7 +48,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"86699329000108","razao":"","sit":"","regime
 {"ie":0,"cnpj":"18941317000198","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":6011.00},
 {"ie":0,"cnpj":"18912399000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":1250.00},
 {"ie":0,"cnpj":"18805209000198","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1750.00},
-{"ie":0,"cnpj":"18530249100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1000.00},
+{"ie":0,"cnpj":"18530249100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
 {"ie":0,"cnpj":"18497975000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3640.00},
 {"ie":0,"cnpj":"18319007000136","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":547.50},
 {"ie":0,"cnpj":"17723187000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5051.00},
@@ -103,3 +103,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"86699329000108","razao":"","sit":"","regime
 {"ie":0,"cnpj":"01047705000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1000.00},
 {"ie":0,"cnpj":"01000325000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":614.00}];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

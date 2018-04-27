@@ -17,3 +17,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"11609799000134","razao":"","sit":"","regime
 {"ie":0,"cnpj":"02061353000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2000.00},
 {"ie":0,"cnpj":"01842813000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":11958.00}];
 SociosData.socios = [{"cpf":"04548169440","nome":"ADRIANA PATRICIO DA SILVA","ie":69107009,"cnpj":"26207583000110","razao":"ADRIANA PATRICIO DA SILVA 04548169440","sit":"A","regime":"SIMEI","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

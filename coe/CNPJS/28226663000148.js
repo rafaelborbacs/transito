@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"07817316000110","razao":"","sit":"","re
 {"ie":0,"cnpj":"02661226000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":66261.60}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"33557674843","nome":"TIAGO SILVA DE SOUZA","ie":72946709,"cnpj":"28226663000148","razao":"TIAGO SILVA DE SOUZA 33557674843","sit":"C","regime":"SIMEI","municipio":"PETROLINA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

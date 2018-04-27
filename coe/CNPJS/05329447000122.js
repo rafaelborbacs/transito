@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":29555124,"cnpj":"05329447000122","r
 EntradasData.entradas = [{"ie":18564216,"cnpj":"35628361000242","razao":"BIZARRO CONFECCOES LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":8959.18}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"61077836449","nome":"CLAUDIA MARIA DE AMORIM","ie":29555124,"cnpj":"05329447000122","razao":"CLAUDIA MARIA DE AMORIM","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

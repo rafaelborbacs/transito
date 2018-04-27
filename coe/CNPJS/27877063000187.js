@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"24640065000160","razao":"","sit":"","re
 {"ie":0,"cnpj":"02661226000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":139245.55}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"01512849383","nome":"CARLOS ALBERTO FERREIRA GOMES JUNIOR","ie":72232773,"cnpj":"27877063000187","razao":"CARLOS ALBERTO FERREIRA GOMES JUNIOR 01512849383","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -5,3 +5,6 @@ SaidasData.saidas = [{"ie":19466846,"cnpj":"70220389000166","razao":"COMERCIAL D
 {"ie":40661032,"cnpj":"12336734000125","razao":"JURERE INDUSTRIA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":550.00}];
 SociosData.socios = [{"cpf":"19471017491","nome":"CARLOS ALBERTO BARBOSA DE MOURA","ie":72975130,"cnpj":"28269133000187","razao":"MARCELA & CARLOS MOURA CONFECCOES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CARPINA","igi":0},
 {"cpf":"19471017491","nome":"CARLOS ALBERTO BARBOSA DE MOURA","ie":20487010,"cnpj":"24563587000105","razao":"CARLOS MOURA CONFECCOES ME","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"28269133000187","tel":"8136211617","razao":"MARCELA E CARLOS MOURA CONFECCOES LTDA ME","municipio":"CARPINA"},
+{"cnpj":"19471017491","tel":"8136211617","razao":"CARLOS ALBERTO BARBOSA DE MOURA","municipio":"CARPINA"}];

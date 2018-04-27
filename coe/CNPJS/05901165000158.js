@@ -9,3 +9,5 @@ SociosData.socios = [{"cpf":"71727485491","nome":"JOSE HUMBERTO DA SILVA","ie":5
 {"cpf":"01142306410","nome":"KELLY CLEMENTE ALVES CASANOVA","ie":36464163,"cnpj":"05901165000310","razao":"KELLY CLEMENTE ALVES CASANOVA ME","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"01142306410","nome":"KELLY CLEMENTE ALVES CASANOVA","ie":31475094,"cnpj":"05901165000239","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"01142306410","nome":"KELLY CLEMENTE ALVES CASANOVA","ie":30556805,"cnpj":"05901165000158","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

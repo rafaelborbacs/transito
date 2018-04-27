@@ -5,3 +5,5 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05366192471","nome":"LEANDRO ALVES DA SILVA","ie":64317048,"cnpj":"23323917000122","razao":"LEANDRO ALVES DA SILVA 05366192471","sit":"A","regime":"SIMEI","municipio":"CARUARU","igi":0},
 {"cpf":"05366192471","nome":"LEANDRO ALVES DA SILVA","ie":37923900,"cnpj":"10784477000169","razao":"RODRIGO BELO OSORIO - ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"04797675489","nome":"MARCELLE BELO DE OLIVEIRA","ie":37923900,"cnpj":"10784477000169","razao":"RODRIGO BELO OSORIO - ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

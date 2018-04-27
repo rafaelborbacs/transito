@@ -2,3 +2,6 @@ EstabelecimentoData.estabelecimento = [{"ie":75543117,"cnpj":"29528522000142","r
 EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1488719.33}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71248844467","nome":"VERINALDO JUNIOR DE SOUZA SILVA","ie":75543117,"cnpj":"29528522000142","razao":"V. JUNIOR DE S. SILVA","sit":"C","regime":"NORMAL","municipio":"CASINHAS","igi":1}];
+EmailsData.emails = [{"cnpj":"29470775000102","email":"diretoria@gmail.com","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
+{"cnpj":"28385828000124","email":"diretoria@gmail.com","razao":"MERCADINHO DMAIS EIRELI ME","municipio":"PAULISTA"}];
+TelsData.tels = [];

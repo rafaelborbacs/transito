@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":22677720,"cnpj":"01192333000122","razao":"HONDA A
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"01015735452","nome":"DIANNA ALMEIDA DE MELO DE ANDRADE LIMA","ie":71880720,"cnpj":"27667612000199","razao":"DIANNA ALMEIDA DE MELO DE ANDRADE LIMA 01015735452","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1},
 {"cpf":"01015735452","nome":"DIANNA ALMEIDA DE MELO DEA ANDRADE LIMA","ie":37309137,"cnpj":"10436890000132","razao":"SUCOTE ATACADISTA E VAREJISTA DE ALIMENTOS LTDA-ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"01015735452","tel":"8134652933","razao":"DIANNA DE ANDRADE LIMA","municipio":"Recife"}];

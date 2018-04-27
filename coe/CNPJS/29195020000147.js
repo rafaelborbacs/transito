@@ -5,3 +5,5 @@ EntradasData.entradas = [{"ie":58348484,"cnpj":"20594058000118","razao":"ELANNE 
 {"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":37621.30}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07622002437","nome":"MARCELO RENATO ALVES DA SILVA","ie":74913875,"cnpj":"29195020000147","razao":"MARCELO RENATO ALVES DA SILVA 07622002437","sit":"C","regime":"SIMEI","municipio":"SURUBIM","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

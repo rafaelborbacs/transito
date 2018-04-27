@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":50293680,"cnpj":"16872155000158","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"02309185493","nome":"JUNDIAI LISBOA DA SILVA","ie":50293680,"cnpj":"16872155000158","razao":"JUNDIAI LISBOA DA SILVA 02309185493","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

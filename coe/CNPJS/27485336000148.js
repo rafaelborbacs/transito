@@ -5,3 +5,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"17120250000168","razao":"","sit":"","re
 {"ie":0,"cnpj":"17329213000164","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":171355.69}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"01564280322","nome":"JOANA PAULA DE SOUSA LEITAO","ie":71533338,"cnpj":"27485336000148","razao":"JOANA PAULA DE SOUSA LEITAO 01564280322","sit":"C","regime":"SIMEI","municipio":"SERTANIA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -25,7 +25,7 @@ SaidasData.saidas = [{"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FE
 {"ie":42833094,"cnpj":"12977440000182","razao":"MERCADINHO POUPE MAIS LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":6559.70},
 {"ie":40310590,"cnpj":"11506184000182","razao":"MERCADINHO POUPE BEM LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":3360.40},
 {"ie":39039153,"cnpj":"11461582000120","razao":"MERCADINHO PARE E COMPRE LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":2425.20},
-{"ie":36975176,"cnpj":"10277744000101","razao":"ANA MEIRILANE DE FRANCA ME","sit":"S","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":1610.00},
+{"ie":36975176,"cnpj":"10277744000101","razao":"ANA MEIRILANE DE FRANCA ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":1610.00},
 {"ie":36733679,"cnpj":"09638485000118","razao":"MERCANTIL DE ALIMENTOS AMORIM LTDA  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":380849.75},
 {"ie":9794573,"cnpj":"08831331000185","razao":"CASA ANDRADE LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":1578.86},
 {"ie":34713905,"cnpj":"08605911000154","razao":"BALAIO SUPERMERCADO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":4400.00},
@@ -42,3 +42,5 @@ SaidasData.saidas = [{"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FE
 {"ie":20187483,"cnpj":"00123302000157","razao":"SERVSUCO COMERCIO ATACADISTA DE CONSERVAS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":16808.80}];
 SociosData.socios = [{"cpf":"70181702495","nome":"JOICE BRENA PEREIRA DA SILVA","ie":75661233,"cnpj":"29577729000107","razao":"COMERCIAL PEDRA GRANDE EIRELI","sit":"A","regime":"NORMAL","municipio":"FLORES","igi":1},
 {"cpf":"70181702495","nome":"JOICE BRENA PEREIRA DA SILVA","ie":74930290,"cnpj":"29243692000180","razao":"JOICE BRENA PEREIRA DA SILVA ME","sit":"C","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

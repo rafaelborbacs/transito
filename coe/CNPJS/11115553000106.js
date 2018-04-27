@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":18699812,"cnpj":"40838658000191","razao":"ARA TEX
 {"ie":30081424,"cnpj":"05562763000140","razao":"COMERCIAL HANIEL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2053.44}];
 SaidasData.saidas = [{"ie":34495215,"cnpj":"04791213000130","razao":"ARGUS INDUSTRIA COMERCIO E SERVICOS GERAIS EIRELI  EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":28116.00}];
 SociosData.socios = [{"cpf":"06010123488","nome":"ODAIR DE OLIVEIRA PINTO","ie":38466368,"cnpj":"11115553000106","razao":"ODAIR DE OLIVEIRA PINTO - ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

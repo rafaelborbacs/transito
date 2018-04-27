@@ -44,3 +44,5 @@ SociosData.socios = [{"cpf":"98755064434","nome":"GILBERTO PEREIRA DA SILVA","ie
 {"cpf":"03417646472","nome":"LUIZ PEREIRA DA SILVA","ie":38341158,"cnpj":"10992608000101","razao":"LATOT COMERCIO DE COMBUSTIVEIS LTDA ME","sit":"C","regime":"NORMAL","municipio":"PAUDALHO","igi":0},
 {"cpf":"03417646472","nome":"LUIZ PEREIRA DA SILVA","ie":37043196,"cnpj":"10329882000197","razao":"POSTO PAIS & FILHOS DERIVADOS DE PETROLEO LTDA ME","sit":"C","regime":"NORMAL","municipio":"MORENO","igi":0},
 {"cpf":"03417646472","nome":"LUIZ PEREIRA DA SILVA","ie":14012111,"cnpj":"12783940000183","razao":"L P SILVA - CONFECCOES","sit":"B","regime":"NORMAL","municipio":"MORENO","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

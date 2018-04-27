@@ -19,3 +19,5 @@ SociosData.socios = [{"cpf":"06100185822","nome":"CLAUDIO FERREIRA DA CRUZ","ie"
 {"cpf":"06100185822","nome":"CLAUDIO FERREIRA DA CRUZ","ie":29277728,"cnpj":"04418777000202","razao":"CRUZ MERCADOS LTDA ME","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0},
 {"cpf":"06100185822","nome":"CLAUDIO FERREIRA DA CRUZ","ie":28245660,"cnpj":"04418777000121","razao":"CRUZ MERCADOS LTDA ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"06100185822","nome":"CLAUDIO FERREIRA DA CRUZ","ie":25516329,"cnpj":"02905771000153","razao":"SILVIO E CLAUDIO AGUA MINERAL LTDA","sit":"B","regime":"NORMAL","municipio":"GRAVATA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

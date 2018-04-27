@@ -9,3 +9,5 @@ SociosData.socios = [{"cpf":"70445800410","nome":"ZUILA PAULINO AMORIM","ie":355
 {"cpf":"02914912439","nome":"DEBORA SANTOS BARBOSA","ie":35503971,"cnpj":"08983177000400","razao":"D S BARBOSA & CIA CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"02914912439","nome":"DEBORA SANTOS BARBOSA","ie":35497807,"cnpj":"08983177000329","razao":"D S BARBOSA & CIA CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"02914912439","nome":"DEBORA SANTOS BARBOSA","ie":35443464,"cnpj":"08983177000167","razao":"D S BARBOSA & CIA CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"VERTENTES","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

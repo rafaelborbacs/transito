@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":49343181,"cnpj":"10807751000259","razao":"COMPANHIA BRASILEIREA DE VIDROS AUTOMOTIVOS - CBVA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"GOIANA","drr":"I","igi":1,"dataie":"19/07/2012"}];
+EstabelecimentoData.estabelecimento = [{"ie":49343181,"cnpj":"10807751000259","razao":"COMPANHIA BRASILEIREA DE VIDROS AUTOMOTIVOS - CBVA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"GOIANA","drr":"I","igi":1,"dataie":"19/07/2012"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":69755698,"cnpj":"23670551000168","razao":"AREADO ENERGIA S/A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
@@ -14,7 +14,7 @@ SociosData.socios = [{"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":697
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":58504877,"cnpj":"15728576000147","razao":"ATIAIA COMERCIALIZADORA DE ENERGIA S/A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":58348999,"cnpj":"05625671000161","razao":"RIO DO SANGUE ENERGIA S.A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":56495870,"cnpj":"14511613000106","razao":"HTL SP PARTICIPACOES S/A","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
-{"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":49343181,"cnpj":"10807751000259","razao":"COMPANHIA BRASILEIREA DE VIDROS AUTOMOTIVOS - CBVA","sit":"S","regime":"NORMAL","municipio":"GOIANA","igi":1},
+{"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":49343181,"cnpj":"10807751000259","razao":"COMPANHIA BRASILEIREA DE VIDROS AUTOMOTIVOS - CBVA","sit":"C","regime":"NORMAL","municipio":"GOIANA","igi":1},
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":49199552,"cnpj":"10807972001541","razao":"COMPANHIA INDUSTRIAL DE VIDROS CIV","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":46527621,"cnpj":"10858291000450","razao":"COMPANHIA BRASILEIRA DE VIDROS PLANOS -CBVP","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0},
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":43769276,"cnpj":"06015859000150","razao":"ATIAIA ENERGIA S/A","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
@@ -44,3 +44,5 @@ SociosData.socios = [{"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":697
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":155985,"cnpj":"10807956000153","razao":"INDUSTRIA DE AZULEJOS S/A","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":130800,"cnpj":"10807907000110","razao":"CIA AGRICOLA IND SAO JOAO","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":113808,"cnpj":"10807972000146","razao":"COMPANHIA INDUSTRIAL DE VIDROS CIV","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

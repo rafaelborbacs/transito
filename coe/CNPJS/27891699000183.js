@@ -122,3 +122,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"98163450568","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00994889062","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":200.00},
 {"ie":0,"cnpj":"00242469000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3634.00}];
 SociosData.socios = [{"cpf":"08246462407","nome":"ANDERLITON BEZERRA DE CARVALHO","ie":72294531,"cnpj":"27891699000183","razao":"ANDERLITON BEZERRA DE CARVALHO ME","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":48747904,"cnpj":"15533188000100","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08907731497","nome":"ADEMI JOAO BALBINO","ie":48747904,"cnpj":"15533188000100","razao":"ADEMI JOAO BALBINO CONFECCOES - ME","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

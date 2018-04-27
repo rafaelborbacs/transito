@@ -9,3 +9,8 @@ SociosData.socios = [{"cpf":"07922808496","nome":"GILCIENE KELLY DA SILVA","ie":
 {"cpf":"03530212881","nome":"JOSE GILVAN DA SILVA","ie":58516298,"cnpj":"20644221000100","razao":"G & G DA SILVA VESTUARIOS LTDA ME","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1},
 {"cpf":"03530212881","nome":"JOSE GILVAN DA SILVA","ie":55871666,"cnpj":"19421419000145","razao":"JOSE & GILCIENE DA SILVA CONFECCOES LTDA - ME","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"03530212881","nome":"JOSE GILVAN DA SILVA","ie":12449814,"cnpj":"11885548000182","razao":"JOSE GILVAN DA SILVA ME","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"23631263000102","tel":"8137217320","razao":"JEAN PIERD FREIRE CASTILLO ME","municipio":"CARUARU"},
+{"cnpj":"21832600000196","tel":"8137217320","razao":"MARCELO J DE LIMA CONSTRUCAO ME","municipio":"CARUARU"},
+{"cnpj":"19269218000174","tel":"8137217320","razao":"C H PATRICIO DA SILVA TECIDOS ME","municipio":"CARUARU"},
+{"cnpj":"14258550000110","tel":"8137217320","razao":"CLARA SUANNY FERREIRA - ME","municipio":"Caruaru"}];

@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":28350707,"cnpj":"03794600000248","razao":"ZIHUATA
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"70280530404","nome":"MARIA ELOISA TAVARES DA SILVA","ie":74619179,"cnpj":"29068732000103","razao":"SANHARO REPRESENTACOES E COMERCIO DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"SANHARO","igi":1},
 {"cpf":"70280530404","nome":"MARIA ELOISA TAVARES DA SILVA","ie":74529340,"cnpj":"29059715000100","razao":"MARIA E TAVARES DA SILVA EPP","sit":"C","regime":"NORMAL","municipio":"CUPIRA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

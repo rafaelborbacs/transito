@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":51889110,"cnpj":"17610944000183","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09390256470","nome":"ADRIANA LEONARDO CONCEICAO SILVA","ie":51889110,"cnpj":"17610944000183","razao":"ADRIANA LEONARDO CONCEICAO SILVA 09390256470","sit":"A","regime":"SIMEI","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

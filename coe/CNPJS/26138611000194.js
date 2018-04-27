@@ -5,3 +5,5 @@ EntradasData.entradas = [{"ie":34616292,"cnpj":"10483444002122","razao":"BETANIA
 {"ie":27773396,"cnpj":"02914460009298","razao":"SEARA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1083.60}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"01031894403","nome":"TATIANE DO NASCIMENTO SANTOS","ie":68945850,"cnpj":"26138611000194","razao":"TATIANE DO NASCIMENTO SANTOS 01031894403","sit":"S","regime":"SIMPLES","municipio":"OLINDA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

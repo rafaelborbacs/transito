@@ -26,7 +26,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"44841132449","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":170.00},
 {"ie":0,"cnpj":"41749326000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":10.00},
 {"ie":19785437,"cnpj":"41254947000106","razao":"MARIA SAUDE SILVA","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":360.00},
-{"ie":21099642,"cnpj":"41246257000105","razao":"EDVALDO CORDEIRO SANTOS ME","sit":"S","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":180.00},
+{"ie":21099642,"cnpj":"41246257000105","razao":"EDVALDO CORDEIRO SANTOS ME","sit":"A","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":180.00},
 {"ie":18444318,"cnpj":"41085762000115","razao":"FRANCISCO FURTADO MOURA","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":720.00},
 {"ie":17969689,"cnpj":"41046020000180","razao":"MARIA SERRAT NOVAES","sit":"S","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":360.00},
 {"ie":17904129,"cnpj":"40872152000107","razao":"MARIA CONCEICAO GOMES LIMA","sit":"S","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":180.00},
@@ -149,7 +149,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":52910970,"cnpj":"18086737000134","razao":"MANOEL JOSE DE SOUZA 60740353420","sit":"A","regime":"SIMEI","municipio":"TACARATU","igi":0,"uf":"PE","valor":170.00},
 {"ie":51938421,"cnpj":"17641003000107","razao":"M. KELLY AMARAL SOARES CASTRO ME","sit":"S","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":360.00},
 {"ie":51811600,"cnpj":"17584620000118","razao":"GIRLANE KECIA CONCEICAO SILVA 05685500483","sit":"A","regime":"SIMEI","municipio":"JATOBA","igi":0,"uf":"PE","valor":170.00},
-{"ie":51456273,"cnpj":"17409021000168","razao":"LIVIANE DE ARAUJO FREITAS 03517933481","sit":"A","regime":"SIMEI","municipio":"TACARATU","igi":0,"uf":"PE","valor":170.00},
+{"ie":51456273,"cnpj":"17409021000168","razao":"LIVIANE DE ARAUJO FREITAS 03517933481","sit":"B","regime":"NORMAL","municipio":"TACARATU","igi":0,"uf":"PE","valor":170.00},
 {"ie":50651862,"cnpj":"17084268000151","razao":"SUELI FARIAS 53687841472","sit":"A","regime":"SIMEI","municipio":"JATOBA","igi":0,"uf":"PE","valor":170.00},
 {"ie":50467425,"cnpj":"17008284000165","razao":"VOLBEQUES FERREIRA SILVA 06896932490","sit":"A","regime":"SIMEI","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":190.00},
 {"ie":50319744,"cnpj":"16887337000100","razao":"JOAO MARCOS DE MENDONCA 04494196495","sit":"S","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":370.00},
@@ -172,7 +172,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":45878714,"cnpj":"14253178000159","razao":"VANESSA NUNES DE SOUZA NOGUEIRA ME","sit":"A","regime":"SIMEI","municipio":"TACARATU","igi":0,"uf":"PE","valor":180.00},
 {"ie":45590028,"cnpj":"14206044000187","razao":"ODAIR DA SILVA ARAUJO","sit":"C","regime":"NORMAL","municipio":"JATOBA","igi":0,"uf":"PE","valor":180.00},
 {"ie":45339503,"cnpj":"14098997000179","razao":"SANDRA CRISTINA TEIXEIRA DOS SANTOS 72876913453","sit":"A","regime":"SIMEI","municipio":"JATOBA","igi":0,"uf":"PE","valor":170.00},
-{"ie":45384800,"cnpj":"14092384000124","razao":"MARCOS TULIO LIMA NONATO M E","sit":"S","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":340.00},
+{"ie":45384800,"cnpj":"14092384000124","razao":"MARCOS TULIO LIMA NONATO M E","sit":"C","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":340.00},
 {"ie":44473109,"cnpj":"13789028000100","razao":"AMARO SOARES DE ALBUQUERQUE FILHO 39700313468","sit":"A","regime":"SIMEI","municipio":"TAMANDARE","igi":0,"uf":"PE","valor":170.00},
 {"ie":71897968,"cnpj":"13746286000362","razao":"JUSSARA MARIA DE ALMEIDA ME","sit":"S","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":360.00},
 {"ie":52356000,"cnpj":"13746286000281","razao":"JUSSARA MARIA DE ALMEIDA ME","sit":"A","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":170.00},
@@ -299,3 +299,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":22480692,"cnpj":"00484514000160","razao":"COMERCIAL DE ALIMENTOS ITAPARICA LTDA","sit":"B","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":180.00},
 {"ie":20867948,"cnpj":"00403035000171","razao":"MOISES BARBOSA DE MORAIS ME","sit":"A","regime":"SIMPLES","municipio":"BELEM DE SAO FRANCISCO","igi":0,"uf":"PE","valor":380.00}];
 SociosData.socios = [{"cpf":"08817728446","nome":"SIMONE PEREIRA DA SILVA","ie":60576839,"cnpj":"21579662000138","razao":"SIMONE PEREIRA DA SILVA 08817728446","sit":"S","regime":"SIMPLES","municipio":"PETROLANDIA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

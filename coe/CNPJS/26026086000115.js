@@ -4,3 +4,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","re
 {"ie":0,"cnpj":"13004304000250","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":17194.50}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09547471430","nome":"JOSE RENATO DOS SANTOS","ie":76591212,"cnpj":"26026086000115","razao":"JOSE RENATO DOS SANTOS 09547471430","sit":"A","regime":"SIMEI","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

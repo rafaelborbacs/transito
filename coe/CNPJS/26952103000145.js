@@ -21,10 +21,12 @@ SaidasData.saidas = [{"ie":66129117,"cnpj":"24186949000196","razao":"P A SUPERME
 {"ie":35841435,"cnpj":"09153668000143","razao":"MERCANTIL SAO JERONIMO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":46770.00},
 {"ie":35490462,"cnpj":"08991693000133","razao":"MERCANTIL SAO MIGUEL DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":47983.60},
 {"ie":33069840,"cnpj":"07614540000104","razao":"PERNAMBUCO MERCANTIL ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":70364.10},
-{"ie":31350550,"cnpj":"06337746000171","razao":"APOENA COMERCIO DE ALIMENTOS EIRELI","sit":"S","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":186410.00},
+{"ie":31350550,"cnpj":"06337746000171","razao":"APOENA COMERCIO DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":186410.00},
 {"ie":26686880,"cnpj":"03566375000101","razao":"ANJOS BARBOSA CONSTRUCOES LTDA","sit":"B","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":41231.80}];
 SociosData.socios = [{"cpf":"90501500472","nome":"RIVALDO BEZERRA DE SOUZA","ie":70478350,"cnpj":"26952103000145","razao":"COMERCIAL SUPLA MIL LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"90501500472","nome":"RIVALDO BEZERRA DE SOUZA","ie":67011918,"cnpj":"24635170000100","razao":"COMERCIAL RIVALDO BEZERRA DE SOUZA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"JOAQUIM NABUCO","igi":0},
 {"cpf":"90501500472","nome":"RIVALDO BEZERRA DE SOUZA","ie":27181383,"cnpj":"03879230000160","razao":"DISTRIBUIDORA DE BEBIDAS TERRA NOSTRA LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"PAUDALHO","igi":0},
 {"cpf":"07492226462","nome":"PAULO VICTOR NASCIMENTO DE ARAUJO","ie":70478350,"cnpj":"26952103000145","razao":"COMERCIAL SUPLA MIL LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"07492226462","nome":"PAULO VICTOR NASCIMENTO DE ARAUJO","ie":69129584,"cnpj":"26252137000127","razao":"COMERCIAL PAULO VICTOR EIRELI","sit":"C","regime":"NORMAL","municipio":"JOAQUIM NABUCO","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

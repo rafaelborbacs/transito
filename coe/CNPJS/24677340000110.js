@@ -22,3 +22,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"55891691000152","razao":"","sit":"","regime
 {"ie":0,"cnpj":"04722160000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":3680.00},
 {"ie":0,"cnpj":"02051213000178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":17460.00}];
 SociosData.socios = [{"cpf":"07527006420","nome":"LEURICE HIGINO CARLOS","ie":67153461,"cnpj":"24677340000110","razao":"LEURICE HIGINO CARLOS 07527006420","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

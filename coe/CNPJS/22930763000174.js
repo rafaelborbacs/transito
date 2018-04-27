@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":63472660,"cnpj":"22930763000174","r
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"11278600469","nome":"ISABELLA NERI CAVALCANTI","ie":63472660,"cnpj":"22930763000174","razao":"ISABELLA NERI CAVALCANTI 11278600469","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -133,3 +133,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97536622000170","razao":"","sit":"","regime
 {"ie":0,"cnpj":"00653056630","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1555.00},
 {"ie":0,"cnpj":"00273232347","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4000.00}];
 SociosData.socios = [{"cpf":"06264314412","nome":"MAURICIO JOSE DA SILVA","ie":73483125,"cnpj":"28465282000111","razao":"MAURICIO JOSE DA SILVA 06264314412","sit":"C","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

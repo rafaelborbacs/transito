@@ -91,3 +91,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96380730559","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"01434879000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":5740.00},
 {"ie":0,"cnpj":"00802906125","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":2500.00}];
 SociosData.socios = [{"cpf":"08614452446","nome":"SUEDILSON ANTONIO DE SOBRAL","ie":76022609,"cnpj":"29745748000103","razao":"SUEDILSON ANTONIO DE SOBRAL 08614452446","sit":"C","regime":"SIMEI","municipio":"VERTENTES","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"29724367000130","tel":"8198818446","razao":"FLAVIO DIAS ARAUJO 09338973409","municipio":"CARUARU"}];

@@ -8,3 +8,5 @@ SociosData.socios = [{"cpf":"09858516436","nome":"VALDENICE DO NASCIMENTO FERREI
 {"cpf":"01473114462","nome":"JOSE MESSIAS CORDEIRO DA SILVA","ie":32693290,"cnpj":"07199223000179","razao":"ALUMIX - INDUSTRIA, IMPORTACAO E EXPORTACAO LTDA -ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"00889223408","nome":"MANOEL FLAVIO VELOSO AQUINO","ie":32693290,"cnpj":"07199223000179","razao":"ALUMIX - INDUSTRIA, IMPORTACAO E EXPORTACAO LTDA -ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"00889223408","nome":"MANOEL FLAVIO VELOSO AQUINO","ie":24796212,"cnpj":"02548062000168","razao":"J M C R COM & IND LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -4,3 +4,5 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"18508031882","nome":"RODRIGO SANTIAGO AMPARADO","ie":43246761,"cnpj":"00027986000274","razao":"TRIFER INDUSTRIA METALURGICA LTDA","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1},
 {"cpf":"13288094800","nome":"ROGERIO SANTIAGO AMPARADO","ie":43246761,"cnpj":"00027986000274","razao":"TRIFER INDUSTRIA METALURGICA LTDA","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1},
 {"cpf":"11841514829","nome":"RENATO SANTIAGO AMPARADO","ie":43246761,"cnpj":"00027986000274","razao":"TRIFER INDUSTRIA METALURGICA LTDA","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":37032402,"cnpj":"10330304000170","razao":"ARTECA 
 {"ie":41833635,"cnpj":"12645405000166","razao":"MUNDO TEXTIL COMERCIO E INDUSTRIA LIMITADA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":35006.66}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"53014197491","nome":"IOLANDA DE FRANCA","ie":53504682,"cnpj":"18376887000182","razao":"IOLANDA DE FRANCA 53014197491","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

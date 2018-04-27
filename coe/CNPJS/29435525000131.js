@@ -3,3 +3,5 @@ EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"10292209000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":7500.00},
 {"ie":0,"cnpj":"10111631000131","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":87582.00}];
 SociosData.socios = [{"cpf":"07348625479","nome":"IVANILDO JOSE DA SILVA","ie":75277131,"cnpj":"29435525000131","razao":"IVANILDO JOSE DA SILVA COMERCIO ME","sit":"S","regime":"SIMPLES","municipio":"RIBEIRAO","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

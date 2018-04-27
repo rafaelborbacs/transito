@@ -7,3 +7,5 @@ SociosData.socios = [{"cpf":"46073035420","nome":"HABERLAND ANGELO DE MIRANDA","
 {"cpf":"33771740444","nome":"MARIA ROSINEIDE PEIXOTO DE MIRANDA","ie":42846668,"cnpj":"13026065000158","razao":"ALENCAR & MIRANDA LTDA ME","sit":"B","regime":"NORMAL","municipio":"PARNAMIRIM","igi":0},
 {"cpf":"33771740444","nome":"MARIA ROSINEIDE PEIXOTO DE MIRANDA","ie":11681187,"cnpj":"10615391000102","razao":"BOTICARIO ROSILANGE LTDA","sit":"S","regime":"NORMAL","municipio":"PARNAMIRIM","igi":1},
 {"cpf":"19199724472","nome":"LINDALVA MARIA DE MIRANDA ANGELO","ie":11681187,"cnpj":"10615391000102","razao":"BOTICARIO ROSILANGE LTDA","sit":"S","regime":"NORMAL","municipio":"PARNAMIRIM","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

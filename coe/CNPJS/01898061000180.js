@@ -21,7 +21,7 @@ SociosData.socios = [{"cpf":"88218732420","nome":"JANNE FREITAS DE CARVALHO","ie
 {"cpf":"25877330497","nome":"JAIRO FREITAS DE CARVALHO","ie":24348902,"cnpj":"01898061000180","razao":"COTONFIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"16538064434","nome":"JACILENE CARVALHO DE MEDEIROS","ie":74233149,"cnpj":"28893539000136","razao":"J.C. DE MEDEIROS","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"16538064434","nome":"JACILENE CARVALHO DE MEDEIROS","ie":64597300,"cnpj":"08777674000532","razao":"RENAISSANCE INDUSTRIA E COMERCIO DE RENDAS E BORDADOS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
-{"cpf":"16538064434","nome":"JACILENE CARVALHO DE MEDEIROS","ie":50170503,"cnpj":"16729157000192","razao":"MAISON BLANC ENXOVAIS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0},
+{"cpf":"16538064434","nome":"JACILENE CARVALHO DE MEDEIROS","ie":50170503,"cnpj":"16729157000192","razao":"MAISON BLANC ENXOVAIS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"16538064434","nome":"JACILENE CARVALHO DE MEDEIROS","ie":31412840,"cnpj":"01898061000342","razao":"COTONFIL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"16538064434","nome":"JACILENE CARVALHO DE MEDEIROS","ie":30631785,"cnpj":"05879779000180","razao":"RICAMI ENXOVAIS LTDA. EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"16538064434","nome":"JACILENE CARVALHO DE MEDEIROS","ie":28114566,"cnpj":"01898061000261","razao":"COTONFIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
@@ -42,3 +42,7 @@ SociosData.socios = [{"cpf":"88218732420","nome":"JANNE FREITAS DE CARVALHO","ie
 {"cpf":"05576668480","nome":"BERNARDO CARVALHO GALINDO DE MEDEIROS","ie":30631785,"cnpj":"05879779000180","razao":"RICAMI ENXOVAIS LTDA. EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"05576668480","nome":"BERNARDO CARVALHO GALINDO DE MEDEIROS","ie":28114566,"cnpj":"01898061000261","razao":"COTONFIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"05576668480","nome":"BERNARDO CARVALHO GALINDO DE MEDEIROS","ie":24348902,"cnpj":"01898061000180","razao":"COTONFIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [{"cnpj":"08777674000109","email":"compras@renaissance.ind.br","razao":"RENAISSANCE IND COM RENDAS E BORDADOS LTDA","municipio":"PESQUEIRA"}];
+TelsData.tels = [{"cnpj":"28893539000136","tel":"8133414096","razao":"J. C. DE MEDEIROS","municipio":"Recife"},
+{"cnpj":"20051420000104","tel":"8133414096","razao":"B3 ENGENHARIA LTDA - ME","municipio":"RECIFE"},
+{"cnpj":"08777674000109","tel":"8133414096","razao":"RENAISSANSE IND E COM DE REND E BOR LTDA","municipio":"PESQUEIRA"}];

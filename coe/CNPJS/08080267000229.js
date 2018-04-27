@@ -9,3 +9,5 @@ SociosData.socios = [{"cpf":"04418959483","nome":"JOSEILSON GENESIO DA SILVA","i
 {"cpf":"04418959483","nome":"JOSEILSON GENESIO DA SILVA","ie":42665795,"cnpj":"08080267000229","razao":"JOSEILSON GENESIO DA SILVA VESTUARIOS ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":1},
 {"cpf":"04418959483","nome":"JOSEILSON GENESIO DA SILVA","ie":34021264,"cnpj":"08080267000148","razao":"JOSEILSON GENESIO DA SILVA VESTUARIOS ME","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"04418959483","nome":"JOSEILSON GENESIO DA SILVA","ie":19059450,"cnpj":"41103094000101","razao":"DIRAK CONFECCOES LTDA","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

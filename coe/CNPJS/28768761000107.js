@@ -8,3 +8,5 @@ SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PROD
 {"ie":51945800,"cnpj":"17678389000121","razao":"ATACABOM DISTRIBUIDORA E COMERCIO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":22690.00},
 {"ie":34304134,"cnpj":"08322857000130","razao":"M R FERREIRA ALIMENTOS ME","sit":"A","regime":"SIMPLES","municipio":"PALMARES","igi":0,"uf":"PE","valor":12850.00}];
 SociosData.socios = [{"cpf":"05745102497","nome":"DAVIDSON THYAGO PEREIRA DE CARVALHO","ie":73939463,"cnpj":"28768761000107","razao":"COMERCIAL MARES DO SUL EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CACHOEIRINHA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

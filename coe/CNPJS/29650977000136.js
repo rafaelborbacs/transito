@@ -13,3 +13,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"80895255804","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"05020219000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":79414.00},
 {"ie":0,"cnpj":"02846807000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":165300.00}];
 SociosData.socios = [{"cpf":"33381185896","nome":"RAFAEL TEODORO DA ROCHA","ie":75792419,"cnpj":"29650977000136","razao":"RAFAEL TEODORO DA ROCHA","sit":"A","regime":"NORMAL","municipio":"IPUBI","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"28378968000175","tel":"89981147226","razao":"CARMINA DA LUZ SILVA - ME","municipio":"Ipubi"}];

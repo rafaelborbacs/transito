@@ -3,3 +3,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"02045487000901","razao":"","sit":"","re
 {"ie":0,"cnpj":"07981720003905","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":21622.80}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05402124400","nome":"KETSIA KELLY DA SILVA SANTOS","ie":50369504,"cnpj":"16919114000170","razao":"KETSIA KELLY DA SILVA SANTOS 05402124400","sit":"A","regime":"SIMEI","municipio":"CARUARU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

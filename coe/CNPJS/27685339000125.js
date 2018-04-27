@@ -5,3 +5,5 @@ EntradasData.entradas = [{"ie":24639206,"cnpj":"01024914000155","razao":"RODOBEN
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04519486459","nome":"CARLOS ALBERTO JOSE DA SILVA JUNIOR","ie":71885790,"cnpj":"27685339000125","razao":"CARLOS ALBERTO JOSE DA SILVA JUNIOR EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"LAGOA DO ITAENGA","igi":1},
 {"cpf":"04519486459","nome":"CARLOS ALBERTO JOSE DA SILVA JUNIOR","ie":67005195,"cnpj":"14002046000154","razao":"COOPERTRANSNORTE COOPERATIVA DOS PROPRIETARIOS DE TRANSPORTE COMPLEMENTAR ALTERNATIVO INTERMUNICIPAL DA MATA  NORTE","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

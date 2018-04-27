@@ -117,7 +117,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99897229272","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"15385332000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":11500.00},
 {"ie":0,"cnpj":"15119907000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":6294.10},
 {"ie":0,"cnpj":"15104858000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1158.00},
-{"ie":0,"cnpj":"14932229372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1791.00},
+{"ie":0,"cnpj":"14932229372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1791.00},
 {"ie":0,"cnpj":"14671156000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2000.00},
 {"ie":0,"cnpj":"14549458000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":3275.00},
 {"ie":0,"cnpj":"14476730000178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":14480.00},
@@ -183,3 +183,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99897229272","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00456572000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1825.00},
 {"ie":0,"cnpj":"00298575388","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1989.00}];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

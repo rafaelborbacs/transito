@@ -22,3 +22,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"28819153000184","razao":"","sit":"","regime
 {"ie":0,"cnpj":"02367601000243","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":11335.00},
 {"ie":0,"cnpj":"02367601000162","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":11692.80}];
 SociosData.socios = [{"cpf":"12096267480","nome":"ALINE MIQUELLE RAMOS DOS SANTOS","ie":73678058,"cnpj":"28592133000113","razao":"ALINE MIQUELLE RAMOS DOS SANTOS 12096267480","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

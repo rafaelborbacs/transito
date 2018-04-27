@@ -6,3 +6,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97506026000148","razao":"","sit":"","regime
 {"ie":31138250,"cnpj":"06196381000102","razao":"RADAR MERCANTIL LTDA - ME","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1,"uf":"PE","valor":753110.00},
 {"ie":28590929,"cnpj":"04670090000189","razao":"ARENA MM COMERCIAL LTDA ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":535528.00}];
 SociosData.socios = [{"cpf":"70151239401","nome":"ANA CLAUDIA DA SILVA","ie":71924108,"cnpj":"27718492000101","razao":"COMERCIAL NOVO CORTES EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"CORTES","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

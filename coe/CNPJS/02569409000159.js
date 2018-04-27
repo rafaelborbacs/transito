@@ -15,3 +15,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"23474297000122","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"26778610468","nome":"AMARO NUNES DA SILVA","ie":24845795,"cnpj":"02569409000159","razao":"THIORE LINGERIE INDUSTRIA DE CONFECCOES LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1},
 {"cpf":"16025038856","nome":"IRACEMA DA CONCEICAO VIEIRA NUNES","ie":29055660,"cnpj":"04983578000166","razao":"IRACEMA DA CONCEICAO VIEIRA NUNES ME","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"16025038856","nome":"IRACEMA DA CONCEICAO VIEIRA NUNES","ie":24845795,"cnpj":"02569409000159","razao":"THIORE LINGERIE INDUSTRIA DE CONFECCOES LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

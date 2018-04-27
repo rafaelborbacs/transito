@@ -10,3 +10,5 @@ SaidasData.saidas = [{"ie":18168450,"cnpj":"41043399000175","razao":"ARCON ARAUJ
 SociosData.socios = [{"cpf":"02339180430","nome":"LUIZ BARTOLOMEU CARNEIRO DE MENDONCA JUNIOR","ie":63812436,"cnpj":"23158624000137","razao":"JR MATERIAL DE CONSTRUCAO - EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"02339180430","nome":"LUIZ BARTOLOMEU CARNEIRO DE MENDONCA JUNIOR","ie":31966233,"cnpj":"07104662000150","razao":"L.M. SOARES DE MENDONCA MATERIAIS DE CONSTRUCAO - EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"02339180430","nome":"LUIZ BARTOLOMEU CARNEIRO DE MENDONCA JUNIOR","ie":24134180,"cnpj":"02188401000142","razao":"L L M COMERCIAL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -25,3 +25,5 @@ EntradasData.entradas = [{"ie":26244861,"cnpj":"40820706000114","razao":"SMQ TEC
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10011953454","nome":"TATHIANA ANDRESSA DA COSTA","ie":62809008,"cnpj":"22588144000143","razao":"TATHIANA ANDRESSA DA COSTA RESTAURANTE ME","sit":"A","regime":"SIMPLES","municipio":"GRAVATA","igi":1},
 {"cpf":"10011953454","nome":"TATHIANA ANDRESSA DA COSTA","ie":50780913,"cnpj":"17168075000189","razao":"BRASIL CONCRETOS LTDA  ME","sit":"B","regime":"NORMAL","municipio":"BEZERROS","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

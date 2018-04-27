@@ -42,3 +42,11 @@ SociosData.socios = [{"cpf":"38450224420","nome":"JOSE MARCILIO COUTO SALES","ie
 {"cpf":"03432061455","nome":"ADRIANA CRISTINA RODRIGUES DE MACEDO SALES","ie":30628563,"cnpj":"05919419000165","razao":"A C R CONFECCAO LTDA ME","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"03432061455","nome":"ADRIANA CRISTINA RODRIGUES DE MACEDO SALES","ie":25132008,"cnpj":"02704092000116","razao":"ACR INDUSTRIA DE CONFECCOES SALES EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"03432061455","nome":"ADRIANA CRISTINA RODRIGUES DE MACEDO SALES","ie":9695591,"cnpj":"08758070000115","razao":"INDUSTRIA DE CONFECCOES SALES EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"15607308000177","tel":"8137210694","razao":"JOALDO G DE MOURA ME","municipio":"RECIFE"},
+{"cnpj":"09739770436","tel":"8137210694","razao":"LUCAS VINICIUS BISPO SALES","municipio":"Caruaru"},
+{"cnpj":"08758070000387","tel":"8137210694","razao":"INDUSTRIA DE CONFECCOES SALES EIRELI EPP","municipio":"CARUARU"},
+{"cnpj":"08758070000204","tel":"8137210694","razao":"INDUSTRIA DE CONFECCOES SALES EIRELI EPP","municipio":"CARUARU"},
+{"cnpj":"08758070000115","tel":"8137210694","razao":"INDUSTRIA DE CONFECÇÕES SALES EIRELI - EPP","municipio":"CARUARU"},
+{"cnpj":"04116238000138","tel":"8137210694","razao":"HIRA KARLA PRIMO ME","municipio":"TAMANDARE"},
+{"cnpj":"03924733000100","tel":"8137210694","razao":"SHEILA S COSTA ME","municipio":"CAMARAGIBE"}];

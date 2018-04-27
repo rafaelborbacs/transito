@@ -108,7 +108,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"88658554287","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"16566620000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":2158.00},
 {"ie":0,"cnpj":"15994759000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":1082.13},
 {"ie":0,"cnpj":"15593634000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":7050.00},
-{"ie":48297437,"cnpj":"15357571000155","razao":"CESARIO SILVA DA CUNHA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1000.00},
+{"ie":48297437,"cnpj":"15357571000155","razao":"CESARIO SILVA DA CUNHA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1000.00},
 {"ie":0,"cnpj":"15203684000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2072.00},
 {"ie":0,"cnpj":"15138622000409","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3238.00},
 {"ie":0,"cnpj":"15138622000239","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2098.00},
@@ -180,3 +180,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"88658554287","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00456572000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1035.00},
 {"ie":0,"cnpj":"00293094330","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2070.00}];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

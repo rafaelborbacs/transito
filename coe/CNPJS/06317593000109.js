@@ -19,3 +19,5 @@ SociosData.socios = [{"cpf":"78496616487","nome":"J0SIANE BEZERRA DE MELO MOREIR
 {"cpf":"23278234472","nome":"MARCOS PEDRO DA SILVA","ie":26386909,"cnpj":"03434415000161","razao":"HDM COMERCIO DE LUBRIFICANTES LTDA ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},
 {"cpf":"23278234472","nome":"MARCOS PEDRO DA SILVA","ie":23402911,"cnpj":"01653099000193","razao":"PAPIRO ARTES GRAFICAS LTDA","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"23278234472","nome":"MARCOS PEDRO DA SILVA","ie":17769400,"cnpj":"40861478000120","razao":"ROTA COMERCIO DE LUBRIFICANTES LTDA ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [];

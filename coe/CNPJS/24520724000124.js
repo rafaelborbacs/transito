@@ -10,3 +10,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"28216316000134","razao":"","sit":"","regime
 {"ie":0,"cnpj":"01613989000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":7800.00}];
 SociosData.socios = [{"cpf":"01285633466","nome":"ALEXSANDRO ARAUJO FERREIRA","ie":73627305,"cnpj":"28588270000184","razao":"AJFA COMERCIO E SERVICOS DE  TECNOLOGIA LTDA ME","sit":"S","regime":"SIMPLES","municipio":"SIRINHAEM","igi":0},
 {"cpf":"01285633466","nome":"ALEXSANDRO ARAUJO FERREIRA","ie":67144209,"cnpj":"24520724000124","razao":"ALEXSANDRO ARAUJO FERREIRA 01285633466","sit":"A","regime":"SIMEI","municipio":"SIRINHAEM","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"01285633466","tel":"81998733222","razao":"ALEXSANDRO ARAUJO FERREIRA","municipio":"Sirinhaem"}];

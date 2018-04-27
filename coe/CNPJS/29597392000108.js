@@ -2,3 +2,5 @@ EstabelecimentoData.estabelecimento = [{"ie":75753510,"cnpj":"29597392000108","r
 EntradasData.entradas = [{"ie":0,"cnpj":"61092037002982","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":97630.38}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"78258529404","nome":"UBIRAJARA JOSE DA COSTA","ie":75753510,"cnpj":"29597392000108","razao":"UBIRAJARA JOSE DA COSTA 78258529404","sit":"A","regime":"SIMEI","municipio":"IGARASSU","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];

@@ -68,3 +68,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84033075000169","razao":"","sit":"","regime
 {"ie":0,"cnpj":"02112848000138","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2000.00},
 {"ie":0,"cnpj":"01037482000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":980.00}];
 SociosData.socios = [];
+EmailsData.emails = [];
+TelsData.tels = [];

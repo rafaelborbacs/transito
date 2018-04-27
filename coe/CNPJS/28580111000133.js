@@ -39,3 +39,5 @@ SaidasData.saidas = [{"ie":19363524,"cnpj":"69930667000190","razao":"A J ALMEIDA
 {"ie":25419048,"cnpj":"02775367000102","razao":"COMERCIAL ITAMBE LTDA","sit":"A","regime":"NORMAL","municipio":"ITAMBE","igi":0,"uf":"PE","valor":20073.30},
 {"ie":54617740,"cnpj":"02534585000236","razao":"SUPERMERCADO QUEIROZ LTDA","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":84.00}];
 SociosData.socios = [{"cpf":"08204244479","nome":"CRISTIANE DE SENA RAMOS","ie":73621374,"cnpj":"28580111000133","razao":"CRISTIANE DE SENA RAMOS ME","sit":"C","regime":"NORMAL","municipio":"GRAVATA","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];
