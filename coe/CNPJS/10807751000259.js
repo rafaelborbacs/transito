@@ -46,3 +46,4 @@ SociosData.socios = [{"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":697
 {"cpf":"07756491807","nome":"LEO MENDES DE FARIAS","ie":113808,"cnpj":"10807972000146","razao":"COMPANHIA INDUSTRIAL DE VIDROS CIV","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

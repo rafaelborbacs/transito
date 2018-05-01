@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"02841106470","nome":"JOSE ERIQUE BARBOSA DA SILVA",
 {"cpf":"02841106470","nome":"JOSE ERIQUE BARBOSA DA SILVA","ie":24539678,"cnpj":"02406950000146","razao":"JOSE ERIQUE BARBOSA SILVA","sit":"S","regime":"NORMAL","municipio":"SURUBIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

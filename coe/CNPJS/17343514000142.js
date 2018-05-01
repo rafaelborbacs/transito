@@ -137,3 +137,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"89996461220","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"08578096444","nome":"EWERTON CESAR SANTOS DO NASCIMENTO","ie":51300346,"cnpj":"17343514000142","razao":"EWERTON CESAR SANTOS DO NASCIMENTO 08578096444","sit":"C","regime":"NORMAL","municipio":"SURUBIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

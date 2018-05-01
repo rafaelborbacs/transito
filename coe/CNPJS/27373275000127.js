@@ -19,3 +19,4 @@ SociosData.socios = [{"cpf":"87970350410","nome":"SONIA MARIA ARAUJO PEREIRA","i
 {"cpf":"76576680406","nome":"MARIA DE FATIMA ARAUJO PEREIRA","ie":20605587,"cnpj":"00303162000107","razao":"MARIA DE FATIMA ALEXANDRE ARAUJO LTDA","sit":"B","regime":"NORMAL","municipio":"LIMOEIRO","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

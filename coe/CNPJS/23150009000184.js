@@ -5,3 +5,4 @@ SaidasData.saidas = [{"ie":57121141,"cnpj":"19979490000148","razao":"MOTRICE SOL
 SociosData.socios = [{"cpf":"44259565400","nome":"JUSSARA PAIVA AMORIM","ie":63943450,"cnpj":"23150009000184","razao":"JUSSARA PAIVA AMORIM 44259565400","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

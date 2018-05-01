@@ -1,7 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":76117731,"cnpj":"29792712000172","razao":"RAFAEL DA SILVA CRISTOVAO 10826498485","sit":"C","arrecadacao":0.00,"entradas":216562.62,"saidas":0.00,"regime":"SIMEI","segmento":"BEBIDAS","municipio":"JUPI","drr":"II","igi":1,"dataie":"05/03/2018"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"11816308000207","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":158202.00},
-{"ie":54242320,"cnpj":"08811556001060","razao":"EBB-EMPRESA BRASILEIRA DE BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":26000.00},
-{"ie":36321990,"cnpj":"09369684000178","razao":"ATACADAO DE ALIMENTOS SANTANA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":32360.62}];
+EstabelecimentoData.estabelecimento = [{"ie":76117731,"cnpj":"29792712000172","razao":"RAFAEL DA SILVA CRISTOVAO 10826498485","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"SIMEI","segmento":"BEBIDAS","municipio":"JUPI","drr":"II","igi":1,"dataie":"05/03/2018"}];
+EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10826498485","nome":"RAFAEL DA SILVA CRISTOVAO","ie":76117731,"cnpj":"29792712000172","razao":"RAFAEL DA SILVA CRISTOVAO 10826498485","sit":"C","regime":"SIMEI","municipio":"JUPI","igi":1}];
 EmailsData.emails = [];
@@ -19,3 +17,4 @@ TelsData.tels = [{"cnpj":"29997743000160","tel":"8799744862","razao":"JOSE ROBER
 {"cnpj":"28857098000117","tel":"8799744862","razao":"GEOVANY VASCONCELOS DE ARAUJO 02831","municipio":"SAO JOSE DO EGITO"},
 {"cnpj":"27755133000124","tel":"8799744862","razao":"GERALDO JOSE GOMES 51139898353","municipio":"POMBAL"},
 {"cnpj":"26964671000166","tel":"8799744862","razao":"FRANCISCO ANDRE SILVA COELHO 02261849354","municipio":"SAO BENTO"}];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07719897412","nome":"FABIANO FRANCISCO DO AMARAL","ie":51870525,"cnpj":"17599321000157","razao":"FABIANO FRANCISCO DO AMARAL 07719897412","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

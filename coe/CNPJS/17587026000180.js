@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"19673575878","nome":"VALDECY ALZIRA DE ARAUJO","ie":51818876,"cnpj":"17587026000180","razao":"VALDECY A DE ARAUJO ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

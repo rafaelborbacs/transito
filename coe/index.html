@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
     <title>COE</title>
     <link rel="stylesheet" href="./simple.datagrid.css">
 </head>
@@ -21,7 +24,6 @@
 	var filtroSegmento = "";
 	EstabsData = {};
 	EstabsData.pagedReponse = function(settings){
-		// Return mockjax response; handle paging and sorting
 		var page = settings.data.page || 1;
 		var order_by = settings.data.order_by;
 		var sortorder = settings.data.sortorder;
@@ -115,10 +117,10 @@
 		<table width="100%">
 		<tr valign="middle" style="height: 30px;">
 			<td>
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;&nbsp;&nbsp;
 			</td>
 			<td>
-				<a href="javascript:window.location.href = window.location.href;"><b>LIMPAR</b></a>
+				<input type="button" value="LIMPAR" onclick="window.location.href = window.location.href;" />
 			</td>
 			<td>
 				IE: <input type="text" id="estabIE" onchange="onChangeEstab()" size="8"/> &nbsp;
@@ -128,7 +130,10 @@
 				SEGMENTO: <input type="text" id="estabSegmento" onchange="onChangeEstab()" size="9"/>&nbsp;
 			</td>
 			<td align="center" width="300">
-				<a href="javascript:window.location.href = './COE-IGI.csv';"><b>BAIXAR CSV</b></a>
+				<input type="button" value="FILTRO" onclick="window.location.href = './filtro.html';" />
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="button" value="BAIXAR CSV" onclick="window.location.href = './COE-IGI.csv';" />
 			</td>
 			<td align="right">
 				<div id="numerosDiv" />
@@ -160,3 +165,4 @@
 		</table>
     </div>
 </body>
+</html>

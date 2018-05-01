@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"65796454404","nome":"ROSELIO JOSE DA SILVA","ie":58
 {"cpf":"65796454404","nome":"ROSELIO JOSE DA SILVA","ie":28640373,"cnpj":"03592783000138","razao":"ROSELIO JOSE SILVA","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

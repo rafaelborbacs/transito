@@ -6,3 +6,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09930867481","nome":"PALOMA MARIA DA SILVA LIMA","ie":74081888,"cnpj":"28779887000187","razao":"PALOMA MARIA DA SILVA LIMA 09930867481","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

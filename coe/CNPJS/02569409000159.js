@@ -17,3 +17,4 @@ SociosData.socios = [{"cpf":"26778610468","nome":"AMARO NUNES DA SILVA","ie":248
 {"cpf":"16025038856","nome":"IRACEMA DA CONCEICAO VIEIRA NUNES","ie":24845795,"cnpj":"02569409000159","razao":"THIORE LINGERIE INDUSTRIA DE CONFECCOES LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

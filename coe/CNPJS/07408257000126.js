@@ -2,9 +2,9 @@ EstabelecimentoData.estabelecimento = [{"ie":32659512,"cnpj":"07408257000126","r
 EntradasData.entradas = [{"ie":30048990,"cnpj":"00994362000145","razao":"PRISCILA RIBEIRO CADIDE","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":1127.63},
 {"ie":62487302,"cnpj":"22477514000175","razao":"ATITUDE CONFECCAO DE UNIFORMES PROFISSIONAIS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":1853.00},
 {"ie":0,"cnpj":"10936513000162","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":6750.00},
-{"ie":46861289,"cnpj":"12245491000110","razao":"ROCHA FIRME LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":380.00},
+{"ie":31166709,"cnpj":"06230499000100","razao":"SOMAR GASES COMERCIO E SERVICOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":500.00},
 {"ie":31951554,"cnpj":"07102844000192","razao":"FRANCISCO B. DA SILVA PETROLINA-ME","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":15486.50},
-{"ie":31166709,"cnpj":"06230499000100","razao":"SOMAR GASES COMERCIO E SERVICOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":500.00}];
+{"ie":46861289,"cnpj":"12245491000110","razao":"ROCHA FIRME LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":380.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"95326707420","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":1500.00},
 {"ie":0,"cnpj":"91130310310","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":300.00},
 {"ie":0,"cnpj":"87279401368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":840.00},
@@ -32,3 +32,4 @@ SociosData.socios = [{"cpf":"38652331472","nome":"MARIA ELIZABETE DA SILVA","ie"
 {"cpf":"38652331472","nome":"MARIA ELIZABETE DA SILVA","ie":24021300,"cnpj":"02139620000131","razao":"PEDREIRA S. F. PETROLINA LTDA EPP","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

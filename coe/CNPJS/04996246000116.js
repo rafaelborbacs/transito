@@ -23,3 +23,4 @@ SociosData.socios = [{"cpf":"77001222453","nome":"SYBELLE FREIRE DUARTE DE LUCEN
 {"cpf":"33003408453","nome":"MARIA DE LOURDES DUARTE DA SILVA","ie":26413728,"cnpj":"03416097000106","razao":"J LUCENA CONFECCOES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

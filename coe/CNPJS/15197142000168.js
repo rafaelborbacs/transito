@@ -9,3 +9,4 @@ SociosData.socios = [{"cpf":"06641823482","nome":"ELANE LIMEIRA DA SILVA","ie":4
 {"cpf":"03074128496","nome":"LUIS CARLOS PEREIRA DE CARVALHO","ie":20923872,"cnpj":"00447881000193","razao":"PRO-SURF INDUSTRIA COMERCIO CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -13,3 +13,4 @@ SociosData.socios = [{"cpf":"80490042368","nome":"KATIA VIANA LIMA DA SILVA","ie
 {"cpf":"02499373369","nome":"KELLY VIANA LIMA DA SILVA","ie":34127259,"cnpj":"08239934000192","razao":"OLINDA COMERCIO DE AVIAMENTOS LTDA ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

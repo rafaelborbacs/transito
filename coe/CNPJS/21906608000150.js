@@ -34,3 +34,4 @@ SaidasData.saidas = [{"ie":17481066,"cnpj":"40819823000168","razao":"KELSCH INDU
 SociosData.socios = [];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

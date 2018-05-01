@@ -21,3 +21,4 @@ SociosData.socios = [{"cpf":"59035935420","nome":"TEREZA MARIA DA SILVA","ie":61
 {"cpf":"07167527432","nome":"SABRINA FRANCA ALBUQUERQUE","ie":33620431,"cnpj":"07877497000170","razao":"CARNE NOBRE LTDA ME","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

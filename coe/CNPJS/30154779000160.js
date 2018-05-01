@@ -6,3 +6,4 @@ SociosData.socios = [{"cpf":"10855872403","nome":"ANTONIO AUGUSTO SETTE LEITE DE
 {"cpf":"10855872403","nome":"ANTONIO AUGUSTO SETTE LEITE DE CARVALHO","ie":74350455,"cnpj":"28950489000181","razao":"NORDESTE COMERCIO DE DOCES, BALAS E BOMBONS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

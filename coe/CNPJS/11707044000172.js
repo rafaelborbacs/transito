@@ -15,3 +15,4 @@ SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PROD
 SociosData.socios = [{"cpf":"06718224464","nome":"JORGE LUIZ LIMA DO NASCIMENTO","ie":73514969,"cnpj":"11707044000172","razao":"JORGE L L DO NASCIMENTO LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"80488935334","nome":"JOSELMA DE SOUSA MACIEL","ie":71156607,"cnpj":"27282550000105","razao":"JOSELMA DE SOUSA MACIEL ME","sit":"C","regime":"NORMAL","municipio":"GRANITO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

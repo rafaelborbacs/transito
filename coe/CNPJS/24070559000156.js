@@ -37,3 +37,4 @@ SociosData.socios = [{"cpf":"19216858400","nome":"MARIA VALERIA GUABIRU RODRIGUE
 {"cpf":"00014524449","nome":"VALERIO FIGUEIREDO RODRIGUES DE SOUZA","ie":384232,"cnpj":"10780633000113","razao":"TECOREL TECNICA COMERCIO E REPRESENTACOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

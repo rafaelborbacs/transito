@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07453200407","nome":"ALBERICO JOSE DE SANTANA","ie":75561875,"cnpj":"29500786000198","razao":"ALBERICO JOSE DE SANTANA 07453200407","sit":"C","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

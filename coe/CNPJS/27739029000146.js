@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04729031440","nome":"CARMILENE MARIA MOURA DA SILVA HORA","ie":72034114,"cnpj":"27739029000146","razao":"CARMILENE MARIA MOURA DA SILVA HORA 04729031440","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

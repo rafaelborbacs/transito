@@ -14,3 +14,4 @@ SaidasData.saidas = [{"ie":20250002,"cnpj":"70177837000196","razao":"FRIGORIFICO
 SociosData.socios = [{"cpf":"36026590463","nome":"DARCINEIDE FERREIRA PINTO","ie":55670504,"cnpj":"19330664000147","razao":"DARCINEIDE FERREIRA PINTO 36026590463","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

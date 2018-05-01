@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"40447529404","nome":"ROSILDA ALEXANDRINO CIPRIANO","ie":48799025,"cnpj":"15582556000100","razao":"ROSILDA ALEXANDRINO CIPRIANO 40447529404","sit":"C","regime":"NORMAL","municipio":"PAUDALHO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

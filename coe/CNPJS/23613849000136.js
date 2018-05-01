@@ -7,7 +7,6 @@ SociosData.socios = [{"cpf":"51824698453","nome":"ESMERALDA DE AZEVEDO CAVALCANT
 {"cpf":"51824698453","nome":"ESMERALDA DE AZEVEDO CAVALCANTI SILVA","ie":66713226,"cnpj":"24485099000127","razao":"ESMERALDA DE AZEVEDO CAVALCANTI SILVA VESTUARIO ME","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0},
 {"cpf":"51824698453","nome":"ESMERALDA DE AZEVEDO CAVALCANTI SILVA","ie":64877345,"cnpj":"23613849000136","razao":"ESMERALDA DE AZEVEDO VESTUARIO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"51824698453","nome":"ESMERALDA DE AZEVEDO CAVALCANTI SILVA","ie":53316177,"cnpj":"18299462000117","razao":"ESMERALDA DE AZEVEDO CAVALCANTI SILVA ME","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0}];
-EmailsData.emails = [{"cnpj":"25255179000159","email":"victordanilo@hotmail.com","razao":"AZEVEDO E AZEVEDO VESTUARIO LTDA","municipio":"Olinda"},
-{"cnpj":"24920680000120","email":"victordanilo@hotmail.com","razao":"V D A SILVA VESTUARIO EIRELI","municipio":"Petrolina"},
-{"cnpj":"07636279410","email":"victordanilo@hotmail.com","razao":"VICTOR DANILO DE AZEVEDO SILVA - Cod. 0493678","municipio":"RECIFE"}];
+EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

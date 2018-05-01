@@ -16,3 +16,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"87788578215","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"03148012437","nome":"BRUNO ANTONIO MARTINS BARBOSA","ie":61657026,"cnpj":"22093432000127","razao":"CAMISARIA TEZ EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

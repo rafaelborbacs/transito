@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":73070807,"cnpj":"28301960000100","razao":"MARCELO FRANCISCO PEREIRA ME","sit":"C","arrecadacao":0.00,"entradas":563533.53,"saidas":5575645.81,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"RIACHO DAS ALMAS","drr":"II","igi":1,"dataie":"01/08/2017"}];
 EntradasData.entradas = [{"ie":6391508,"cnpj":"11699378000737","razao":"COMPANHIA ALCOOLQUIMICA NACIONAL-ALCOOLQUIMICA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":44400.00},
-{"ie":31330959,"cnpj":"35504133000260","razao":"ENGARRAFAMENTO COROA LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":60396.00},
-{"ie":64287700,"cnpj":"11472872000250","razao":"A. F. G. GAUDENCIO EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":262.01},
-{"ie":35558873,"cnpj":"08999776000179","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":800.00},
-{"ie":29400945,"cnpj":"05087553000147","razao":"CAVALCANTI BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":8750.00},
 {"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL CENTRAL DE GENEROS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13120.00},
+{"ie":38873320,"cnpj":"11335169000119","razao":"SUPERMERCADO CHA GRANDE LTDA","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":314.50},
+{"ie":31330959,"cnpj":"35504133000260","razao":"ENGARRAFAMENTO COROA LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":60396.00},
+{"ie":35558873,"cnpj":"08999776000179","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":800.00},
 {"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":420891.02},
-{"ie":36321990,"cnpj":"09369684000178","razao":"ATACADAO DE ALIMENTOS SANTANA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":14600.00},
-{"ie":38873320,"cnpj":"11335169000119","razao":"SUPERMERCADO CHA GRANDE LTDA","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":314.50}];
+{"ie":29400945,"cnpj":"05087553000147","razao":"CAVALCANTI BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":8750.00},
+{"ie":64287700,"cnpj":"11472872000250","razao":"A. F. G. GAUDENCIO EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":262.01},
+{"ie":36321990,"cnpj":"09369684000178","razao":"ATACADAO DE ALIMENTOS SANTANA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":14600.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97506026000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":1083003.52},
 {"ie":19906676,"cnpj":"70209861000160","razao":"ZUMMI COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":3006.00},
 {"ie":19474865,"cnpj":"70209861000160","razao":"ZUMMI COMERCIO E INDUSTRIA LTDA","sit":"B","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":3006.00},
@@ -63,7 +63,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97506026000148","razao":"","sit":"","regime
 {"ie":52837793,"cnpj":"18073013000156","razao":"L N DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":30075.00},
 {"ie":52533069,"cnpj":"17941630000163","razao":"LG SANTOS COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":77500.00},
 {"ie":52461211,"cnpj":"17908320000147","razao":"RJ COMERCIO E REPRESENTACAO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":8903.20},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":15320.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":15320.00},
 {"ie":51845687,"cnpj":"17633752000192","razao":"I.P.L SUPERMERCADO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":1078.00},
 {"ie":51831031,"cnpj":"17611850000129","razao":"MAIS COMERCIO DISTRIBUIDORA E REPRESENTACAO DE MATERIAIS DE LIMPEZA LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":78800.00},
 {"ie":51168561,"cnpj":"17299121000189","razao":"O & J  COMERCIAL DE PRODUTOS ALIMENTICIOS LTDA  ME","sit":"A","regime":"NORMAL","municipio":"NAZARE DA MATA","igi":0,"uf":"PE","valor":586.00},
@@ -75,7 +75,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97506026000148","razao":"","sit":"","regime
 {"ie":48097772,"cnpj":"15253723000170","razao":"A. C. SOUZA COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1088.00},
 {"ie":47303727,"cnpj":"14830203000110","razao":"VAREJAO E ARMARINHO OURO VERDE LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9000.00},
 {"ie":46172904,"cnpj":"14344094000120","razao":"IVANIL R DE ARRUDA - ME","sit":"S","regime":"NORMAL","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":1500.00},
-{"ie":45479690,"cnpj":"14150512000149","razao":"ALUIZIO J DOS SANTOS EIRELI ME","sit":"S","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1320.00},
+{"ie":45479690,"cnpj":"14150512000149","razao":"ALUIZIO J DOS SANTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1320.00},
 {"ie":43881866,"cnpj":"13452360000176","razao":"PSM COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4290.80},
 {"ie":43588565,"cnpj":"13336186000104","razao":"R. J. DE LIMA ALIMENTOS","sit":"A","regime":"SIMPLES","municipio":"GRAVATA","igi":0,"uf":"PE","valor":766.00},
 {"ie":43223630,"cnpj":"13179464000159","razao":"REGINA SOARES DA SILVA","sit":"A","regime":"SIMPLES","municipio":"POMBOS","igi":0,"uf":"PE","valor":11000.00},
@@ -144,7 +144,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97506026000148","razao":"","sit":"","regime
 {"ie":29400945,"cnpj":"05087553000147","razao":"CAVALCANTI BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":8750.00},
 {"ie":49952951,"cnpj":"04955676000351","razao":"J R ESTRELA ATACADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10950.00},
 {"ie":29336759,"cnpj":"04955676000190","razao":"J R ESTRELA ATACADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10710.00},
-{"ie":28590929,"cnpj":"04670090000189","razao":"ARENA MM COMERCIAL LTDA ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":369488.00},
+{"ie":28590929,"cnpj":"04670090000189","razao":"ARENA MM COMERCIAL EIRELI","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":369488.00},
 {"ie":28393180,"cnpj":"04545623000109","razao":"S MANOEL SOUZA MERCADINHO","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":151754.33},
 {"ie":28606515,"cnpj":"04491448000106","razao":"M.M.SILVA RIBEIRAO EPP","sit":"A","regime":"NORMAL","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":7258.00},
 {"ie":27692124,"cnpj":"04161564000167","razao":"JEANE M LIMA EMBALAGENS","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1157.19},
@@ -171,3 +171,4 @@ SociosData.socios = [{"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie
 {"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":71721509,"cnpj":"27609814000184","razao":"COMERCIAL BREJAO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"LAJEDO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

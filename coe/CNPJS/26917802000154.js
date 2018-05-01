@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04408305324","nome":"DANIEL SILVA MENDES","ie":70379106,"cnpj":"26917802000154","razao":"D SILVA MENDES ME","sit":"C","regime":"NORMAL","municipio":"EXU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

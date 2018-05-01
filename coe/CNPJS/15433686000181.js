@@ -9,3 +9,4 @@ SociosData.socios = [{"cpf":"78486530482","nome":"MARCOS ANDRE DOS SANTOS","ie":
 {"cpf":"11325063444","nome":"CARLOS JOSE DA SILVA","ie":48343307,"cnpj":"15433686000181","razao":"C J DA SILVA COMERCIO DE RESIDUOS DE OLEO LTDA ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

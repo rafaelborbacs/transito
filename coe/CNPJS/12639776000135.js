@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"53457200459","nome":"MAURA MARIA DOS SANTOS","ie":41963172,"cnpj":"12639776000135","razao":"MAURA MARIA DOS SANTOS","sit":"S","regime":"SIMPLES","municipio":"IPOJUCA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

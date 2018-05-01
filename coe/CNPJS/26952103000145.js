@@ -3,7 +3,7 @@ EntradasData.entradas = [{"ie":54846340,"cnpj":"06699644000287","razao":"DISTRIB
 {"ie":69129584,"cnpj":"26252137000127","razao":"COMERCIAL PAULO VICTOR EIRELI","sit":"C","regime":"NORMAL","municipio":"JOAQUIM NABUCO","igi":0,"uf":"PE","valor":1416370.00}];
 SaidasData.saidas = [{"ie":66129117,"cnpj":"24186949000196","razao":"P A SUPERMERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":95570.00},
 {"ie":65068602,"cnpj":"23697839000126","razao":"COSME & ALMEIDA SUPERMERCADO LTDA","sit":"B","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":46472.32},
-{"ie":63692945,"cnpj":"23094631000112","razao":"MERCANTIL PRAZERES DE ALIMENTOS LTDA EPP","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":46785.00},
+{"ie":63692945,"cnpj":"23094631000112","razao":"MERCANTIL PRAZERES DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":46785.00},
 {"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":26242.72},
 {"ie":60974052,"cnpj":"21785257000176","razao":"SUPERMERCADO SUPREMO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":26317.70},
 {"ie":59293349,"cnpj":"21026027000123","razao":"DAESKINA SUPERMERCADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"uf":"PE","valor":178107.12},
@@ -30,3 +30,4 @@ SociosData.socios = [{"cpf":"90501500472","nome":"RIVALDO BEZERRA DE SOUZA","ie"
 {"cpf":"07492226462","nome":"PAULO VICTOR NASCIMENTO DE ARAUJO","ie":69129584,"cnpj":"26252137000127","razao":"COMERCIAL PAULO VICTOR EIRELI","sit":"C","regime":"NORMAL","municipio":"JOAQUIM NABUCO","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

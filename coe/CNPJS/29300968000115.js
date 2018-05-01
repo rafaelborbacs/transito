@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"12615353403","nome":"ISABELA FRANCISCA AMORIM DE AL
 {"cpf":"12615353403","nome":"ISABELA FRANCISCA AMORIM DE ALMEIDA","ie":75085143,"cnpj":"29298765000131","razao":"ISABELA FRANCISCA AMORIM DE ALMEIDA ME","sit":"C","regime":"NORMAL","municipio":"FLORES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

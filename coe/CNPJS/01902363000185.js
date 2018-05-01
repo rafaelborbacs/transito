@@ -26,3 +26,4 @@ SociosData.socios = [{"cpf":"59271345487","nome":"JOSENILDO SEVERINO DOS SANTOS"
 {"cpf":"06296685408","nome":"TAYANE OLIVEIRA DOS SANTOS","ie":23566191,"cnpj":"01902363000185","razao":"T & D COMPANHIA DE LANCHES LTDA","sit":"B","regime":"NORMAL","municipio":"GRAVATA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

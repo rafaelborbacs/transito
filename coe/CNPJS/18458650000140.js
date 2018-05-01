@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07091144430","nome":"SEVERINO DA SILVA NETO","ie":53800818,"cnpj":"18458650000140","razao":"SEVERINO DA SILVA NETO 07091144430","sit":"A","regime":"SIMEI","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

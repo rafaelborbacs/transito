@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":72409029,"cnpj":"27974144000103","razao":"COMERCIAL JANIRE DO CARMO MEDINO EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":91800.68,"saidas":2220573.52,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CATENDE","drr":"I","igi":1,"dataie":"16/06/2017"}];
-EntradasData.entradas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUSTO DE QUEIROZ BATISTA","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":2.66},
+EntradasData.entradas = [{"ie":29748003,"cnpj":"40884595000290","razao":"COMERCIAL OESTE LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":91338.02},
 {"ie":52237680,"cnpj":"17765451000112","razao":"EBOM ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":460.00},
-{"ie":29748003,"cnpj":"40884595000290","razao":"COMERCIAL OESTE LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":91338.02}];
+{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUSTO DE QUEIROZ BATISTA","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":2.66}];
 SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUSTO DE QUEIROZ BATISTA","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":817.80},
 {"ie":48220809,"cnpj":"70175336000170","razao":"BONANCA PRODUTOS ALIMENTICIOS E CESTAS BASICAS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":11950.45},
 {"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H DA COSTA MERCEARIA ME","sit":"A","regime":"NORMAL","municipio":"CHA DE ALEGRIA","igi":0,"uf":"PE","valor":30063.20},
@@ -15,7 +15,7 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":66438411,"cnpj":"24353076000169","razao":"MERCADO DUDEK EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10065.60},
 {"ie":65173155,"cnpj":"23747328000171","razao":"BOM DIA SUPERMERCADO LTDA.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2664.00},
 {"ie":64876535,"cnpj":"23612972000132","razao":"A. C. DE AMORIM SOUZA COMERCIO DE ALIMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5442.96},
-{"ie":62983466,"cnpj":"22719811000180","razao":"ROBSON A. VIEIRA - DELICATESSEN EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10303.00},
+{"ie":62983466,"cnpj":"22719811000180","razao":"ROBSON A. VIEIRA - DELICATESSEN EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10303.00},
 {"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":57660.19},
 {"ie":61174300,"cnpj":"21841833000155","razao":"L. H. MINIMERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":40037.65},
 {"ie":60974052,"cnpj":"21785257000176","razao":"SUPERMERCADO SUPREMO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6977.50},
@@ -29,7 +29,7 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":54326184,"cnpj":"18710324000340","razao":"SUPERMERCADOS IBS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":18460.00},
 {"ie":54326001,"cnpj":"18710324000260","razao":"SUPERMERCADOS IBS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":6114.00},
 {"ie":54325706,"cnpj":"18710324000189","razao":"SUPERMERCADOS IBS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":21800.00},
-{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":12200.00},
+{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":12200.00},
 {"ie":53039238,"cnpj":"18200892000130","razao":"L P BARBOSA  MERCADINHO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":1308.00},
 {"ie":52237680,"cnpj":"17765451000112","razao":"EBOM ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":13235.86},
 {"ie":51248913,"cnpj":"16925669000124","razao":"BILIO ESTIVAS PAULISTA LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":5700.00},
@@ -84,3 +84,4 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 SociosData.socios = [{"cpf":"09060482492","nome":"JANIRE DO CARMO MEDINO","ie":72409029,"cnpj":"27974144000103","razao":"COMERCIAL JANIRE DO CARMO MEDINO EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"CATENDE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

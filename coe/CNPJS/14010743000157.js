@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"00970420480","nome":"OLAVO GOMES CARVALHO JUNIOR","ie":45115060,"cnpj":"14010743000157","razao":"OLAVO GOMES CARVALHO JUNIOR 00970420480","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

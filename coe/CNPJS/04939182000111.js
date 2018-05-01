@@ -39,3 +39,4 @@ SociosData.socios = [{"cpf":"54466008434","nome":"TANIA MARIA DE CARLI DE PAULA 
 {"cpf":"03132981494","nome":"DIOGO SOUZA MORAES","ie":28939409,"cnpj":"04939182000111","razao":"DC PAULA BEACH AND STREET WEAR LTDA EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

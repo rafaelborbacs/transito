@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"18083994200","nome":"JOSE ROBERTO RODRIGUES TAVARES","ie":73621102,"cnpj":"28578804000191","razao":"J R TAVARES DISTRIBUIDORA DE BEBIDAS EIRELI ME","sit":"C","regime":"NORMAL","municipio":"BELO JARDIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

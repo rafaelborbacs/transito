@@ -143,3 +143,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"94940304353","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"70508851424","nome":"TERCIO FRANCISCO DA SILVA SOUZA","ie":73331457,"cnpj":"28422880000103","razao":"TERCIO FRANCISCO DA SILVA SOUZA 70508851424","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

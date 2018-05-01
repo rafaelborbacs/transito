@@ -1,12 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":74188097,"cnpj":"28832527000100","razao":"ELIELTON VASCONCELOS DA SILVA 71305476425","sit":"C","arrecadacao":0.00,"entradas":376048.20,"saidas":0.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"18/10/2017"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"10843534000214","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":10200.00},
-{"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":144243.09},
-{"ie":0,"cnpj":"19526748000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":44783.36},
+EntradasData.entradas = [{"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":144243.09},
+{"ie":0,"cnpj":"10843534000214","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":10200.00},
+{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":38641.95},
 {"ie":0,"cnpj":"09258807000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":138179.80},
-{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":38641.95}];
+{"ie":0,"cnpj":"19526748000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":44783.36}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71305476425","nome":"ELIELTON VASCONCELOS DA SILVA","ie":74188097,"cnpj":"28832527000100","razao":"ELIELTON VASCONCELOS DA SILVA 71305476425","sit":"C","regime":"SIMEI","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
-EmailsData.emails = [{"cnpj":"88613658002678","email":"rivania@gso.com.br","razao":"PETTENATI S/A IND TEXTIL","municipio":"CAXIAS DO SUL"},
+EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","razao":"MODAUM INDUSTRIA E COMERCIO DE CONFECCOES LTDA EPP","municipio":"INDAIAL"},
+{"cnpj":"88613658002678","email":"rivania@gso.com.br","razao":"PETTENATI S/A IND TEXTIL","municipio":"CAXIAS DO SUL"},
 {"cnpj":"86375789000180","email":"rivania@gso.com.br","razao":"MALHARIA DIANA LTDA","municipio":"TIMBO"},
 {"cnpj":"85404671000170","email":"rivania@gso.com.br","razao":"KAKO CONFECCOES LTDA","municipio":"BLUMENAU"},
 {"cnpj":"85356574000150","email":"rivania@gso.com.br","razao":"KOHMAR IND. COM. DE CONFECCOES LTDA","municipio":"GUABIRUBA"},
@@ -16,6 +17,7 @@ EmailsData.emails = [{"cnpj":"88613658002678","email":"rivania@gso.com.br","raza
 {"cnpj":"85118552000151","email":"rivania@gso.com.br","razao":"ENGENHARIA DA MALHA IND.E COM.LTDA - ME","municipio":"BRUSQUE"},
 {"cnpj":"85098929000158","email":"rivania@gso.com.br","razao":"LUNELLI TEXTIL LTDA","municipio":"JARAGUA DO SUL"},
 {"cnpj":"84692268000121","email":"rivania@gso.com.br","razao":"TECIDOS DONA FRANCISCA LTDA","municipio":"JOINVILLE"},
+{"cnpj":"83539429000189","email":"rivania@gso.com.br","razao":"TASCHNER INDUSTRIA TEXTIL LTDA","municipio":"JARAGUA DO SUL"},
 {"cnpj":"83204800000151","email":"rivania@gso.com.br","razao":"MALHAS PRADI INDUSTRIA E COMERCIO LTDA","municipio":"JARAGUA DO SUL"},
 {"cnpj":"83201111000193","email":"rivania@gso.com.br","razao":"MC JU IND. E COM. DE CONFECCOES LTDA","municipio":"GUABIRUBA"},
 {"cnpj":"83195719000152","email":"rivania@gso.com.br","razao":"MALHAS MORIELY LTDA EPP","municipio":"GASPAR"},
@@ -68,6 +70,7 @@ EmailsData.emails = [{"cnpj":"88613658002678","email":"rivania@gso.com.br","raza
 {"cnpj":"12236362000165","email":"rivania@gso.com.br","razao":"VANAAM MALHAS LTDA EPP","municipio":"GUABIRUBA"},
 {"cnpj":"11975965000205","email":"rivania@gso.com.br","razao":"P E F TEXTIL LTDA ME","municipio":"SANTA CRUZ DO CAPIBARIBE"},
 {"cnpj":"11918362000182","email":"rivania@gso.com.br","razao":"LUCY COMERCIO E CONFECCOES LTDA","municipio":"GASPAR"},
+{"cnpj":"11634941000101","email":"rivania@gso.com.br","razao":"PRIMUS INDUSTRIA TEXTIL LTDA - ME","municipio":"GASPAR"},
 {"cnpj":"11513202000153","email":"rivania@gso.com.br","razao":"ENCHANTE TEXTIL LTDA","municipio":"BLUMENAU"},
 {"cnpj":"10880927000117","email":"rivania@gso.com.br","razao":"GRACIELE C MEINERZ ME","municipio":"JARAGUA DO SUL"},
 {"cnpj":"10474553000130","email":"rivania@gso.com.br","razao":"MALHAS MENEGOTTI INDUSTRIA TEXTIL LTDA","municipio":"JARAGUA DO SUL"},
@@ -92,6 +95,7 @@ EmailsData.emails = [{"cnpj":"88613658002678","email":"rivania@gso.com.br","raza
 {"cnpj":"08029237000107","email":"rivania@gso.com.br","razao":"BENEDITINE MALHAS LTDA ME","municipio":"RODEIO"},
 {"cnpj":"06980158000151","email":"rivania@gso.com.br","razao":"ZEMAPRI IND.COM.DE MALHAS LTDA","municipio":"BRUSQUE"},
 {"cnpj":"06250420000102","email":"rivania@gso.com.br","razao":"HAR TEXTIL MALHAS E CONFECCOES LTDA","municipio":"BRUSQUE"},
+{"cnpj":"06241868000160","email":"rivania@gso.com.br","razao":"ESTILO MALHAS INDUSTRIA E COMERCIO DE TECIDOS LTDA ME","municipio":"JARAGUA DO SUL"},
 {"cnpj":"06130723000191","email":"rivania@gso.com.br","razao":"MALHAS BEUSTOL LTDA ME","municipio":"BRUSQUE"},
 {"cnpj":"05766708000171","email":"rivania@gso.com.br","razao":"M E D MODAS FASHION LTDA ME","municipio":"GASPAR"},
 {"cnpj":"05376311000173","email":"rivania@gso.com.br","razao":"NEW TEXTIL LTDA","municipio":"BRUSQUE"},
@@ -113,6 +117,7 @@ EmailsData.emails = [{"cnpj":"88613658002678","email":"rivania@gso.com.br","raza
 {"cnpj":"03458754000188","email":"rivania@gso.com.br","razao":"MC-VI MALHAS LTDA","municipio":"BRUSQUE"},
 {"cnpj":"03403794000122","email":"rivania@gso.com.br","razao":"FIACAO ITABAIANA LTDA","municipio":"RIBEIROPOLIS"},
 {"cnpj":"03319629000197","email":"rivania@gso.com.br","razao":"MINI MUNDO CONFECCOES LTDA","municipio":"GASPAR"},
+{"cnpj":"03123987000120","email":"rivania@gso.com.br","razao":"TEAR TEXTIL INDUSTRIA E COMERCIO LTDA","municipio":"PARAOPEBA"},
 {"cnpj":"03123271000122","email":"rivania@gso.com.br","razao":"NORTEX NORDESTE COMERCIO LTDA","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"03080418000144","email":"rivania@gso.com.br","razao":"BECKHAUSER IND.COM.DE MALHAS LTDA","municipio":"TUBARAO"},
 {"cnpj":"03008742000151","email":"rivania@gso.com.br","razao":"TILICO MALHAS LTDA","municipio":"BLUMENAU"},
@@ -132,5 +137,7 @@ EmailsData.emails = [{"cnpj":"88613658002678","email":"rivania@gso.com.br","raza
 {"cnpj":"00490926000102","email":"rivania@gso.com.br","razao":"JO LEVER CONFECCOES LTDA EPP","municipio":"JARAGUA DO SUL"},
 {"cnpj":"00115768000100","email":"rivania@gso.com.br","razao":"SPIO MALHAS EIRELI","municipio":"TIMBO"},
 {"cnpj":"00087731000116","email":"rivania@gso.com.br","razao":"IND.COM.DE MALHAS PEMGIR LTDA","municipio":"BRUSQUE"},
-{"cnpj":"","email":"rivania@gso.com.br","razao":"USTER TECHNOLOGIES INC","municipio":"EXTERIOR"}];
-TelsData.tels = [{"cnpj":"29724367000130","tel":"8193358661","razao":"Flavio Dias Araujo 09338973409","municipio":"Igarassu"}];
+{"cnpj":"","email":"rivania@gso.com.br","razao":"BRACKER AG","municipio":"EXTERIOR"}];
+TelsData.tels = [];
+PlacasData.placas = [{"cnpj":"27469467000727","placa":"KES6464","razao":"FABIANO BERTO DE SOUZA SILVA EPP","municipio":"BREJO DA MADRE DE DEUS"},
+{"cnpj":"21240209000100","placa":"KES6464","razao":"ESTAMPARIA VITORIA LTDA","municipio":"VITORIA DE SANTO ANTAO"}];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"60741643472","nome":"IVANILDO BERNARDO DOS SANTOS","ie":50467859,"cnpj":"17008522000132","razao":"IVANILDO BERNARDO DOS SANTOS 60741643472","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

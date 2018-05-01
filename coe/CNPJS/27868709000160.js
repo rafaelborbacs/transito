@@ -7,3 +7,4 @@ SaidasData.saidas = [{"ie":32873948,"cnpj":"07537519000152","razao":"J F JATOBA 
 SociosData.socios = [{"cpf":"12254700480","nome":"RAMON RODRIGUES DE LIMA","ie":72222387,"cnpj":"27868709000160","razao":"RAMON RODRIGUES DE LIMA 12254700480","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

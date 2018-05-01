@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":24412414,"cnpj":"02325526000177","razao":"SOLANGE TEIXEIRA GURGEL - ME","sit":"C","arrecadacao":0.00,"entradas":14515.85,"saidas":198911.50,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"OLINDA","drr":"I","igi":1,"dataie":"16/02/1998"}];
-EntradasData.entradas = [{"ie":20817924,"cnpj":"00310864000100","razao":"TALMAR COMERCIO LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":250.00},
-{"ie":16744551,"cnpj":"35533132000163","razao":"SUPERMERCADO PINHEIRAO LTDA","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":63.00},
-{"ie":8798605,"cnpj":"08160707000177","razao":"IRMAOS BORGES LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":1342.00},
-{"ie":52823903,"cnpj":"18066796000140","razao":"N M DE OLIVEIRA EIRELI - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":63.00},
+EntradasData.entradas = [{"ie":16744551,"cnpj":"35533132000163","razao":"SUPERMERCADO PINHEIRAO LTDA","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":63.00},
+{"ie":33177651,"cnpj":"05155739000358","razao":"E J C ESTIVAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":30.00},
 {"ie":36152358,"cnpj":"09308170000102","razao":"MERCADINHO LEITE E AMORIM LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":38.00},
-{"ie":40281558,"cnpj":"10678262000163","razao":"NUTRI INGREDIENTES COMERCIO LTDA-ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6552.80},
 {"ie":42343089,"cnpj":"12833270000162","razao":"A DE B SILVA SUPERMERCADO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"BARREIROS","igi":0,"uf":"PE","valor":238.00},
-{"ie":50848739,"cnpj":"17190945000116","razao":"ONZEPLAST INDUSTRIA E COMERCIO LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":231.92},
-{"ie":28972023,"cnpj":"04907489000130","razao":"CIHUTA EMBALAGENS PLASTICAS LTDA","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":4522.93},
+{"ie":8798605,"cnpj":"08160707000177","razao":"IRMAOS BORGES LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":1342.00},
 {"ie":31445853,"cnpj":"06334268000146","razao":"SERV-LAR COMECIO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"VENTUROSA","igi":0,"uf":"PE","valor":1184.20},
-{"ie":33177651,"cnpj":"05155739000358","razao":"E J C ESTIVAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":30.00}];
+{"ie":40281558,"cnpj":"10678262000163","razao":"NUTRI INGREDIENTES COMERCIO LTDA-ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6552.80},
+{"ie":28972023,"cnpj":"04907489000130","razao":"CIHUTA EMBALAGENS PLASTICAS LTDA","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":4522.93},
+{"ie":20817924,"cnpj":"00310864000100","razao":"TALMAR COMERCIO LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":250.00},
+{"ie":52823903,"cnpj":"18066796000140","razao":"N M DE OLIVEIRA EIRELI - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":63.00},
+{"ie":50848739,"cnpj":"17190945000116","razao":"ONZEPLAST INDUSTRIA E COMERCIO LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":231.92}];
 SaidasData.saidas = [{"ie":20218621,"cnpj":"70176060000145","razao":"MERCADINHO VALDENICE LTDA","sit":"A","regime":"NORMAL","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":520.00},
 {"ie":19285892,"cnpj":"69963536000109","razao":"MERCALOPES LTDA","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":1055.00},
 {"ie":19363524,"cnpj":"69930667000190","razao":"A J ALMEIDA FREIRE","sit":"A","regime":"NORMAL","municipio":"BUIQUE","igi":0,"uf":"PE","valor":1740.00},
@@ -49,7 +49,7 @@ SaidasData.saidas = [{"ie":20218621,"cnpj":"70176060000145","razao":"MERCADINHO 
 {"ie":60546417,"cnpj":"21591154000175","razao":"GERSICA M. DE ASSIS ME","sit":"A","regime":"SIMPLES","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":1065.20},
 {"ie":60292725,"cnpj":"21488474000102","razao":"TASSIO R. DA SILVA MERCADINHO ME","sit":"A","regime":"SIMPLES","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":525.00},
 {"ie":62783106,"cnpj":"21402822000250","razao":"VAREJAO CENTRAL MINIMERCADO LTDA EPP","sit":"B","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":942.40},
-{"ie":59505974,"cnpj":"21127281000118","razao":"OSVALDO MATIAS DA SILVA ME","sit":"S","regime":"SIMPLES","municipio":"XEXEU","igi":0,"uf":"PE","valor":422.80},
+{"ie":59505974,"cnpj":"21127281000118","razao":"OSVALDO MATIAS DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"XEXEU","igi":0,"uf":"PE","valor":422.80},
 {"ie":58341200,"cnpj":"20625518000128","razao":"ABDIAS & KEDMA LTDA ME","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":785.00},
 {"ie":57954194,"cnpj":"20390868000152","razao":"J.V. DE MELO NETO SUPERMERCADO EPP","sit":"A","regime":"NORMAL","municipio":"GAMELEIRA","igi":0,"uf":"PE","valor":1761.00},
 {"ie":57854998,"cnpj":"20332644000194","razao":"C W SANTOS SILVA MERCADINHO LTDA ME","sit":"S","regime":"SIMPLES","municipio":"RIO FORMOSO","igi":0,"uf":"PE","valor":300.00},
@@ -154,4 +154,5 @@ SaidasData.saidas = [{"ie":20218621,"cnpj":"70176060000145","razao":"MERCADINHO 
 SociosData.socios = [{"cpf":"62028634472","nome":"SOLANGE TEIXEIRA GURGEL","ie":41856333,"cnpj":"12647967000149","razao":"SOLIMPE COMERCIO E REPRESENTACAO DE PRODUTOS SANEANTES LTDA","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":0},
 {"cpf":"62028634472","nome":"SOLANGE TEIXEIRA GURGEL","ie":24412414,"cnpj":"02325526000177","razao":"SOLANGE TEIXEIRA GURGEL - ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"07774684417","tel":"8134323290","razao":"LEANDRO CARLOS","municipio":"OLINDA"}];
+TelsData.tels = [];
+PlacasData.placas = [];

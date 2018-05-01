@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"85917494487","nome":"JEFTE TAVARES DA SILVA","ie":3
 {"cpf":"85917494487","nome":"JEFTE TAVARES DA SILVA","ie":30546087,"cnpj":"05873550000210","razao":"JEFTE TAVARES DA SILVA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

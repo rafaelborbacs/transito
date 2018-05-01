@@ -9,3 +9,4 @@ SociosData.socios = [{"cpf":"72849770434","nome":"MARIA DE FATIMA DOS SANTOS","i
 {"cpf":"72849770434","nome":"MARIA DE FATIMA DOS SANTOS","ie":25356615,"cnpj":"02835129000145","razao":"MARIA DE FATIMA DOS SANTOS VESTUARIO ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

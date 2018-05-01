@@ -45,3 +45,4 @@ SociosData.socios = [{"cpf":"72855088453","nome":"VERA LUCIA MONTEIRO DE ARAUJO 
 {"cpf":"10545000459","nome":"JOAO PEREIRA FILHO","ie":7768745,"cnpj":"11577665000189","razao":"JOVERA LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

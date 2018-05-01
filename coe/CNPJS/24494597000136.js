@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08927369416","nome":"NICOLE OLIVEIRA LOPES MACIEL","ie":66718619,"cnpj":"24494597000136","razao":"NICOLE OLIVEIRA LOPES MACIEL EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

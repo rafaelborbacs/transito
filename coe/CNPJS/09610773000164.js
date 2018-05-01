@@ -22,3 +22,4 @@ SociosData.socios = [{"cpf":"70039175480","nome":"JOSE DARIO DA SILVA","ie":3668
 {"cpf":"02077166410","nome":"CONSTANTINO CANDIDO MARANHAO MARIZ FILHO","ie":25059165,"cnpj":"02606162000101","razao":"REVENDEDORA COSTA DOURADA LTDA - EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

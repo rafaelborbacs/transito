@@ -6,3 +6,4 @@ SociosData.socios = [{"cpf":"02915484406","nome":"GIZELY COLASSO MARTINS","ie":6
 {"cpf":"02915484406","nome":"GIZELY COLASSO MARTINS","ie":29498570,"cnpj":"05297632000182","razao":"GIZELY COLASSO MARTINS","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

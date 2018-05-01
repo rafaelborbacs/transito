@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04722231435","nome":"GISALDA CHALEGRE DOS SANTOS","ie":40088200,"cnpj":"11954733000181","razao":"GISALDA CHALEGRE DOS SANTOS 04722231435","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -7,3 +7,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"87949741449","nome":"PEDRO LUIZ DA SILVA","ie":43164285,"cnpj":"13152565000136","razao":"PEDRO LUIZ DA SILVA 87949741449","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

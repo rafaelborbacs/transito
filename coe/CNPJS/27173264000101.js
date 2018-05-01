@@ -65,3 +65,4 @@ SociosData.socios = [{"cpf":"08516204421","nome":"TATIANA SILVA BATISTA","ie":70
 {"cpf":"08516204421","nome":"TATIANA SILVA BATISTA","ie":49330446,"cnpj":"15871129000142","razao":"M.F INDUSTRIA E COMERCIO DE ARTEFATOS DE PLASTICOS E MADEIRA LTDA","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

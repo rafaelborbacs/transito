@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":72007575,"cnpj":"27729820000175","razao":"RAFAEL DAVI DE VASCONCELOS ME","sit":"A","arrecadacao":1788.73,"entradas":44361.17,"saidas":182712.80,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"19/05/2017"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"00460986000425","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":26532.17},
-{"ie":0,"cnpj":"22971025000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":17829.00}];
+EntradasData.entradas = [{"ie":0,"cnpj":"22971025000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":17829.00},
+{"ie":0,"cnpj":"00460986000425","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":26532.17}];
 SaidasData.saidas = [{"ie":0,"cnpj":"89691943000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":3600.00},
 {"ie":0,"cnpj":"88423085520","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":3000.00},
 {"ie":0,"cnpj":"80310295000131","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2160.00},
@@ -66,3 +66,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"89691943000111","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"10936544490","nome":"RAFAEL DAVI DE VASCONCELOS","ie":72007575,"cnpj":"27729820000175","razao":"RAFAEL DAVI DE VASCONCELOS ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

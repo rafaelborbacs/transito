@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09276332480","nome":"EDMILSON AMARO DE OLIVEIRA","ie":76293700,"cnpj":"29899585000105","razao":"EDMILSON AMARO DE OLIVEIRA 09276332480","sit":"A","regime":"SIMEI","municipio":"GARANHUNS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

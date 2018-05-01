@@ -14,3 +14,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73597732453","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"02960776402","nome":"RITA DE CASSIA DA SILVA","ie":49212320,"cnpj":"15726571000185","razao":"RITA DE CASSIA DA SILVA","sit":"C","regime":"NORMAL","municipio":"GRAVATA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

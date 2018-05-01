@@ -6,3 +6,4 @@ SociosData.socios = [{"cpf":"09420814475","nome":"MARIAH VICTORIA DE SIQUEIRA AL
 {"cpf":"02529789940","nome":"FABIO JUNIOR WILLECKE","ie":64594807,"cnpj":"23477302000150","razao":"PRO HIGIENE DO BRASIL LTDA","sit":"B","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

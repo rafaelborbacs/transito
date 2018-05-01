@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"66073740425","nome":"MARCIO VICENTE TEIXEIRA DE LIMA","ie":19542291,"cnpj":"69968626000192","razao":"M V TEIXEIRA LIMA TRANSPORTES ME.","sit":"A","regime":"SIMPLES","municipio":"POMBOS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

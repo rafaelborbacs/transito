@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"00813879388","nome":"JANIO RUBEN BRASILEIRO RODRIGUES","ie":71156798,"cnpj":"27282444000113","razao":"JANIO RUBEN B RODRIGUES ME","sit":"C","regime":"NORMAL","municipio":"BODOCO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

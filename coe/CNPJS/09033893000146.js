@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"66171822434","nome":"MARIA AUXILIADORA DA SILVA FER
 {"cpf":"02777124400","nome":"ANA PATRICIA DA SILVA","ie":35807253,"cnpj":"09033893000146","razao":"COOPERATIVA EM CONFECCOES DE MACAPARANA","sit":"S","regime":"NORMAL","municipio":"MACAPARANA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

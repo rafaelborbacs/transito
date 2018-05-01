@@ -10,3 +10,4 @@ SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PROD
 SociosData.socios = [{"cpf":"07935884480","nome":"RONALDO RODRIGUES DA SILVA FRANCA","ie":70481652,"cnpj":"26958836000197","razao":"R. R. DA SILVA FRANCA   EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

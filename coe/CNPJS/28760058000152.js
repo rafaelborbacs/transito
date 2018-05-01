@@ -6,3 +6,4 @@ SociosData.socios = [{"cpf":"25432426862","nome":"EVANIO MAURICIO DE LIMA","ie":
 {"cpf":"09468885402","nome":"PATRICIA MARIA DA SILVA","ie":73937681,"cnpj":"28760058000152","razao":"SAO LONGUINHO COMERCIO E  EMPACOTAMENTO  LTDA ME","sit":"C","regime":"NORMAL","municipio":"BEZERROS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

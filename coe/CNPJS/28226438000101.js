@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"01907267336","nome":"FABIANA PESSOA SILVA","ie":72946113,"cnpj":"28226438000101","razao":"FABIANA PESSOA SILVA 01907267336","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05420724405","nome":"DAYSE MOURA DE LIMA ARRUDA","ie":57518882,"cnpj":"20153126000103","razao":"DAYSE MOURA DE LIMA ARRUDA 05420724405","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

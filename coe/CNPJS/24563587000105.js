@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"19471017491","nome":"CARLOS ALBERTO BARBOSA DE MOUR
 EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"28269133000187","tel":"8136211617","razao":"MARCELA E CARLOS MOURA CONFECCOES LTDA ME","municipio":"CARPINA"},
 {"cnpj":"19471017491","tel":"8136211617","razao":"CARLOS ALBERTO BARBOSA DE MOURA","municipio":"CARPINA"}];
+PlacasData.placas = [];

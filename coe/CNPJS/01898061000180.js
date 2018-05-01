@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":24348902,"cnpj":"01898061000180","razao":"COTONFIL LTDA","sit":"A","arrecadacao":1255.24,"entradas":5671.13,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"27/01/1998"}];
+EstabelecimentoData.estabelecimento = [{"ie":24348902,"cnpj":"01898061000180","razao":"COTONFIL LTDA","sit":"A","arrecadacao":1255.24,"entradas":5050.13,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"27/01/1998"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"40500043000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1251.00},
-{"ie":0,"cnpj":"12185022000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4420.13}];
+{"ie":0,"cnpj":"12185022000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3799.13}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"88218732420","nome":"JANNE FREITAS DE CARVALHO","ie":31412840,"cnpj":"01898061000342","razao":"COTONFIL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"88218732420","nome":"JANNE FREITAS DE CARVALHO","ie":28114566,"cnpj":"01898061000261","razao":"COTONFIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
@@ -42,7 +42,6 @@ SociosData.socios = [{"cpf":"88218732420","nome":"JANNE FREITAS DE CARVALHO","ie
 {"cpf":"05576668480","nome":"BERNARDO CARVALHO GALINDO DE MEDEIROS","ie":30631785,"cnpj":"05879779000180","razao":"RICAMI ENXOVAIS LTDA. EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"05576668480","nome":"BERNARDO CARVALHO GALINDO DE MEDEIROS","ie":28114566,"cnpj":"01898061000261","razao":"COTONFIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"05576668480","nome":"BERNARDO CARVALHO GALINDO DE MEDEIROS","ie":24348902,"cnpj":"01898061000180","razao":"COTONFIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1}];
-EmailsData.emails = [{"cnpj":"08777674000109","email":"compras@renaissance.ind.br","razao":"RENAISSANCE IND COM RENDAS E BORDADOS LTDA","municipio":"PESQUEIRA"}];
-TelsData.tels = [{"cnpj":"28893539000136","tel":"8133414096","razao":"J. C. DE MEDEIROS","municipio":"Recife"},
-{"cnpj":"20051420000104","tel":"8133414096","razao":"B3 ENGENHARIA LTDA - ME","municipio":"RECIFE"},
-{"cnpj":"08777674000109","tel":"8133414096","razao":"RENAISSANSE IND E COM DE REND E BOR LTDA","municipio":"PESQUEIRA"}];
+EmailsData.emails = [];
+TelsData.tels = [];
+PlacasData.placas = [];

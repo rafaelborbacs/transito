@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09689558439","nome":"DARCSON EDUARDO DA SILVA","ie":51900882,"cnpj":"17617835000198","razao":"DARCSON EDUARDO DA SILVA 09689558439","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

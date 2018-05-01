@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"87934647468","nome":"ROSELIA FERNANDES DA SILVA","i
 {"cpf":"09504291473","nome":"STEFFANE RAFAELLA FERNANDES DA SILVA","ie":36884456,"cnpj":"10219033000180","razao":"ROSELIA & STEFFANE MODAS LTDA ME","sit":"C","regime":"NORMAL","municipio":"PAUDALHO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

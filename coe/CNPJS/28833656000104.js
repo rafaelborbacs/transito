@@ -5,3 +5,4 @@ SaidasData.saidas = [{"ie":39023826,"cnpj":"11372320000199","razao":"TRIPOLI LOG
 SociosData.socios = [{"cpf":"70192276433","nome":"ANDERSON LUIS BEZERRA","ie":74060538,"cnpj":"28833656000104","razao":"ANDERSON LUIS BEZERRA SUPRIMENTOS DE INFORMATICA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

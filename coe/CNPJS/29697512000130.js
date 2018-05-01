@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":75808781,"cnpj":"29697512000130","razao":"DARLAN J. DA SILVA","sit":"C","arrecadacao":0.00,"entradas":949920.35,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"JUPI","drr":"II","igi":1,"dataie":"16/02/2018"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":949920.35}];
+EstabelecimentoData.estabelecimento = [{"ie":75808781,"cnpj":"29697512000130","razao":"DARLAN J. DA SILVA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"JUPI","drr":"II","igi":1,"dataie":"16/02/2018"}];
+EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"11995761400","nome":"DARLAN JULIO DA SILVA","ie":75808781,"cnpj":"29697512000130","razao":"DARLAN J. DA SILVA","sit":"C","regime":"NORMAL","municipio":"JUPI","igi":1}];
 EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"MARCOS CANDIDO DE LIMA","municipio":"CABO DE SANTO AGOSTINHO"},
@@ -26,3 +26,38 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"03456001428","email":"marcos@gmail.com","razao":"MARCOS SEVERINO DA SILVA","municipio":"PETROLINA"},
 {"cnpj":"03105791477","email":"marcos@gmail.com","razao":"MARCOS ANDRE DA SILVA","municipio":"Jaboatao dos Guararapes"}];
 TelsData.tels = [{"cnpj":"29330209000103","tel":"8131325415","razao":"REMIX ALIANCA COMERCIO VAREJISTA DE BEBIDAS EIRELI EPP","municipio":"Recife"}];
+PlacasData.placas = [{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+{"cnpj":"30146086000126","placa":"MUL6929","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+{"cnpj":"30146086000126","placa":"IAG8559","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+{"cnpj":"30146086000126","placa":"HZQ6869","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+{"cnpj":"30146086000126","placa":"HBP8989","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+{"cnpj":"29699130000146","placa":"NMG8454","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
+{"cnpj":"29699130000146","placa":"MUL6929","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
+{"cnpj":"29699130000146","placa":"MUI3891","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
+{"cnpj":"29699130000146","placa":"IAG8559","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
+{"cnpj":"29699130000146","placa":"HBP8989","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
+{"cnpj":"29699130000146","placa":"CYI5945","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
+{"cnpj":"29528522000142","placa":"NMG8454","razao":"V JUNIOR DE S SILVA","municipio":"CASINHAS"},
+{"cnpj":"29528522000142","placa":"MUL6929","razao":"V JUNIOR DE S SILVA","municipio":"CASINHAS"},
+{"cnpj":"29528522000142","placa":"MUI3891","razao":"V JUNIOR DE S SILVA","municipio":"CASINHAS"},
+{"cnpj":"29528522000142","placa":"IAG8559","razao":"V JUNIOR DE S SILVA","municipio":"CASINHAS"},
+{"cnpj":"29528522000142","placa":"HZQ6869","razao":"V JUNIOR DE S SILVA","municipio":"CASINHAS"},
+{"cnpj":"29528522000142","placa":"HBP8989","razao":"V JUNIOR DE S SILVA","municipio":"CASINHAS"},
+{"cnpj":"29528522000142","placa":"CYI5945","razao":"V JUNIOR DE S SILVA","municipio":"CASINHAS"},
+{"cnpj":"29470775000102","placa":"MUL6929","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
+{"cnpj":"29470775000102","placa":"MUI3891","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
+{"cnpj":"29470775000102","placa":"IAG8559","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
+{"cnpj":"29470775000102","placa":"HBP8989","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
+{"cnpj":"29470775000102","placa":"CYI5945","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
+{"cnpj":"29470775000102","placa":"BMH7447","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
+{"cnpj":"29436321000115","placa":"NMG8454","razao":"RL DA SILVA MERCADINHO EPP","municipio":"ALIANCA"},
+{"cnpj":"29436321000115","placa":"MUL6929","razao":"RL DA SILVA MERCADINHO EPP","municipio":"ALIANCA"},
+{"cnpj":"29436321000115","placa":"IAG8559","razao":"RL DA SILVA MERCADINHO EPP","municipio":"ALIANCA"},
+{"cnpj":"29436321000115","placa":"HBP8989","razao":"RL DA SILVA MERCADINHO EPP","municipio":"ALIANCA"},
+{"cnpj":"29436321000115","placa":"CYI5945","razao":"RL DA SILVA MERCADINHO EPP","municipio":"ALIANCA"},
+{"cnpj":"29330672000147","placa":"NMG8454","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
+{"cnpj":"29330672000147","placa":"MUL6929","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
+{"cnpj":"29330672000147","placa":"MUI3891","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
+{"cnpj":"29330672000147","placa":"IAG8559","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
+{"cnpj":"29330672000147","placa":"HBP8989","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
+{"cnpj":"29111826000100","placa":"HBP8989","razao":"LJ DA SILVA MERCADINHO EPP","municipio":"ALTINHO"}];

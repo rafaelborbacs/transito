@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07914150401","nome":"MARCOS RODRIGUES DOS SANTOS","ie":74824341,"cnpj":"29177510000110","razao":"M R DOS SANTOS COMERCIO DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"BELO JARDIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

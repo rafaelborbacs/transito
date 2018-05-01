@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05518532474","nome":"FELIPE CORREIA SANTOS","ie":54208149,"cnpj":"18690744000140","razao":"FELIPE CORREIA SANTOS 05518532474","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

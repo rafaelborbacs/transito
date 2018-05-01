@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":72217707,"cnpj":"27860252000147","razao":"COMERCIAL AGUAS BELAS VIEIRA LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":534277.93,"saidas":1845243.44,"regime":"NORMAL","segmento":"ATACADO","municipio":"AGUAS BELAS","drr":"II","igi":1,"dataie":"05/06/2017"}];
-EntradasData.entradas = [{"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10350.00},
-{"ie":53544552,"cnpj":"18440282000103","razao":"V. C. DE SOUSA FRIOS - EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":6963.60},
+EntradasData.entradas = [{"ie":53544552,"cnpj":"18440282000103","razao":"V. C. DE SOUSA FRIOS - EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":6963.60},
+{"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10350.00},
 {"ie":58196870,"cnpj":"20520556000116","razao":"RELUANA CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":516964.33}];
 SaidasData.saidas = [{"ie":66688108,"cnpj":"24429732000160","razao":"FTP COMERCIO DE ALIMENTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3853.21},
 {"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":35168.00},
@@ -28,3 +28,4 @@ SociosData.socios = [{"cpf":"47582199820","nome":"FERNANDA CLAUDIA VIEIRA DA SIL
 {"cpf":"14212552434","nome":"RINALDO LOPES DE CARVALHO","ie":10133518,"cnpj":"08934697000180","razao":"DISTRIBUIDORA DE ALIMENTOS MONTARROYOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

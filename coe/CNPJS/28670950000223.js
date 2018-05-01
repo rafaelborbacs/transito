@@ -15,3 +15,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"27958609000124","razao":"","sit":"","regime
 SociosData.socios = [];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

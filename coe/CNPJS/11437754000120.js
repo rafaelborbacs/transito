@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"06930390437","nome":"ALEXSANDRO LUIZ DO NASCIMENTO"
 {"cpf":"05223914430","nome":"JORDANIA CAVALCANTI FERREIRA DE LIMA","ie":39303780,"cnpj":"11437754000120","razao":"EMIRADOS CONFECCOES LTDA","sit":"C","regime":"NORMAL","municipio":"VERTENTES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"83151796400","nome":"HELIO MEDEIROS DOS SANTOS JUNIOR","ie":49174649,"cnpj":"15795534000129","razao":"HELIO MEDEIROS DOS SANTOS JUNIOR 83151796400","sit":"C","regime":"NORMAL","municipio":"IGARASSU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

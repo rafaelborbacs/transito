@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09088098409","nome":"JOSE PAULO GOMES DE ASSUNCAO","ie":74159666,"cnpj":"28874719000170","razao":"NEIVA COMERCIAL EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"PEDRA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

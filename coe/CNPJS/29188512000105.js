@@ -6,3 +6,4 @@ EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"28385828000124","tel":"8134358888","razao":"MERCADINHO DMAIS EIRELI ME - 138074","municipio":"PAULISTA"},
 {"cnpj":"24353344000142","tel":"8134358888","razao":"ALDEMIR MARQUES SILVA","municipio":"PAULISTA"},
 {"cnpj":"10758913451","tel":"8134358888","razao":"Talita leao de carvalho","municipio":"PAULISTA"}];
+PlacasData.placas = [];

@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"28945530649","nome":"MARIA APARECIDA VITOI ROSA","i
 {"cpf":"02696267006","nome":"OSCAR KULMANN NETO","ie":53836170,"cnpj":"18559637000188","razao":"VITORIA IMPORTACAO, EXPORTACAO, INDUSTRIA & COMERCIO DE TABACOS LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

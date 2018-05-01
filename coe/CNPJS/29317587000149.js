@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"03331864439","nome":"EDSON CAVALCANTI DA SILVA","ie":75154056,"cnpj":"29317587000149","razao":"EDSON CAVALCANTI DA SILVA 03331864439","sit":"C","regime":"SIMEI","municipio":"POCAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"29317599000173","tel":"8199591015","razao":"JOSENILDO ALVES DOS SANTOS 41767225415","municipio":"JABOATAO DOS GUARARAPES"}];
+PlacasData.placas = [];

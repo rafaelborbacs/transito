@@ -10,4 +10,5 @@ SociosData.socios = [{"cpf":"01187591408","nome":"HENRIQUE EDUARDO FERREIRA CAST
 {"cpf":"00998633402","nome":"ANA LUIZA DINIZ MENDONCA DE OLIVEIRA","ie":37420089,"cnpj":"10534426000189","razao":"ASTOLLI INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1},
 {"cpf":"00998633402","nome":"ANA LUIZA DINIZ MENDONCA DE OLIVEIRA","ie":26232260,"cnpj":"03185597000184","razao":"ASTOL INDUSTRIA E COMERCIO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"03185597000184","tel":"8133432143","razao":"ASTOL INDÚSTRIA E COMÉRCIO LTDA. - EPP","municipio":"IGARASSU"}];
+TelsData.tels = [];
+PlacasData.placas = [];

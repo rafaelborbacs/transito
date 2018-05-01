@@ -12,3 +12,4 @@ SociosData.socios = [{"cpf":"85911747472","nome":"SILVIA RODRIGUES DA SILVA","ie
 {"cpf":"85911747472","nome":"SILVIA RODRIGUES DA SILVA","ie":73077054,"cnpj":"28321866000113","razao":"COMERCIAL FALESIAS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

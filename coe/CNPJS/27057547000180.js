@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"07163664443","nome":"JOSE MARCOS DE MEDEIROS","ie":
 {"cpf":"07163664443","nome":"JOSE MARCOS DE MEDEIROS","ie":66004179,"cnpj":"24110433000168","razao":"JOSE MARCOS DE MEDEIROS MERCADOS EPP","sit":"B","regime":"NORMAL","municipio":"PETROLANDIA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

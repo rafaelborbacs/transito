@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"99862522453","nome":"CRISTIANE DE ANDRADE LAURENTINO","ie":60277173,"cnpj":"13771459000130","razao":"CRISTIANE DE ANDRADE LAURENTINO ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

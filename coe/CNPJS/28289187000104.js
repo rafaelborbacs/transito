@@ -5,3 +5,4 @@ SaidasData.saidas = [{"ie":40557480,"cnpj":"12224894000182","razao":"GRAFICA E E
 SociosData.socios = [{"cpf":"09767339434","nome":"PAULO NAZARE CAVALCANTI DE ALBUQUERQUE","ie":72986760,"cnpj":"28289187000104","razao":"PAULO NAZARE CAVALCANTI DE ALBUQUERQUE EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

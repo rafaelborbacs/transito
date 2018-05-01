@@ -11,3 +11,4 @@ SaidasData.saidas = [{"ie":66129117,"cnpj":"24186949000196","razao":"P A SUPERME
 SociosData.socios = [{"cpf":"11943207402","nome":"EDIVAN CANDIDO DA SILVA JUNIOR","ie":72373407,"cnpj":"27925252000188","razao":"EDIVAN CANDIDO DA SILVA JUNIOR 11943207402","sit":"B","regime":"NORMAL","municipio":"GRAVATA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

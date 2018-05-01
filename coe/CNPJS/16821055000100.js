@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07083321450","nome":"ROBERTO RACHIDE PEREIRA DE LUNA","ie":50067087,"cnpj":"16821055000100","razao":"ROBERTO RACHIDE PEREIRA DE LUNA 07083321450","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

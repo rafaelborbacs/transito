@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71572893427","nome":"IVANILSON DA SILVA SANTIAGO","ie":73627658,"cnpj":"28588392000170","razao":"IVANILSON DA S. SANTIAGO CONFECCOES ME","sit":"S","regime":"SIMPLES","municipio":"TORITAMA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

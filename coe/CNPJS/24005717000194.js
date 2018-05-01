@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"97188697434","nome":"JOSE INACIO DA SILVA VIEIRA","
 {"cpf":"97188697434","nome":"JOSE INACIO DA SILVA VIEIRA","ie":39843890,"cnpj":"11846883000171","razao":"JOSE INACIO DA SILVA VIEIRA 97188697434","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -1,48 +1,7 @@
-EstabelecimentoData.estabelecimento = [{"ie":76311970,"cnpj":"29727057000250","razao":"ELISON JOSE DA SILVA","sit":"A","arrecadacao":0.00,"entradas":345731.54,"saidas":81252.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"14/03/2018"}];
-EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":16630.68},
-{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":23116.26},
-{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":36002.12},
-{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":62197.18},
-{"ie":25534734,"cnpj":"02932830000182","razao":"KATIA CILENE DE LIMA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":55873.59},
-{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":104230.86},
-{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":47680.85}];
-SaidasData.saidas = [{"ie":75431742,"cnpj":"29471348000149","razao":"LUCLECIO CARLOS SILVA DE LIMA","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":1.00},
-{"ie":0,"cnpj":"28985013000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1112.00},
-{"ie":0,"cnpj":"26626516000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":700.00},
-{"ie":0,"cnpj":"26313687000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2005.00},
-{"ie":0,"cnpj":"22989117000182","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":11670.00},
-{"ie":0,"cnpj":"20077214000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1300.00},
-{"ie":0,"cnpj":"20019457000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2150.00},
-{"ie":0,"cnpj":"20015056000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"17261142000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":700.00},
-{"ie":0,"cnpj":"15796915000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3200.00},
-{"ie":0,"cnpj":"14620902000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":388.80},
-{"ie":0,"cnpj":"14619836000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":388.80},
-{"ie":0,"cnpj":"14427069000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"14312380000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":20496.00},
-{"ie":0,"cnpj":"14144138000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":194.40},
-{"ie":0,"cnpj":"13690682000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":7627.50},
-{"ie":0,"cnpj":"13011373000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2797.00},
-{"ie":0,"cnpj":"11456577000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":900.00},
-{"ie":0,"cnpj":"10960281000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":194.40},
-{"ie":0,"cnpj":"10626631000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":194.40},
-{"ie":0,"cnpj":"10497163000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"10489327000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"10486342000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":194.40},
-{"ie":0,"cnpj":"09636950000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":194.40},
-{"ie":0,"cnpj":"09067221000313","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":700.00},
-{"ie":0,"cnpj":"09067221000151","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":700.00},
-{"ie":0,"cnpj":"09039303000192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"08868032000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"08272121000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"05526168000310","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":12857.50},
-{"ie":0,"cnpj":"05304950000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":498.00},
-{"ie":0,"cnpj":"04975717000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"04921941000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"04852289000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":388.80},
-{"ie":0,"cnpj":"03797968000340","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1695.00},
-{"ie":0,"cnpj":"03797968000260","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1920.00},
-{"ie":0,"cnpj":"03081958000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":2586.00}];
+EstabelecimentoData.estabelecimento = [{"ie":76311970,"cnpj":"29727057000250","razao":"ELISON JOSE DA SILVA","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"14/03/2018"}];
+EntradasData.entradas = [];
+SaidasData.saidas = [];
 SociosData.socios = [];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"17054907434","nome":"ANTONIO DE FRANCA SILVA","ie":
 {"cpf":"17054907434","nome":"ANTONIO DE FRANCA SILVA","ie":35433906,"cnpj":"08858683000124","razao":"ANTONIO DE FRANCA SILVA ME","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

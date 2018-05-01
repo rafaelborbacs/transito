@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"79310010444","nome":"AMOS ESTEVO DE LIMA","ie":43565786,"cnpj":"13339878000106","razao":"AMOS ESTEVO DE LIMA 79310010444","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

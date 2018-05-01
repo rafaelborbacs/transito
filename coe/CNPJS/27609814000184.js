@@ -1,14 +1,14 @@
 EstabelecimentoData.estabelecimento = [{"ie":71721509,"cnpj":"27609814000184","razao":"COMERCIAL BREJAO EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":448776.11,"saidas":4950525.07,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"27/04/2017"}];
-EntradasData.entradas = [{"ie":57230358,"cnpj":"08999776000330","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":64645.85},
+EntradasData.entradas = [{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":213300.00},
 {"ie":18227724,"cnpj":"40878332000198","razao":"ANTONIO JAIME RIBEIRO LUCENA-MERCEARIA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1626.50},
 {"ie":52118754,"cnpj":"17733830000120","razao":"QUALLYHORTI COMERCIO & IMPORTACAO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":54135.00},
-{"ie":10657428,"cnpj":"09058504000137","razao":"ARMAZEM DO GRAO COMERCIO DE ALIMENTOS E EMBALAGENS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13200.00},
-{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":213300.00},
 {"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":47473.00},
-{"ie":44646801,"cnpj":"13819887000196","razao":"F RAFAELA OLIVEIRA BEZERRA COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":54395.76}];
+{"ie":57230358,"cnpj":"08999776000330","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":64645.85},
+{"ie":44646801,"cnpj":"13819887000196","razao":"F RAFAELA OLIVEIRA BEZERRA COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":54395.76},
+{"ie":10657428,"cnpj":"09058504000137","razao":"ARMAZEM DO GRAO COMERCIO DE ALIMENTOS E EMBALAGENS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13200.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"73576902000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":120893.00},
-{"ie":19587201,"cnpj":"70222278000199","razao":"MARIA DOS ANJOS FERREIRA LINS EPP","sit":"A","regime":"SIMPLES","municipio":"PALMARES","igi":0,"uf":"PE","valor":463.74},
 {"ie":20328052,"cnpj":"70222278000199","razao":"MARIA DOS ANJOS FERREIRA LINS EPP","sit":"B","regime":"SIMPLES","municipio":"PALMARES","igi":0,"uf":"PE","valor":463.74},
+{"ie":19587201,"cnpj":"70222278000199","razao":"MARIA DOS ANJOS FERREIRA LINS EPP","sit":"A","regime":"SIMPLES","municipio":"PALMARES","igi":0,"uf":"PE","valor":463.74},
 {"ie":19024665,"cnpj":"41103987000157","razao":"SUPERMERCADO CIDADE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":55687.70},
 {"ie":18227724,"cnpj":"40878332000198","razao":"ANTONIO JAIME RIBEIRO LUCENA-MERCEARIA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1626.50},
 {"ie":70120803,"cnpj":"26768875000121","razao":"AVISTAO AUTOSERVICO LTDA.","sit":"A","regime":"NORMAL","municipio":"SERTANIA","igi":0,"uf":"PE","valor":10344.00},
@@ -84,3 +84,4 @@ SociosData.socios = [{"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie
 {"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":71721509,"cnpj":"27609814000184","razao":"COMERCIAL BREJAO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"LAJEDO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

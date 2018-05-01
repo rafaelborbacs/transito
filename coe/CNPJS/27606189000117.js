@@ -106,3 +106,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84741230000100","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"10443748454","nome":"MARIA APARECIDA DA SILVA","ie":71767592,"cnpj":"27606189000117","razao":"MARIA APARECIDA DA SILVA 10443748454","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

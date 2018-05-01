@@ -4,3 +4,4 @@ SaidasData.saidas = [{"ie":8644551,"cnpj":"08073264000187","razao":"CONSTRUTORA 
 SociosData.socios = [{"cpf":"04344547454","nome":"GUTEMBERG SIDNEY VIEIRA DA SILVA","ie":54484251,"cnpj":"18815828000163","razao":"GUTEMBERG SIDNEY VIEIRA DA SILVA 04344547454","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

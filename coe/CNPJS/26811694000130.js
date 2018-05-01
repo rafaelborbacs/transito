@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08675140436","nome":"JOBSON TRANQUILINO DA SILVA","ie":70234132,"cnpj":"26811694000130","razao":"JOBSON TRANQUILINO DA SILVA 08675140436","sit":"S","regime":"NORMAL","municipio":"IPOJUCA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

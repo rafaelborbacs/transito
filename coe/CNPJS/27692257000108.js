@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08718740405","nome":"GABRIELA ROUMILLAC PACHECO DE OLIVEIRA AGRA","ie":71940804,"cnpj":"27692257000108","razao":"GABRIELA ROUMILLAC PACHECO DE OLIVEIRA AGRA 08718740405","sit":"C","regime":"NORMAL","municipio":"CORRENTES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

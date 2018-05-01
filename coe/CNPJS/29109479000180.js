@@ -1,20 +1,20 @@
 EstabelecimentoData.estabelecimento = [{"ie":74710419,"cnpj":"29109479000180","razao":"RINALDO RODRIGUES DE MELO ME","sit":"C","arrecadacao":0.00,"entradas":718195.50,"saidas":1294015.07,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ANGELIM","drr":"II","igi":1,"dataie":"21/11/2017"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"11516329000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":26576.50},
-{"ie":0,"cnpj":"28685332000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":63000.00},
-{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":587310.00},
-{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":41309.00}];
-SaidasData.saidas = [{"ie":73283622,"cnpj":"28406143000117","razao":"MIRLENE LUCKWU DA SILVA 03062803452","sit":"S","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":1400.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":587310.00},
+{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":41309.00},
+{"ie":0,"cnpj":"11516329000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":26576.50},
+{"ie":0,"cnpj":"28685332000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":63000.00}];
+SaidasData.saidas = [{"ie":73283622,"cnpj":"28406143000117","razao":"MIRLENE LUCKWU DA SILVA 03062803452","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":1400.00},
 {"ie":71904921,"cnpj":"27728209000122","razao":"MONTEIRO & ARRUDA COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":300.00},
 {"ie":66425867,"cnpj":"24332484000134","razao":"V M DA CRUZ SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":230.00},
 {"ie":65573765,"cnpj":"23917802000166","razao":"OLIVEIRA E SANTOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":1080.40},
 {"ie":65260554,"cnpj":"23778043000106","razao":"FAMILIA CONCEICAO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":168.00},
 {"ie":64176550,"cnpj":"23276159000139","razao":"N. J. N. DE ALMEIDA MERCADINHO EPP","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":6600.00},
 {"ie":0,"cnpj":"23212428000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":42829.52},
-{"ie":60609788,"cnpj":"21601238000142","razao":"D PEREIRA CAMPOS ESTIVAS E CEREAIS EPP","sit":"A","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":20379.90},
+{"ie":60609788,"cnpj":"21601238000142","razao":"D PEREIRA CAMPOS ESTIVAS E CEREAIS EPP","sit":"S","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":20379.90},
 {"ie":57147370,"cnpj":"20022320000150","razao":"A. ALEXANDRE DA SILVA - COMERCIO ME","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":528.80},
 {"ie":54856574,"cnpj":"19042702000166","razao":"GERCINA FERREIRA SANTOS SUPERMERCADOS","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":2940.00},
 {"ie":54257271,"cnpj":"18757191000104","razao":"COMERCIAL DE ALIMENTOS O BARATO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":5047.00},
-{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":12975.00},
+{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":12975.00},
 {"ie":52312640,"cnpj":"17844670000197","razao":"J C DA COSTA MINIMERCADO ME","sit":"A","regime":"SIMPLES","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":757.80},
 {"ie":0,"cnpj":"17775352000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":200157.70},
 {"ie":50785630,"cnpj":"14166965000163","razao":"MERCANTIL COSTA DOURADA LTDA","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":121004.03},
@@ -43,3 +43,4 @@ SociosData.socios = [{"cpf":"83240080478","nome":"RINALDO RODRIGUES DE MELO","ie
 {"cpf":"83240080478","nome":"RINALDO RODRIGUES DE MELO","ie":74710419,"cnpj":"29109479000180","razao":"RINALDO RODRIGUES DE MELO ME","sit":"C","regime":"NORMAL","municipio":"ANGELIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

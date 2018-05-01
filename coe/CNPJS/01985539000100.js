@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"61248940415","nome":"GIRALDO LOURENCO TRINDADE","ie
 {"cpf":"61248940415","nome":"GIRALDO LOURENCO TRINDADE","ie":23724285,"cnpj":"01985539000100","razao":"GIRALDO LOURENCO TRINDADE","sit":"C","regime":"NORMAL","municipio":"GOIANA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

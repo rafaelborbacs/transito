@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"25684337449","nome":"WILMA LUCIA ROSADO OLIVEIRA","ie":58623612,"cnpj":"20718081000177","razao":"WILMA LUCIA ROSADO OLIVEIRA 25684337449","sit":"A","regime":"SIMEI","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

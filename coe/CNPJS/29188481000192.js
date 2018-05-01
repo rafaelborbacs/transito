@@ -6,3 +6,4 @@ EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"94611475468","tel":"8738681290","razao":"ROMERO RODRIGUES TORRES - Cod. 0014707","municipio":"AFRANIO"},
 {"cnpj":"08408427000135","tel":"8738681290","razao":"ESPACO FASHION /AFRANIO","municipio":"AFRANIO"},
 {"cnpj":"07763413000177","tel":"8738681290","razao":"ROMERO RODRIGUES TORRES ME","municipio":"AFRANIO"}];
+PlacasData.placas = [];

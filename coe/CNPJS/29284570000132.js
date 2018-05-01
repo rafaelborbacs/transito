@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"01234868407","nome":"JAILSON DO NASCIMENTO SILVA","ie":75010488,"cnpj":"29284570000132","razao":"JAILSON DO N SILVA EPP","sit":"C","regime":"NORMAL","municipio":"SERRA TALHADA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"97370843491","nome":"MARIA JOSE DA ROCHA","ie":3460
 {"cpf":"03702419403","nome":"CAMILA MARIA DA ROCHA","ie":34605843,"cnpj":"08469825000161","razao":"VITA BRASIL CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

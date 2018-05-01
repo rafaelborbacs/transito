@@ -12,12 +12,12 @@ a{
 a:focus,a:hover{
 	color:#23527c;
 }
-input
+input,select
 {
-	font-size: 11px;
+	font-size: 9px;
 }
 .container{
-	font-size: 11px;
+	font-size: 9px;
 }
 .simple-data-grid {
     border-collapse: collapse;
@@ -152,5 +152,5 @@ input
 	text-decoration:none;
 }
 #popup-content {
-	font-size: 11px;
+	font-size: 9px;
 }

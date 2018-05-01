@@ -25,3 +25,4 @@ SociosData.socios = [{"cpf":"96838841649","nome":"RODRIGO NELSON DE SENNA SOUSA 
 {"cpf":"13044893615","nome":"EDUARDO VIANA RABELO","ie":37841262,"cnpj":"19884626001108","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

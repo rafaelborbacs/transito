@@ -9,3 +9,4 @@ SociosData.socios = [{"cpf":"46073035420","nome":"HABERLAND ANGELO DE MIRANDA","
 {"cpf":"19199724472","nome":"LINDALVA MARIA DE MIRANDA ANGELO","ie":11681187,"cnpj":"10615391000102","razao":"BOTICARIO ROSILANGE LTDA","sit":"S","regime":"NORMAL","municipio":"PARNAMIRIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

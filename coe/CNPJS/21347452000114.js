@@ -17,3 +17,4 @@ SociosData.socios = [{"cpf":"98505351487","nome":"JOELMA MORAES NUNES SILVA","ie
 {"cpf":"10153062410","nome":"MAGDA DE GODOY NUNES","ie":39037029,"cnpj":"10586255000131","razao":"REZENDE LOCACAO DE VEICULOS LTDA","sit":"B","regime":"NORMAL","municipio":"GARANHUNS","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

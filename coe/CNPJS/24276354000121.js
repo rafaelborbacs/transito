@@ -1,15 +1,15 @@
-EstabelecimentoData.estabelecimento = [{"ie":15211878,"cnpj":"24276354000121","razao":"VILENE-INDUSTRIA CONFECCOES LTDA","sit":"S","arrecadacao":0.00,"entradas":162148.08,"saidas":361878.34,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"05/12/1989"}];
-EntradasData.entradas = [{"ie":66243408,"cnpj":"88766936000179","razao":"MARELLI MOVEIS PARA ESCRITORIO S.A","sit":"A","regime":"EC 87/2015","municipio":"CAXIAS DO SUL","igi":0,"uf":"RS","valor":262.20},
-{"ie":37629204,"cnpj":"10621752000123","razao":"MR GRAU VESTUARIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":34422.64},
+EstabelecimentoData.estabelecimento = [{"ie":15211878,"cnpj":"24276354000121","razao":"VILENE-INDUSTRIA CONFECCOES LTDA","sit":"S","arrecadacao":0.00,"entradas":162016.98,"saidas":361878.34,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"05/12/1989"}];
+EntradasData.entradas = [{"ie":66243408,"cnpj":"88766936000179","razao":"MARELLI MOVEIS PARA ESCRITORIO S.A","sit":"A","regime":"EC 87/2015","municipio":"CAXIAS DO SUL","igi":0,"uf":"RS","valor":131.10},
 {"ie":33691371,"cnpj":"07925560000104","razao":"CORTEPEL COMERCIO DE PAPEIS E MATERIAIS GRAFICOS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":375.00},
-{"ie":31836020,"cnpj":"07077679000166","razao":"G H P CONFECCOES LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":21393.60},
+{"ie":37629204,"cnpj":"10621752000123","razao":"MR GRAU VESTUARIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":34422.64},
 {"ie":63550300,"cnpj":"22988601000197","razao":"CORES DO SOL INDUSTRIA E COMERCIO DE ARTIGOS DO VESTUARIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12528.36},
-{"ie":8896950,"cnpj":"08180499000178","razao":"QUARESMA & CLAUDINO LTDA","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":57639.56},
-{"ie":45858950,"cnpj":"11926133000533","razao":"M J C GOMES TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":5958.97},
-{"ie":28914252,"cnpj":"04917296000160","razao":"AVIL TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":12294.06},
 {"ie":71899405,"cnpj":"10174425000170","razao":"MENEZES DE CASTRO COMERCIO E REPRESENTACOES DE ARTIGOS DO VESTUARIO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":3931.63},
 {"ie":32515006,"cnpj":"07376725000128","razao":"F S COMERCIO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2430.00},
-{"ie":13911783,"cnpj":"12905758000158","razao":"DEPOSITO DE MALHAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":10912.06}];
+{"ie":31836020,"cnpj":"07077679000166","razao":"G H P CONFECCOES LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":21393.60},
+{"ie":45858950,"cnpj":"11926133000533","razao":"M J C GOMES TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":5958.97},
+{"ie":8896950,"cnpj":"08180499000178","razao":"QUARESMA & CLAUDINO LTDA","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":57639.56},
+{"ie":13911783,"cnpj":"12905758000158","razao":"DEPOSITO DE MALHAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":10912.06},
+{"ie":28914252,"cnpj":"04917296000160","razao":"AVIL TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":12294.06}];
 SaidasData.saidas = [{"ie":19294883,"cnpj":"41249525000142","razao":"M B F COMERCIO DO VESTUARIO LTDA - ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3261.00},
 {"ie":74154435,"cnpj":"28000821000309","razao":"RGF COMERCIO DO VESTUARIO EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":6513.00},
 {"ie":72866519,"cnpj":"28000821000228","razao":"RGF COMERCIO DO VESTUARIO EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1235.00},
@@ -43,3 +43,4 @@ SociosData.socios = [{"cpf":"32580215468","nome":"ERIVALDO ALVES DE ARAUJO","ie"
 {"cpf":"23175001491","nome":"ELIEL ALVES DE ARAUJO","ie":7180845,"cnpj":"11537016000154","razao":"PRESCOREL PREST SERVICOS COM REPR LTDA","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

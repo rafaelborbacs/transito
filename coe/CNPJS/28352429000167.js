@@ -263,3 +263,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"71502466481","nome":"TIAGO CANDIDO DA SILVA","ie":73203530,"cnpj":"28352429000167","razao":"TIAGO CANDIDO DA SILVA 71502466481","sit":"C","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

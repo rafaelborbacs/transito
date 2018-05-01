@@ -13,3 +13,4 @@ SociosData.socios = [{"cpf":"47908793487","nome":"JOAO HONORIO DA SILVA","ie":71
 {"cpf":"03134495465","nome":"IVANCLAUDIA JURACI DA SILVA","ie":47026626,"cnpj":"14805209000137","razao":"J & G ESTAMPARIA LTDA  ME","sit":"S","regime":"NORMAL","municipio":"FEIRA NOVA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

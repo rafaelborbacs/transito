@@ -11,3 +11,4 @@ SociosData.socios = [{"cpf":"41140422880","nome":"JULIANA TASSIA SILVA","ie":707
 {"cpf":"33025001810","nome":"ATILA FERNANDES DE JESUS","ie":59609087,"cnpj":"20291656000207","razao":"ATACADO DA LINGERIE COMERCIO E IMPORTACAO LTDA.","sit":"C","regime":"NORMAL","municipio":"AGRESTINA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

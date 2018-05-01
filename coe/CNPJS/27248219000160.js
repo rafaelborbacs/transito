@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05542077455","nome":"DANIEL MEDEIROS LIMA FILHO","ie":71110100,"cnpj":"27248219000160","razao":"DANIEL MEDEIROS LIMA FILHO 05542077455","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

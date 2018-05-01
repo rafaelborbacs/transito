@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":57255423,"cnpj":"12904278000334","razao":"HW COMERCIO IMPORTACAO E EXPORTACAO LTDA ME","sit":"S","arrecadacao":8105.39,"entradas":1506561.16,"saidas":1010864.69,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"15/04/2014"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"14842663000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":515.00},
+EntradasData.entradas = [{"ie":56090625,"cnpj":"19525913000150","razao":"DIRECT COMERCIAL IMPORTADORA E CONSULTORIA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":780936.60},
 {"ie":0,"cnpj":"12904278000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":725109.56},
-{"ie":56090625,"cnpj":"19525913000150","razao":"DIRECT COMERCIAL IMPORTADORA E CONSULTORIA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":780936.60}];
+{"ie":0,"cnpj":"14842663000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":515.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":25071.00},
-{"ie":71807055,"cnpj":"27637653000132","razao":"QIUFANG LIN PRESENTES ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1955.16},
+{"ie":71807055,"cnpj":"27637653000132","razao":"QIUFANG LIN PRESENTES ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1955.16},
 {"ie":0,"cnpj":"25277105000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":3790.80},
 {"ie":0,"cnpj":"24900986000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":17456.64},
 {"ie":0,"cnpj":"24704255000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":5706.00},
@@ -83,3 +83,4 @@ SociosData.socios = [{"cpf":"01698164432","nome":"YOUCHAI ZHANG","ie":57255423,"
 {"cpf":"01641461489","nome":"ZHANG FANG","ie":40989356,"cnpj":"12388844000130","razao":"FANG IMPORTADOS EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

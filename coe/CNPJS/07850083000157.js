@@ -12,3 +12,4 @@ SociosData.socios = [{"cpf":"04562966467","nome":"JOSE RAFAEL TENORIO SOBRAL","i
 {"cpf":"04562966467","nome":"JOSE RAFAEL TENORIO SOBRAL","ie":5964938,"cnpj":"11360476000150","razao":"SIBRASA SOCIEDADE COMERCIAL SOBRAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09355329431","nome":"ANTONIA ITAMARA DE SOUZA","ie":74469266,"cnpj":"28973157000112","razao":"ANTONIA ITAMARA DE SOUZA 09355329431","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

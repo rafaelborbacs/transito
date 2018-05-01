@@ -6,3 +6,4 @@ SociosData.socios = [{"cpf":"06071669405","nome":"NICOLE BARBOSA SULTANUM","ie":
 {"cpf":"02449445471","nome":"LUCAS BARBOSA SULTANUM","ie":25387766,"cnpj":"02865930000133","razao":"GCF SISTEMAS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

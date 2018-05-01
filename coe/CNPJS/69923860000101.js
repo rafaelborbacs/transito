@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"74984187468","nome":"JOSE MARCIANO NOGUEIRA DE MIRA
 {"cpf":"44615922434","nome":"ANGELA CARDOSO SANTIAGO","ie":15229572,"cnpj":"24431934000146","razao":"CARDOSO & SILVA LTDA","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

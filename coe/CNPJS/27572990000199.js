@@ -4,3 +4,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"14839679000111","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"89024583420","nome":"FRANCISCO JUNIOR SALES DE MENEZES","ie":71634606,"cnpj":"27572990000199","razao":"FRANCISCO JUNIOR SALES DE MENEZES ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -10,3 +10,4 @@ SociosData.socios = [{"cpf":"24745605803","nome":"MARIA BALBINA RIBEIRO MANDALIT
 {"cpf":"01272556484","nome":"PRISCILA DE SOUZA GONZAGA","ie":29518865,"cnpj":"02714479000153","razao":"M  E  M PEDRAS LTDA ME","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

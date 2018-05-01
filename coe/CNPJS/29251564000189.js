@@ -13,4 +13,5 @@ EmailsData.emails = [{"cnpj":"28641077000160","email":"jpncontabilidade1@hotmail
 {"cnpj":"13977895000160","email":"jpncontabilidade1@hotmail.com","razao":"GERLANIA BATISTA DE ALENCAR","municipio":"SALGUEIRO"},
 {"cnpj":"11887064000172","email":"jpncontabilidade1@hotmail.com","razao":"RAMOS ALENCAR LTDA","municipio":"SALGUEIRO"},
 {"cnpj":"09060857000171","email":"jpncontabilidade1@hotmail.com","razao":"GILNEY BATISTA ALENCAR RESTAURANTE ME","municipio":"PARNAMIRIM"}];
-TelsData.tels = [{"cnpj":"29324590000190","tel":"8898096610","razao":"SOARES E MAGALHAES LTDA ME","municipio":"PARNAMIRIM"}];
+TelsData.tels = [];
+PlacasData.placas = [];

@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"76589960410","nome":"SEVERINO JOSE BEZERRA FILHO","
 {"cpf":"76589960410","nome":"SEVERINO JOSE BEZERRA FILHO","ie":64623599,"cnpj":"21044511000185","razao":"SEVERINO JOSE BEZERRA FILHO 76589960410","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

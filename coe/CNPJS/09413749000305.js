@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":72412240,"cnpj":"09413749000305","razao":"FABIANO FERREIRA DA SILVA TECIDOS EPP","sit":"S","arrecadacao":0.00,"entradas":335843.70,"saidas":3621165.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"16/06/2017"}];
-EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":40539.29},
+EntradasData.entradas = [{"ie":49099094,"cnpj":"11173344000380","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":50634.23},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":40539.29},
+{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":148837.00},
 {"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":33450.00},
 {"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":33857.50},
-{"ie":49099094,"cnpj":"11173344000380","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":50634.23},
-{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":148837.00},
 {"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":28525.68}];
 SaidasData.saidas = [{"ie":0,"cnpj":"34705723000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":4870.00},
 {"ie":0,"cnpj":"27739316000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":6083.50},
@@ -69,3 +69,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"34705723000108","razao":"","sit":"","regime
 SociosData.socios = [];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

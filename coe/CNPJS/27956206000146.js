@@ -18,3 +18,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"46126058000187","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"02079332430","nome":"IRAPOAN FREITAS WANDERLEY","ie":72411511,"cnpj":"27956206000146","razao":"REALEZA RESIDUOS  E LOCACOES EIRELI ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

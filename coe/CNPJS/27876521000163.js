@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"02497257388","nome":"THIAGO FERREIRA DA SILVA","ie":72232188,"cnpj":"27876521000163","razao":"THIAGO FERREIRA DA SILVA 02497257388","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

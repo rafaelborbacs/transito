@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"07962420383","nome":"FRANCISCO WILTON DA SILVA","ie
 {"cpf":"07962420383","nome":"FRANCISCO WILTON DA SILVA","ie":72308427,"cnpj":"27924834000140","razao":"FRANCISCO WILTON DA SILVA EIRELI ME","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -6,3 +6,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"34396870400","nome":"MARIA CELIA DE AGUIAR CAMPOS","ie":40416666,"cnpj":"12053959000174","razao":"MARIA CELIA DE AGUIAR CAMPOS 34396870400","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -120,3 +120,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"80957811349","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"96231653404","nome":"RAIMUNDO NONATO DA SILVA CORREA","ie":73516902,"cnpj":"27428877000134","razao":"R N DA SILVA CORREA ME","sit":"C","regime":"SIMPLES","municipio":"SURUBIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

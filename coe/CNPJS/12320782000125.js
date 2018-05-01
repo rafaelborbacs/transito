@@ -20,3 +20,4 @@ SociosData.socios = [{"cpf":"70339887451","nome":"GIULIA SIMAS BARBOZA","ie":452
 {"cpf":"02138753735","nome":"GLAUCIO EMANUEL BARBOZA JUNIOR","ie":45206708,"cnpj":"12320782000125","razao":"ARTSEG - COMERCIO ATACADISTA DE EQUIPAMENTOS DE PROTECAO LTDA ME","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

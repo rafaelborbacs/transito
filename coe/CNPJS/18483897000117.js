@@ -11,3 +11,4 @@ SociosData.socios = [{"cpf":"86135520806","nome":"EDISON VENEZIANO","ie":5667259
 {"cpf":"00378683810","nome":"MARCELO JOAO DOS REIS","ie":53641671,"cnpj":"18483897000117","razao":"QUIMICRAFT NORDESTE INDUSTRIA QUIMICA LTDA","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

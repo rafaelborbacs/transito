@@ -10,3 +10,4 @@ SociosData.socios = [{"cpf":"08907771448","nome":"JOSE ANDRESSON DA SILVA","ie":
 {"cpf":"03952431494","nome":"SILVANO BEZERRA DE MOURA","ie":38297230,"cnpj":"11018508000133","razao":"IRISMAR OLIVEIRA DA SILVA CONFECCOES ME","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"11215173407","nome":"WELLINGTON SOBRAL MOREIRA","ie":76294005,"cnpj":"29899620000196","razao":"WELLINGTON SOBRAL MOREIRA 11215173407","sit":"A","regime":"SIMEI","municipio":"GOIANA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

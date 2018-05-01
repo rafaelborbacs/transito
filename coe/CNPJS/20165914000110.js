@@ -17,3 +17,4 @@ SociosData.socios = [{"cpf":"05661679483","nome":"MARIA CLARA LIMA PAES BARRETO"
 {"cpf":"03263479415","nome":"JOSE JOAQUIM PAES BARRETO","ie":2240572,"cnpj":"11232444000179","razao":"CEREALISTA ESTRELA NORTE LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

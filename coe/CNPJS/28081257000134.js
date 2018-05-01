@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"01671109503","nome":"LUCIANO MOREIRA DOS SANTOS","ie":72662948,"cnpj":"28081257000134","razao":"LUCIANO MOREIRA DOS SANTOS 01671109503","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

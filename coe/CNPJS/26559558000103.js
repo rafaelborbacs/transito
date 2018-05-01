@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09704907478","nome":"FRANCIELE LEITE DO NASCIMENTO","ie":69725861,"cnpj":"26559558000103","razao":"FRANCIELE LEITE DO NASCIMENTO 09704907478","sit":"S","regime":"NORMAL","municipio":"GARANHUNS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

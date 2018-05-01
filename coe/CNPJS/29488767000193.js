@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"70212997459","nome":"DELWIS DE OLIVEIRA SILVA","ie":75534045,"cnpj":"29488767000193","razao":"DELWIS DE OLIVEIRA SILVA 70212997459","sit":"C","regime":"SIMEI","municipio":"ESCADA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

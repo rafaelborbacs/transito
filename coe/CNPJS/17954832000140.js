@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"69436312415","nome":"MARIA LUCIA DA SILVA","ie":52604691,"cnpj":"17954832000140","razao":"MARIA LUCIA DA SILVA 69436312415","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -1,14 +1,14 @@
 EstabelecimentoData.estabelecimento = [{"ie":75945932,"cnpj":"29727080000163","razao":"DAYVID ANTONY ALVES DA SILVA","sit":"A","arrecadacao":0.00,"entradas":941854.81,"saidas":273772.90,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"20/02/2018"}];
 EntradasData.entradas = [{"ie":70366985,"cnpj":"26881225000198","razao":"N G TECIDOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":9868.31},
-{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":103717.91},
-{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":77938.30},
 {"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":83692.50},
 {"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":172875.32},
 {"ie":48223239,"cnpj":"07590855000320","razao":"JEFFERSON JOSE DA SILVA TECIDOS","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":46894.36},
+{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":103717.91},
+{"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":33723.93},
 {"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":64686.44},
-{"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":144914.13},
+{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":77938.30},
 {"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":203543.61},
-{"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":33723.93}];
+{"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":144914.13}];
 SaidasData.saidas = [{"ie":0,"cnpj":"86999943000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2075.00},
 {"ie":0,"cnpj":"84057355000298","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":880.00},
 {"ie":0,"cnpj":"84022888000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":880.00},
@@ -50,3 +50,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"86999943000195","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"13343673455","nome":"DAYVID ANTONY ALVES DA SILVA","ie":75945932,"cnpj":"29727080000163","razao":"DAYVID ANTONY ALVES DA SILVA","sit":"A","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

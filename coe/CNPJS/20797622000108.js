@@ -6,3 +6,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"24329819449","nome":"SEVERINO BERNARDO DA SILVA","ie":58895108,"cnpj":"20797622000108","razao":"SEVERINO BERNARDO DA SILVA 24329819449","sit":"A","regime":"SIMEI","municipio":"PAULISTA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

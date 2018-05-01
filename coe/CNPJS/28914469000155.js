@@ -4,7 +4,7 @@ EntradasData.entradas = [{"ie":36226734,"cnpj":"09346402000117","razao":"COMERCI
 {"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":23600.00},
 {"ie":0,"cnpj":"27555426000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":14350.00}];
 SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COMERCIAL DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":79262.62},
-{"ie":73283622,"cnpj":"28406143000117","razao":"MIRLENE LUCKWU DA SILVA 03062803452","sit":"S","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":920.00},
+{"ie":73283622,"cnpj":"28406143000117","razao":"MIRLENE LUCKWU DA SILVA 03062803452","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":920.00},
 {"ie":71904921,"cnpj":"27728209000122","razao":"MONTEIRO & ARRUDA COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":300.00},
 {"ie":71274308,"cnpj":"27351215000103","razao":"MERCADINHO SANTA MARIA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA MARIA DO CAMBUCA","igi":0,"uf":"PE","valor":14422.00},
 {"ie":0,"cnpj":"26384559000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":180630.00},
@@ -24,7 +24,7 @@ SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COME
 {"ie":57773300,"cnpj":"20298760000134","razao":"LUIZ ANTONIO FERREIRA JUNIOR COMERCIO ME","sit":"S","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":12720.00},
 {"ie":57147370,"cnpj":"20022320000150","razao":"A. ALEXANDRE DA SILVA - COMERCIO ME","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":672.80},
 {"ie":54856574,"cnpj":"19042702000166","razao":"GERCINA FERREIRA SANTOS SUPERMERCADOS","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":3000.00},
-{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":35100.00},
+{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":35100.00},
 {"ie":53039238,"cnpj":"18200892000130","razao":"L P BARBOSA  MERCADINHO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":1500.00},
 {"ie":0,"cnpj":"16927193000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":230400.00},
 {"ie":72402369,"cnpj":"16683395000295","razao":"COMERCIAL MASSANGANA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":94024.24},
@@ -62,3 +62,4 @@ SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COME
 SociosData.socios = [{"cpf":"71583163433","nome":"ADEZISTO FRANCISCO AMORIM DE ALMEIDA FILHO","ie":74239341,"cnpj":"28914469000155","razao":"A F AMORIM DE ALMEIDA FILHO ME","sit":"C","regime":"NORMAL","municipio":"POMBOS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

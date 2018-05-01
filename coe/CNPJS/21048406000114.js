@@ -14,4 +14,5 @@ SociosData.socios = [{"cpf":"13476149404","nome":"ARNALDO RODRIGUES BEZERRA","ie
 {"cpf":"13476149404","nome":"ARNALDO RODRIGUES BEZERRA","ie":13006100,"cnpj":"12042792000146","razao":"FERRAGENS IPSEP LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"13476149404","nome":"ARNALDO RODRIGUES BEZERRA","ie":11225688,"cnpj":"10540110000108","razao":"COMERCIO F R REPRESENTACOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"13476149404","tel":"8183166380","razao":"ARNALDO RODRIGUES BEZERRA","municipio":"RECIFE"}];
+TelsData.tels = [];
+PlacasData.placas = [];

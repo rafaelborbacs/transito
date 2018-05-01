@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"69481440478","nome":"OSMARINO PAZ DE LIRA","ie":46256091,"cnpj":"14459975000197","razao":"OSMARINO PAZ DE LIRA ME","sit":"S","regime":"NORMAL","municipio":"BELO JARDIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

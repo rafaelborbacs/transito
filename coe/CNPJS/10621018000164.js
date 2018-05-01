@@ -11,3 +11,4 @@ SociosData.socios = [{"cpf":"09590948499","nome":"DAYANA PATRICIA ARAUJO DE BARR
 {"cpf":"02798814448","nome":"JACIRA DA SILVA ARAUJO","ie":37593340,"cnpj":"10621018000164","razao":"DMARIE CONFECCAO E COMERCIO DE ARTIGOS DO VESTUARIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

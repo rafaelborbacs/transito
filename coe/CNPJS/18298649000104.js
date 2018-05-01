@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"96194294434","nome":"BETANIA MARIA ALEXANDRE BARROS FERREIRA","ie":53363256,"cnpj":"18298649000104","razao":"BETANIA MARIA ALEXANDRE BARROS FERREIRA 96194294434","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

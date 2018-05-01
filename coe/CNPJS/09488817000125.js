@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":43029078,"cnpj":"09488817000125","razao":"M F DE SOUZA EMBALAGENS ME","sit":"C","arrecadacao":3156.00,"entradas":1377185.47,"saidas":757322.44,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"21/01/2011"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":409878.00},
+EntradasData.entradas = [{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":866257.47},
+{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":409878.00},
 {"ie":0,"cnpj":"03481212000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":70800.00},
-{"ie":0,"cnpj":"20895762000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":30250.00},
-{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":866257.47}];
+{"ie":0,"cnpj":"20895762000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":30250.00}];
 SaidasData.saidas = [{"ie":71285768,"cnpj":"27382546000100","razao":"RBS ALIMENTOS - EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":80186.60},
 {"ie":68956975,"cnpj":"26171039000165","razao":"E PEREIRA DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":103230.49},
 {"ie":73410756,"cnpj":"24967227000250","razao":"WJLM ESPERANCA DISTRIBUIDORA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":14020.00},
 {"ie":65170997,"cnpj":"23714035000198","razao":"MONTEIRO & AMARO COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":44585.61},
-{"ie":63692945,"cnpj":"23094631000112","razao":"MERCANTIL PRAZERES DE ALIMENTOS LTDA EPP","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":420.00},
+{"ie":63692945,"cnpj":"23094631000112","razao":"MERCANTIL PRAZERES DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":420.00},
 {"ie":62617958,"cnpj":"22566221000164","razao":"COMERCIO E INDUSTRIA DE ALIMENTOS CANDEIAS LTDA ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":737.94},
 {"ie":0,"cnpj":"20895762000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":60500.00},
 {"ie":70604240,"cnpj":"20636805000214","razao":"SILVANIO P. DA SILVA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4000.00},
@@ -27,3 +27,4 @@ SaidasData.saidas = [{"ie":71285768,"cnpj":"27382546000100","razao":"RBS ALIMENT
 SociosData.socios = [{"cpf":"65818296415","nome":"MARIO FRANCISCO DE SOUZA","ie":43029078,"cnpj":"09488817000125","razao":"M F DE SOUZA EMBALAGENS ME","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

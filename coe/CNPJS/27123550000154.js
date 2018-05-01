@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10100239420","nome":"FRANCISCO JOSE NUNES DE OLIVEIRA","ie":70833354,"cnpj":"27123550000154","razao":"F J N DE OLIVEIRA MERCEARIA ME","sit":"C","regime":"NORMAL","municipio":"BODOCO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

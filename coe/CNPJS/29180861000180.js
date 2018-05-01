@@ -19,3 +19,4 @@ SociosData.socios = [{"cpf":"70193457431","nome":"CLEYDSON GOMES DA SILVA","ie":
 {"cpf":"70193457431","nome":"CLEYDSON GOMES DA SILVA","ie":74726331,"cnpj":"29129329000139","razao":"CORRENTES REPRESENTACOES E COMERCIO DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"CORRENTES","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"37543644487","nome":"RINALDO CARVALHO BARBOSA","ie"
 {"cpf":"37543644487","nome":"RINALDO CARVALHO BARBOSA","ie":16000285,"cnpj":"35316363000115","razao":"CARVALHO DO BRASIL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -10,3 +10,4 @@ SociosData.socios = [{"cpf":"16061535449","nome":"ALEXANDRE MAGNO COUTINHO DE OL
 {"cpf":"04892279455","nome":"GABRIELLA SANTOS COUTINHO DE OLIVEIRA","ie":20200765,"cnpj":"70236419000122","razao":"ALIMENTIL COMERCIO ALIMENTOS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

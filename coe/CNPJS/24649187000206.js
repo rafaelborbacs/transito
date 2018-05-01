@@ -5,3 +5,4 @@ SaidasData.saidas = [{"ie":71071296,"cnpj":"27262174000189","razao":"EKIMAN MENS
 SociosData.socios = [];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

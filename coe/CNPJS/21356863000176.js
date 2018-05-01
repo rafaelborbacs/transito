@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"09560635433","nome":"CAROLINE PEREIRA DREYER DINU",
 {"cpf":"09560635433","nome":"CAROLINE PEREIRA DREYER DINU","ie":60063378,"cnpj":"21356863000176","razao":"CAROLINE PEREIRA DREYER DINU 09560635433","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -10,3 +10,4 @@ SociosData.socios = [{"cpf":"90597249253","nome":"EDINALVA TAVARES DE SOUZA","ie
 {"cpf":"05120989489","nome":"ANTONIO MARIANO DE ASSIS","ie":34895906,"cnpj":"08727942000188","razao":"ASSIS & HONORATO LTDA  ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

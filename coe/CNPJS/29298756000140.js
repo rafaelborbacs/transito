@@ -16,3 +16,4 @@ SaidasData.saidas = [{"ie":69218501,"cnpj":"26287333000137","razao":"SCIUBBA & V
 SociosData.socios = [{"cpf":"70166470481","nome":"THALYANA IZIDIO DE OLIVEIRA","ie":75084848,"cnpj":"29298756000140","razao":"THALYANA IZIDIO DE OLIVEIRA ME","sit":"C","regime":"NORMAL","municipio":"ALAGOINHA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

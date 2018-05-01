@@ -1,19 +1,19 @@
 EstabelecimentoData.estabelecimento = [{"ie":73196304,"cnpj":"26228381000235","razao":"ROBERTA SIMONE DO NASCIMENTO","sit":"C","arrecadacao":150.00,"entradas":1407292.34,"saidas":2708596.22,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JATAUBA","drr":"II","igi":1,"dataie":"14/08/2017"}];
-EntradasData.entradas = [{"ie":22384030,"cnpj":"01258272000159","razao":"TEXPAR INDUSTRIA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":35414.64},
-{"ie":70358109,"cnpj":"26852295000118","razao":"CLEIDIANA C DE APRIGIO SILVA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":15465.36},
-{"ie":0,"cnpj":"05786051000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":8040.00},
-{"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":50393.16},
-{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":99895.68},
-{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":150000.03},
-{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":103351.46},
-{"ie":33893160,"cnpj":"08064417000120","razao":"ESPACO TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4961.90},
-{"ie":34990496,"cnpj":"08795153000184","razao":"JOSELANE BARBOSA DE LIMA EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":83132.85},
+EntradasData.entradas = [{"ie":70358109,"cnpj":"26852295000118","razao":"CLEIDIANA C DE APRIGIO SILVA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":15465.36},
+{"ie":22384030,"cnpj":"01258272000159","razao":"TEXPAR INDUSTRIA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":35414.64},
 {"ie":0,"cnpj":"09258807000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":129574.20},
-{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":168986.34},
+{"ie":33893160,"cnpj":"08064417000120","razao":"ESPACO TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4961.90},
+{"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":38812.50},
+{"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":50393.16},
 {"ie":0,"cnpj":"08307549000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":33500.00},
+{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":168986.34},
+{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":103351.46},
+{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":150000.03},
+{"ie":0,"cnpj":"05786051000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":8040.00},
+{"ie":34990496,"cnpj":"08795153000184","razao":"JOSELANE BARBOSA DE LIMA EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":83132.85},
 {"ie":41489403,"cnpj":"12581143000113","razao":"ABELVONEIDE M. DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":31571.00},
 {"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":454193.22},
-{"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":38812.50}];
+{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":99895.68}];
 SaidasData.saidas = [{"ie":0,"cnpj":"98372440387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4396.00},
 {"ie":0,"cnpj":"97387223220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4230.00},
 {"ie":0,"cnpj":"96640405334","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2001.00},
@@ -26,7 +26,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"98372440387","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"84906138268","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4104.00},
 {"ie":0,"cnpj":"84481761000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1450.00},
 {"ie":0,"cnpj":"84454156000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":13780.00},
-{"ie":0,"cnpj":"80098860330","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4054.00},
+{"ie":0,"cnpj":"80098860330","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4054.00},
 {"ie":0,"cnpj":"79312969153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4350.00},
 {"ie":0,"cnpj":"79014178549","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5027.00},
 {"ie":0,"cnpj":"76227448249","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1305.00},
@@ -62,7 +62,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"98372440387","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"31550049000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":5670.00},
 {"ie":0,"cnpj":"29709970100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":38700.00},
 {"ie":0,"cnpj":"29166381134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":9000.00},
-{"ie":0,"cnpj":"29079594334","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2020.00},
+{"ie":0,"cnpj":"29079594334","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":2020.00},
 {"ie":0,"cnpj":"28482416000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2167.00},
 {"ie":0,"cnpj":"28436642000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":3140.00},
 {"ie":0,"cnpj":"28371197000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3067.00},
@@ -536,3 +536,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"98372440387","razao":"","sit":"","regime":"
 SociosData.socios = [];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

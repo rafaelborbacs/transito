@@ -36,8 +36,8 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":42833094,"cnpj":"12977440000182","razao":"MERCADINHO POUPE MAIS LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1316.00},
 {"ie":42354790,"cnpj":"12835371000172","razao":"R J ATACADO DE PRODUTOS ALIMENTICIOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":33500.00},
 {"ie":13629506,"cnpj":"12810362000127","razao":"JOSE ALENCAR DA SILVA SUPERMERCADO","sit":"A","regime":"NORMAL","municipio":"FERREIROS","igi":0,"uf":"PE","valor":2957.70},
-{"ie":13799258,"cnpj":"12778684000136","razao":"G M CHAVES PERAZZO","sit":"B","regime":"NORMAL","municipio":"TUPARETAMA","igi":0,"uf":"PE","valor":292.00},
 {"ie":13798286,"cnpj":"12778684000136","razao":"G M CHAVES PERAZZO","sit":"A","regime":"NORMAL","municipio":"TUPARETAMA","igi":0,"uf":"PE","valor":292.00},
+{"ie":13799258,"cnpj":"12778684000136","razao":"G M CHAVES PERAZZO","sit":"B","regime":"NORMAL","municipio":"TUPARETAMA","igi":0,"uf":"PE","valor":292.00},
 {"ie":40310590,"cnpj":"11506184000182","razao":"MERCADINHO POUPE BEM LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":816.00},
 {"ie":39077675,"cnpj":"11476125000109","razao":"JOANA CRISTINA DE ARRUDA LEAL","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":263.60},
 {"ie":39039153,"cnpj":"11461582000120","razao":"MERCADINHO PARE E COMPRE LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":564.00},
@@ -86,3 +86,4 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 SociosData.socios = [{"cpf":"86495190590","nome":"JOAO PEREIRA DA SILVA","ie":73085154,"cnpj":"28340485000181","razao":"JOAO PEREIRA DISTRIBUIDORA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"MACHADOS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

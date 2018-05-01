@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"46385266400","nome":"JOSIMAR ALVES DOS SANTOS","ie":26554038,"cnpj":"03517073000143","razao":"J A SANTOS USINAGEM","sit":"C","regime":"NORMAL","municipio":"ABREU E LIMA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

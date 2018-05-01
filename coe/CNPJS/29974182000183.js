@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10200978411","nome":"EDILMA VANESSA ALMEIDA SILVA","ie":76464296,"cnpj":"29974182000183","razao":"EDILMA VANESSA ALMEIDA SILVA 10200978411","sit":"A","regime":"SIMEI","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

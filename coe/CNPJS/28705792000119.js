@@ -11,3 +11,4 @@ SociosData.socios = [{"cpf":"74438069491","nome":"MARIA DAS DORES DA SILVA","ie"
 {"cpf":"08017582463","nome":"FELIPE BARBOSA DE FREITAS","ie":73702706,"cnpj":"28630070000142","razao":"F BARBOSA DE FREITAS COMERCIO ME","sit":"C","regime":"NORMAL","municipio":"SAIRE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

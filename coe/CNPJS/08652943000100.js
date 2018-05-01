@@ -59,3 +59,4 @@ SociosData.socios = [{"cpf":"17823900491","nome":"IRANDY BARBOSA DE LUNA","ie":4
 {"cpf":"00891993401","nome":"DIOGO TORREAO DE LUNA","ie":9301135,"cnpj":"08652943000100","razao":"LUNA FERRAGENS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

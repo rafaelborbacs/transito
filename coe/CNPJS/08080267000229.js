@@ -11,3 +11,4 @@ SociosData.socios = [{"cpf":"04418959483","nome":"JOSEILSON GENESIO DA SILVA","i
 {"cpf":"04418959483","nome":"JOSEILSON GENESIO DA SILVA","ie":19059450,"cnpj":"41103094000101","razao":"DIRAK CONFECCOES LTDA","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -1,12 +1,12 @@
 EstabelecimentoData.estabelecimento = [{"ie":31258158,"cnpj":"61101895001036","razao":"SANTHER FABRICA DE PAPEL SANTA THEREZINHA S/A","sit":"C","arrecadacao":350543.23,"entradas":1166853.64,"saidas":2951928.92,"regime":"NORMAL","segmento":"ATACADO","municipio":"PAULISTA","drr":"I","igi":1,"dataie":"07/06/2004"}];
 EntradasData.entradas = [{"ie":38105349,"cnpj":"10859237000186","razao":"VAREJAO DE ALIMENTOS A&B LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":991.31},
-{"ie":0,"cnpj":"01482939000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":165.27},
 {"ie":17792495,"cnpj":"40864613000191","razao":"A & B ALIMENTOS E BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":279.17},
+{"ie":0,"cnpj":"07337935000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2114.27},
+{"ie":0,"cnpj":"61101895003160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":34392.32},
 {"ie":54144400,"cnpj":"07206816005265","razao":"M. DIAS BRANCO S. A. INDUSTRIA E COMERCIO DE ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":64897.41},
 {"ie":0,"cnpj":"61101895003918","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":953713.89},
-{"ie":0,"cnpj":"07337935000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2114.27},
-{"ie":0,"cnpj":"61101895000498","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":110300.00},
-{"ie":0,"cnpj":"61101895003160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":34392.32}];
+{"ie":0,"cnpj":"01482939000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":165.27},
+{"ie":0,"cnpj":"61101895000498","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":110300.00}];
 SaidasData.saidas = [{"ie":20207859,"cnpj":"70244082000103","razao":"HISTER HIGIENIZACAO E SERVICOS TERCEIRIZADOS LTDA ME","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":66806.09},
 {"ie":19649509,"cnpj":"69940096000174","razao":"DELNOR LIMPEZA E JARDINAGEM DO NORDESTE LTDA ME","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":12084.37},
 {"ie":0,"cnpj":"61101895003918","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":16734.00},
@@ -166,5 +166,6 @@ SociosData.socios = [{"cpf":"73887498704","nome":"MARCELO SCHMIDT","ie":31258158
 {"cpf":"00062219804","nome":"MUNA MARIA TEREZA MALUF HAIDAR","ie":31258158,"cnpj":"61101895001036","razao":"SANTHER FABRICA DE PAPEL SANTA THEREZINHA S/A","sit":"C","regime":"NORMAL","municipio":"PAULISTA","igi":1},
 {"cpf":"00062219804","nome":"MUNA MARIA TEREZA MALUF HAIDAR","ie":28564251,"cnpj":"61101895001389","razao":"SANTHER FABRICA DE PAPEL SANTA THEREZINHA S/A","sit":"B","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"GOVERNADOR VALADARES","igi":0},
 {"cpf":"00062219804","nome":"MUNA MARIA TEREZA MALUF HAIDAR","ie":23971967,"cnpj":"61101895001702","razao":"SANTHER FABRICA DE PAPEL SANTA THEREZINHA S/A","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
-EmailsData.emails = [{"cnpj":"61101895003160","email":"erika.queiroz@santher.com.br","razao":"SANTHER FABRICA DE PAPEL SANTA THEREZINHA S A","municipio":"ALHANDRA"}];
-TelsData.tels = [{"cnpj":"61101895003160","tel":"1121427926","razao":"SANTHER FABRICA DE PAPEL SANTA THEREZINHA S A","municipio":"ALHANDRA"}];
+EmailsData.emails = [];
+TelsData.tels = [];
+PlacasData.placas = [];

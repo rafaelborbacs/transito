@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06246882404","nome":"JACKSON MARQUES DA SILVA VICENTE","ie":75533901,"cnpj":"29488746000178","razao":"JACKSON MARQUES DA SILVA VICENTE 06246882404","sit":"C","regime":"SIMEI","municipio":"GRAVATA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

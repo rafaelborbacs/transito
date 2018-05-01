@@ -6,3 +6,4 @@ SociosData.socios = [{"cpf":"65783794368","nome":"MARQUES JEAN DE MIRANDA","ie":
 {"cpf":"65783794368","nome":"MARQUES JEAN DE MIRANDA","ie":39626105,"cnpj":"11783086000192","razao":"M J DE MIRANDA","sit":"S","regime":"NORMAL","municipio":"RIACHO DAS ALMAS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -12,3 +12,4 @@ SociosData.socios = [{"cpf":"71306480825","nome":"LUIZ FRANCISCO PITTA","ie":364
 {"cpf":"02445049709","nome":"EDUARDO LUIS BUENO DE SOUSA FREITAS","ie":36026131,"cnpj":"09229814000177","razao":"ETA BEBIDAS DO NORDESTE LTDA","sit":"B","regime":"NORMAL","municipio":"PAULISTA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

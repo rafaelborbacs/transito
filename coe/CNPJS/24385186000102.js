@@ -101,3 +101,4 @@ SociosData.socios = [{"cpf":"07922808496","nome":"GILCIENE KELLY DA SILVA","ie":
 {"cpf":"03530212881","nome":"JOSE GILVAN DA SILVA","ie":12449814,"cnpj":"11885548000182","razao":"JOSE GILVAN DA SILVA ME","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

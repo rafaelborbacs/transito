@@ -20,3 +20,4 @@ SociosData.socios = [{"cpf":"50613111400","nome":"MARIA LUIZA DA SILVA FRANCA","
 {"cpf":"44623291472","nome":"SEVERINO NUNES DE FRANCA","ie":19804679,"cnpj":"70234489000141","razao":"SEVERINO NUNES FRANCA","sit":"B","regime":"NORMAL","municipio":"BEZERROS","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

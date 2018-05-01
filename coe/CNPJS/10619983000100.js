@@ -11,3 +11,4 @@ SociosData.socios = [{"cpf":"93306989800","nome":"BENEDITO ADALBERTO DE GODOY","
 {"cpf":"07745992869","nome":"REGINA MARCIA BAPTISTELLA DE GODOY","ie":39231429,"cnpj":"10619983000100","razao":"GODOY & BAPTISTELLA INDUSTRIA E COMERCIO DE PRODUTOS HIGIENE LTDA","sit":"C","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SANTA MARIA DA SERRA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

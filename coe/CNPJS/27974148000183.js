@@ -9,3 +9,4 @@ SociosData.socios = [{"cpf":"07378075477","nome":"ERIKA DO CARMO MEDINO","ie":72
 {"cpf":"07378075477","nome":"ERIKA DO CARMO MEDINO","ie":72409100,"cnpj":"27974148000183","razao":"ERIKA DO CARMO MEDINO ME","sit":"C","regime":"NORMAL","municipio":"TABIRA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"10177514477","nome":"FERNANDA LUCIANA GARCIA DE FRE
 {"cpf":"10177514477","nome":"FERNANDA LUCIANA GARCIA DE FREITAS","ie":65867165,"cnpj":"24037107000172","razao":"FERNANDA LUCIANA GARCIA DE FREITAS 10177514477","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

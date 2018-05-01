@@ -15,9 +15,5 @@ SociosData.socios = [{"cpf":"76752828415","nome":"PAULO CESAR BEZERRA DA SILVA",
 {"cpf":"05030420487","nome":"PAULO ANTONIO DA SILVA","ie":7474245,"cnpj":"11624335000105","razao":"MALHARIA SANTO ANTONIO LTDA","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"05030420487","nome":"PAULO ANTONIO DA SILVA","ie":6124305,"cnpj":"11388964000175","razao":"MALHARIA SAO PAULO COMERCIO LTDA","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"28470655000142","tel":"8132248098","razao":"JCBS CALCADOS EIRELI ME","municipio":"RECIFE"},
-{"cnpj":"27793185000195","tel":"8132248098","razao":"PRADINES COMERCIO ATACADISTA E VAREJISTA EIRELI EPP","municipio":"RECIFE"},
-{"cnpj":"24659687000130","tel":"8132248098","razao":"JCBS MALHARIA EIRELI EPP","municipio":"RECIFE"},
-{"cnpj":"11388964000175","tel":"8132248098","razao":"MALHARIA SAO PAULO COMERCIO LTDA","municipio":"JABOATAO DOS GUARARAPES"},
-{"cnpj":"04074833000158","tel":"8132248098","razao":"BEABA DA CRIANCA LTDA","municipio":"JABOATAO DOS GUARARAPES"},
-{"cnpj":"03401488000157","tel":"8132248098","razao":"MSP BABY LTDA","municipio":"CARUARU"}];
+TelsData.tels = [];
+PlacasData.placas = [];

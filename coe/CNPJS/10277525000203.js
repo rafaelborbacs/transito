@@ -23,3 +23,4 @@ SociosData.socios = [{"cpf":"93176643420","nome":"VANUZA DE SOUZA LEMOS AVELINO"
 {"cpf":"45212899400","nome":"ALDENOR HERMINIO DA SILVA","ie":33164401,"cnpj":"07481060000112","razao":"A. H. DA SILVA - ROUPA INFANTIL - ME","sit":"B","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

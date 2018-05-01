@@ -14,3 +14,4 @@ EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"29738154000167","tel":"8134467901","razao":"E D A COMERCIO DE MATERIAL DE LIMPEZA LTDA","municipio":"Recife"},
 {"cnpj":"27018061000132","tel":"8134467901","razao":"JVP DE CASTRO-EIRELI-ME","municipio":"Recife"},
 {"cnpj":"02809967482","tel":"8134467901","razao":"VICTOR SETTE DE CRASTO","municipio":"RECIFE"}];
+PlacasData.placas = [];

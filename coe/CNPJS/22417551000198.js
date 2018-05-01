@@ -2,10 +2,11 @@ EstabelecimentoData.estabelecimento = [{"ie":62308491,"cnpj":"22417551000198","r
 EntradasData.entradas = [{"ie":0,"cnpj":"20882665000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":979.20},
 {"ie":0,"cnpj":"60422219000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1893.55},
 {"ie":0,"cnpj":"03074988000121","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":13296.55},
-{"ie":0,"cnpj":"50067388000116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2133.34},
 {"ie":0,"cnpj":"44699106000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8793.20},
+{"ie":0,"cnpj":"50067388000116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2133.34},
 {"ie":0,"cnpj":"57021651000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":880.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"PE","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"EX","valor":600.00}];
 SociosData.socios = [];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

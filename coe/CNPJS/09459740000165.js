@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"47314818487","nome":"MARGARIDA PESSOA DOS ANJOS","i
 {"cpf":"12605838803","nome":"JOSE EDERIVALDO DOS ANJOS","ie":36407100,"cnpj":"09459740000165","razao":"PUREZA-COMERCIO DE AGUA DESSALINIZADA LTDA","sit":"C","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

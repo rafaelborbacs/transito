@@ -135,3 +135,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"91704065291","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"12597507440","nome":"GEOVANA GESSICA SILVA DE SENA","ie":72918411,"cnpj":"28209462000132","razao":"GEOVANA GESSICA SILVA DE SENA 12597507440","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

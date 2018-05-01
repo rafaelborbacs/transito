@@ -67,3 +67,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"34705582000204","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"71164016440","nome":"RAYANNE KAROLAYNE FERREIRA DE MELO","ie":71453229,"cnpj":"27439696000103","razao":"RAYANNE KAROLAYNE FERREIRA DE MELO 71164016440","sit":"C","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

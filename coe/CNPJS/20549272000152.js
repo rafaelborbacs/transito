@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"66493234468","nome":"SILVANA MARIA MARTINS NOBREGA"
 {"cpf":"66493234468","nome":"SILVANA MARIA MARTINS NOBREGA","ie":28212576,"cnpj":"04462777000129","razao":"ERITREL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71369939469","nome":"TULIO EDUARDO ALMEIDA DA SILVA","ie":76445151,"cnpj":"30017695000185","razao":"TULIO E. A. DA SILVA BEBIDAS","sit":"S","regime":"NORMAL","municipio":"AMARAJI","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08564160455","nome":"ERALDO DOS SANTOS LUMINATO","ie":66867371,"cnpj":"24532783000112","razao":"ERALDO DOS SANTOS LUMINATO 08564160455","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

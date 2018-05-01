@@ -11,3 +11,4 @@ SociosData.socios = [{"cpf":"03922949401","nome":"MARIANA AVILA TENORIO DE ALMEI
 {"cpf":"02514280443","nome":"FAUSTO LUIZ AVILA TENORIO","ie":16818695,"cnpj":"35526342000124","razao":"INDUSTRIA PLASTICOS JUMAFA LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

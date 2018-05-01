@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"66100356449","nome":"RIVALDO JOSE MARTINS","ie":13652150,"cnpj":"12849410000190","razao":"RIVALDO JOSE MARTINS-CONFECCOES","sit":"S","regime":"NORMAL","municipio":"ESCADA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

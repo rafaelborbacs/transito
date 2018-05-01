@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"05761317419","nome":"NATALIA CASSIMIRO DOS SANTOS",
 {"cpf":"01063159431","nome":"JOSE ALBERTO GUERRA DA COSTA","ie":36273651,"cnpj":"09369107000186","razao":"FEITO A MAO INDUSTRIA E COMERCIO DE PRODUTOS SUSTENTAVEIS EIRELI","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -20,3 +20,4 @@ SociosData.socios = [{"cpf":"70909577480","nome":"ANDERSON JOSE DOS SANTOS","ie"
 {"cpf":"11696553431","nome":"JADIAEL BARBOSA DE ARRUDA","ie":72507039,"cnpj":"28037278000152","razao":"NORDESTINA COMERCIO DE MATERIAIS DE CONSTRUCOES LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -26,3 +26,4 @@ SociosData.socios = [{"cpf":"77008529449","nome":"CLAUDIA LUCK DE MELLO FREYRE",
 {"cpf":"00975965409","nome":"GUILHERME MACIEL","ie":35140992,"cnpj":"08881029000131","razao":"VILA DO SOL CERAMICAS LTDA - ME","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

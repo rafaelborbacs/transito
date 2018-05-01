@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05018806583","nome":"ROBSON SILVA SANTOS","ie":72169630,"cnpj":"27812431000109","razao":"ROBSON SILVA SANTOS 05018806583","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

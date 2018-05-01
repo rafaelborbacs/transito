@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71656898420","nome":"MARIA DO CEU SIMPLICIO DE MELO","ie":75570602,"cnpj":"29505647000157","razao":"MARIA DO CEU SIMPLICIO DE MELO 71656898420","sit":"A","regime":"SIMEI","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

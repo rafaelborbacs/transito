@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"06056478440","nome":"RAFAEL MARTINS DE OLIVEIRA E S
 {"cpf":"06056478440","nome":"RAFAEL MARTINS DE OLIVEIRA E SILVA","ie":66767822,"cnpj":"24486751000128","razao":"R.M. DE OLIVEIRA E SILVA ME","sit":"S","regime":"SIMPLES","municipio":"BONITO","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

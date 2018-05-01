@@ -38,3 +38,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"06232650441","nome":"JOSE WELLINGTON DA SILVA","ie":72013206,"cnpj":"27740207000159","razao":"JOSE WELLINGTON DA SILVA E SILVA EIRELI ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

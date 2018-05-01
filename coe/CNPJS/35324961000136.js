@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"34585761420","nome":"LEONIDAS GONCALVES DA SILVA","
 {"cpf":"06629676408","nome":"ERIONALDO CARDOSO DA SILVA","ie":15735516,"cnpj":"35324961000136","razao":"GONCALVES TECIDOS LTDA","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

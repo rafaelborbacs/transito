@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"31222641615","nome":"WALDIR CLAUDIO DE PAULA","ie":72560606,"cnpj":"27998030000195","razao":"WALDIR CLAUDIO DE PAULA 31222641615","sit":"A","regime":"SIMEI","municipio":"PASSIRA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

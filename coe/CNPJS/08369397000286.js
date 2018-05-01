@@ -68,5 +68,6 @@ SociosData.socios = [{"cpf":"92218512491","nome":"GUSTAVO DE ALBUQUERQUE DRUMMON
 {"cpf":"00298891468","nome":"PAULO DRUMMOND DOS REIS","ie":1542290,"cnpj":"10807972000308","razao":"COMPANHIA INDUSTRIAL DE VIDROS CIV","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"00298891468","nome":"PAULO DRUMMOND DOS REIS","ie":824810,"cnpj":"10807972000731","razao":"COMPANHIA INDUSTRIAL DE VIDROS CIV","sit":"B","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},
 {"cpf":"00298891468","nome":"PAULO DRUMMOND DOS REIS","ie":113808,"cnpj":"10807972000146","razao":"COMPANHIA INDUSTRIAL DE VIDROS CIV","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
-EmailsData.emails = [{"cnpj":"25110606000100","email":"boavista.sh@giramail.com","razao":"JRDM BOA VISTA COMERCIO DE ALIMENTOS - EIRELI","municipio":"RECIFE"}];
+EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

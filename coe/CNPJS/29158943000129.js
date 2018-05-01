@@ -8,3 +8,4 @@ SaidasData.saidas = [{"ie":38302098,"cnpj":"68174069000175","razao":"EXTRA PREST
 SociosData.socios = [{"cpf":"70276095413","nome":"MANOEL VICTOR DE SOUZA CAVALCANTE","ie":74735594,"cnpj":"29158943000129","razao":"MANOEL VICTOR DE SOUZA CAVALCANTE EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"AGUA PRETA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

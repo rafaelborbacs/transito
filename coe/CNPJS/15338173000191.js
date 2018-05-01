@@ -9,3 +9,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"33654419001198","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"10193994496","nome":"MARINA PIRES DE SOUZA GIRAO","ie":48640930,"cnpj":"15338173000191","razao":"MARINA PIRES DE SOUZA GIRAO","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

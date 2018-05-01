@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"34479015434","nome":"MARIA JOSE MEDINO","ie":728694
 {"cpf":"34479015434","nome":"MARIA JOSE MEDINO","ie":72528036,"cnpj":"28077884000100","razao":"M. J. MEDINO COMERCIO EPP","sit":"C","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

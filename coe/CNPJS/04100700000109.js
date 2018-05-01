@@ -21,3 +21,4 @@ SociosData.socios = [{"cpf":"74626353487","nome":"LUCIANE CORREIA RIBEIRO","ie":
 {"cpf":"04508975402","nome":"ANA FLAVIA BARBOSA DE AGUIAR","ie":27627810,"cnpj":"04100700000109","razao":"EASYNET INDUSTRIA E COMERCIO DE ETIQUETAS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

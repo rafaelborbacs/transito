@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09456205436","nome":"TAMIRIS LIMA COLACO","ie":70231893,"cnpj":"26810244000123","razao":"TAMIRIS LIMA COLACO 09456205436","sit":"C","regime":"NORMAL","municipio":"ARACOIABA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

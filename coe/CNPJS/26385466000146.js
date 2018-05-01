@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":69431280,"cnpj":"26385466000146","razao":"ALINE CATARINA SOUZA AMARAL 04965968450","sit":"A","arrecadacao":0.00,"entradas":4148.25,"saidas":83929.40,"regime":"SIMEI","segmento":"VAREJO","municipio":"OLINDA","drr":"I","igi":1,"dataie":"25/10/2016"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"04675805000196","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1636.30},
-{"ie":0,"cnpj":"13105990000255","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2198.83},
+EntradasData.entradas = [{"ie":0,"cnpj":"13105990000255","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2198.83},
+{"ie":0,"cnpj":"04675805000196","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1636.30},
 {"ie":0,"cnpj":"18792563000125","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":313.12}];
 SaidasData.saidas = [{"ie":45598436,"cnpj":"41110297000125","razao":"COISAS DE CAO COMERCIO E SERVICOS LTDA-ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":305.00},
 {"ie":0,"cnpj":"41014481000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":125.00},
@@ -53,3 +53,4 @@ SociosData.socios = [{"cpf":"04965968450","nome":"ALINE CATARINA SOUZA AMARAL","
 {"cpf":"04965968450","nome":"ALINE CATARINA SOUZA AMARAL","ie":49795325,"cnpj":"16748458000163","razao":"ALINE CATARINA SOUZA AMARAL PRESENTES","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

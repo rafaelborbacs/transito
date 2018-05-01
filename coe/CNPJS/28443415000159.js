@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":73298220,"cnpj":"28443415000159","razao":"RAFAEL VINICIUS SOARES DE ALBUQUERQUE COMERCIO EPP","sit":"C","arrecadacao":0.00,"entradas":2232758.52,"saidas":1758922.74,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ITAMBE","drr":"I","igi":1,"dataie":"17/08/2017"}];
 EntradasData.entradas = [{"ie":32114362,"cnpj":"07169427000167","razao":"COMERCIAL DE ALIMENTOS COTUNGUBA EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":254.00},
 {"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL VILA POPULAR EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"FLORES","igi":1,"uf":"PE","valor":9594.20},
-{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1719580.00},
 {"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":501730.32},
+{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1719580.00},
 {"ie":38282712,"cnpj":"10539036000100","razao":"MERCANTIL GLOBAL DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":1600.00}];
 SaidasData.saidas = [{"ie":17637333,"cnpj":"40831794000150","razao":"MERCASSUL LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"ITAPISSUMA","igi":0,"uf":"PE","valor":528.00},
 {"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL VILA POPULAR EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"FLORES","igi":1,"uf":"PE","valor":156329.46},
@@ -26,7 +26,7 @@ SaidasData.saidas = [{"ie":17637333,"cnpj":"40831794000150","razao":"MERCASSUL L
 {"ie":59995106,"cnpj":"21373149000196","razao":"GILBERTO MARTINHO DA SILVA EIRELI ME","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":59820.00},
 {"ie":58822810,"cnpj":"20861429000180","razao":"SIDNEI DA SILVA MARQUES COSMETICOS ME","sit":"A","regime":"SIMPLES","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":936.00},
 {"ie":57882690,"cnpj":"20374132000190","razao":"SUPERMERCADO NORDESTINO LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":4976.00},
-{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":13455.00},
+{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":13455.00},
 {"ie":53039238,"cnpj":"18200892000130","razao":"L P BARBOSA  MERCADINHO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":1482.00},
 {"ie":51434202,"cnpj":"17439839000123","razao":"DIMA COSMETICOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":8640.00},
 {"ie":48334650,"cnpj":"15325348000126","razao":"JPK COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":1980.00},
@@ -65,3 +65,4 @@ SaidasData.saidas = [{"ie":17637333,"cnpj":"40831794000150","razao":"MERCASSUL L
 SociosData.socios = [{"cpf":"10864257406","nome":"RAFAEL VINICIUS SOARES DE ALBUQUERQUE","ie":73298220,"cnpj":"28443415000159","razao":"RAFAEL VINICIUS SOARES DE ALBUQUERQUE COMERCIO EPP","sit":"C","regime":"NORMAL","municipio":"ITAMBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

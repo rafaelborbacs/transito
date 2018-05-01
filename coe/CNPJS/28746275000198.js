@@ -28,7 +28,7 @@ SaidasData.saidas = [{"ie":19264038,"cnpj":"69950079000118","razao":"MERCADINHO 
 {"ie":56675186,"cnpj":"19788569000191","razao":"BOTELHO HORTFRUT ALIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1,"uf":"PE","valor":40100.80},
 {"ie":54257271,"cnpj":"18757191000104","razao":"COMERCIAL DE ALIMENTOS O BARATO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":31095.00},
 {"ie":52533069,"cnpj":"17941630000163","razao":"LG SANTOS COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":39000.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":256.80},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":256.80},
 {"ie":52312640,"cnpj":"17844670000197","razao":"J C DA COSTA MINIMERCADO ME","sit":"A","regime":"SIMPLES","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":584.20},
 {"ie":0,"cnpj":"17775352000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":311897.30},
 {"ie":51831031,"cnpj":"17611850000129","razao":"MAIS COMERCIO DISTRIBUIDORA E REPRESENTACAO DE MATERIAIS DE LIMPEZA LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":60900.00},
@@ -65,7 +65,7 @@ SaidasData.saidas = [{"ie":19264038,"cnpj":"69950079000118","razao":"MERCADINHO 
 {"ie":68874308,"cnpj":"05463924000300","razao":"M REGINA DE AGUIAR VIEIRA DA SILVA ME","sit":"A","regime":"NORMAL","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":272.00},
 {"ie":46948996,"cnpj":"05275604000245","razao":"WALTER LOPES ENGENHARIA LTDA","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":71255.00},
 {"ie":29081157,"cnpj":"04837516000146","razao":"SUPERMERCADO SANTA TEREZA LTDA ME","sit":"A","regime":"NORMAL","municipio":"OROBO","igi":0,"uf":"PE","valor":5032.00},
-{"ie":28590929,"cnpj":"04670090000189","razao":"ARENA MM COMERCIAL LTDA ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":473440.00},
+{"ie":28590929,"cnpj":"04670090000189","razao":"ARENA MM COMERCIAL EIRELI","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":473440.00},
 {"ie":26976536,"cnpj":"03715393000108","razao":"ASSIS LOPES SUPERMERCADOS LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":468.00},
 {"ie":26901790,"cnpj":"03704969000131","razao":"VALQUIRIA GOUVEIA URBANO DA SILVA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":446.00},
 {"ie":26684160,"cnpj":"03446513000119","razao":"UNIVERSO EMPREENDIMENTOS EIRELI","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":87980.00},
@@ -80,3 +80,4 @@ SaidasData.saidas = [{"ie":19264038,"cnpj":"69950079000118","razao":"MERCADINHO 
 SociosData.socios = [{"cpf":"07862054407","nome":"RAFAELA FERREIRA DA SILVA","ie":73928348,"cnpj":"28746275000198","razao":"DISTRIBUIDORA TRUMBO COMERCIO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"CORRENTES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

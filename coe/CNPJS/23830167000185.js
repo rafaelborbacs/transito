@@ -6,3 +6,4 @@ SociosData.socios = [{"cpf":"30437555453","nome":"MARIA DO SOCORRO TEJO CAMINHA"
 {"cpf":"30437555453","nome":"MARIA DO SOCORRO TEJO CAMINHA","ie":66879035,"cnpj":"23830167000185","razao":"MARIA DO SOCORRO TEJO CAMINHA 30437555453","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

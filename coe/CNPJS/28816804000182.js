@@ -244,3 +244,4 @@ SociosData.socios = [{"cpf":"70337228426","nome":"DAVID BERNARDINO DE OLIVEIRA",
 {"cpf":"70337228426","nome":"DAVID BERNARDINO DE OLIVEIRA","ie":73428531,"cnpj":"28478656000133","razao":"DAVID BERNARDINO DE OLIVEIRA 70337228426","sit":"B","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

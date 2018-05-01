@@ -39,3 +39,4 @@ SociosData.socios = [{"cpf":"05830805456","nome":"TARCISO ROBERTO CORREIA DOS SA
 {"cpf":"05830805456","nome":"TARCISO ROBERTO CORREIA DOS SANTOS","ie":38912163,"cnpj":"11404523000110","razao":"T R CORREIA DOS SANTOS & CIA LTDA ME","sit":"B","regime":"NORMAL","municipio":"ESCADA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

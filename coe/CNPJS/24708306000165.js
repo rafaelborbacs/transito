@@ -4,3 +4,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"07134125000153","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"08263812437","nome":"RODRIGO HENRIQUE MONTEIRO LOPES","ie":67204635,"cnpj":"24708306000165","razao":"RODRIGO HENRIQUE MONTEIRO LOPES 08263812437","sit":"A","regime":"SIMEI","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

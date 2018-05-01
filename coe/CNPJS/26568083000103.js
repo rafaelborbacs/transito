@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10334812461","nome":"JOSE ANTONIO HENRIQUE DA SILVA","ie":69742286,"cnpj":"26568083000103","razao":"JOSE ANTONIO HENRIQUE DA SILVA 10334812461","sit":"S","regime":"NORMAL","municipio":"GARANHUNS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

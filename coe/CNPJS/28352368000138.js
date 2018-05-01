@@ -1,19 +1,19 @@
 EstabelecimentoData.estabelecimento = [{"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL VILA POPULAR EIRELI EPP","sit":"C","arrecadacao":160.70,"entradas":2005069.20,"saidas":527071.44,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"FLORES","drr":"II","igi":1,"dataie":"07/08/2017"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"89305239000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":420246.49},
-{"ie":53937104,"cnpj":"14108142000181","razao":"RECIFE SUL DISTRIBUIDORA DE MERCADORIAS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":45696.00},
-{"ie":73298220,"cnpj":"28443415000159","razao":"RAFAEL VINICIUS SOARES DE ALBUQUERQUE COMERCIO EPP","sit":"C","regime":"NORMAL","municipio":"ITAMBE","igi":1,"uf":"PE","valor":156329.46},
-{"ie":37662767,"cnpj":"10642159000163","razao":"J. OLIVEIRA ARMARINHO LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1400.00},
-{"ie":73719420,"cnpj":"28677574000118","razao":"COMERCIAL SUPER MIX LTDA ME","sit":"C","regime":"NORMAL","municipio":"BONITO","igi":1,"uf":"PE","valor":17824.04},
+EntradasData.entradas = [{"ie":73719420,"cnpj":"28677574000118","razao":"COMERCIAL SUPER MIX LTDA ME","sit":"C","regime":"NORMAL","municipio":"BONITO","igi":1,"uf":"PE","valor":17824.04},
 {"ie":9362002,"cnpj":"08665085000139","razao":"SISTEMAQ AUTOMACAO S/A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":500.00},
-{"ie":0,"cnpj":"89305239000507","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":415.80},
+{"ie":73077054,"cnpj":"28321866000113","razao":"COMERCIAL FALESIAS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":44981.16},
 {"ie":0,"cnpj":"21974339000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1104.00},
+{"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL CENTRAL DE GENEROS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2757.60},
+{"ie":37662767,"cnpj":"10642159000163","razao":"J. OLIVEIRA ARMARINHO LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1400.00},
+{"ie":0,"cnpj":"89305239000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":420246.49},
+{"ie":0,"cnpj":"06829427000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1133773.00},
 {"ie":73712922,"cnpj":"28664202000157","razao":"COMERCIAL CATENDE DO SUL EIRELI ME","sit":"C","regime":"NORMAL","municipio":"AMARAJI","igi":1,"uf":"PE","valor":59692.46},
 {"ie":0,"cnpj":"04800830000405","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":51328.00},
-{"ie":73077054,"cnpj":"28321866000113","razao":"COMERCIAL FALESIAS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":44981.16},
-{"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL CENTRAL DE GENEROS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2757.60},
 {"ie":73707686,"cnpj":"28662580000100","razao":"COMERCIAL NOVO CONDADO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"CATENDE","igi":1,"uf":"PE","valor":51736.00},
-{"ie":0,"cnpj":"06829427000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1133773.00},
-{"ie":0,"cnpj":"04747896000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":17285.19}];
+{"ie":0,"cnpj":"04747896000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":17285.19},
+{"ie":73298220,"cnpj":"28443415000159","razao":"RAFAEL VINICIUS SOARES DE ALBUQUERQUE COMERCIO EPP","sit":"C","regime":"NORMAL","municipio":"ITAMBE","igi":1,"uf":"PE","valor":156329.46},
+{"ie":53937104,"cnpj":"14108142000181","razao":"RECIFE SUL DISTRIBUIDORA DE MERCADORIAS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":45696.00},
+{"ie":0,"cnpj":"89305239000507","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":415.80}];
 SaidasData.saidas = [{"ie":26944928,"cnpj":"70214374000195","razao":"CONSERVI COMERCIO E SERVICOS DE CONSERVACAO DE BENS IMOVEIS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":3415.40},
 {"ie":16289846,"cnpj":"35396779000190","razao":"DIVEPE-DISTRIBUIDORA DE VEICULOS E PECAS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":750.00},
 {"ie":73298220,"cnpj":"28443415000159","razao":"RAFAEL VINICIUS SOARES DE ALBUQUERQUE COMERCIO EPP","sit":"C","regime":"NORMAL","municipio":"ITAMBE","igi":1,"uf":"PE","valor":9594.20},
@@ -30,7 +30,7 @@ SaidasData.saidas = [{"ie":26944928,"cnpj":"70214374000195","razao":"CONSERVI CO
 {"ie":56287925,"cnpj":"19621824000107","razao":"AVENIDA SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":2190.00},
 {"ie":55625118,"cnpj":"19345220000185","razao":"MERCADINHO SUPERCOMPRAS OLINDA EIRELI - ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":180.00},
 {"ie":52833615,"cnpj":"18081665000132","razao":"MARCELINO LUIZ DA SILVA BEBIDAS ME","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":600.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2850.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2850.00},
 {"ie":50447823,"cnpj":"16994727000171","razao":"PBF GRAFICA E TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":15107.00},
 {"ie":49769324,"cnpj":"16683395000104","razao":"COMERCIAL MASSANGANA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":26406.50},
 {"ie":49240293,"cnpj":"15762424000160","razao":"ELETIANE TABOSA NERI 81117043487","sit":"A","regime":"SIMEI","municipio":"CARUARU","igi":0,"uf":"PE","valor":332.28},
@@ -82,3 +82,4 @@ SaidasData.saidas = [{"ie":26944928,"cnpj":"70214374000195","razao":"CONSERVI CO
 SociosData.socios = [{"cpf":"02730072462","nome":"LUCIANO FERNANDES DE OLIVEIRA","ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL VILA POPULAR EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"FLORES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

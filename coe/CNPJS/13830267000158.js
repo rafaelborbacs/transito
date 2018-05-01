@@ -6,3 +6,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"47831600400","nome":"JOSIMERE MARIA AMERICA","ie":44576846,"cnpj":"13830267000158","razao":"JOSIMERE MARIA AMERICA 47831600400","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

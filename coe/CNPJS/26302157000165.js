@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"14145448472","nome":"JOSE RONALDO PEREIRA LINS","ie
 {"cpf":"14145448472","nome":"JOSE RONALDO PEREIRA LINS","ie":13738038,"cnpj":"12855052000129","razao":"PORTAL DE CANDEIAS LTDA","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

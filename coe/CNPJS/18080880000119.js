@@ -18,11 +18,6 @@ SaidasData.saidas = [{"ie":68519591,"cnpj":"25529771000100","razao":"O ARREMESSO
 SociosData.socios = [{"cpf":"01402401442","nome":"LUIZ JOSE DA SILVA","ie":52849023,"cnpj":"18080880000119","razao":"ALEXSANDRA SALVADOR DA SILVA TECIDOS EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"01164568418","nome":"ALEXSANDRA SALVADOR DA SILVA","ie":52849023,"cnpj":"18080880000119","razao":"ALEXSANDRA SALVADOR DA SILVA TECIDOS EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"01164568418","nome":"ALEXSANDRA SALVADOR DA SILVA","ie":31261370,"cnpj":"06269519000156","razao":"A S DA SILVA FERRAGENS","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0}];
-EmailsData.emails = [{"cnpj":"17811549000240","email":"bes.representacoes@gmail.com","razao":"PIETRO STREET WEAR CONFECCAO EIRELI ME","municipio":"CARUARU"},
-{"cnpj":"12411859000172","email":"bes.representacoes@gmail.com","razao":"E S B DE SOUZA TORRES EIRELI","municipio":"CARUARU"},
-{"cnpj":"10362068000174","email":"bes.representacoes@gmail.com","razao":"B E S REPRESENTACOES TEXTEIS LTDA ME","municipio":"CARUARU"},
-{"cnpj":"10347908000120","email":"bes.representacoes@gmail.com","razao":"GLAUCIO BEZERRA SILVA EPP","municipio":"CARUARU"},
-{"cnpj":"08932236000178","email":"neto.vaqueiro@hotmail.com","razao":"CECILIO  EUZEBIO SILVA LTDA - 114663","municipio":"CARUARU"},
-{"cnpj":"05586604000185","email":"bes.representacoes@gmail.com","razao":"SOUZA DOS SANTOS CONFECCOES LTDA ME","municipio":"CARUARU"},
-{"cnpj":"02974460453","email":"neto.vaqueiro@hotmail.com","razao":"CECILIO JOSE DA SILVA","municipio":"CARUARU"}];
-TelsData.tels = [{"cnpj":"02974460453","tel":"8199170440","razao":"CESILIO JOSE DA SILVA - Cod. 0151215","municipio":"CARUARU"}];
+EmailsData.emails = [];
+TelsData.tels = [];
+PlacasData.placas = [];

@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"99532425420","nome":"ANA KARINA PINTO LAPA RUEDA","
 {"cpf":"09764130437","nome":"BEATRIZ MILENA DA CONCEICAO LIMA","ie":58312293,"cnpj":"20558956000110","razao":"BEATRIZ MILENA DA CONCEICAO LIMA 09764130437","sit":"A","regime":"SIMEI","municipio":"OLINDA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

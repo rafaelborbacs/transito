@@ -4,3 +4,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"14934095000125","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"04834411559","nome":"JAILSON GUIMARAES DE SOUZA","ie":71577033,"cnpj":"27504466000180","razao":"JAILSON GUIMARAES DE SOUZA 04834411559","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

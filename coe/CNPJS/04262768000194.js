@@ -14,3 +14,4 @@ SociosData.socios = [{"cpf":"59313943468","nome":"JOSE VICENTE BARBOSA CINTRA GA
 {"cpf":"26626861468","nome":"JOSE WILSON DA SILVA DUARTE","ie":25076175,"cnpj":"02685108000190","razao":"W FRANCA & DUARTE LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"01091739455","nome":"LETICIA MARIANNA GONCALVES RAM
 {"cpf":"01091739455","nome":"LETICIA MARIANNA GONCALVES RAMOS","ie":54136300,"cnpj":"18677638000127","razao":"LETICIA M G RAMOS TECIDOS ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

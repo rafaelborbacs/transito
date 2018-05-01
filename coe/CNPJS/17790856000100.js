@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07734583440","nome":"BRUNO SANTOS DA SILVA","ie":52279090,"cnpj":"17790856000100","razao":"BRUNO SANTOS DA SILVA 07734583440","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

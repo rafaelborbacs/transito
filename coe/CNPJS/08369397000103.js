@@ -70,3 +70,4 @@ SociosData.socios = [{"cpf":"92218512491","nome":"GUSTAVO DE ALBUQUERQUE DRUMMON
 {"cpf":"00298891468","nome":"PAULO DRUMMOND DOS REIS","ie":113808,"cnpj":"10807972000146","razao":"COMPANHIA INDUSTRIAL DE VIDROS CIV","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

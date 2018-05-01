@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"09854919498","nome":"LUIZ HENRIQUE ALBUQUERQUE MEDE
 EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"14399348000108","tel":"81999682872","razao":"JOSE ENES SOARES DA SILVA 054335954","municipio":"GAMELEIRA"},
 {"cnpj":"05541716000110","tel":"81999682872","razao":"M S SOUZA INDUSTRIA LTDA ME","municipio":"SERRA TALHADA"}];
+PlacasData.placas = [];

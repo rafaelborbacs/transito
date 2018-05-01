@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07388604413","nome":"ANDRESA AMORIM DA SILVA","ie":72454750,"cnpj":"27963039000160","razao":"ANDRESA AMORIM DA SILVA 07388604413","sit":"C","regime":"NORMAL","municipio":"CORRENTES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

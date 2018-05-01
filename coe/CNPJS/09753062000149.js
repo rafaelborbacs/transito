@@ -94,4 +94,5 @@ SociosData.socios = [{"cpf":"12817686420","nome":"IVANISE GOMES MATIAS","ie":588
 {"cpf":"01860941400","nome":"IVAN GOMES MATIAS","ie":5880912,"cnpj":"09753062000149","razao":"ICROPOL INDUSTRIA E COMERCIO DE ROUPAS PROFISSIONAIS LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"01860941400","nome":"IVAN GOMES MATIAS","ie":132691,"cnpj":"09753062000149","razao":"ICROPOL INDUSTRIA E COMERCIO DE ROUPAS PROFISSIONAIS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"12006581000158","tel":"8132512983","razao":"ELO INDUSTRIA COMERCIO LTDA","municipio":"RECIFE"}];
+TelsData.tels = [];
+PlacasData.placas = [];

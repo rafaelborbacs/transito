@@ -11,3 +11,4 @@ SaidasData.saidas = [{"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL C
 SociosData.socios = [{"cpf":"06541668469","nome":"DANIELLE DANTAS DE SOUZA","ie":75275350,"cnpj":"29425540000107","razao":"DDS INDUSTRIA E COMERCIO DE UTENSILIOS DOMESTICOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

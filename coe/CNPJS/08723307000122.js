@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"03447532475","nome":"ANA CLAUDIA OLIVEIRA FERREIRA"
 {"cpf":"02257034406","nome":"LAUDICEIA OLIVEIRA FERREIRA","ie":34873856,"cnpj":"08723307000122","razao":"PROJARTE MOVEIS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

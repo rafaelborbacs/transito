@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"70552286460","nome":"JACKSON ARIEL LIMA DA SILVA","ie":76756904,"cnpj":"30170533000182","razao":"JACKSON ARIEL LIMA DA SILVA","sit":"A","regime":"NORMAL","municipio":"TUPANATINGA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

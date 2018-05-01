@@ -6,3 +6,4 @@ SociosData.socios = [{"cpf":"02221589483","nome":"RAPHAEL GUIMARAES BRITTO","ie"
 {"cpf":"02221589483","nome":"RAPHAEL GUIMARAES BRITTO","ie":31655580,"cnpj":"06994981000116","razao":"RAPHAEL GUIMARAES BRITTO EIRELI ME","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

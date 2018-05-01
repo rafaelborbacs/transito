@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71713999404","nome":"ADALBERTO JOSE JORDAO DA SILVA","ie":74686526,"cnpj":"29086925000189","razao":"ADALBERTO JOSE JORDAO DA SILVA 71713999404","sit":"C","regime":"NORMAL","municipio":"SURUBIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

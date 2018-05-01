@@ -203,3 +203,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97749842772","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"09026389477","nome":"LUIZ HENRIQUE PEREIRA BISPO","ie":73897108,"cnpj":"28700246000195","razao":"LUIZ HENRIQUE PEREIRA BISPO 09026389477","sit":"A","regime":"SIMEI","municipio":"CAMARAGIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

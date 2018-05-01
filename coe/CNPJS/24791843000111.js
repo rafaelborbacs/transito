@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":67298273,"cnpj":"24791843000111","razao":"E GALDINO DE OLIVEIRA CONFECCOES","sit":"C","arrecadacao":0.00,"entradas":454938.64,"saidas":491417.60,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"16/05/2016"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"78256336000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":132199.92},
-{"ie":0,"cnpj":"14469843000146","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":9268.66},
-{"ie":0,"cnpj":"56966682001460","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":180515.50},
-{"ie":0,"cnpj":"05630873000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":92104.57},
 {"ie":0,"cnpj":"08080487000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":29907.50},
+{"ie":0,"cnpj":"56966682001460","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":180515.50},
+{"ie":0,"cnpj":"23220524000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":310.00},
 {"ie":0,"cnpj":"08055884000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":10632.49},
-{"ie":0,"cnpj":"23220524000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":310.00}];
+{"ie":0,"cnpj":"14469843000146","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":9268.66},
+{"ie":0,"cnpj":"05630873000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":92104.57}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97543881000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":500.00},
 {"ie":0,"cnpj":"96275804300","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4900.00},
 {"ie":0,"cnpj":"96103892368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":15575.00},
@@ -95,3 +95,4 @@ SociosData.socios = [{"cpf":"03941405403","nome":"EDINALVA GALDINO DE OLIVEIRA",
 {"cpf":"03941405403","nome":"EDINALVA GALDINO DE OLIVEIRA","ie":48650145,"cnpj":"15429089000183","razao":"E G DE OLIVEIRA CONFECCOES ME","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

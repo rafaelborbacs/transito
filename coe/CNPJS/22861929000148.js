@@ -47,3 +47,4 @@ SociosData.socios = [{"cpf":"06737045480","nome":"RAFAEL DE CARVALHO SILVA","ie"
 {"cpf":"06737045480","nome":"RAFAEL DE CARVALHO SILVA","ie":35473371,"cnpj":"08987748000131","razao":"RAFAEL DE CARVALHO DA SILVA","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

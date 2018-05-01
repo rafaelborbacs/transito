@@ -7,3 +7,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07563685456","nome":"JOSE ROBERTO DO NASCIMENTO","ie":70899371,"cnpj":"27125397000102","razao":"JOSE ROBERTO DO NASCIMENTO 07563685456","sit":"S","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

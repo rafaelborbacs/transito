@@ -17,7 +17,7 @@ SaidasData.saidas = [{"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H
 {"ie":54326184,"cnpj":"18710324000340","razao":"SUPERMERCADOS IBS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":10260.00},
 {"ie":54326001,"cnpj":"18710324000260","razao":"SUPERMERCADOS IBS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":4204.00},
 {"ie":54325706,"cnpj":"18710324000189","razao":"SUPERMERCADOS IBS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":15030.00},
-{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":5650.00},
+{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":5650.00},
 {"ie":52237680,"cnpj":"17765451000112","razao":"EBOM ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":3326.40},
 {"ie":67380107,"cnpj":"15262412000258","razao":"SUPERMERCADO VILA ALDEIA LTDA","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":90278.25},
 {"ie":48312096,"cnpj":"15262412000177","razao":"SUPERMERCADO VILA ALDEIA LTDA","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":24881.60},
@@ -33,7 +33,7 @@ SaidasData.saidas = [{"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H
 {"ie":51944588,"cnpj":"08098154000170","razao":"RODRIGUES DA SILVA PADARIA E MERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":65268.27},
 {"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":95159.76},
 {"ie":31138250,"cnpj":"06196381000102","razao":"RADAR MERCANTIL LTDA - ME","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1,"uf":"PE","valor":526882.50},
-{"ie":28590929,"cnpj":"04670090000189","razao":"ARENA MM COMERCIAL LTDA ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":332080.00},
+{"ie":28590929,"cnpj":"04670090000189","razao":"ARENA MM COMERCIAL EIRELI","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":332080.00},
 {"ie":26592550,"cnpj":"03474398000196","razao":"COMERCIAL F K LTDA","sit":"A","regime":"NORMAL","municipio":"RIO FORMOSO","igi":0,"uf":"PE","valor":3951.50},
 {"ie":25761633,"cnpj":"03047105000194","razao":"MELZUM INDUSTRIA & COMERCIO EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":45780.00},
 {"ie":54439620,"cnpj":"03032154000234","razao":"JOSE MATIAS NETO MERCADINHO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":20178.50},
@@ -43,3 +43,4 @@ SaidasData.saidas = [{"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H
 SociosData.socios = [{"cpf":"11306452406","nome":"LUIZ PAULO DA SILVA","ie":72861045,"cnpj":"28199952000103","razao":"COMERCIAL LUIZ PAULO DA SILVA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"LAGOA DO ITAENGA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"03861323486","nome":"FELIPE ANTONIO PESSOA DA SILVA FILHO","ie":37358340,"cnpj":"09532166000123","razao":"FELIPE ANTONIO PESSOA DA SILVA FILHO","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

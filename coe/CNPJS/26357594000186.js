@@ -6,3 +6,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09716502419","nome":"THAIS GALDINO MENDES","ie":69377308,"cnpj":"26357594000186","razao":"THAIS GALDINO MENDES 09716502419","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

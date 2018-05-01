@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10726377406","nome":"JOSE MARCIO MENDES DA SILVA","ie":71171169,"cnpj":"27324873000106","razao":"J M M DA SILVA MERCANTIL ME","sit":"C","regime":"SIMPLES","municipio":"TERRA NOVA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

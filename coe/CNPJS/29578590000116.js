@@ -10,3 +10,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"11996461000506","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"10616018460","nome":"NATALI SOARES CARDOSO DA SILVA","ie":75661748,"cnpj":"29578590000116","razao":"NATALI S C DA SILVA","sit":"S","regime":"NORMAL","municipio":"JATAUBA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

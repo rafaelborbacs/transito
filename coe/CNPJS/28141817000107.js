@@ -25,5 +25,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92231128420","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00318000000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4200.00}];
 SociosData.socios = [{"cpf":"71389428427","nome":"DOUGLAS DA SILVA DE LIMA","ie":72767960,"cnpj":"28141817000107","razao":"DOUGLAS DA S DE LIMA TECIDOS E CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"28167974000183","tel":"8192647028","razao":"JCR COMERCIO DE TECIDOS EIRELI - EPP","municipio":"CARUARU"},
-{"cnpj":"09087786000109","tel":"8192647028","razao":"KATIA PEREIRA SOARES - ME","municipio":"CARUARU"}];
+TelsData.tels = [];
+PlacasData.placas = [];

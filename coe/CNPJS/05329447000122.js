@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"61077836449","nome":"CLAUDIA MARIA DE AMORIM","ie":29555124,"cnpj":"05329447000122","razao":"CLAUDIA MARIA DE AMORIM","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

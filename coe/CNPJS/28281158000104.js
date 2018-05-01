@@ -23,3 +23,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"70047741000456","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"88063429400","nome":"MARINALDO PEREIRA DOS SANTOS","ie":72981105,"cnpj":"28281158000104","razao":"M P DOS SANTOS PRODUTOS EM PAPEL ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

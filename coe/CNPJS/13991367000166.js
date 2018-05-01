@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04081280460","nome":"ISABELA MACHADO DIAS ANDRADE BARBOSA","ie":45066507,"cnpj":"13991367000166","razao":"ISABELA MACHADO DIAS ANDRADE BARBOSA 04081280460","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

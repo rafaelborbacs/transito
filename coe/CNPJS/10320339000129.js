@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"90111168449","nome":"ROSILENE GALDINO VICENTE","ie"
 {"cpf":"00870239465","nome":"KLEBSON LIMA DA CUNHA","ie":29543460,"cnpj":"05295253000153","razao":"DESCRICAO BASICA LTDA ME","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

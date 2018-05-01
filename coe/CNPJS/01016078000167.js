@@ -217,3 +217,4 @@ SociosData.socios = [{"cpf":"78068061487","nome":"ANA ALICE BARBOSA ROSENDO","ie
 {"cpf":"03304659455","nome":"RIVERLENE ROSENDO DE ALBUQUERQUE","ie":21872481,"cnpj":"01016078000167","razao":"SUBEAL SURUBIM BEBIDAS E ALIMENTOS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

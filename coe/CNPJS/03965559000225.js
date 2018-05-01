@@ -26,3 +26,4 @@ SociosData.socios = [{"cpf":"74439375472","nome":"MARCELO PERES DA SILVA","ie":4
 {"cpf":"01251276423","nome":"GENIVAL JOSE DA ROCHA","ie":27371751,"cnpj":"03965559000144","razao":"FEMEA MODAS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05611174469","nome":"DIEGO CAVALCANTE DE ALBUQUERQUE","ie":46402098,"cnpj":"14540104000101","razao":"DIEGO CAVALCANTE DE ALBUQUERQUE 05611174469","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

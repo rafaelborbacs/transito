@@ -6,3 +6,4 @@ SociosData.socios = [{"cpf":"70280530404","nome":"MARIA ELOISA TAVARES DA SILVA"
 {"cpf":"70280530404","nome":"MARIA ELOISA TAVARES DA SILVA","ie":74529340,"cnpj":"29059715000100","razao":"MARIA E TAVARES DA SILVA EPP","sit":"C","regime":"NORMAL","municipio":"CUPIRA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

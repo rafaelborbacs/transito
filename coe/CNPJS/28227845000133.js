@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08763299461","nome":"EDILEUZA CONCEICAO DA SILVA","ie":72948400,"cnpj":"28227845000133","razao":"EDILEUZA CONCEICAO DA SILVA 08763299461","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

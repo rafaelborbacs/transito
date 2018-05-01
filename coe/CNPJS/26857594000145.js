@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"01827689455","nome":"MARIA JOSE DA SILVA","ie":7033
 {"cpf":"01827689455","nome":"MARIA JOSE DA SILVA","ie":68832575,"cnpj":"26075198000166","razao":"MARIA JOSE DA SILVA 01827689455","sit":"B","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

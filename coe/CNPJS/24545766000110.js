@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":22402462,"cnpj":"24545766000110","razao":"MARIA DE FATIMA CARVALHO DOS PASSOS EIRELI EPP","sit":"S","arrecadacao":0.00,"entradas":241414.04,"saidas":2277707.43,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"11/07/1996"}];
-EntradasData.entradas = [{"ie":38554224,"cnpj":"11118835000167","razao":"SANTOS AGRICULTURA E ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":241414.04}];
+EstabelecimentoData.estabelecimento = [{"ie":22402462,"cnpj":"24545766000110","razao":"MARIA DE FATIMA CARVALHO DOS PASSOS EIRELI EPP","sit":"S","arrecadacao":0.00,"entradas":221851.22,"saidas":2271320.97,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"11/07/1996"}];
+EntradasData.entradas = [{"ie":38554224,"cnpj":"11118835000167","razao":"SANTOS AGRICULTURA E ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":221851.22}];
 SaidasData.saidas = [{"ie":44936567,"cnpj":"97534191000103","razao":"VITORIA REGIA DANTAS DE AZEVEDO SERVICOS DE ALIMENTACAO ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":317.74},
 {"ie":21167583,"cnpj":"70091657000197","razao":"JAMP RESTAURANTE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":269460.62},
 {"ie":38985470,"cnpj":"56599749001808","razao":"N.B.G ALIMENTACAO E SERVICOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":70001.55},
@@ -47,7 +47,7 @@ SaidasData.saidas = [{"ie":44936567,"cnpj":"97534191000103","razao":"VITORIA REG
 {"ie":38949407,"cnpj":"11384174000111","razao":"ALBERICO DE LIMA PENA JUNIOR ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":12333.94},
 {"ie":38844737,"cnpj":"11060595000197","razao":"DOM FERREIRA RESTAURANTE EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":136067.86},
 {"ie":0,"cnpj":"10894988000486","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":47078.54},
-{"ie":0,"cnpj":"10839561000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":126253.50},
+{"ie":0,"cnpj":"10839561000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":119867.04},
 {"ie":36378674,"cnpj":"10617553000141","razao":"GAMATUR LTDA.","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":7926.72},
 {"ie":38181444,"cnpj":"10483598000170","razao":"REAL PLAZA EMPREENDIMENTOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":8577.65},
 {"ie":36904660,"cnpj":"10246662000108","razao":"RJAP ALIMENTOS EIRELI  ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":13229.00},
@@ -72,3 +72,4 @@ SaidasData.saidas = [{"ie":44936567,"cnpj":"97534191000103","razao":"VITORIA REG
 SociosData.socios = [{"cpf":"23130164472","nome":"MARIA DE FATIMA CARVALHO DOS PASSOS","ie":22402462,"cnpj":"24545766000110","razao":"MARIA DE FATIMA CARVALHO DOS PASSOS EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

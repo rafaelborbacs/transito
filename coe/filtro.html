@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="0" />
+    <title>COE</title>
+	<link rel="stylesheet" href="./simple.datagrid.css">
+	<script language="javascript">
+	var EstabsData = {};
+	var estab = null;
+	var iEstab;
+	function filtro(entradas, saidas, socios, emails, tels, placas){
+		var ret = true;
+		if(document.getElementById('regime').value != ""){
+			ret = ret && estab.regime.indexOf(document.getElementById('regime').value.toUpperCase()) !== -1;
+		}
+		if(document.getElementById('segmento').value != ""){
+			ret = ret && estab.segmento.indexOf(document.getElementById('segmento').value.toUpperCase()) !== -1;
+		}
+		if(document.getElementById('entradas').checked){
+			ret = ret && entradas.length > 0;
+		}
+		if(document.getElementById('saidas').checked){
+			ret = ret && saidas.length > 0;
+		}
+		if(document.getElementById('socios').checked){
+			ret = ret && socios.length > 1;
+		}
+		if(document.getElementById('emails').checked){
+			ret = ret && emails.length > 0;
+		}
+		if(document.getElementById('tels').checked){
+			ret = ret && tels.length > 0;
+		}
+		if(document.getElementById('placas').checked){
+			ret = ret && placas.length > 0;
+		}
+		if(document.getElementById('drr').value != ""){
+			ret = ret && estab.drr.trim() == document.getElementById('drr').value;
+		}
+		if(!ret){
+			proximo();
+		}
+	};
+	function proximo(){
+		if(estab == null){
+			iEstab = 0;
+		} else {
+			if((iEstab+1) <= EstabsData.estabs.length){
+				iEstab++;
+			} else {
+				alert("Fim");
+			}
+		}
+		estab = EstabsData.estabs[iEstab];
+		document.getElementById('iframe').src = "./vinculos.html?fcnpj=" + estab.cnpj;
+	};
+	function onLoadFct(){
+		proximo();
+	};
+	</script>
+	<script src="./IGI.js"></script>
+</head>
+<body onload="onLoadFct()">
+    <div class="container" style="text-align: center">
+		<table border="0" width="100%" style="background-color: #e8fcf9; height: 30px;">
+			<tr valign="middle">
+			<td width="900">
+				REGIME: <input type="text" id="regime" size="9"/> &nbsp;
+				SEGMENTO: <input type="text" id="segmento" size="9"/>&nbsp;
+				ENTRADAS <input type="checkbox" id="entradas" />&nbsp;
+				SAÍDAS <input type="checkbox" id="saidas" />&nbsp;
+				+SÓCIOS <input type="checkbox" id="socios" />&nbsp;
+				EMAILS <input type="checkbox" id="emails" />&nbsp;
+				TELEFONES <input type="checkbox" id="tels" />&nbsp;
+				PLACAS <input type="checkbox" id="placas" />&nbsp;
+				DRR <select id="drr">
+						<option value="">*TODAS*</option>
+						<option value="I">I</option>
+						<option value="II">II</option>
+						<option value="III">III</option>
+					</select>
+			</td><td>
+				<input type="button" value="PROXIMO" onclick="proximo();" />
+			</td></tr>
+		</table>
+		<iframe id="iframe" height="570" width="99%" border="0" frameBorder="0"></iframe>
+	</div>
+</body>
+</html>

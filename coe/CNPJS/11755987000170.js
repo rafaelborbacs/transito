@@ -26,3 +26,4 @@ SociosData.socios = [{"cpf":"55492525468","nome":"ARTHUR GUIMARAES REGO","ie":43
 {"cpf":"08660532473","nome":"CLAUDIO SERGIO FERREIRA PESSOA FILHO","ie":43018203,"cnpj":"11755987000170","razao":"IMPACTO INDUSTRIA DE PAPEL E DISTRIBUIDORA DE CERAMICAS LTDA - ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

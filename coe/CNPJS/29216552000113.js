@@ -8,3 +8,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"28786984000288","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"07088293412","nome":"JONAS GOMES DE ARAUJO","ie":74917005,"cnpj":"29216552000113","razao":"JONAS G DE ARAUJO ME","sit":"S","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04087441547","nome":"VIVIANY COSTA LEITE","ie":72561165,"cnpj":"27998337000196","razao":"VIVIANY COSTA LEITE 04087441547","sit":"C","regime":"NORMAL","municipio":"RIACHO DAS ALMAS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

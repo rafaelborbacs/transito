@@ -233,3 +233,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99975823068","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"03942454408","nome":"WILLIAMS VASCONCELOS DA LUZ","ie":74099400,"cnpj":"28790649000172","razao":"WILLIAMS VASCONCELOS DA LUZ 03942454408","sit":"A","regime":"SIMEI","municipio":"CAMARAGIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

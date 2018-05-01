@@ -13,3 +13,4 @@ SaidasData.saidas = [{"ie":18796001,"cnpj":"41096520000127","razao":"PRISMA TELE
 SociosData.socios = [{"cpf":"11797123408","nome":"NATHALIA FRANCO REGO ARAUJO","ie":61437506,"cnpj":"21976109000139","razao":"NATHALIA FRANCO REGO ARAUJO CONFECCOES ME","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

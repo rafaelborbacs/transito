@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"14412114465","nome":"AGLAYLSON LEONARDO DOS SANTOS"
 {"cpf":"14412114465","nome":"AGLAYLSON LEONARDO DOS SANTOS","ie":71602593,"cnpj":"27556696000193","razao":"A L DOS SANTOS MERCEARIA ME","sit":"C","regime":"NORMAL","municipio":"EXU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

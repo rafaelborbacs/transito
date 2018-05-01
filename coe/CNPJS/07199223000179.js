@@ -10,3 +10,4 @@ SociosData.socios = [{"cpf":"09858516436","nome":"VALDENICE DO NASCIMENTO FERREI
 {"cpf":"00889223408","nome":"MANOEL FLAVIO VELOSO AQUINO","ie":24796212,"cnpj":"02548062000168","razao":"J M C R COM & IND LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

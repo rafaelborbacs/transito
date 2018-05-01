@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":73920363,"cnpj":"28727178000158","razao":"F.B DA SILVA COMERCIO ME","sit":"C","arrecadacao":0.00,"entradas":35594.00,"saidas":2910101.36,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"ITAMBE","drr":"I","igi":1,"dataie":"26/09/2017"}];
 EntradasData.entradas = [{"ie":29299535,"cnpj":"05151403000155","razao":"VAREJAO BRASILEIRO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":408.00},
-{"ie":68963408,"cnpj":"26132106000132","razao":"COMERCIAL M & F CONDIMENTOS E EMBALAGENS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":10086.00},
-{"ie":0,"cnpj":"24989130000167","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":25100.00}];
+{"ie":0,"cnpj":"24989130000167","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":25100.00},
+{"ie":68963408,"cnpj":"26132106000132","razao":"COMERCIAL M & F CONDIMENTOS E EMBALAGENS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":10086.00}];
 SaidasData.saidas = [{"ie":15776700,"cnpj":"35333939000152","razao":"MARIA NEVES ARAUJO SOUZA-BEBIDAS","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":2010.00},
 {"ie":69143307,"cnpj":"26251433000103","razao":"JC DISTRIBUIDOR DE BEBIDAS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"BELO JARDIM","igi":0,"uf":"PE","valor":5200.00},
 {"ie":68951400,"cnpj":"26158586000100","razao":"COMERCIAL NOVA CRUZ EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":1122020.00},
@@ -27,7 +27,7 @@ SaidasData.saidas = [{"ie":15776700,"cnpj":"35333939000152","razao":"MARIA NEVES
 {"ie":52939952,"cnpj":"18147644000172","razao":"JAILSON FERNANDES DE OLIVEIRA EIRELI - ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2400.00},
 {"ie":52837793,"cnpj":"18073013000156","razao":"L N DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":9242.50},
 {"ie":52533069,"cnpj":"17941630000163","razao":"LG SANTOS COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":46150.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4380.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4380.00},
 {"ie":51626535,"cnpj":"17512912000145","razao":"RIOVALE COMERCIO DE ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1500.00},
 {"ie":49351796,"cnpj":"16499027000100","razao":"AFP ATACADO - EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4500.00},
 {"ie":48212466,"cnpj":"15314460000161","razao":"G C COMERCIO DE BRITA E AREIA LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":103650.00},
@@ -73,3 +73,4 @@ SociosData.socios = [{"cpf":"02593241403","nome":"FERNANDO BEZERRA DA SILVA","ie
 {"cpf":"02593241403","nome":"FERNANDO BEZERRA DA SILVA","ie":71891170,"cnpj":"27697363000184","razao":"COMERCIAL PINHEIRAO EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"CAMOCIM DE SAO FELIX","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

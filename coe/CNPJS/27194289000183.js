@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08038269403","nome":"LEANDRO SANTIAGO GOMES","ie":71006982,"cnpj":"27194289000183","razao":"LEANDRO SANTIAGO GOMES 08038269403","sit":"B","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

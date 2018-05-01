@@ -11,4 +11,5 @@ SaidasData.saidas = [{"ie":67030700,"cnpj":"16675262000510","razao":"JULIO CESAR
 {"ie":38083787,"cnpj":"10892391000150","razao":"KATIUCILENE PEREIRA SOUZA LIMA ME","sit":"A","regime":"SIMPLES","municipio":"OURICURI","igi":0,"uf":"PE","valor":1000.00}];
 SociosData.socios = [{"cpf":"03531263498","nome":"ANDREZA FERNANDA DE LIMA SILVA","ie":31013201,"cnpj":"06124487000109","razao":"ANDREZA FERNANDA DE LIMA SILVA","sit":"A","regime":"SIMPLES","municipio":"TAQUARITINGA DO NORTE","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"28706236000167","tel":"81995995662","razao":"MARIA EDUARDA RODRIGUES PEREIRA ME","municipio":"TAQUARITINGA DO NORTE"}];
+TelsData.tels = [];
+PlacasData.placas = [];

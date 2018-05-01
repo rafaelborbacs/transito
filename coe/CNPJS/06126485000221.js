@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":40320715,"cnpj":"06126485000221","razao":"H A GONCALVES PRODUTOS OPTICOS EPP","sit":"S","arrecadacao":45.81,"entradas":16325.59,"saidas":18917.23,"regime":"SIMPLES","segmento":"VAREJO","municipio":"SERRA TALHADA","drr":"II","igi":1,"dataie":"12/07/2010"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07019231000358","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":9036.87},
-{"ie":9237534,"cnpj":"08641953000140","razao":"TUPAN CONSTRUCOES INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":173.33},
-{"ie":68881002,"cnpj":"22933933000255","razao":"C PEREIRA BARNABE OTICA EPP","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":7044.00},
-{"ie":32613792,"cnpj":"07419661000103","razao":"VISA COMERCIO E SERVICOS DE INFORMATICA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":71.39}];
+EntradasData.entradas = [{"ie":68881002,"cnpj":"22933933000255","razao":"C PEREIRA BARNABE OTICA EPP","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":7044.00},
+{"ie":32613792,"cnpj":"07419661000103","razao":"VISA COMERCIO E SERVICOS DE INFORMATICA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":71.39},
+{"ie":0,"cnpj":"07019231000358","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":9036.87},
+{"ie":9237534,"cnpj":"08641953000140","razao":"TUPAN CONSTRUCOES INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":173.33}];
 SaidasData.saidas = [{"ie":68881002,"cnpj":"22933933000255","razao":"C PEREIRA BARNABE OTICA EPP","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":7044.00},
 {"ie":0,"cnpj":"07019231000358","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":4829.23},
-{"ie":26270005,"cnpj":"03273507000107","razao":"FABIO GERMANO FERREIRA RODRIGUES ME","sit":"S","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":7044.00}];
+{"ie":26270005,"cnpj":"03273507000107","razao":"FABIO GERMANO FERREIRA RODRIGUES ME","sit":"A","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":7044.00}];
 SociosData.socios = [{"cpf":"81046235168","nome":"JOSEMEIRE FEITOSA BARNABE","ie":53393244,"cnpj":"07713655000318","razao":"J F BARNABE PRODUTOS  OPTICOS EPP","sit":"A","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0},
 {"cpf":"81046235168","nome":"JOSEMEIRE FEITOSA BARNABE","ie":48885533,"cnpj":"07713655000237","razao":"J F BARNABE PRODUTOS  OPTICOS EPP","sit":"B","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0},
 {"cpf":"81046235168","nome":"JOSEMEIRE FEITOSA BARNABE","ie":40320715,"cnpj":"06126485000221","razao":"H A GONCALVES PRODUTOS OPTICOS EPP","sit":"S","regime":"SIMPLES","municipio":"SERRA TALHADA","igi":1},
@@ -26,6 +26,6 @@ SociosData.socios = [{"cpf":"81046235168","nome":"JOSEMEIRE FEITOSA BARNABE","ie
 {"cpf":"56150334104","nome":"HELIO ALVES GONCALVES","ie":40320715,"cnpj":"06126485000221","razao":"H A GONCALVES PRODUTOS OPTICOS EPP","sit":"S","regime":"SIMPLES","municipio":"SERRA TALHADA","igi":1},
 {"cpf":"56150334104","nome":"HELIO ALVES GONCALVES","ie":33308349,"cnpj":"07713655000156","razao":"J F BARNABE PRODUTOS  OPTICOS EPP","sit":"A","regime":"SIMPLES","municipio":"GARANHUNS","igi":0},
 {"cpf":"56150334104","nome":"HELIO ALVES GONCALVES","ie":31120202,"cnpj":"06126485000140","razao":"H A GONCALVES PRODUTOS OPTICOS EPP","sit":"A","regime":"SIMPLES","municipio":"GARANHUNS","igi":0}];
-EmailsData.emails = [{"cnpj":"22933933000255","email":"administrativo.stl@oticadinizpe.com.br","razao":"C PEREIRA BARNABE OTICA EPP","municipio":"SERRA TALHADA"}];
-TelsData.tels = [{"cnpj":"22933933000255","tel":"8738312122","razao":"C PEREIRA BARNABE OTICA EPP","municipio":"SERRA TALHADA"},
-{"cnpj":"06126485000140","tel":"8738312122","razao":"H A GONCALVES PRODUTOS OPTICOS LTDA","municipio":"Garanhuns"}];
+EmailsData.emails = [];
+TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07184248406","nome":"CRISTIANE MARIA DE PAIVA","ie":54200326,"cnpj":"18685799000162","razao":"CRISTIANE MARIA DE PAIVA 07184248406","sit":"A","regime":"SIMEI","municipio":"IPOJUCA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

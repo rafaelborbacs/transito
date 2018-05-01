@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":76346099,"cnpj":"29914687000152","razao":"WYLLYEVERTON DE SOUZA SILVA 11362542423","sit":"A","arrecadacao":0.00,"entradas":50000.18,"saidas":180909.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"19/03/2018"}];
-EntradasData.entradas = [{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":50000.18}];
+EstabelecimentoData.estabelecimento = [{"ie":76346099,"cnpj":"29914687000152","razao":"WYLLYEVERTON DE SOUZA SILVA 11362542423","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":180909.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"19/03/2018"}];
+EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"74939661504","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":750.00},
 {"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3400.00},
 {"ie":0,"cnpj":"70309071240","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":800.00},
@@ -62,3 +62,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"74939661504","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"11362542423","nome":"WYLLYEVERTON DE SOUZA SILVA","ie":76346099,"cnpj":"29914687000152","razao":"WYLLYEVERTON DE SOUZA SILVA 11362542423","sit":"A","regime":"SIMEI","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

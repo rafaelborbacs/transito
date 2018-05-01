@@ -15,3 +15,4 @@ SociosData.socios = [{"cpf":"05882029406","nome":"ANDERSON WENDELL DE OLIVEIRA",
 {"cpf":"05882029406","nome":"ANDERSON WENDELL DE OLIVEIRA","ie":37993879,"cnpj":"10810134000121","razao":"ANDERSON WENDELL DE OLIVEIRA VESTUARIO ME","sit":"C","regime":"NORMAL","municipio":"CATENDE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -124,3 +124,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"85686948615","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"86159232487","nome":"COSMO JOSE DA SILVA","ie":71882855,"cnpj":"27669501000111","razao":"COSMO JOSE DA SILVA 86159232487","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

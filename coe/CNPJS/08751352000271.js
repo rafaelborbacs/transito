@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"77357841634","nome":"WILLIAN JOSE DE SOUZA","ie":45
 {"cpf":"35059966968","nome":"JEANETE NATALINA LEITE","ie":45579806,"cnpj":"08751352000271","razao":"AMERICAN BLEND IMPORTACAO EXPORTACAO INDUSTRIA & COM. DE TABACOS LTDA","sit":"S","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"VISCONDE DO RIO BRANCO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

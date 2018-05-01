@@ -28,7 +28,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":19785437,"cnpj":"41254947000106","razao":"MARIA SAUDE SILVA","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":360.00},
 {"ie":21099642,"cnpj":"41246257000105","razao":"EDVALDO CORDEIRO SANTOS ME","sit":"A","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":180.00},
 {"ie":18444318,"cnpj":"41085762000115","razao":"FRANCISCO FURTADO MOURA","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":720.00},
-{"ie":17969689,"cnpj":"41046020000180","razao":"MARIA SERRAT NOVAES","sit":"S","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":360.00},
+{"ie":17969689,"cnpj":"41046020000180","razao":"MARIA SERRAT NOVAES","sit":"A","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":360.00},
 {"ie":17904129,"cnpj":"40872152000107","razao":"MARIA CONCEICAO GOMES LIMA","sit":"S","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":180.00},
 {"ie":17682711,"cnpj":"40851180000130","razao":"GIVALDO CORDEIRO LIMA","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":180.00},
 {"ie":0,"cnpj":"36749702449","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":170.00},
@@ -102,7 +102,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"23088596000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":170.00},
 {"ie":63321530,"cnpj":"22871401000150","razao":"EVILANE CARVALHO DA COSTA 03599723494","sit":"A","regime":"SIMEI","municipio":"TACARATU","igi":0,"uf":"PE","valor":370.00},
 {"ie":62704842,"cnpj":"22518701000150","razao":"ASSOCIACAO DE PISCICULTURA FAMILIAR DE DOIS IRMAOS","sit":"A","regime":"NORMAL","municipio":"JATOBA","igi":0,"uf":"PE","valor":160.00},
-{"ie":62499572,"cnpj":"22483845000118","razao":"COMERCIAL MULTLIMPO LTDA ME","sit":"S","regime":"SIMPLES","municipio":"TABIRA","igi":0,"uf":"PE","valor":370.00},
+{"ie":62499572,"cnpj":"22483845000118","razao":"COMERCIAL MULTLIMPO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TABIRA","igi":0,"uf":"PE","valor":370.00},
 {"ie":0,"cnpj":"22066974000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":170.00},
 {"ie":60916109,"cnpj":"21723245000117","razao":"ELANEIDE SAUDE DA ROCHA 35510610840","sit":"A","regime":"SIMEI","municipio":"TACARATU","igi":0,"uf":"PE","valor":180.00},
 {"ie":60740140,"cnpj":"21649159000101","razao":"NATALHIA CAROLINY DA SILVA 08842511447","sit":"A","regime":"SIMEI","municipio":"TAMANDARE","igi":0,"uf":"PE","valor":170.00},
@@ -207,7 +207,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":38809907,"cnpj":"11324170000148","razao":"J SILVA ELETROMOVEIS LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"TAMANDARE","igi":0,"uf":"PE","valor":350.00},
 {"ie":38674556,"cnpj":"11254171000163","razao":"CLUBE GREMIO 3 DE JULHO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":920.00},
 {"ie":38290146,"cnpj":"11028039000133","razao":"ELIANE DE OLIVEIRA FERREIRA","sit":"S","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":510.00},
-{"ie":38290065,"cnpj":"11002332000121","razao":"AYSLAN DE LIMA MONTEIRO ME","sit":"S","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":620.00},
+{"ie":38290065,"cnpj":"11002332000121","razao":"AYSLAN DE LIMA MONTEIRO ME","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":620.00},
 {"ie":0,"cnpj":"10972915000112","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":550.00},
 {"ie":37678680,"cnpj":"10667651000193","razao":"EDFRANCINALDO COSTA SANTOS ME","sit":"S","regime":"NORMAL","municipio":"TACARATU","igi":0,"uf":"PE","valor":190.00},
 {"ie":37607588,"cnpj":"10625828000199","razao":"SARAH RAQUEL GOMES DE LIMA","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":180.00},
@@ -271,7 +271,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":27136914,"cnpj":"03834584000199","razao":"MARCIA MARIA SILVA BARROS","sit":"C","regime":"NORMAL","municipio":"JATOBA","igi":0,"uf":"PE","valor":170.00},
 {"ie":26896427,"cnpj":"03656298000180","razao":"LUCICLEIDE MARIA NASCIMENTO","sit":"A","regime":"SIMEI","municipio":"JATOBA","igi":0,"uf":"PE","valor":190.00},
 {"ie":0,"cnpj":"03636493442","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":190.00},
-{"ie":28232097,"cnpj":"03508999000253","razao":"LEOPOLDO CAVALCANTE LEAL ME","sit":"S","regime":"NORMAL","municipio":"JATOBA","igi":0,"uf":"PE","valor":1400.00},
+{"ie":28232097,"cnpj":"03508999000253","razao":"LEOPOLDO CAVALCANTE LEAL ME","sit":"B","regime":"NORMAL","municipio":"JATOBA","igi":0,"uf":"PE","valor":1400.00},
 {"ie":0,"cnpj":"03485745413","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":170.00},
 {"ie":0,"cnpj":"03459224410","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":370.00},
 {"ie":0,"cnpj":"03434471000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":180.00},
@@ -301,3 +301,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"08817728446","nome":"SIMONE PEREIRA DA SILVA","ie":60576839,"cnpj":"21579662000138","razao":"SIMONE PEREIRA DA SILVA 08817728446","sit":"S","regime":"SIMPLES","municipio":"PETROLANDIA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

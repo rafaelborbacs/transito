@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04021545417","nome":"SILVANIA JORDAO DE OLIVEIRA","ie":65399048,"cnpj":"23826205000126","razao":"SILVANIA JORDAO DE OLIVEIRA 04021545417","sit":"A","regime":"SIMEI","municipio":"PAULISTA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

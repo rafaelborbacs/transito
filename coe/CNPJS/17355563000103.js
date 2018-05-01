@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"57045445920","nome":"JOSE ADAUTO XAVIER RIBEIRO","i
 {"cpf":"10583563996","nome":"VINICIUS UEDA XAVIER RIBEIRO","ie":51293200,"cnpj":"17355563000103","razao":"UMAFLEX INDUSTRIA E COMERCIO DE MOVEIS LTDA","sit":"C","regime":"NORMAL","municipio":"FEIRA NOVA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

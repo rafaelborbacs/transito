@@ -17,3 +17,4 @@ SociosData.socios = [{"cpf":"45191433491","nome":"MARIA LUCINEIDE DA SILVA","ie"
 {"cpf":"41903536472","nome":"BRUNO COELHO BEZERRA DA CUNHA","ie":11555203,"cnpj":"10593192000140","razao":"VECAM INDUSTRIA E COMERCIO LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -6,3 +6,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"17587863885","nome":"ROSANIA MARIA DE SOUSA","ie":45401314,"cnpj":"12026054000105","razao":"ROSANIA MARIA DE SOUSA ME","sit":"A","regime":"SIMPLES","municipio":"FERNANDO DE NORONHA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

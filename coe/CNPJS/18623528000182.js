@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":59699051,"cnpj":"18623528000182","razao":"A. S. FERREIRA COMERCIO MERCADO EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":1086627.45,"saidas":279423.02,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"16/10/2014"}];
 EntradasData.entradas = [{"ie":54227364,"cnpj":"07206816005346","razao":"M. DIAS BRANCO S. A. INDUSTRIA E COMERCIO DE ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":32856.53},
-{"ie":39104664,"cnpj":"11179185000160","razao":"LACERDA E LACERDA COMERCIO, DISTRIBUICAO E IMPORTACAO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"SAO JOAO","igi":0,"uf":"PE","valor":20665.33},
 {"ie":50622684,"cnpj":"17090600000190","razao":"GL INDUSTRIA E DISTRIBUICAO DE ALIMENTOS S.A","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":1033055.59},
-{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":50.00}];
+{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":50.00},
+{"ie":39104664,"cnpj":"11179185000160","razao":"LACERDA E LACERDA COMERCIO, DISTRIBUICAO E IMPORTACAO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"SAO JOAO","igi":0,"uf":"PE","valor":20665.33}];
 SaidasData.saidas = [{"ie":73085588,"cnpj":"28337440000158","razao":"G.A. DE SIQUEIRA EPP","sit":"A","regime":"SIMPLES","municipio":"GRAVATA","igi":0,"uf":"PE","valor":1915.00},
 {"ie":28676300,"cnpj":"24377673000123","razao":"COMERCIAL DE ALIMENTOS PIEDADE LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":4024.16},
 {"ie":14754444,"cnpj":"24377673000123","razao":"COMERCIAL DE ALIMENTOS PIEDADE LTDA EPP","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":4024.16},
@@ -24,3 +24,4 @@ SociosData.socios = [{"cpf":"77388321420","nome":"EDMILSON JOSE DE CARVALHO","ie
 {"cpf":"25648551487","nome":"VENUS FERREIRA DA SILVA","ie":59699051,"cnpj":"18623528000182","razao":"A. S. FERREIRA COMERCIO MERCADO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

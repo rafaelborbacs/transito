@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"59180650406","nome":"MARIA APARECIDA DE LEMOS FRANC
 {"cpf":"30533716420","nome":"EDUARDO EUGENIO DE MENDONCA CAMPOS","ie":6747884,"cnpj":"11499225000150","razao":"KITORTAS DOCES E SALGADOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

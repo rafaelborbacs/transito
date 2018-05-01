@@ -53,3 +53,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"82320802487","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"09746988492","nome":"ALCIONE MARIA DA SILVA","ie":74916971,"cnpj":"29216548000155","razao":"ALCIONE M DA SILVA CONFECCOES ME","sit":"S","regime":"NORMAL","municipio":"JATAUBA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

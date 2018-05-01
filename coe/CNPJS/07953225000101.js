@@ -12,3 +12,4 @@ SociosData.socios = [{"cpf":"08102171472","nome":"CLEONICE SANTANA FELIPE","ie":
 {"cpf":"02794637401","nome":"CRISTIANO SANTANA FELIPE","ie":33728631,"cnpj":"07953225000101","razao":"CLEONICE S DA SILVA TECIDOS ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

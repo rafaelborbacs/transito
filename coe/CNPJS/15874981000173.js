@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08741959426","nome":"CIBELLY CRISTINA BARBOZA DA SILVA","ie":49276050,"cnpj":"15874981000173","razao":"CIBELLY CRISTINA BARBOZA DA SILVA 08741959426","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

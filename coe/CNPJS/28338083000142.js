@@ -31,3 +31,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84101948000123","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"09307941416","nome":"JUCIANO LEITE DA SILVA","ie":73153680,"cnpj":"28338083000142","razao":"JUCIANO LEITE DA SILVA 09307941416","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

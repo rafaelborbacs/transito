@@ -273,3 +273,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97634719820","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"11019046406","nome":"VALCIEL JOSE DOS SANTOS","ie":73859940,"cnpj":"28678391000117","razao":"VALCIEL JOSE DOS SANTOS 11019046406","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

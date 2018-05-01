@@ -1,14 +1,14 @@
-EstabelecimentoData.estabelecimento = [{"ie":33063303,"cnpj":"07609413000117","razao":"ADRIEL LUIS SERODIO CANDIDO - ME","sit":"S","arrecadacao":1115.26,"entradas":356208.87,"saidas":461871.67,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CUPIRA","drr":"II","igi":1,"dataie":"04/10/2005"}];
-EntradasData.entradas = [{"ie":33445419,"cnpj":"03413165000345","razao":"R. MARINHO MALHAS - EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":204190.25},
+EstabelecimentoData.estabelecimento = [{"ie":33063303,"cnpj":"07609413000117","razao":"ADRIEL LUIS SERODIO CANDIDO - ME","sit":"S","arrecadacao":1115.26,"entradas":355208.87,"saidas":461871.67,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CUPIRA","drr":"II","igi":1,"dataie":"04/10/2005"}];
+EntradasData.entradas = [{"ie":26383209,"cnpj":"03413165000183","razao":"R. MARINHO MALHAS - EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":37206.47},
 {"ie":0,"cnpj":"79691556000121","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":318.15},
-{"ie":45737819,"cnpj":"07118401000432","razao":"MULT TEXTIL AVIAMENTOS E TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"CUPIRA","igi":0,"uf":"PE","valor":5103.54},
-{"ie":0,"cnpj":"54472956000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2650.93},
-{"ie":0,"cnpj":"05099798000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3800.00},
 {"ie":41833635,"cnpj":"12645405000166","razao":"MUNDO TEXTIL COMERCIO E INDUSTRIA LIMITADA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":90359.10},
-{"ie":26383209,"cnpj":"03413165000183","razao":"R. MARINHO MALHAS - EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":37206.47},
-{"ie":38512149,"cnpj":"10493367000148","razao":"G3 INFORMATICA & AUTOMACAO EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":2300.00},
+{"ie":0,"cnpj":"54472956000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2650.93},
+{"ie":33445419,"cnpj":"03413165000345","razao":"R. MARINHO MALHAS - EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":204190.25},
 {"ie":37032402,"cnpj":"10330304000170","razao":"ARTECA NORDESTE COMERCIAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":9613.39},
-{"ie":52129284,"cnpj":"15558698000213","razao":"F S DE LUCENA TEXTIL EPP","sit":"B","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":667.04}];
+{"ie":52129284,"cnpj":"15558698000213","razao":"F S DE LUCENA TEXTIL EPP","sit":"B","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":667.04},
+{"ie":45737819,"cnpj":"07118401000432","razao":"MULT TEXTIL AVIAMENTOS E TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"CUPIRA","igi":0,"uf":"PE","valor":5103.54},
+{"ie":38512149,"cnpj":"10493367000148","razao":"G3 INFORMATICA & AUTOMACAO EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":2300.00},
+{"ie":0,"cnpj":"05099798000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":2800.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"86913220120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"DF","valor":2000.00},
 {"ie":0,"cnpj":"74218336415","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":34000.00},
 {"ie":0,"cnpj":"65672666434","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":8500.00},
@@ -48,7 +48,6 @@ SaidasData.saidas = [{"ie":0,"cnpj":"86913220120","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"05681314448","nome":"ADRIEL LUIS SERODIO CANDIDO","ie":45708800,"cnpj":"14233897000108","razao":"MILA COMBUSTIVEIS LTDA","sit":"A","regime":"NORMAL","municipio":"CUPIRA","igi":0},
 {"cpf":"05681314448","nome":"ADRIEL LUIS SERODIO CANDIDO","ie":37222872,"cnpj":"10453765000130","razao":"A2 INDUSTRIA DE CAMISETAS LTDA","sit":"C","regime":"NORMAL","municipio":"CUPIRA","igi":0},
 {"cpf":"05681314448","nome":"ADRIEL LUIS SERODIO CANDIDO","ie":33063303,"cnpj":"07609413000117","razao":"ADRIEL LUIS SERODIO CANDIDO - ME","sit":"S","regime":"NORMAL","municipio":"CUPIRA","igi":1}];
-EmailsData.emails = [{"cnpj":"27966490000131","email":"adrielmila@yahoo.com.br","razao":"SM INDUSTRIA DE CAMISETAS EIRELI","municipio":"CUPIRA"},
-{"cnpj":"05681314448","email":"adrielmila@yahoo.com.br","razao":"ADRIEL LUIZ SERIDIO CANDIDO","municipio":"Cupira"}];
-TelsData.tels = [{"cnpj":"81117795420","tel":"8137381004","razao":"Gislaidison Barboza Araujo","municipio":"Cupira"},
-{"cnpj":"27966490000131","tel":"8137381004","razao":"SM INDUSTRIA DE CAMISETAS EIRELI ME","municipio":"CUPIRA"}];
+EmailsData.emails = [];
+TelsData.tels = [];
+PlacasData.placas = [];

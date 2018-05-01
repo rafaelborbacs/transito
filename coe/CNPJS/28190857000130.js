@@ -2,15 +2,15 @@ EstabelecimentoData.estabelecimento = [{"ie":72852720,"cnpj":"28190857000130","r
 EntradasData.entradas = [{"ie":16261836,"cnpj":"35605732000190","razao":"JADIAEL LIMA BEZERRA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":50013.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2000.00},
 {"ie":0,"cnpj":"94337004653","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1080.00},
-{"ie":0,"cnpj":"92514111315","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":10620.00},
+{"ie":0,"cnpj":"92514111315","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":10620.00},
 {"ie":0,"cnpj":"92373577372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1040.00},
-{"ie":0,"cnpj":"87477173353","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4280.00},
+{"ie":0,"cnpj":"87477173353","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4280.00},
 {"ie":0,"cnpj":"85686948615","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4610.00},
 {"ie":0,"cnpj":"81701241315","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3116.80},
 {"ie":0,"cnpj":"80787819387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1600.00},
 {"ie":0,"cnpj":"75415780610","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1400.00},
 {"ie":0,"cnpj":"66833841268","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5030.00},
-{"ie":0,"cnpj":"62933930404","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":6955.90},
+{"ie":0,"cnpj":"62933930404","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":6955.90},
 {"ie":0,"cnpj":"61683037316","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3116.80},
 {"ie":0,"cnpj":"60476174333","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":5400.00},
 {"ie":0,"cnpj":"60406895600","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1549.00},
@@ -18,7 +18,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"50332236668","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":11380.00},
 {"ie":0,"cnpj":"49455222604","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4160.00},
 {"ie":0,"cnpj":"44501463368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2000.00},
-{"ie":0,"cnpj":"41853768391","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1500.00},
+{"ie":0,"cnpj":"41853768391","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1500.00},
 {"ie":0,"cnpj":"40641187823","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1040.00},
 {"ie":0,"cnpj":"38984270563","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1020.00},
 {"ie":0,"cnpj":"34705608000133","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":810.00},
@@ -141,7 +141,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"05548293000402","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3500.00},
 {"ie":0,"cnpj":"05526487369","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4175.20},
 {"ie":0,"cnpj":"05526168000310","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3000.00},
-{"ie":0,"cnpj":"05344141416","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":8020.30},
+{"ie":0,"cnpj":"05344141416","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":8020.30},
 {"ie":0,"cnpj":"05333051000159","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3330.00},
 {"ie":0,"cnpj":"05318350000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1800.00},
 {"ie":0,"cnpj":"05304479000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":10680.00},
@@ -176,3 +176,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"14219289496","nome":"JOSE ALEFE DE OLIVEIRA","ie":72852720,"cnpj":"28190857000130","razao":"JOSE ALEFE DE OLIVEIRA 14219289496","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

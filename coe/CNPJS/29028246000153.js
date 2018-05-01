@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"70271994401","nome":"KAROLYNNA STEFFANY SILVA PEREI
 {"cpf":"70271994401","nome":"KAROLYNNA STEFFANY SILVA PEREIRA","ie":74515390,"cnpj":"29028246000153","razao":"K S S PEREIRA DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"BODOCO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

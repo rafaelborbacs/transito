@@ -5,4 +5,5 @@ SociosData.socios = [{"cpf":"12656666449","nome":"GILDO CLAUDIO FERREIRA","ie":7
 {"cpf":"12656666449","nome":"GILDO CLAUDIO FERREIRA","ie":24574902,"cnpj":"02399957000188","razao":"G M CONFECCOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"12656666449","nome":"GILDO CLAUDIO FERREIRA","ie":21926247,"cnpj":"00993010000175","razao":"MODA SURF LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"12015509470","tel":"8133144960","razao":"EMILLY LETICIA FERREIRA SILVA - Cod. 0188973","municipio":"PAULISTA"}];
+TelsData.tels = [];
+PlacasData.placas = [];

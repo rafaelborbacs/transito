@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"97507237400","nome":"ANA PAULA DE ARRUDA","ie":6269
 {"cpf":"05294499436","nome":"ROBERTA ANDRADE DO NASCIMENTO","ie":62696998,"cnpj":"22575388000191","razao":"STILO W Z LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

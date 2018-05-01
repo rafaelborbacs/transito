@@ -26,3 +26,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"55891691000152","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"02549363426","nome":"JOELCIO LOPES DA SILVA","ie":51998599,"cnpj":"17661147000125","razao":"JOELCIO LOPES DA SILVA 02549363426","sit":"A","regime":"SIMEI","municipio":"TORITAMA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04821849496","nome":"LIDIANE PEREIRA DE BRITO","ie":67988296,"cnpj":"25114605000134","razao":"LIDIANE PEREIRA DE BRITO 04821849496","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

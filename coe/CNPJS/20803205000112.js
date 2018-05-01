@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09145997470","nome":"KAMYLLA WEDA DA SILVA CRUZ","ie":58715061,"cnpj":"20803205000112","razao":"K W DA S CRUZ ROUPAS E ACESSORIOS ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

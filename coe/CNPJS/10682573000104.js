@@ -21,3 +21,4 @@ SociosData.socios = [{"cpf":"98773593591","nome":"JULIO CESAR OLIVIERA DE FARIAS
 {"cpf":"16061535449","nome":"ALEXANDRE MAGNO COUTINHO DE OLIVEIRA","ie":11878649,"cnpj":"10682573000104","razao":"KITAPAN INDUSTRIA COMERCIO E REPRESENTACOES LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

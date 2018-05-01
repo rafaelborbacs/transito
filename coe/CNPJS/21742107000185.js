@@ -12,3 +12,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"03061901000181","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"07453621410","nome":"FELIPE EDUARDO DA SILVA","ie":60949538,"cnpj":"21742107000185","razao":"FELIPE EDUARDO DA SILVA 07453621410","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

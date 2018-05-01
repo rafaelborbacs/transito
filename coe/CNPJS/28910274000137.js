@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08534248451","nome":"JOSE ANTONIO NASCIMENTO SILVA","ie":74326902,"cnpj":"28910274000137","razao":"JOSE ANTONIO NASCIMENTO SILVA 08534248451","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

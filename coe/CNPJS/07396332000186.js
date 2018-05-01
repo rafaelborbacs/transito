@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"56434758472","nome":"ROBERTO MARIO SANTOS DE ARAUJO
 {"cpf":"56434758472","nome":"ROBERTO MARIO SANTOS DE ARAUJO","ie":32565372,"cnpj":"07396332000186","razao":"ROBERTO MARIO SANTOS DE ARAUJO","sit":"S","regime":"NORMAL","municipio":"CUPIRA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

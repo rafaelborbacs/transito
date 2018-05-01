@@ -12,3 +12,4 @@ TelsData.tels = [{"cnpj":"29553098000196","tel":"8132310000","razao":"MUNDO DAS 
 {"cnpj":"29298765000131","tel":"8132310000","razao":"ISABELA FRANCISCA AMORIM DE ALMEIDA ME","municipio":"FLORES"},
 {"cnpj":"27666894000100","tel":"8132310000","razao":"SUPERMERCADO LITORIAL NORTE LTDA ME","municipio":"PAULISTA"},
 {"cnpj":"06110915000136","tel":"8132310000","razao":"ELLA SUL DISTRIBUIDORA LTDA","municipio":"RECIFE"}];
+PlacasData.placas = [];

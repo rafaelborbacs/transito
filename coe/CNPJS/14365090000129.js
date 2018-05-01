@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"61118540468","nome":"JOSINEIDE FERREIRA DA SILVA","
 {"cpf":"61118540468","nome":"JOSINEIDE FERREIRA DA SILVA","ie":18833802,"cnpj":"41074691000155","razao":"JOSINEIDE F SILVA-PANIFICADORA","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

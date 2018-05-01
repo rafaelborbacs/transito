@@ -111,3 +111,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84642685000160","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"12305605480","nome":"JOSE MATEUS ALVES DE LIMA","ie":72322250,"cnpj":"27936353000154","razao":"JOSE MATEUS A.DE LIMA","sit":"S","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

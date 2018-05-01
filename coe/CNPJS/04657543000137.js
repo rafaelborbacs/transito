@@ -13,3 +13,4 @@ SociosData.socios = [{"cpf":"81750064472","nome":"ROSANGELA NEVES DE OLIVEIRA SI
 {"cpf":"58033793449","nome":"CARLOS ROBERTO RODRIGUES DA SILVA","ie":28573676,"cnpj":"04657543000137","razao":"CARLOS R. RODRIGUES DA SILVA E CIA LTDA - ME","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

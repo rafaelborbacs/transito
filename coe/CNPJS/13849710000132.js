@@ -70,9 +70,6 @@ SociosData.socios = [{"cpf":"39734765434","nome":"EDLEUZA ALVES DE OLIVEIRA","ie
 {"cpf":"08045005416","nome":"JOSE JONAS ALVES DE OLIVEIRA","ie":56875355,"cnpj":"19856187000158","razao":"JOSE JONAS ALVES DE OLIVEIRA CONFECCOES","sit":"A","regime":"SIMPLES","municipio":"PALMARES","igi":0},
 {"cpf":"08045005416","nome":"JOSE JONAS ALVES DE OLIVEIRA","ie":44597843,"cnpj":"13849710000132","razao":"J & E OLIVEIRA LTDA ME","sit":"S","regime":"SIMPLES","municipio":"PALMARES","igi":1},
 {"cpf":"07773890455","nome":"WILSON FERREIRA DE LIMA","ie":44597843,"cnpj":"13849710000132","razao":"J & E OLIVEIRA LTDA ME","sit":"S","regime":"SIMPLES","municipio":"PALMARES","igi":1}];
-EmailsData.emails = [{"cnpj":"19856187000158","email":"jw.jonas_alves@hotmail.com","razao":"JOSE JONAS DE OLIVEIRA CONFECCOES","municipio":"PALMARES"}];
-TelsData.tels = [{"cnpj":"19856187000158","tel":"81987447802","razao":"JOSE JONAS ALVES DE OLIVEIRA CONFECCOES","municipio":"Palmares"},
-{"cnpj":"19856187000158","tel":"8197735266","razao":"Jose Jonas Alves De Oliveira Confeccoes","municipio":"Palmares"},
-{"cnpj":"19856187000158","tel":"8187447802","razao":"JOSE JONAS ALVES DE OLIVEIRA CONFECCOES","municipio":"Palmares"},
-{"cnpj":"07120018000176","tel":"8197735266","razao":"VENEZA CALCADOS LTDA","municipio":"Caruaru"},
-{"cnpj":"04810650000234","tel":"8197735266","razao":"Cabral Distribuidora E Comercio De Mercadorias Ltda.","municipio":"Caruaru"}];
+EmailsData.emails = [];
+TelsData.tels = [];
+PlacasData.placas = [];

@@ -13,3 +13,4 @@ SociosData.socios = [{"cpf":"37545733819","nome":"RENATTA MIKAELA FERREIRA","ie"
 {"cpf":"11029059411","nome":"LUIZ FERNANDO DA SILVA ALVES","ie":74148893,"cnpj":"28850627000150","razao":"COMERCIAL BOA SERRA LTDA ME","sit":"C","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -24,5 +24,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"89850341000160","razao":"","sit":"","re
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09786023404","nome":"SONIA MARIA DE FARIAS","ie":68554311,"cnpj":"25450942000100","razao":"SONIA MARIA DE FARIAS 09786023404","sit":"A","regime":"SIMEI","municipio":"CORTES","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"54507464404","tel":"8136871177","razao":"JOAO TEODORICO GOMES COSTA","municipio":"CORTES"},
-{"cnpj":"03238353411","tel":"8136871177","razao":"KASSIA VIRGINIA DE FARIA BARROS ARAUJO","municipio":"CORTES"}];
+TelsData.tels = [];
+PlacasData.placas = [];

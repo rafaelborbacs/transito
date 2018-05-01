@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"70181702495","nome":"JOICE BRENA PEREIRA DA SILVA",
 {"cpf":"70181702495","nome":"JOICE BRENA PEREIRA DA SILVA","ie":74930290,"cnpj":"29243692000180","razao":"JOICE BRENA PEREIRA DA SILVA ME","sit":"C","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

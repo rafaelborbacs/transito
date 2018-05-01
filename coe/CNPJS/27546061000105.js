@@ -45,3 +45,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"03311275470","nome":"IROMAR DE SOUZA SANTOS","ie":71600892,"cnpj":"27546061000105","razao":"I DE SOUZA SANTOS CONFECCOES ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

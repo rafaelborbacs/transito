@@ -17,3 +17,4 @@ SociosData.socios = [{"cpf":"63852691400","nome":"AMAURI ALVES DA FONSECA FILHO"
 {"cpf":"14332510860","nome":"KATHY SANCHES DA SILVA","ie":41405242,"cnpj":"12469273000169","razao":"FONSECA FILHO COMERCIO DO VESTUARIO LTDA ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -55,3 +55,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"83300087000140","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"11965000452","nome":"KELVES MESSIAS SILVA","ie":72166100,"cnpj":"27810194000147","razao":"KELVES MESSIAS SILVA 11965000452","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

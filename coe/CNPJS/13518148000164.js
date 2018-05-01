@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"52246663415","nome":"BERTA CANUTO ALVES","ie":47914
 {"cpf":"11081458410","nome":"CAMILLA ALVES VIEIRA","ie":43889255,"cnpj":"13518148000164","razao":"B E C MYLLYS INDUSTRIA E COMERCIO LTDA - ME","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

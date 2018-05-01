@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":51425980,"cnpj":"17134622000105","razao":"CD- PE COMERCIO DE COSMETICOS LTDA","sit":"C","arrecadacao":175784.01,"entradas":1852767.85,"saidas":6923796.69,"regime":"NORMAL","segmento":"ATACADO","municipio":"ABREU E LIMA","drr":"I","igi":1,"dataie":"18/01/2013"}];
 EntradasData.entradas = [{"ie":44201958,"cnpj":"13563033000191","razao":"SUPERTEC INFORMATICA & CARTUCHOS EIRELI  ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":350.00},
 {"ie":68868766,"cnpj":"26114995000105","razao":"ETIQUETAS PERNAMBUCANAS E SERVICOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":49.00},
-{"ie":0,"cnpj":"05277492000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":13640.00},
-{"ie":35235780,"cnpj":"01781007000150","razao":"F G INFOTEC RECIFE EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":440.00},
-{"ie":32858981,"cnpj":"07485076000101","razao":"SANDRA FABIOLA FERNANDES DE OLIVEIRA TAVARES - EPP","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":1016.94},
-{"ie":0,"cnpj":"09338441000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":360.65},
 {"ie":0,"cnpj":"07432517001170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":408.67},
+{"ie":0,"cnpj":"09338441000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":360.65},
+{"ie":35235780,"cnpj":"01781007000150","razao":"F G INFOTEC RECIFE EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":440.00},
+{"ie":33897409,"cnpj":"08035281000120","razao":"MAQMOV EMPILHADEIRAS EIRELI  ME","sit":"A","regime":"SIMPLES","municipio":"PAULISTA","igi":0,"uf":"PE","valor":365.00},
+{"ie":40226700,"cnpj":"01515050000174","razao":"LANGON COSMETICOS LTDA","sit":"S","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CURITIBA","igi":1,"uf":"PR","valor":1816676.59},
 {"ie":27254607,"cnpj":"03804757000126","razao":"MARCOS AURELIO SIQUEIRA INDUSTRIA E COMERCIO ME","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":15609.00},
 {"ie":10101233,"cnpj":"08901191000174","razao":"PILOTO COMERCIAL LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":3852.00},
-{"ie":33897409,"cnpj":"08035281000120","razao":"MAQMOV EMPILHADEIRAS EIRELI  ME","sit":"A","regime":"SIMPLES","municipio":"PAULISTA","igi":0,"uf":"PE","valor":365.00},
-{"ie":40226700,"cnpj":"01515050000174","razao":"LANGON COSMETICOS LTDA","sit":"S","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CURITIBA","igi":1,"uf":"PR","valor":1816676.59}];
+{"ie":32858981,"cnpj":"07485076000101","razao":"SANDRA FABIOLA FERNANDES DE OLIVEIRA TAVARES - EPP","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":1016.94},
+{"ie":0,"cnpj":"05277492000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":13640.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99933756591","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":205.40},
 {"ie":0,"cnpj":"99932040487","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":236.05},
 {"ie":0,"cnpj":"99889641453","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":114.70},
@@ -2875,7 +2875,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99933756591","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"10272640506","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":442.15},
 {"ie":0,"cnpj":"10269194444","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":211.21},
 {"ie":0,"cnpj":"10259858420","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":763.10},
-{"ie":36894176,"cnpj":"10249104000198","razao":"M J MENEZES COSMETICOS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":45474.56},
+{"ie":36894176,"cnpj":"10249104000198","razao":"M J MENEZES COSMETICOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":45474.56},
 {"ie":0,"cnpj":"10246862483","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":477.03},
 {"ie":0,"cnpj":"10242869408","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":210.89},
 {"ie":0,"cnpj":"10238527484","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1843.22},
@@ -6413,3 +6413,4 @@ SociosData.socios = [{"cpf":"45149798487","nome":"JACKSON BARRETO DE ARAUJO","ie
 {"cpf":"35506393920","nome":"ALCIR JOAO PISSETTI","ie":24385697,"cnpj":"02175456000118","razao":"SPEED WAY COMERCIO COSMETICOS LTDA","sit":"B","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CURITIBA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

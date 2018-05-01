@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"65346025472","nome":"GABRIEL DE QUEIROZ GONCALVES","ie":53143485,"cnpj":"18195616000120","razao":"GABRIEL DE QUEIROZ GONCALVES 65346025472","sit":"C","regime":"NORMAL","municipio":"LIMOEIRO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

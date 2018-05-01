@@ -46,3 +46,4 @@ SociosData.socios = [{"cpf":"98755064434","nome":"GILBERTO PEREIRA DA SILVA","ie
 {"cpf":"03417646472","nome":"LUIZ PEREIRA DA SILVA","ie":14012111,"cnpj":"12783940000183","razao":"L P SILVA - CONFECCOES","sit":"B","regime":"NORMAL","municipio":"MORENO","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

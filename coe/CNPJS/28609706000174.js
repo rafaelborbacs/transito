@@ -1,21 +1,21 @@
 EstabelecimentoData.estabelecimento = [{"ie":73704822,"cnpj":"28609706000174","razao":"JOSEFA L G DE SOUSA ME","sit":"C","arrecadacao":0.00,"entradas":291587.52,"saidas":831789.05,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"15/09/2017"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"25265845000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":81479.65},
+{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":70003.87},
+{"ie":0,"cnpj":"18938030000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8150.00},
 {"ie":51615762,"cnpj":"17482125000106","razao":"INDUSTRIA E COMERCIO ATACADAO BOM JESUS LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":10800.00},
+{"ie":0,"cnpj":"05381559000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7633.20},
 {"ie":22276815,"cnpj":"01171397000147","razao":"UNIVERSO TEXTIL LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":22500.00},
 {"ie":0,"cnpj":"01550704000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":23620.80},
-{"ie":41489403,"cnpj":"12581143000113","razao":"ABELVONEIDE M. DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":36100.00},
-{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":70003.87},
 {"ie":35592036,"cnpj":"09008414000131","razao":"ADAILCIO PEREIRA DE ARAUJO JUNIOR","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":31300.00},
-{"ie":0,"cnpj":"18938030000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8150.00},
-{"ie":0,"cnpj":"05381559000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7633.20}];
+{"ie":41489403,"cnpj":"12581143000113","razao":"ABELVONEIDE M. DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":36100.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99164892034","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2592.00},
-{"ie":0,"cnpj":"98170562368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2497.00},
+{"ie":0,"cnpj":"98170562368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2497.00},
 {"ie":0,"cnpj":"97387223220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2592.00},
 {"ie":0,"cnpj":"95087206387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2615.00},
 {"ie":0,"cnpj":"93818769915","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1824.00},
 {"ie":0,"cnpj":"85960144115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":6988.75},
 {"ie":0,"cnpj":"82812713372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2533.00},
-{"ie":0,"cnpj":"75823985304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2577.00},
+{"ie":0,"cnpj":"75823985304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2577.00},
 {"ie":0,"cnpj":"74902156253","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2533.00},
 {"ie":0,"cnpj":"71214902000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":3023.00},
 {"ie":0,"cnpj":"71172149100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2602.00},
@@ -25,7 +25,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99164892034","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"36325708334","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2522.00},
 {"ie":0,"cnpj":"34926865000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":6013.00},
 {"ie":0,"cnpj":"34488472320","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2548.00},
-{"ie":0,"cnpj":"29801699272","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2585.00},
+{"ie":0,"cnpj":"29801699272","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2585.00},
 {"ie":0,"cnpj":"28721069000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":4000.00},
 {"ie":0,"cnpj":"28683056000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2031.00},
 {"ie":0,"cnpj":"28663469000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2119.00},
@@ -183,3 +183,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99164892034","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"10676500404","nome":"JOSEFA LEANDRA GONCALVES DE SOUSA","ie":73704822,"cnpj":"28609706000174","razao":"JOSEFA L G DE SOUSA ME","sit":"C","regime":"SIMPLES","municipio":"TAQUARITINGA DO NORTE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

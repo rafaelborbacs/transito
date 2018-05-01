@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":72103965,"cnpj":"27797800000131","razao":"ALEXANDRE GALDINO DA SILVA VAREJISTA DE TECIDOS EPP","sit":"S","arrecadacao":0.00,"entradas":97370.00,"saidas":1240423.25,"regime":"NORMAL","segmento":"TECIDOS","municipio":"PASSIRA","drr":"I","igi":1,"dataie":"24/05/2017"}];
-EntradasData.entradas = [{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":51245.00},
-{"ie":35592036,"cnpj":"09008414000131","razao":"ADAILCIO PEREIRA DE ARAUJO JUNIOR","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":12835.00},
+EntradasData.entradas = [{"ie":43240640,"cnpj":"13188456000179","razao":"ARAUJO & AUGUSTO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4000.00},
 {"ie":55327877,"cnpj":"19208409000126","razao":"PEDRO B DE ARAUJO ME","sit":"B","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":26890.00},
-{"ie":43240640,"cnpj":"13188456000179","razao":"ARAUJO & AUGUSTO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4000.00},
-{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2400.00}];
+{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2400.00},
+{"ie":35592036,"cnpj":"09008414000131","razao":"ADAILCIO PEREIRA DE ARAUJO JUNIOR","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":12835.00},
+{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":51245.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97548852000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2079.00},
 {"ie":0,"cnpj":"85686948615","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":20366.00},
 {"ie":0,"cnpj":"84097542000203","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1040.00},
@@ -19,10 +19,10 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97548852000150","razao":"","sit":"","regime
 {"ie":0,"cnpj":"45136823615","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":10084.00},
 {"ie":0,"cnpj":"40575276649","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":10126.00},
 {"ie":0,"cnpj":"39792811168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":12000.00},
-{"ie":0,"cnpj":"35223154134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":8000.00},
+{"ie":0,"cnpj":"35223154134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":8000.00},
 {"ie":0,"cnpj":"34326146168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":14000.00},
 {"ie":0,"cnpj":"29709970100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":24350.00},
-{"ie":0,"cnpj":"29166381134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":8000.00},
+{"ie":0,"cnpj":"29166381134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":8000.00},
 {"ie":0,"cnpj":"28100026149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":8000.00},
 {"ie":0,"cnpj":"27805513000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3028.00},
 {"ie":0,"cnpj":"27799262000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1150.00},
@@ -230,3 +230,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97548852000150","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"05643299402","nome":"ALEXANDRE GALDINO DA SILVA","ie":72103965,"cnpj":"27797800000131","razao":"ALEXANDRE GALDINO DA SILVA VAREJISTA DE TECIDOS EPP","sit":"S","regime":"NORMAL","municipio":"PASSIRA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

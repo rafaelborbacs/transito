@@ -85,14 +85,15 @@ SociosData.socios = [{"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":
 {"cpf":"04639030487","nome":"JOSE CARLOS CAVALCANTI GONCALVES","ie":2087529,"cnpj":"10561165000277","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"04639030487","nome":"JOSE CARLOS CAVALCANTI GONCALVES","ie":1832026,"cnpj":"10561165000196","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"41974460001250","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"Olinda"},
+TelsData.tels = [{"cnpj":"41974460001331","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"IGARASSU"},
+{"cnpj":"41974460001250","tel":"8133226111","razao":"FLAG CONFECÇÕES LTDA","municipio":"Olinda"},
 {"cnpj":"41974460001170","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"TERESINA"},
 {"cnpj":"41974460000955","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"PAULISTA"},
 {"cnpj":"41974460000874","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"CARUARU"},
 {"cnpj":"41974460000793","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"RECIFE"},
 {"cnpj":"41974460000521","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"CAMPINA GRANDE"},
 {"cnpj":"10561165002644","tel":"8133226111","razao":"CAVALCANTI GONCALVES & CIA","municipio":"JOAO PESSOA"},
-{"cnpj":"10561165002210","tel":"8133226111","razao":"CAVALCANTI GONCALVES & CIA","municipio":"JOAO PESSOA"},
+{"cnpj":"10561165002210","tel":"8133226111","razao":"CAVALCANTI GONCALVES & CIA LTDA","municipio":"JOAO PESSOA"},
 {"cnpj":"10561165001591","tel":"8133226111","razao":"CAVALCANTI GONCALVES & CIA","municipio":"JOAO PESSOA"},
 {"cnpj":"10561165000196","tel":"8133226111","razao":"CAVALCANTI GONCALVES & CIA LTDA","municipio":"RECIFE"},
 {"cnpj":"08902392000943","tel":"8133226111","razao":"STAR CONFECCOES LTDA","municipio":"BAYEUX"},
@@ -122,3 +123,4 @@ TelsData.tels = [{"cnpj":"41974460001250","tel":"8133226111","razao":"FLAG CONFE
 {"cnpj":"06183209000467","tel":"8133226111","razao":"DB CONFECCOES S/A","municipio":"RECIFE"},
 {"cnpj":"06183209000386","tel":"8133226111","razao":"DB CONFECCOES SA","municipio":"RECIFE"},
 {"cnpj":"06183209000203","tel":"8133226111","razao":"DB CONFECCOES S/A","municipio":"JOAO PESSOA"}];
+PlacasData.placas = [];

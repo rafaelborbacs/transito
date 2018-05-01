@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09754869421","nome":"AUDRI MONIQUE BATISTA DE SOUZA","ie":52408248,"cnpj":"17856531000183","razao":"AUDRI MONIQUE BATISTA DE SOUZA 09754869421","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

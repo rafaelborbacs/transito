@@ -112,3 +112,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"81249989000173","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"10281031401","nome":"AGUINALDO SOARES DE FRANCA","ie":75341590,"cnpj":"29387279000190","razao":"AGUINALDO SOARES DE FRANCA 10281031401","sit":"C","regime":"SIMEI","municipio":"SURUBIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

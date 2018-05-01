@@ -1,18 +1,18 @@
 EstabelecimentoData.estabelecimento = [{"ie":71564640,"cnpj":"27509957000114","razao":"MS COMERCIAL OROBO EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":1571963.41,"saidas":6325611.63,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"OROBO","drr":"I","igi":1,"dataie":"17/04/2017"}];
 EntradasData.entradas = [{"ie":49623117,"cnpj":"76828201000224","razao":"FUMACENSE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":3100.50},
-{"ie":0,"cnpj":"17758441000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":160200.00},
-{"ie":6496784,"cnpj":"11288727000132","razao":"EVANGELICO ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MACAPARANA","igi":0,"uf":"PE","valor":400.00},
-{"ie":0,"cnpj":"09137485000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":33178.05},
-{"ie":52823903,"cnpj":"18066796000140","razao":"N M DE OLIVEIRA EIRELI - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":70.20},
-{"ie":65170997,"cnpj":"23714035000198","razao":"MONTEIRO & AMARO COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":54.00},
-{"ie":24956350,"cnpj":"02620873000122","razao":"E G ARAUJO","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":212.55},
-{"ie":0,"cnpj":"17246970000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":6000.00},
-{"ie":34031812,"cnpj":"08171249000171","razao":"MEGA CENTER COMERCIO DE MATERIAIS DE CONSTRUCAO LTDA","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DA COROA GRANDE","igi":0,"uf":"PE","valor":199.70},
-{"ie":59294159,"cnpj":"21055809000190","razao":"JOSE R SANTANA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":225.98},
+{"ie":13629506,"cnpj":"12810362000127","razao":"JOSE ALENCAR DA SILVA SUPERMERCADO","sit":"A","regime":"NORMAL","municipio":"FERREIROS","igi":0,"uf":"PE","valor":130.50},
 {"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1317689.24},
+{"ie":24956350,"cnpj":"02620873000122","razao":"E G ARAUJO","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":212.55},
+{"ie":52823903,"cnpj":"18066796000140","razao":"N M DE OLIVEIRA EIRELI - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":70.20},
+{"ie":59294159,"cnpj":"21055809000190","razao":"JOSE R SANTANA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":225.98},
+{"ie":6496784,"cnpj":"11288727000132","razao":"EVANGELICO ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MACAPARANA","igi":0,"uf":"PE","valor":400.00},
+{"ie":65170997,"cnpj":"23714035000198","razao":"MONTEIRO & AMARO COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":54.00},
+{"ie":0,"cnpj":"17246970000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":6000.00},
+{"ie":0,"cnpj":"17758441000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":160200.00},
+{"ie":34031812,"cnpj":"08171249000171","razao":"MEGA CENTER COMERCIO DE MATERIAIS DE CONSTRUCAO LTDA","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DA COROA GRANDE","igi":0,"uf":"PE","valor":199.70},
 {"ie":23632755,"cnpj":"01936185000103","razao":"JARBAS P. FREIRE JUNIOR - ME","sit":"A","regime":"NORMAL","municipio":"BUIQUE","igi":0,"uf":"PE","valor":60.00},
-{"ie":48520799,"cnpj":"15504750000178","razao":"M.C.SUPERMERCADOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":50442.69},
-{"ie":13629506,"cnpj":"12810362000127","razao":"JOSE ALENCAR DA SILVA SUPERMERCADO","sit":"A","regime":"NORMAL","municipio":"FERREIROS","igi":0,"uf":"PE","valor":130.50}];
+{"ie":0,"cnpj":"09137485000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":33178.05},
+{"ie":48520799,"cnpj":"15504750000178","razao":"M.C.SUPERMERCADOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":50442.69}];
 SaidasData.saidas = [{"ie":44862938,"cnpj":"97529952000139","razao":"NASCIMENTO & REIS SUPERMERCADOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":1370.50},
 {"ie":19552092,"cnpj":"70206750000108","razao":"MERCADINHO PAFIL LTDA ME","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":5524.70},
 {"ie":20126344,"cnpj":"70089974000179","razao":"COMERCIAL VITA NORTE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":56000.00},
@@ -69,7 +69,7 @@ SaidasData.saidas = [{"ie":44862938,"cnpj":"97529952000139","razao":"NASCIMENTO 
 {"ie":64093000,"cnpj":"23235236000102","razao":"JEANE MARIA DOS SANTOS MERCADINHO EPP","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":489.60},
 {"ie":0,"cnpj":"23212428000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":271441.41},
 {"ie":63933144,"cnpj":"23181305000142","razao":"C DAS CHAGAS SABINO DE MELO ME","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":280.27},
-{"ie":63692945,"cnpj":"23094631000112","razao":"MERCANTIL PRAZERES DE ALIMENTOS LTDA EPP","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":415.00},
+{"ie":63692945,"cnpj":"23094631000112","razao":"MERCANTIL PRAZERES DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":415.00},
 {"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":129009.21},
 {"ie":61532673,"cnpj":"22027027000100","razao":"SUPERMERCADO TEM D-TUDO LTDA","sit":"S","regime":"NORMAL","municipio":"TIMBAUBA","igi":0,"uf":"PE","valor":1878.00},
 {"ie":61339830,"cnpj":"21940452000123","razao":"HIPERMERCADO STA CRUZ LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2364.19},
@@ -102,7 +102,7 @@ SaidasData.saidas = [{"ie":44862938,"cnpj":"97529952000139","razao":"NASCIMENTO 
 {"ie":53039238,"cnpj":"18200892000130","razao":"L P BARBOSA  MERCADINHO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":2719.40},
 {"ie":52823903,"cnpj":"18066796000140","razao":"N M DE OLIVEIRA EIRELI - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":1153.00},
 {"ie":52533069,"cnpj":"17941630000163","razao":"LG SANTOS COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":43000.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3475.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3475.00},
 {"ie":51831031,"cnpj":"17611850000129","razao":"MAIS COMERCIO DISTRIBUIDORA E REPRESENTACAO DE MATERIAIS DE LIMPEZA LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":37180.00},
 {"ie":0,"cnpj":"16871161000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":480.00},
 {"ie":0,"cnpj":"15713719000147","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":623.76},
@@ -168,8 +168,8 @@ SaidasData.saidas = [{"ie":44862938,"cnpj":"97529952000139","razao":"NASCIMENTO 
 {"ie":37325922,"cnpj":"10446597000156","razao":"SUPERMERCADO PONTO CERTO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3041.00},
 {"ie":14556804,"cnpj":"09964180000104","razao":"TRANSPORTE LIDA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":40359.00},
 {"ie":0,"cnpj":"09563326000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":9894.10},
-{"ie":11017732,"cnpj":"09542770000130","razao":"SUPERMERCADO VERTENTES LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":784.91},
 {"ie":11017651,"cnpj":"09542770000130","razao":"SUPERMERCADO VERTENTES LTDA","sit":"B","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":784.91},
+{"ie":11017732,"cnpj":"09542770000130","razao":"SUPERMERCADO VERTENTES LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":784.91},
 {"ie":50934066,"cnpj":"09478907000305","razao":"SUPERMERCADO AVISTAO EIRELI","sit":"A","regime":"NORMAL","municipio":"IGUARACI","igi":0,"uf":"PE","valor":332.76},
 {"ie":36355038,"cnpj":"09426314000125","razao":"SUPERMERCADO PARCERIA DO LAR LTDA ME","sit":"A","regime":"NORMAL","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":627.50},
 {"ie":36298565,"cnpj":"09393366000142","razao":"COMERCIAL DE ALIMENTOS JORDAO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":12908.60},
@@ -277,3 +277,4 @@ SaidasData.saidas = [{"ie":44862938,"cnpj":"97529952000139","razao":"NASCIMENTO 
 SociosData.socios = [{"cpf":"57779171434","nome":"MANOEL SERGIO DA SILVA","ie":71564640,"cnpj":"27509957000114","razao":"MS COMERCIAL OROBO EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"OROBO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

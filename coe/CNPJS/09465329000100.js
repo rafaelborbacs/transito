@@ -1,8 +1,8 @@
-EstabelecimentoData.estabelecimento = [{"ie":15676242,"cnpj":"09465329000100","razao":"CONFECCOES DEOLINDA LTDA EPP","sit":"B","arrecadacao":0.00,"entradas":19554.14,"saidas":332313.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"18/05/1990"}];
+EstabelecimentoData.estabelecimento = [{"ie":15676242,"cnpj":"09465329000100","razao":"CONFECCOES DEOLINDA LTDA EPP","sit":"B","arrecadacao":0.00,"entradas":19287.14,"saidas":332313.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"18/05/1990"}];
 EntradasData.entradas = [{"ie":30082153,"cnpj":"05562769000117","razao":"COMERCIAL ITAPEMA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6615.65},
 {"ie":30082153,"cnpj":"05562769000117","razao":"COMERCIAL ITAPEMA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6615.65},
-{"ie":0,"cnpj":"70147004000263","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3269.50},
-{"ie":0,"cnpj":"70147004000263","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3269.50},
+{"ie":0,"cnpj":"70147004000263","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3002.50},
+{"ie":0,"cnpj":"70147004000263","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3002.50},
 {"ie":43767303,"cnpj":"13330786000157","razao":"VALENCIA COMERCIO DE TECIDOS E CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9668.99},
 {"ie":43767303,"cnpj":"13330786000157","razao":"VALENCIA COMERCIO DE TECIDOS E CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9668.99}];
 SaidasData.saidas = [{"ie":0,"cnpj":"82901000000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1400.00},
@@ -89,8 +89,8 @@ SaidasData.saidas = [{"ie":0,"cnpj":"82901000000127","razao":"","sit":"","regime
 {"ie":13535943,"cnpj":"12798443000159","razao":"RANCHO ALEGRE PRODUTOS AGROPECUARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":560.00},
 {"ie":0,"cnpj":"12706289000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1300.00},
 {"ie":0,"cnpj":"12706289000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1300.00},
-{"ie":14745020,"cnpj":"12035234000153","razao":"DISQUE AGUA LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1200.00},
-{"ie":14745020,"cnpj":"12035234000153","razao":"DISQUE AGUA LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1200.00},
+{"ie":14745020,"cnpj":"12035234000153","razao":"DISQUE AGUA LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1200.00},
+{"ie":14745020,"cnpj":"12035234000153","razao":"DISQUE AGUA LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1200.00},
 {"ie":0,"cnpj":"12011391000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":900.00},
 {"ie":0,"cnpj":"12011391000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":900.00},
 {"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":1700.00},
@@ -249,6 +249,5 @@ SociosData.socios = [{"cpf":"49741888449","nome":"TEREZINHA COUTO DE MORAES","ie
 {"cpf":"35898348468","nome":"ROSANGELA COUTO MORAES","ie":15676242,"cnpj":"09465329000100","razao":"CONFECCOES DEOLINDA LTDA EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"35898348468","nome":"ROSANGELA COUTO MORAES","ie":7828900,"cnpj":"11607017000128","razao":"CONFECCOES DURA MAIS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"85623806449","tel":"8134455903","razao":"ROMILDO MACEDO","municipio":"Recife"},
-{"cnpj":"28282758000189","tel":"8134455903","razao":"J Q DE ARAUJO CONFECCOES ME","municipio":"RECIFE"},
-{"cnpj":"28282758000189","tel":"008134455903","razao":"J Q DE ARAUJO CONFECCOES","municipio":"RECIFE"}];
+TelsData.tels = [];
+PlacasData.placas = [];

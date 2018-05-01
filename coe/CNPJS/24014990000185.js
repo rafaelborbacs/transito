@@ -6,7 +6,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84463651468","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"64072851434","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1600.00},
 {"ie":0,"cnpj":"62816616487","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":3900.00},
 {"ie":0,"cnpj":"56209274404","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1600.00},
-{"ie":17910609,"cnpj":"40867160000157","razao":"J.LADISLAU SANTOS FILHO ME","sit":"S","regime":"NORMAL","municipio":"CACHOEIRINHA","igi":0,"uf":"PE","valor":3800.00},
+{"ie":17910609,"cnpj":"40867160000157","razao":"J.LADISLAU SANTOS FILHO ME","sit":"A","regime":"NORMAL","municipio":"CACHOEIRINHA","igi":0,"uf":"PE","valor":3800.00},
 {"ie":0,"cnpj":"35589426472","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1750.00},
 {"ie":0,"cnpj":"33329612843","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2950.00},
 {"ie":0,"cnpj":"29230632449","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1750.00},
@@ -28,3 +28,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84463651468","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"88355632400","nome":"WASHINGTON CARLOS DOS SANTOS","ie":65872240,"cnpj":"24014990000185","razao":"WASHINGTON CARLOS DOS SANTOS ESTOFADOS ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

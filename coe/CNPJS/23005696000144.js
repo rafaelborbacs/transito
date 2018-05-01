@@ -12,3 +12,4 @@ EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"29299931000114","tel":"8738842473","razao":"ELIAS JOSE DOS SANTOS OLIVEIRA","municipio":"SAO JOSE DO BELMONTE"},
 {"cnpj":"29299931000114","tel":"08796248943","razao":"ELIAS JOSE DOS SANTOS OLIVEIRA 12497669406","municipio":"Sao Jose do Belmonte"},
 {"cnpj":"26003522000130","tel":"8738842473","razao":"FABIANA JERONIMO DA SILVA CAMARA ME","municipio":"SAO JOSE DO BELMONTE"}];
+PlacasData.placas = [];

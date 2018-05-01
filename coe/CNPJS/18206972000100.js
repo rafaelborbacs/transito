@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05202961413","nome":"LEILA PATRICIA FERREIRA DE ARRUDA","ie":53160304,"cnpj":"18206972000100","razao":"LEILA PATRICIA FERREIRA DE ARRUDA 05202961413","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

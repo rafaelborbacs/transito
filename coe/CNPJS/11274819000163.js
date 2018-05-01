@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"98459040410","nome":"GIORGIO DE CARVALHO CAMPOS","i
 {"cpf":"03256321461","nome":"GIANNINI DE CARVALHO CAMPOS","ie":38745321,"cnpj":"11274819000163","razao":"TUPAN TECNOLOGIA E COMPONENTES ELETRONICOS LTDA","sit":"C","regime":"NORMAL","municipio":"SALGUEIRO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

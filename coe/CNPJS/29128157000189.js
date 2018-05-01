@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07206059465","nome":"JOSEMAR SANTOS DO NASCIMENTO","ie":74795570,"cnpj":"29128157000189","razao":"JOSEMAR SANTOS DO NASCIMENTO 07206059465","sit":"A","regime":"SIMEI","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

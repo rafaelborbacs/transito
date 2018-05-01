@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"76690229491","nome":"ROBERVANIA JOSEFA SILVA","ie":
 {"cpf":"76690229491","nome":"ROBERVANIA JOSEFA SILVA","ie":30459354,"cnpj":"05852973000172","razao":"UANASDEY CONFECCOES LTDA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

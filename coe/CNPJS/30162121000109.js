@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"03600101480","nome":"MARIA ELIENE DE SOUZA","ie":76
 {"cpf":"03600101480","nome":"MARIA ELIENE DE SOUZA","ie":76802957,"cnpj":"30162121000109","razao":"MARIA ELIENE DE SOUZA 03600101480","sit":"B","regime":"NORMAL","municipio":"SANHARO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

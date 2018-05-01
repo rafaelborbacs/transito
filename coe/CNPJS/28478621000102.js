@@ -172,3 +172,4 @@ SociosData.socios = [{"cpf":"07676240417","nome":"SAMUEL SALES DA SILVA","ie":73
 {"cpf":"07676240417","nome":"SAMUEL SALES DA SILVA","ie":66385709,"cnpj":"24297118000191","razao":"SAMUEL SALES DA SILVA 07676240417","sit":"B","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

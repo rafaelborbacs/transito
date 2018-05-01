@@ -14,8 +14,8 @@ SaidasData.saidas = [{"ie":52556000,"cnpj":"75315333015211","razao":"ATACADAO S.
 {"ie":0,"cnpj":"17119291001297","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":275.00},
 {"ie":0,"cnpj":"10998292000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":3900.00},
 {"ie":0,"cnpj":"10869782000587","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":375.00},
-{"ie":99999900,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":300.00},
 {"ie":999999940,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":300.00},
+{"ie":99999900,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":300.00},
 {"ie":9964320,"cnpj":"10421584000122","razao":"PERNAMBUCO QUIMICA S A","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1639.00},
 {"ie":692565,"cnpj":"10421584000122","razao":"PERNAMBUCO QUIMICA S A","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1639.00},
 {"ie":0,"cnpj":"08931800000138","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":3900.00},
@@ -34,3 +34,4 @@ SaidasData.saidas = [{"ie":52556000,"cnpj":"75315333015211","razao":"ATACADAO S.
 SociosData.socios = [{"cpf":"52062171404","nome":"PAULO FERNANDO MENDES DE ARAUJO JUNIOR","ie":52011798,"cnpj":"17670185000144","razao":"PAULO FERNANDO MENDES DE ARAUJO JUNIOR 52062171404","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

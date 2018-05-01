@@ -12,3 +12,4 @@ SociosData.socios = [{"cpf":"02339180430","nome":"LUIZ BARTOLOMEU CARNEIRO DE ME
 {"cpf":"02339180430","nome":"LUIZ BARTOLOMEU CARNEIRO DE MENDONCA JUNIOR","ie":24134180,"cnpj":"02188401000142","razao":"L L M COMERCIAL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

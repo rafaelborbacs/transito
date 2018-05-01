@@ -97,3 +97,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"08911335428","nome":"JOSEFA ELANIA DA SILVA","ie":72166533,"cnpj":"27810460000131","razao":"JOSEFA ELANIA DA SILVA 08911335428","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

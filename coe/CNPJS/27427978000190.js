@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"36305839468","nome":"FRANCISCO FRANCA DO NASCIMENTO","ie":73516740,"cnpj":"27427978000190","razao":"FRANCISCO F DO NASCIMENTO ME","sit":"C","regime":"NORMAL","municipio":"SURUBIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04779868467","nome":"SAMUEL ALVES DA ROCHA","ie":46768742,"cnpj":"14510822000127","razao":"SAMUEL ALVES DA ROCHA ME","sit":"C","regime":"NORMAL","municipio":"VERTENTES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

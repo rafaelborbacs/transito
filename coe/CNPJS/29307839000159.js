@@ -6,3 +6,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"11363550306","nome":"JOSE ARILO DE FREITAS DUARTE","ie":75139413,"cnpj":"29307839000159","razao":"JOSE ARILO DE FREITAS DUARTE 11363550306","sit":"C","regime":"SIMEI","municipio":"BREJINHO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

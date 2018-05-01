@@ -7,3 +7,4 @@ SociosData.socios = [{"cpf":"04519486459","nome":"CARLOS ALBERTO JOSE DA SILVA J
 {"cpf":"04519486459","nome":"CARLOS ALBERTO JOSE DA SILVA JUNIOR","ie":67005195,"cnpj":"14002046000154","razao":"COOPERTRANSNORTE COOPERATIVA DOS PROPRIETARIOS DE TRANSPORTE COMPLEMENTAR ALTERNATIVO INTERMUNICIPAL DA MATA  NORTE","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

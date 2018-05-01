@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71182608434","nome":"MARIA AUZINETE CORREIA","ie":38391767,"cnpj":"11087265000195","razao":"MARIA A CORREIA - PAPELARIA ME","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

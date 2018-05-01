@@ -5,3 +5,4 @@ SociosData.socios = [{"cpf":"66745497468","nome":"MARIA DA CONCEICAO LIMA DANTAS
 {"cpf":"66745497468","nome":"MARIA DA CONCEICAO LIMA DANTAS","ie":25272780,"cnpj":"02780556000173","razao":"MARIA CONCEICAO LIMA DANTAS","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

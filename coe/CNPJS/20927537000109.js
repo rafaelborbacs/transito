@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06860170484","nome":"JHONATHAN ROCHA PEREIRA RAMOS","ie":58986928,"cnpj":"20927537000109","razao":"J.R PEREIRA RAMOS ARMARINHO - ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

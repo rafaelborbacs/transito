@@ -17,7 +17,7 @@ SaidasData.saidas = [{"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FE
 {"ie":63663848,"cnpj":"21035996000221","razao":"MERCANTIL VALENCA DE ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":40096.00},
 {"ie":59273070,"cnpj":"21035996000140","razao":"MERCANTIL VALENCA DE ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":50073.90},
 {"ie":57147370,"cnpj":"20022320000150","razao":"A. ALEXANDRE DA SILVA - COMERCIO ME","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":588.80},
-{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":22075.00},
+{"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":22075.00},
 {"ie":53039238,"cnpj":"18200892000130","razao":"L P BARBOSA  MERCADINHO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":2076.00},
 {"ie":0,"cnpj":"17775352000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":300000.00},
 {"ie":48870854,"cnpj":"15572740000170","razao":"L B DE LIMA HORTIFRUTI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":43400.00},
@@ -44,3 +44,4 @@ SociosData.socios = [{"cpf":"70181702495","nome":"JOICE BRENA PEREIRA DA SILVA",
 {"cpf":"70181702495","nome":"JOICE BRENA PEREIRA DA SILVA","ie":74930290,"cnpj":"29243692000180","razao":"JOICE BRENA PEREIRA DA SILVA ME","sit":"C","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

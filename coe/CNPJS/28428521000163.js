@@ -30,3 +30,4 @@ SociosData.socios = [{"cpf":"06100185822","nome":"CLAUDIO FERREIRA DA CRUZ","ie"
 {"cpf":"05515903439","nome":"GEORGE DE LIMA PIMENTEL","ie":68679360,"cnpj":"26008899000182","razao":"GEORGE DE LIMA PIMENTEL MERCADOS EPP","sit":"B","regime":"NORMAL","municipio":"BREJAO","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

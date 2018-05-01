@@ -8,3 +8,4 @@ SaidasData.saidas = [{"ie":38626667,"cnpj":"05677591002446","razao":"SUPERMERCAD
 SociosData.socios = [{"cpf":"04143553422","nome":"JOSE CARLOS GUIMARAES DE MEDEIROS","ie":72258900,"cnpj":"27847916000138","razao":"JOSE C GUIMARAES DE MEDEIROS","sit":"S","regime":"SIMPLES","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

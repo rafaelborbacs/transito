@@ -9,3 +9,4 @@ SaidasData.saidas = [{"ie":55698697,"cnpj":"11222393000366","razao":"SUPERMERCAD
 SociosData.socios = [{"cpf":"04717852451","nome":"MARIA CLENILDA DA SILVA ALMEIDA","ie":70100870,"cnpj":"26756638000140","razao":"MARIA CLENILDA DA SILVA ALMEIDA 04717852451","sit":"A","regime":"SIMEI","municipio":"CABROBO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

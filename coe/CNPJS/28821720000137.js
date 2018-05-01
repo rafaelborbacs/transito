@@ -12,7 +12,7 @@ SaidasData.saidas = [{"ie":72214287,"cnpj":"27883902000170","razao":"INDUSTRIA D
 {"ie":56287925,"cnpj":"19621824000107","razao":"AVENIDA SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":13140.00},
 {"ie":55435769,"cnpj":"19257437000133","razao":"BARRETTO & SILVA COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3838.00},
 {"ie":52837793,"cnpj":"18073013000156","razao":"L N DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":1450.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":16812.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":16812.00},
 {"ie":52416348,"cnpj":"17862678000186","razao":"CRISTIANE DE A ALBUQUERQUE PRODUTOS SANEANTES ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":782.00},
 {"ie":50702017,"cnpj":"17141902000140","razao":"SILVA & NEVES COMERCIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":5785.00},
 {"ie":50193708,"cnpj":"16842324000107","razao":"H M DA SILVA MERCADINHO - EPP","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":6349.80},
@@ -49,3 +49,4 @@ SaidasData.saidas = [{"ie":72214287,"cnpj":"27883902000170","razao":"INDUSTRIA D
 SociosData.socios = [{"cpf":"01621649474","nome":"JOABY NASCIMENTO SILVA","ie":74054309,"cnpj":"28821720000137","razao":"J N SILVA PLASTICOS EPP","sit":"C","regime":"NORMAL","municipio":"CAMUTANGA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

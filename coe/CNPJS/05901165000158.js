@@ -11,3 +11,4 @@ SociosData.socios = [{"cpf":"71727485491","nome":"JOSE HUMBERTO DA SILVA","ie":5
 {"cpf":"01142306410","nome":"KELLY CLEMENTE ALVES CASANOVA","ie":30556805,"cnpj":"05901165000158","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

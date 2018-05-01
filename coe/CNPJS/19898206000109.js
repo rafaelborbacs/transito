@@ -8,3 +8,4 @@ SociosData.socios = [{"cpf":"15251651864","nome":"SONIA CRISTINA PAZ DE LIRA FON
 {"cpf":"00470064803","nome":"MARCOS JOSE DOS SANTOS","ie":38211610,"cnpj":"24523508000213","razao":"NORTEX INDUSTRIA E COMERCIO S A","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

@@ -10,3 +10,4 @@ SociosData.socios = [{"cpf":"66946980468","nome":"ANA PAULA RAMOS DO NASCIMENTO 
 {"cpf":"08859447470","nome":"CAMILLA NASCIMENTO SPECK","ie":47020695,"cnpj":"12256801000100","razao":"GIULIA COMERCIO E SERVICOS LTDA  ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

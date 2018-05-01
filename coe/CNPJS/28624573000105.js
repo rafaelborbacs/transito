@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"12372378406","nome":"JOAO VITOR DE OLIVEIRA MACIEL","ie":73752550,"cnpj":"28624573000105","razao":"JOAO VITOR DE OLIVEIRA MACIEL 12372378406","sit":"A","regime":"SIMEI","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

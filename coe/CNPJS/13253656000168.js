@@ -5,3 +5,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"03450484400","nome":"ABEL TAVARES DE LIMA FILHO","ie":45287279,"cnpj":"13253656000168","razao":"ABEL TAVARES DE LIMA FILHO ME","sit":"S","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

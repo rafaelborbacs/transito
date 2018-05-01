@@ -4,3 +4,4 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"00914445359","nome":"TIAGO SILVA DE SOUZA","ie":72946890,"cnpj":"28226815000102","razao":"TIAGO SILVA DE SOUZA 00914445359","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
+PlacasData.placas = [];

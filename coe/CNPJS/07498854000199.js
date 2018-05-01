@@ -152,27 +152,10 @@ SociosData.socios = [{"cpf":"60032820453","nome":"FLAVIO HERMES MUNIZ","ie":5899
 {"cpf":"01253722480","nome":"MARIA DE FATIMA MENEZES MUNIZ","ie":23440252,"cnpj":"01352047000268","razao":"SAPATARIA MUNIZ LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"01253722480","nome":"MARIA DE FATIMA MENEZES MUNIZ","ie":22614800,"cnpj":"01352047000187","razao":"SAPATARIA MUNIZ LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"01253722480","nome":"MARIA DE FATIMA MENEZES MUNIZ","ie":10008969,"cnpj":"08852543000149","razao":"AGRESTE BICICLETAS LTDA","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0}];
-EmailsData.emails = [{"cnpj":"88518444000164","email":"centralmoveis@hotmail.com","razao":"VILMAR ANTONIO MORAES","municipio":"Nova Santa Rita"},
-{"cnpj":"88343618491","email":"adrianacentralmoveis@hotmail.com","razao":"ADRIANA SILVA","municipio":"Caruaru"},
-{"cnpj":"19724182000171","email":"foccomail@grupotubform.com.br","razao":"A C F DE OLIVEIRA MOVEIS EIRELI","municipio":"ITAQUITINGA"},
-{"cnpj":"11531662000104","email":"foccomail@grupotubform.com.br","razao":"TEREZINHA MELO QUIRINO ME","municipio":"LIMOEIRO"},
-{"cnpj":"10511734000199","email":"foccomail@grupotubform.com.br","razao":"ANA PAULA BARBOSA CAVALCANTE","municipio":"IGUARACI"},
-{"cnpj":"08861551000151","email":"foccomail@grupotubform.com.br","razao":"JOSE GILSON LIMA EPP","municipio":"SAO CAITANO"},
-{"cnpj":"08228571000190","email":"foccomail@grupotubform.com.br","razao":"RENATO CARVALHO DE MAGALHAES","municipio":"CARUARU"},
-{"cnpj":"08036542000126","email":"foccomail@grupotubform.com.br","razao":"J L DE OLIVEIRA SILVA MOVEIS","municipio":"VITORIA DE SANTO ANTAO"},
-{"cnpj":"07498854000270","email":"financeiro@centralmoveis.com","razao":"UNIVERSO MOVEIS LTDA EPP","municipio":"CARUARU"},
-{"cnpj":"07498854000270","email":"centralmoveis@hotmail.com","razao":"UNIVERSO MOVEIS LTDA - EPP","municipio":"CARUARU"},
-{"cnpj":"07498854000270","email":"central.moveis@hotmail.com","razao":"UNIVERSO MOVEIS LTDA ME","municipio":"CARUARU"},
-{"cnpj":"07498854000270","email":"adrianacentralmoveis@hotmail.com","razao":"UNIVERSO MOVEIS LTDA ME","municipio":"CARUARU"},
-{"cnpj":"04768893000170","email":"foccomail@grupotubform.com.br","razao":"DOMINGOS SAVIO CARVALHO BEZERRA","municipio":"DELMIRO GOUVEIA"},
-{"cnpj":"03665298000147","email":"foccomail@grupotubform.com.br","razao":"M M MOVEIS KASA BELA LTDA","municipio":"LAGOA DOS GATOS"},
-{"cnpj":"00895272000105","email":"foccomail@grupotubform.com.br","razao":"MARILENE RODRIGUES PRADO","municipio":"POMBOS"}];
-TelsData.tels = [{"cnpj":"09636904421","tel":"37213430","razao":"017296-ANAPAULA DA CONCEICAO COELHO","municipio":"Caruaru"},
-{"cnpj":"07498854001160","tel":"37213430","razao":"000011-UNIVERSO MOVEIS LTDA - EPP - LJ 11","municipio":"TORITAMA"},
-{"cnpj":"07498854001080","tel":"8137213430","razao":"UNIVERSO MOVEIS LTDA EPP","municipio":"CARUARU"},
+EmailsData.emails = [{"cnpj":"88343618491","email":"adrianacentralmoveis@hotmail.com","razao":"ADRIANA SILVA","municipio":"Caruaru"},
+{"cnpj":"07498854000270","email":"financeiro@centralmoveis.com","razao":"UNIVERSO MOVEIS LTDA","municipio":"CARUARU"},
+{"cnpj":"07498854000270","email":"adrianacentralmoveis@hotmail.com","razao":"UNIVERSO MOVEIS LTDA ME","municipio":"CARUARU"}];
+TelsData.tels = [{"cnpj":"07498854001080","tel":"8137213430","razao":"UNIVERSO MOVEIS LTDA EPP","municipio":"CARUARU"},
 {"cnpj":"07498854000946","tel":"8137213430","razao":"UNIVERSO MOVEIS LTDA EPP","municipio":"GRAVATA"},
-{"cnpj":"07498854000431","tel":"37213430","razao":"000004-UNIVERSO MOVEIS LTDA. - LJ 04","municipio":"CARUARU"},
-{"cnpj":"07498854000350","tel":"37213430","razao":"000003-UNIVERSO MOVEIS LTDA. - LJ 03","municipio":"CARUARU"},
-{"cnpj":"07498854000270","tel":"8137213430","razao":"UNIVERSO MOVEIS LTDA ME","municipio":"CARUARU"},
-{"cnpj":"07498854000270","tel":"8131360320","razao":"UNIVERSO MOVEIS LTDA EPP","municipio":"CARUARU"},
-{"cnpj":"07498854000270","tel":"08137213430","razao":"UNIVERSO MOVEIS LTDA","municipio":"CARUARU"}];
+{"cnpj":"07498854000270","tel":"8137213430","razao":"UNIVERSO MOVEIS LTDA EPP (15235)","municipio":"CARUARU"}];
+PlacasData.placas = [];
