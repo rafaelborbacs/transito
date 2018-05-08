@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":55670504,"cnpj":"19330664000147","razao":"DARCINEIDE FERREIRA PINTO 36026590463","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":138918.44,"regime":"NORMAL","segmento":"VAREJO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"02/12/2013"}];
+EstabelecimentoData.estabelecimento = [{"ie":55670504,"cnpj":"19330664000147","razao":"DARCINEIDE FERREIRA PINTO 36026590463","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":138918.44,"regime":"NORMAL","segmento":"VAREJO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"02/12/2013","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":20250002,"cnpj":"70177837000196","razao":"FRIGORIFICO E SUPERMERCADO LEAL LTDA - ME","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":839.40},
 {"ie":52535860,"cnpj":"35471317000603","razao":"ARCADIA SERVICOS E REPRESENTACOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":478.24},

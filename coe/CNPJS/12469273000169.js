@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":41405242,"cnpj":"12469273000169","razao":"FONSECA FILHO COMERCIO DO VESTUARIO LTDA ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"17/09/2010"}];
+EstabelecimentoData.estabelecimento = [{"ie":41405242,"cnpj":"12469273000169","razao":"FONSECA FILHO COMERCIO DO VESTUARIO LTDA ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"17/09/2010","contador":"LUIZ CARLOS VILAR DO NASCIMENTO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"63852691400","nome":"AMAURI ALVES DA FONSECA FILHO","ie":61082295,"cnpj":"21812350000122","razao":"FONSECA COMERCIO DE CONFECCOES LTDA ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0},

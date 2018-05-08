@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73715514,"cnpj":"28670950000142","razao":"ADAM FELIPE DA SILVA ALVES","sit":"S","arrecadacao":0.00,"entradas":500.00,"saidas":112330.15,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"19/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73715514,"cnpj":"28670950000142","razao":"ADAM FELIPE DA SILVA ALVES","sit":"S","arrecadacao":0.00,"entradas":500.00,"saidas":112330.15,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"19/09/2017","contador":""}];
 EntradasData.entradas = [{"ie":73820733,"cnpj":"28388463000353","razao":"ANDRE FRANCISCO DA SILVA CONFECCOES","sit":"S","regime":"NORMAL","municipio":"VERTENTES","igi":1,"uf":"PE","valor":500.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"65186630063","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":408.00},
 {"ie":0,"cnpj":"61221457268","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5025.00},

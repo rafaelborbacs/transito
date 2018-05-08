@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":51300346,"cnpj":"17343514000142","razao":"EWERTON CESAR SANTOS DO NASCIMENTO 08578096444","sit":"C","arrecadacao":0.00,"entradas":45002.28,"saidas":390772.10,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"15/01/2013"}];
+EstabelecimentoData.estabelecimento = [{"ie":51300346,"cnpj":"17343514000142","razao":"EWERTON CESAR SANTOS DO NASCIMENTO 08578096444","sit":"C","arrecadacao":0.00,"entradas":45002.28,"saidas":390772.10,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"15/01/2013","contador":""}];
 EntradasData.entradas = [{"ie":57031231,"cnpj":"04947656000339","razao":"PETROPOLIS TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":45002.28}];
 SaidasData.saidas = [{"ie":0,"cnpj":"89996461220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":320.00},
 {"ie":0,"cnpj":"75538202100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":2400.00},

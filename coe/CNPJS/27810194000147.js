@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72166100,"cnpj":"27810194000147","razao":"KELVES MESSIAS SILVA 11965000452","sit":"C","arrecadacao":150.00,"entradas":0.00,"saidas":173089.90,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"29/05/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72166100,"cnpj":"27810194000147","razao":"KELVES MESSIAS SILVA 11965000452","sit":"C","arrecadacao":150.00,"entradas":0.00,"saidas":173089.90,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"29/05/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"83300087000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3890.00},
 {"ie":0,"cnpj":"82560641615","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6500.00},

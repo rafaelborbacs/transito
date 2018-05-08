@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":71767592,"cnpj":"27606189000117","razao":"MARIA APARECIDA DA SILVA 10443748454","sit":"C","arrecadacao":0.00,"entradas":33000.00,"saidas":384979.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"02/05/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":71767592,"cnpj":"27606189000117","razao":"MARIA APARECIDA DA SILVA 10443748454","sit":"C","arrecadacao":0.00,"entradas":33000.00,"saidas":384979.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"02/05/2017","contador":""}];
 EntradasData.entradas = [{"ie":16261836,"cnpj":"35605732000190","razao":"JADIAEL LIMA BEZERRA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":33000.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"84741230000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":5500.00},
 {"ie":0,"cnpj":"79014178549","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5015.00},

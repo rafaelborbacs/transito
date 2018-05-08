@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72294531,"cnpj":"27891699000183","razao":"ANDERLITON BEZERRA DE CARVALHO ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":334642.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"09/06/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72294531,"cnpj":"27891699000183","razao":"ANDERLITON BEZERRA DE CARVALHO ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":334642.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"09/06/2017","contador":"ARIANE MANUELA SANTOS DE SOUZA SILVA FARIAS"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"98163450568","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1200.00},
 {"ie":0,"cnpj":"84389788434","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":944.00},

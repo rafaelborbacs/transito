@@ -22,6 +22,7 @@
 	var filtroRazao = "";
 	var filtroRegime = "";
 	var filtroSegmento = "";
+	var filtroContador = "";
 	EstabsData = {};
 	EstabsData.pagedReponse = function(settings){
 		var page = settings.data.page || 1;
@@ -56,6 +57,13 @@
 				data = data.filter(function(estab){return estab.segmento.toLowerCase().indexOf(filtroSegmento.replace("!","").toLowerCase()) == -1;});
 			} else {
 				data = data.filter(function(estab){return estab.segmento.toLowerCase().indexOf(filtroSegmento.toLowerCase()) !== -1;});
+			}
+		}
+		if(filtroContador != ""){
+			if(filtroContador[0] == "!"){
+				data = data.filter(function(estab){return estab.contador.toLowerCase().indexOf(filtroContador.replace("!","").toLowerCase()) == -1;});
+			} else {
+				data = data.filter(function(estab){return estab.contador.toLowerCase().indexOf(filtroContador.toLowerCase()) !== -1;});
 			}
 		}
 		if (data.length != 0){
@@ -107,6 +115,7 @@
 		filtroRazao = $('#estabRazao')[0].value;
 		filtroRegime = $('#estabRegime')[0].value;
 		filtroSegmento = $('#estabSegmento')[0].value;
+		filtroContador = $('#estabContador')[0].value;
 		$('#estabs-table').simple_datagrid('reload');
 	};
 </script>
@@ -123,11 +132,12 @@
 				<input type="button" value="LIMPAR" onclick="window.location.href = window.location.href;" />
 			</td>
 			<td>
-				IE: <input type="text" id="estabIE" onchange="onChangeEstab()" size="8"/> &nbsp;
+				IE: <input type="text" id="estabIE" onchange="onChangeEstab()" size="7"/> &nbsp;
 				CNPJ: <input type="text" id="estabCNPJ" onchange="onChangeEstab()" size="10"/>&nbsp;
 				RAZÃO: <input type="text" id="estabRazao" onchange="onChangeEstab()" size="14"/>&nbsp;
-				REGIME: <input type="text" id="estabRegime" onchange="onChangeEstab()" size="9"/> &nbsp;
+				REGIME: <input type="text" id="estabRegime" onchange="onChangeEstab()" size="7"/> &nbsp;
 				SEGMENTO: <input type="text" id="estabSegmento" onchange="onChangeEstab()" size="9"/>&nbsp;
+				CONTADOR: <input type="text" id="estabContador" onchange="onChangeEstab()" size="14"/>&nbsp;
 			</td>
 			<td align="center" width="300">
 				<input type="button" value="FILTRO" onclick="window.location.href = './filtro.html';" />
@@ -156,6 +166,7 @@
 							<th>MUNICIPIO</th>
 							<th>DATAIE</th>
 							<th>DRR</th>
+							<th>CONTADOR</th>
 						</tr>
 					</thead>
 				</table>

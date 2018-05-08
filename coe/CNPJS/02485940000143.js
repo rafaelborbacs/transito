@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":24663840,"cnpj":"02485940000143","razao":"MARIA LUIZA DA SILVA FRANCA MAGAZINE EPP","sit":"S","arrecadacao":0.00,"entradas":52.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BEZERROS","drr":"II","igi":1,"dataie":"05/05/1998"}];
+EstabelecimentoData.estabelecimento = [{"ie":24663840,"cnpj":"02485940000143","razao":"MARIA LUIZA DA SILVA FRANCA MAGAZINE EPP","sit":"S","arrecadacao":0.00,"entradas":52.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BEZERROS","drr":"II","igi":1,"dataie":"05/05/1998","contador":"ANDRE HENRIQUE DE VASCONCELOS PONTES"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"51460277000219","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":52.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"50613111400","nome":"MARIA LUIZA DA SILVA FRANCA","ie":45639647,"cnpj":"02485940000658","razao":"MARIA LUIZA DA SILVA FRANCA MAGAZINE EPP","sit":"B","regime":"NORMAL","municipio":"BEZERROS","igi":0},

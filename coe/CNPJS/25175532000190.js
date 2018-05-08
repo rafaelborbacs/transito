@@ -1,18 +1,19 @@
-EstabelecimentoData.estabelecimento = [{"ie":68023707,"cnpj":"25175532000190","razao":"VDR COMERCIO VAREJISTA DE ROUPAS LTDA ME","sit":"S","arrecadacao":31104.26,"entradas":519273.76,"saidas":39011.05,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"11/07/2016"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"55809172000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":154556.24},
-{"ie":0,"cnpj":"06223257000199","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2578.00},
-{"ie":0,"cnpj":"24178430000166","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":252.00},
-{"ie":0,"cnpj":"02310771000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3294.50},
-{"ie":0,"cnpj":"32601171000839","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7926.60},
+EstabelecimentoData.estabelecimento = [{"ie":68023707,"cnpj":"25175532000190","razao":"VDR COMERCIO VAREJISTA DE ROUPAS LTDA ME","sit":"S","arrecadacao":31104.26,"entradas":562159.98,"saidas":39011.05,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"11/07/2016","contador":"SIMONE MARTINS ARAUJO"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"07190470000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5551.00},
 {"ie":0,"cnpj":"03284458000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7329.60},
 {"ie":0,"cnpj":"86414133000553","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3909.54},
 {"ie":0,"cnpj":"06223257000270","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":24776.23},
+{"ie":0,"cnpj":"02310771000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3294.50},
+{"ie":0,"cnpj":"32601171000839","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7926.60},
+{"ie":0,"cnpj":"22631220000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":260.00},
+{"ie":0,"cnpj":"55809172000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":169283.24},
+{"ie":0,"cnpj":"18109440000147","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":19092.96},
 {"ie":0,"cnpj":"48047765000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":223924.71},
-{"ie":0,"cnpj":"22957514000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":16352.40},
-{"ie":0,"cnpj":"21064399000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":15696.00},
-{"ie":0,"cnpj":"13800201000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":35084.60},
-{"ie":0,"cnpj":"07190470000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5551.00},
-{"ie":0,"cnpj":"18109440000147","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":18042.34}];
+{"ie":0,"cnpj":"13800201000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":43951.20},
+{"ie":0,"cnpj":"22957514000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":29567.40},
+{"ie":0,"cnpj":"06223257000199","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2578.00},
+{"ie":0,"cnpj":"21064399000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":20463.00},
+{"ie":0,"cnpj":"24178430000166","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":252.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"55809172000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8891.00},
 {"ie":0,"cnpj":"48047765000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":30120.05}];
 SociosData.socios = [{"cpf":"59349107449","nome":"ANA STELLA ROSADO","ie":68023707,"cnpj":"25175532000190","razao":"VDR COMERCIO VAREJISTA DE ROUPAS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1},

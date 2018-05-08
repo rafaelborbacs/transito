@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":56931107,"cnpj":"19898206000109","razao":"CENTRAL DE ATACADOS TEXTEIS DO NORDESTE LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"19/03/2014"}];
+EstabelecimentoData.estabelecimento = [{"ie":56931107,"cnpj":"19898206000109","razao":"CENTRAL DE ATACADOS TEXTEIS DO NORDESTE LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"19/03/2014","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"15251651864","nome":"SONIA CRISTINA PAZ DE LIRA FONSECA","ie":56931107,"cnpj":"19898206000109","razao":"CENTRAL DE ATACADOS TEXTEIS DO NORDESTE LTDA","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},

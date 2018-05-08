@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":44769806,"cnpj":"12727145001573","razao":"GUARAVES GUARABIRA AVES LTDA","sit":"A","arrecadacao":0.00,"entradas":3.47,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"12/07/2011"}];
+EstabelecimentoData.estabelecimento = [{"ie":44769806,"cnpj":"12727145001573","razao":"GUARAVES GUARABIRA AVES LTDA","sit":"A","arrecadacao":0.00,"entradas":3.47,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"12/07/2011","contador":"EGLYS HERMESON DE ALMEIDA OLIVEIRA"}];
 EntradasData.entradas = [{"ie":53044827,"cnpj":"05423963002670","razao":"OI MOVEL S/A","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SAO PAULO","igi":0,"uf":"SP","valor":3.47}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"76074765472","nome":"VERONILDO COUTINHO DE SOUSA","ie":44769806,"cnpj":"12727145001573","razao":"GUARAVES GUARABIRA AVES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1},

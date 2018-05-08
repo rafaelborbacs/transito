@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":45370508,"cnpj":"14116625000128","razao":"B & L'S INDUSTRIA DE CONFECCOES LTDA ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"16/08/2011"}];
+EstabelecimentoData.estabelecimento = [{"ie":45370508,"cnpj":"14116625000128","razao":"B & L'S INDUSTRIA DE CONFECCOES LTDA ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"16/08/2011","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"03569449483","nome":"LUCIANA DE OLIVEIRA QUIRINO","ie":45370508,"cnpj":"14116625000128","razao":"B & L'S INDUSTRIA DE CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"SURUBIM","igi":1},

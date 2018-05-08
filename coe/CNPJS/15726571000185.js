@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":49212320,"cnpj":"15726571000185","razao":"RITA DE CASSIA DA SILVA","sit":"C","arrecadacao":7.68,"entradas":0.00,"saidas":97140.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"10/07/2012"}];
+EstabelecimentoData.estabelecimento = [{"ie":49212320,"cnpj":"15726571000185","razao":"RITA DE CASSIA DA SILVA","sit":"C","arrecadacao":7.68,"entradas":0.00,"saidas":97140.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"10/07/2012","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"73597732453","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1800.00},
 {"ie":0,"cnpj":"26890503000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":8850.00},

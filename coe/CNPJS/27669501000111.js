@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":71882855,"cnpj":"27669501000111","razao":"COSMO JOSE DA SILVA 86159232487","sit":"C","arrecadacao":0.00,"entradas":11440.00,"saidas":645674.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"08/05/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":71882855,"cnpj":"27669501000111","razao":"COSMO JOSE DA SILVA 86159232487","sit":"C","arrecadacao":0.00,"entradas":11440.00,"saidas":645674.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"08/05/2017","contador":""}];
 EntradasData.entradas = [{"ie":27397980,"cnpj":"03853964000170","razao":"VIA TEXTIL JORDAO MORAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":11440.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"85686948615","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":10000.00},
 {"ie":0,"cnpj":"83583690000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5000.00},

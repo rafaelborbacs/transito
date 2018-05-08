@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73286486,"cnpj":"28428507000160","razao":"COMERCIAL MIRANDIBA ALIMENTOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":1194310.40,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"MIRANDIBA","drr":"II","igi":1,"dataie":"16/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73286486,"cnpj":"28428507000160","razao":"COMERCIAL MIRANDIBA ALIMENTOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":1194310.40,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"MIRANDIBA","drr":"II","igi":1,"dataie":"16/08/2017","contador":""}];
 EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":1194310.40}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05935152428","nome":"GEOVANO JORGE DE LIMA","ie":73623075,"cnpj":"28580248000198","razao":"COMERCIAL BELMONTE MERCADOS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"SAO JOSE DO BELMONTE","igi":0},

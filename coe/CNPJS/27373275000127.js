@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":71280022,"cnpj":"27373275000127","razao":"M S DEZ LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"24/03/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":71280022,"cnpj":"27373275000127","razao":"M S DEZ LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"24/03/2017","contador":"MARIA FERREIRA ALVES"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"87970350410","nome":"SONIA MARIA ARAUJO PEREIRA","ie":74358782,"cnpj":"28965623000118","razao":"TUDO 12 COMERCIO VAREJISTA DE ROUPAS LTDA ME","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},

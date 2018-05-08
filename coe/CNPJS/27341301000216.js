@@ -1,12 +1,12 @@
-EstabelecimentoData.estabelecimento = [{"ie":73820903,"cnpj":"27341301000216","razao":"ALEX ARAUJO DE BARROS","sit":"S","arrecadacao":0.00,"entradas":668400.20,"saidas":748589.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"22/09/2017"}];
-EntradasData.entradas = [{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":52737.02},
-{"ie":73820733,"cnpj":"28388463000353","razao":"ANDRE FRANCISCO DA SILVA CONFECCOES","sit":"S","regime":"NORMAL","municipio":"VERTENTES","igi":1,"uf":"PE","valor":1.00},
-{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":30003.79},
-{"ie":71288198,"cnpj":"27376196000170","razao":"JOSEANE CRISTINA DE LEMOS","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1.00},
-{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":167399.39},
-{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":85249.02},
+EstabelecimentoData.estabelecimento = [{"ie":73820903,"cnpj":"27341301000216","razao":"ALEX ARAUJO DE BARROS","sit":"S","arrecadacao":0.00,"entradas":668400.20,"saidas":748589.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"22/09/2017","contador":""}];
+EntradasData.entradas = [{"ie":73820733,"cnpj":"28388463000353","razao":"ANDRE FRANCISCO DA SILVA CONFECCOES","sit":"S","regime":"NORMAL","municipio":"VERTENTES","igi":1,"uf":"PE","valor":1.00},
 {"ie":25534734,"cnpj":"02932830000182","razao":"KATIA CILENE DE LIMA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":80810.49},
-{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":252198.49}];
+{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":252198.49},
+{"ie":71288198,"cnpj":"27376196000170","razao":"JOSEANE CRISTINA DE LEMOS","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1.00},
+{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":85249.02},
+{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":52737.02},
+{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":30003.79},
+{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":167399.39}];
 SaidasData.saidas = [{"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1000.00},
 {"ie":0,"cnpj":"86695236000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":4500.00},
 {"ie":0,"cnpj":"80787819387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1030.00},

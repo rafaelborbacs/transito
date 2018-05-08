@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":75543117,"cnpj":"29528522000142","razao":"V. JUNIOR DE S. SILVA","sit":"C","arrecadacao":0.00,"entradas":1023149.05,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CASINHAS","drr":"II","igi":1,"dataie":"25/01/2018"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1023149.05}];
+EstabelecimentoData.estabelecimento = [{"ie":75543117,"cnpj":"29528522000142","razao":"V. JUNIOR DE S. SILVA","sit":"C","arrecadacao":0.00,"entradas":1488719.33,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CASINHAS","drr":"II","igi":1,"dataie":"25/01/2018","contador":"SANDRA APARECIDA SOARES DA SILVA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1488719.33}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71248844467","nome":"VERINALDO JUNIOR DE SOUZA SILVA","ie":75543117,"cnpj":"29528522000142","razao":"V. JUNIOR DE S. SILVA","sit":"C","regime":"NORMAL","municipio":"CASINHAS","igi":1}];
 EmailsData.emails = [{"cnpj":"29470775000102","email":"diretoria@gmail.com","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
@@ -7,6 +7,7 @@ EmailsData.emails = [{"cnpj":"29470775000102","email":"diretoria@gmail.com","raz
 TelsData.tels = [];
 PlacasData.placas = [{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"MUL6929","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+{"cnpj":"30146086000126","placa":"MUI3891","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"IAG8559","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"HZQ6869","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"HBP8989","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},

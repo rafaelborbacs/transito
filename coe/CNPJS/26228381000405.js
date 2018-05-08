@@ -1,6 +1,7 @@
-EstabelecimentoData.estabelecimento = [{"ie":76444341,"cnpj":"26228381000405","razao":"ROBERTA SIMONE DO NASCIMENTO","sit":"S","arrecadacao":0.00,"entradas":21184.00,"saidas":690275.20,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"23/03/2018"}];
+EstabelecimentoData.estabelecimento = [{"ie":76444341,"cnpj":"26228381000405","razao":"ROBERTA SIMONE DO NASCIMENTO","sit":"S","arrecadacao":0.00,"entradas":29484.00,"saidas":690275.20,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"23/03/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"03139476000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":7440.00},
-{"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":13744.00}];
+{"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":13744.00},
+{"ie":0,"cnpj":"19463715000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8300.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7050.00},
 {"ie":0,"cnpj":"94415056415","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1000.00},
 {"ie":0,"cnpj":"92561896668","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7030.00},
@@ -31,13 +32,13 @@ SaidasData.saidas = [{"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"36737468802","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4000.00},
 {"ie":0,"cnpj":"36397581888","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1250.00},
 {"ie":0,"cnpj":"35632897869","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7000.00},
-{"ie":0,"cnpj":"35223154134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1000.00},
+{"ie":0,"cnpj":"35223154134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1000.00},
 {"ie":0,"cnpj":"34712265000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":6070.00},
-{"ie":0,"cnpj":"34389293842","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1000.00},
+{"ie":0,"cnpj":"34389293842","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
 {"ie":0,"cnpj":"34326146168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6000.00},
-{"ie":0,"cnpj":"33197258827","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
+{"ie":0,"cnpj":"33197258827","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1000.00},
 {"ie":0,"cnpj":"32535382814","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7030.00},
-{"ie":0,"cnpj":"30727280899","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1500.00},
+{"ie":0,"cnpj":"30727280899","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1500.00},
 {"ie":0,"cnpj":"29925232000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":646.00},
 {"ie":0,"cnpj":"29864534000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":2050.00},
 {"ie":0,"cnpj":"29709970100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":11100.00},

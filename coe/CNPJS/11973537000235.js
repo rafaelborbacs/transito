@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":45082626,"cnpj":"11973537000235","razao":"C A V COMERCIAL IMPORTACAO E EXPORTACAO LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"01/08/2011"}];
+EstabelecimentoData.estabelecimento = [{"ie":45082626,"cnpj":"11973537000235","razao":"C A V COMERCIAL IMPORTACAO E EXPORTACAO LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"01/08/2011","contador":"JOAO CANDIDO DA COSTA FILHO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"65381467834","nome":"JULIO MANFREDINI","ie":46411917,"cnpj":"60745411001452","razao":"CAPRICORNIO S/A","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0},

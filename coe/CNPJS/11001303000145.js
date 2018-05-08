@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":38295539,"cnpj":"11001303000145","razao":"NOBRART INDUSTRIA E COMERCIO LTDA","sit":"C","arrecadacao":0.00,"entradas":1639.94,"saidas":125497.37,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"12/08/2009"}];
+EstabelecimentoData.estabelecimento = [{"ie":38295539,"cnpj":"11001303000145","razao":"NOBRART INDUSTRIA E COMERCIO LTDA","sit":"C","arrecadacao":0.00,"entradas":1639.94,"saidas":125497.37,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"12/08/2009","contador":"ABDON ABEL DE LIMA"}];
 EntradasData.entradas = [{"ie":15994376,"cnpj":"11840303000139","razao":"NOVO MUNDO CAMINHOES E EQUIPAMENTOS RODOVIARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":10.00},
 {"ie":0,"cnpj":"96212048000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1629.94}];
 SaidasData.saidas = [{"ie":6703674,"cnpj":"09930165001885","razao":"CREDIMOVEIS NOVOLAR LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":125497.37}];

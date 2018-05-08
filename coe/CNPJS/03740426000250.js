@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":59975423,"cnpj":"03740426000250","razao":"TOK STAR INDUSTRIA E COMERCIO DE CONFECCOES LTDA ME","sit":"A","arrecadacao":0.00,"entradas":7250.00,"saidas":103295.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"06/11/2014"}];
+EstabelecimentoData.estabelecimento = [{"ie":59975423,"cnpj":"03740426000250","razao":"TOK STAR INDUSTRIA E COMERCIO DE CONFECCOES LTDA ME","sit":"A","arrecadacao":0.00,"entradas":7250.00,"saidas":103295.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"06/11/2014","contador":"JOSE LUCIANO DA COSTA GOIS"}];
 EntradasData.entradas = [{"ie":41899229,"cnpj":"03740426000170","razao":"TOK STAR INDUSTRIA E COMERCIO DE CONFECCOES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":7250.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"87320452391","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1045.03},
 {"ie":0,"cnpj":"81077289391","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":441.00},

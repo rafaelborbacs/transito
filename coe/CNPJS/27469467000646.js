@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":75807548,"cnpj":"27469467000646","razao":"FABIANO BERTO DE SOUZA SILVA EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":243566.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"16/02/2018"}];
+EstabelecimentoData.estabelecimento = [{"ie":75807548,"cnpj":"27469467000646","razao":"FABIANO BERTO DE SOUZA SILVA EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":243566.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"16/02/2018","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"92561896668","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7030.00},
 {"ie":0,"cnpj":"90449649687","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":6990.00},

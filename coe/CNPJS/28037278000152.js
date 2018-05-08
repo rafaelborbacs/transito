@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72507039,"cnpj":"28037278000152","razao":"NORDESTINA COMERCIO DE MATERIAIS DE CONSTRUCOES LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":2263218.25,"regime":"NORMAL","segmento":"MATERIAL DE CONSTRUCAO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"26/06/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72507039,"cnpj":"28037278000152","razao":"NORDESTINA COMERCIO DE MATERIAIS DE CONSTRUCOES LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":2263218.25,"regime":"NORMAL","segmento":"MATERIAL DE CONSTRUCAO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"26/06/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"88038297415","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2000.48},
 {"ie":72767456,"cnpj":"69896090001461","razao":"VENEZA MATERIAL DE CONSTRUCAO LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":3500.00},

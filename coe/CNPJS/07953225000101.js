@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":33728631,"cnpj":"07953225000101","razao":"CLEONICE S DA SILVA TECIDOS ME","sit":"A","arrecadacao":0.00,"entradas":720.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"28/04/2006"}];
+EstabelecimentoData.estabelecimento = [{"ie":33728631,"cnpj":"07953225000101","razao":"CLEONICE S DA SILVA TECIDOS ME","sit":"A","arrecadacao":0.00,"entradas":720.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"28/04/2006","contador":"CAMILA CAMARGO GODINHO"}];
 EntradasData.entradas = [{"ie":72364092,"cnpj":"27919155000182","razao":"ALISSON FEITOSA RIBEIRO 70262302470","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":720.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08102171472","nome":"CLEONICE SANTANA FELIPE","ie":43504132,"cnpj":"11036298000297","razao":"C TEXTIL COMERCIO DE TECIDOS LTDA","sit":"B","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},

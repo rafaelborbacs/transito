@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":36681008,"cnpj":"09610773000164","razao":"MJ COMERCIO IMPORTACAO E EXPORTACAO DE ALIMENTOS LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"18/06/2008"}];
+EstabelecimentoData.estabelecimento = [{"ie":36681008,"cnpj":"09610773000164","razao":"MJ COMERCIO IMPORTACAO E EXPORTACAO DE ALIMENTOS LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"18/06/2008","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"70039175480","nome":"JOSE DARIO DA SILVA","ie":36681008,"cnpj":"09610773000164","razao":"MJ COMERCIO IMPORTACAO E EXPORTACAO DE ALIMENTOS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},

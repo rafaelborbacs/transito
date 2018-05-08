@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":48661260,"cnpj":"15528343000109","razao":"TIAGO & SILVIA CONFECCOES LTDA ME","sit":"C","arrecadacao":345.26,"entradas":5739.65,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"PALMARES","drr":"I","igi":1,"dataie":"18/05/2012"}];
+EstabelecimentoData.estabelecimento = [{"ie":48661260,"cnpj":"15528343000109","razao":"TIAGO & SILVIA CONFECCOES LTDA ME","sit":"C","arrecadacao":345.26,"entradas":5739.65,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"PALMARES","drr":"I","igi":1,"dataie":"18/05/2012","contador":"ELISABETE MARIA DO NASCIMENTO"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"80415433000147","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":2619.24},
 {"ie":0,"cnpj":"04000085000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":3120.41}];
 SaidasData.saidas = [];

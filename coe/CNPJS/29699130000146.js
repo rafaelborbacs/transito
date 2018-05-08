@@ -1,9 +1,11 @@
-EstabelecimentoData.estabelecimento = [{"ie":75809672,"cnpj":"29699130000146","razao":"FABIO M. DA SILVA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ALTINHO","drr":"II","igi":1,"dataie":"16/02/2018"}];
-EntradasData.entradas = [];
+EstabelecimentoData.estabelecimento = [{"ie":75809672,"cnpj":"29699130000146","razao":"FABIO M. DA SILVA","sit":"C","arrecadacao":0.00,"entradas":1018273.30,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ALTINHO","drr":"II","igi":1,"dataie":"16/02/2018","contador":"SANDRA APARECIDA SOARES DA SILVA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"09137485000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":34594.32},
+{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":983678.98}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10574393471","nome":"FABIO MANOEL DA SILVA","ie":75809672,"cnpj":"29699130000146","razao":"FABIO M. DA SILVA","sit":"C","regime":"NORMAL","municipio":"ALTINHO","igi":1}];
 EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"MARCOS CANDIDO DE LIMA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"94849781420","email":"marcos@gmail.com","razao":"MARCOS ALEXANDRE DA SILVA","municipio":"RECIFE"},
+{"cnpj":"86900544487","email":"marcos@gmail.com","razao":"MARCOS SILVA","municipio":"RECIFE"},
 {"cnpj":"78113202404","email":"marcos@gmail.com","razao":"Marcos Andre Dos Santos Braga","municipio":"Canhotinho"},
 {"cnpj":"76995844491","email":"marcos@gmail.com","razao":"MARCOS ANTONIO - Cod. 0411653","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"74273140420","email":"marcos@gmail.com","razao":"MARCOS ANTONIO DA SILVA","municipio":"CAETES"},
@@ -29,6 +31,7 @@ TelsData.tels = [{"cnpj":"12463838000109","tel":"8137391120","razao":"VERA LUCIA
 {"cnpj":"04378988810","tel":"8137391120","razao":"VERA LUCIA JESUS DA COSTA LUCIO","municipio":"ALTINHO"}];
 PlacasData.placas = [{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"MUL6929","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+{"cnpj":"30146086000126","placa":"MUI3891","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"IAG8559","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"HBP8989","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"29697512000130","placa":"NMG8454","razao":"DARLAN J DA SILVA","municipio":"JUPI"},

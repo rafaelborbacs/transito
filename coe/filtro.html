@@ -10,7 +10,7 @@
 	<script language="javascript">
 	var EstabsData = {};
 	var estab = null;
-	var iEstab;
+	var iEstab = -1;
 	function filtro(entradas, saidas, socios, emails, tels, placas){
 		var ret = true;
 		if(document.getElementById('regime').value != ""){
@@ -37,25 +37,40 @@
 		if(document.getElementById('placas').checked){
 			ret = ret && placas.length > 0;
 		}
+		if(document.getElementById('contadors').checked){
+			ret = ret && estab.contador != null && estab.contador != "";
+		}
 		if(document.getElementById('drr').value != ""){
 			ret = ret && estab.drr.trim() == document.getElementById('drr').value;
+		}
+		if(document.getElementById('placa').value != ""){
+			var achou = false;
+			placas.forEach(function(obj, index, arr){achou = achou || obj.placa.indexOf(document.getElementById('placa').value.toUpperCase()) !== -1;});
+			ret = ret && achou;
+		}
+		if(document.getElementById('email').value != ""){
+			var achou = false;
+			emails.forEach(function(obj, index, arr){achou = achou || obj.email.indexOf(document.getElementById('email').value.toUpperCase()) !== -1;});
+			ret = ret && achou;
+		}
+		if(document.getElementById('tel').value != ""){
+			var achou = false;
+			tels.forEach(function(obj, index, arr){achou = achou || obj.tel.indexOf(document.getElementById('tel').value.toUpperCase()) !== -1;});
+			ret = ret && achou;
 		}
 		if(!ret){
 			proximo();
 		}
 	};
 	function proximo(){
-		if(estab == null){
-			iEstab = 0;
+		iEstab++;
+		if(iEstab < EstabsData.estabs.length){
+			estab = EstabsData.estabs[iEstab];
+			document.getElementById('iframe').src = "./vinculos.html?fcnpj=" + estab.cnpj;
 		} else {
-			if((iEstab+1) <= EstabsData.estabs.length){
-				iEstab++;
-			} else {
-				alert("Fim");
-			}
+			alert("FIM DA LISTA");
+			window.location.href = "./filtro.html";
 		}
-		estab = EstabsData.estabs[iEstab];
-		document.getElementById('iframe').src = "./vinculos.html?fcnpj=" + estab.cnpj;
 	};
 	function onLoadFct(){
 		proximo();
@@ -67,21 +82,25 @@
     <div class="container" style="text-align: center">
 		<table border="0" width="100%" style="background-color: #e8fcf9; height: 30px;">
 			<tr valign="middle">
-			<td width="900">
-				REGIME: <input type="text" id="regime" size="9"/> &nbsp;
-				SEGMENTO: <input type="text" id="segmento" size="9"/>&nbsp;
-				ENTRADAS <input type="checkbox" id="entradas" />&nbsp;
-				SAÍDAS <input type="checkbox" id="saidas" />&nbsp;
-				+SÓCIOS <input type="checkbox" id="socios" />&nbsp;
-				EMAILS <input type="checkbox" id="emails" />&nbsp;
-				TELEFONES <input type="checkbox" id="tels" />&nbsp;
-				PLACAS <input type="checkbox" id="placas" />&nbsp;
+			<td width="1200">
+				REGIME: <input type="text" id="regime" size="5"/> &nbsp;
+				SEGMENTO: <input type="text" id="segmento" size="7"/>&nbsp;
+				ENTRADAS? <input type="checkbox" id="entradas" />&nbsp;
+				SAÍDAS? <input type="checkbox" id="saidas" />&nbsp;
+				+SÓCIOS? <input type="checkbox" id="socios" />&nbsp;
+				EMAILS? <input type="checkbox" id="emails" />&nbsp;
+				TELEFONES? <input type="checkbox" id="tels" />&nbsp;
+				PLACAS? <input type="checkbox" id="placas" />&nbsp;
+				CONTADOR? <input type="checkbox" id="contadors" />&nbsp;
 				DRR <select id="drr">
-						<option value="">*TODAS*</option>
-						<option value="I">I</option>
-						<option value="II">II</option>
-						<option value="III">III</option>
-					</select>
+					<option value="">*TODAS*</option>
+					<option value="I">I</option>
+					<option value="II">II</option>
+					<option value="III">III</option>
+				</select> &nbsp;
+				PLACA: <input type="text" id="placa" size="5"/> &nbsp;
+				EMAIL: <input type="text" id="email" size="9"/> &nbsp;
+				TEL: <input type="text" id="tel" size="6"/> &nbsp;
 			</td><td>
 				<input type="button" value="PROXIMO" onclick="proximo();" />
 			</td></tr>

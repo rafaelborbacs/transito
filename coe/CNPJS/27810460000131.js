@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72166533,"cnpj":"27810460000131","razao":"JOSEFA ELANIA DA SILVA 08911335428","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":456678.85,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"29/05/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72166533,"cnpj":"27810460000131","razao":"JOSEFA ELANIA DA SILVA 08911335428","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":456678.85,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"29/05/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6000.00},
 {"ie":0,"cnpj":"83313643000112","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4500.00},

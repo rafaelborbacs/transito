@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74350455,"cnpj":"28950489000181","razao":"NORDESTE COMERCIO DE DOCES, BALAS E BOMBONS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"27/10/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74350455,"cnpj":"28950489000181","razao":"NORDESTE COMERCIO DE DOCES, BALAS E BOMBONS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"27/10/2017","contador":"ANDERSON ROBERTO  DE ALBUQUERQUE"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71761349449","nome":"VICTOR CLEMENTE SETTE DE OLIVEIRA CARVALHO","ie":74350455,"cnpj":"28950489000181","razao":"NORDESTE COMERCIO DE DOCES, BALAS E BOMBONS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},

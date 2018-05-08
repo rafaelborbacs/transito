@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":49330446,"cnpj":"15871129000142","razao":"M.F INDUSTRIA E COMERCIO DE ARTEFATOS DE PLASTICOS E MADEIRA LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"CARUARU","drr":"II","igi":1,"dataie":"17/07/2012"}];
+EstabelecimentoData.estabelecimento = [{"ie":49330446,"cnpj":"15871129000142","razao":"M.F INDUSTRIA E COMERCIO DE ARTEFATOS DE PLASTICOS E MADEIRA LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"CARUARU","drr":"II","igi":1,"dataie":"17/07/2012","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"64148033400","nome":"MARIA CLAUDIA CAVALCANTI BARROS","ie":67494617,"cnpj":"24846843000171","razao":"FPG INDUSTRIA E COMERCIO DE UTENSILIOS DOMESTICO EIRELI","sit":"A","regime":"SIMPLES","municipio":"GRAVATA","igi":0},

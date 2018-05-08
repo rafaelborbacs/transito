@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72861045,"cnpj":"28199952000103","razao":"COMERCIAL LUIZ PAULO DA SILVA EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":47633.57,"saidas":3115329.01,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"LAGOA DO ITAENGA","drr":"I","igi":1,"dataie":"18/07/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72861045,"cnpj":"28199952000103","razao":"COMERCIAL LUIZ PAULO DA SILVA EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":47633.57,"saidas":3115329.01,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"LAGOA DO ITAENGA","drr":"I","igi":1,"dataie":"18/07/2017","contador":""}];
 EntradasData.entradas = [{"ie":54954231,"cnpj":"19069853000108","razao":"AGRESTEMIL INDUSTRIA E COMERCIO DE ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":9920.00},
 {"ie":29748003,"cnpj":"40884595000290","razao":"COMERCIAL OESTE LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":37713.57}];
 SaidasData.saidas = [{"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H DA COSTA MERCEARIA ME","sit":"A","regime":"NORMAL","municipio":"CHA DE ALEGRIA","igi":0,"uf":"PE","valor":60318.67},
@@ -27,11 +27,11 @@ SaidasData.saidas = [{"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H
 {"ie":36733679,"cnpj":"09638485000118","razao":"MERCANTIL DE ALIMENTOS AMORIM LTDA  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":71302.91},
 {"ie":44610610,"cnpj":"09457781000112","razao":"TAVARES PADARIA E MERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":65183.87},
 {"ie":36152358,"cnpj":"09308170000102","razao":"MERCADINHO LEITE E AMORIM LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":95140.00},
-{"ie":35253843,"cnpj":"08851612000108","razao":"FILIZZOLA COMERCIO E IMPORTACAO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":142793.40},
+{"ie":35253843,"cnpj":"08851612000108","razao":"FILIZZOLA COMERCIO E IMPORTACAO DE ALIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":142793.40},
 {"ie":54861144,"cnpj":"08435684000247","razao":"EMBREPAR AUTOMOTIVA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":180.00},
 {"ie":34128220,"cnpj":"08217881000109","razao":"SELEMAR COMERCIO DE PRODUTOS FARMACEUTICOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":629.64},
 {"ie":51944588,"cnpj":"08098154000170","razao":"RODRIGUES DA SILVA PADARIA E MERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":65268.27},
-{"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":95159.76},
+{"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":95159.76},
 {"ie":31138250,"cnpj":"06196381000102","razao":"RADAR MERCANTIL LTDA - ME","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":1,"uf":"PE","valor":526882.50},
 {"ie":28590929,"cnpj":"04670090000189","razao":"ARENA MM COMERCIAL EIRELI","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":332080.00},
 {"ie":26592550,"cnpj":"03474398000196","razao":"COMERCIAL F K LTDA","sit":"A","regime":"NORMAL","municipio":"RIO FORMOSO","igi":0,"uf":"PE","valor":3951.50},

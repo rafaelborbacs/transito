@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74807099,"cnpj":"29136885000132","razao":"SEVERINO SILVA DO NASCIMENTO 02559375478","sit":"C","arrecadacao":0.00,"entradas":95626.33,"saidas":910460.76,"regime":"SIMEI","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"29/11/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74807099,"cnpj":"29136885000132","razao":"SEVERINO SILVA DO NASCIMENTO 02559375478","sit":"C","arrecadacao":0.00,"entradas":95626.33,"saidas":910460.76,"regime":"SIMEI","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"29/11/2017","contador":""}];
 EntradasData.entradas = [{"ie":57031231,"cnpj":"04947656000339","razao":"PETROPOLIS TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":43734.92},
 {"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":29374.47},
 {"ie":42347904,"cnpj":"12871997000134","razao":"J M TECIDOS E AVIAMENTOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":22516.94}];

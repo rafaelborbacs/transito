@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":75784076,"cnpj":"27174665000500","razao":"VANESSA BATISTA DE SALES","sit":"S","arrecadacao":0.00,"entradas":171495.93,"saidas":1312745.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"06/02/2018"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":55195.99},
-{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":116299.94}];
+EstabelecimentoData.estabelecimento = [{"ie":75784076,"cnpj":"27174665000500","razao":"VANESSA BATISTA DE SALES","sit":"S","arrecadacao":0.00,"entradas":171495.93,"saidas":1312745.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"06/02/2018","contador":""}];
+EntradasData.entradas = [{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":116299.94},
+{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":55195.99}];
 SaidasData.saidas = [{"ie":0,"cnpj":"96320354968","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1000.00},
 {"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7050.00},
 {"ie":0,"cnpj":"90727681672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7050.00},

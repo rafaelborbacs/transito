@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":36273651,"cnpj":"09369107000186","razao":"FEITO A MAO INDUSTRIA E COMERCIO DE PRODUTOS SUSTENTAVEIS EIRELI","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"28/02/2008"}];
+EstabelecimentoData.estabelecimento = [{"ie":36273651,"cnpj":"09369107000186","razao":"FEITO A MAO INDUSTRIA E COMERCIO DE PRODUTOS SUSTENTAVEIS EIRELI","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"28/02/2008","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05761317419","nome":"NATALIA CASSIMIRO DOS SANTOS","ie":36273651,"cnpj":"09369107000186","razao":"FEITO A MAO INDUSTRIA E COMERCIO DE PRODUTOS SUSTENTAVEIS EIRELI","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1},

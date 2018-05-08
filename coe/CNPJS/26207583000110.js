@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":69107009,"cnpj":"26207583000110","razao":"ADRIANA PATRICIO DA SILVA 04548169440","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":91309.25,"regime":"SIMEI","segmento":"VAREJO","municipio":"CABO DE SANTO AGOSTINHO","drr":"I","igi":1,"dataie":"26/09/2016"}];
+EstabelecimentoData.estabelecimento = [{"ie":69107009,"cnpj":"26207583000110","razao":"ADRIANA PATRICIO DA SILVA 04548169440","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":91309.25,"regime":"SIMEI","segmento":"VAREJO","municipio":"CABO DE SANTO AGOSTINHO","drr":"I","igi":1,"dataie":"26/09/2016","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"11609799000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1599.76},
 {"ie":0,"cnpj":"11497394000151","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":5964.00},

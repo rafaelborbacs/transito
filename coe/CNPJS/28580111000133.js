@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73621374,"cnpj":"28580111000133","razao":"CRISTIANE DE SENA RAMOS ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":287082.20,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"05/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73621374,"cnpj":"28580111000133","razao":"CRISTIANE DE SENA RAMOS ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":287082.20,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"05/09/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":19363524,"cnpj":"69930667000190","razao":"A J ALMEIDA FREIRE","sit":"A","regime":"NORMAL","municipio":"BUIQUE","igi":0,"uf":"PE","valor":1550.00},
 {"ie":73289825,"cnpj":"28399680000187","razao":"D'CASA PRODUTOS ALIMENTICIOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"BEZERROS","igi":0,"uf":"PE","valor":1234.00},

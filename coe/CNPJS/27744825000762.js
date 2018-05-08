@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":75432803,"cnpj":"27744825000762","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"S","arrecadacao":0.00,"entradas":43278.19,"saidas":346023.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"18/01/2018"}];
+EstabelecimentoData.estabelecimento = [{"ie":75432803,"cnpj":"27744825000762","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"S","arrecadacao":0.00,"entradas":43278.19,"saidas":346023.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"18/01/2018","contador":""}];
 EntradasData.entradas = [{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":43278.19}];
 SaidasData.saidas = [{"ie":0,"cnpj":"95059660168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":405.50},
 {"ie":0,"cnpj":"86895630678","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7100.00},

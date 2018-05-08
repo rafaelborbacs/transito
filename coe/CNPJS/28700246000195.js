@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73897108,"cnpj":"28700246000195","razao":"LUIZ HENRIQUE PEREIRA BISPO 09026389477","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":791356.40,"regime":"SIMEI","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"25/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73897108,"cnpj":"28700246000195","razao":"LUIZ HENRIQUE PEREIRA BISPO 09026389477","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":791356.40,"regime":"SIMEI","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"25/09/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"97749842772","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":800.00},
 {"ie":0,"cnpj":"97290343204","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":500.00},

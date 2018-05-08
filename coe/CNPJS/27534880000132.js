@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72070188,"cnpj":"27534880000132","razao":"JHONATTA AMARAL VAZ 70033700184","sit":"A","arrecadacao":0.00,"entradas":8210.40,"saidas":717096.14,"regime":"SIMEI","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"22/05/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72070188,"cnpj":"27534880000132","razao":"JHONATTA AMARAL VAZ 70033700184","sit":"A","arrecadacao":0.00,"entradas":8210.40,"saidas":717096.14,"regime":"SIMEI","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"22/05/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"02714092000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":410.40},
 {"ie":0,"cnpj":"22617699000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":800.00},
 {"ie":34255176,"cnpj":"08304254000105","razao":"NATHALI DE FATIMA VASCONCELOS TAVARES","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":7000.00}];

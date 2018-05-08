@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73705470,"cnpj":"28609744000127","razao":"GILDO CLAUDIO FERREIRA ME","sit":"S","arrecadacao":0.00,"entradas":8931.00,"saidas":0.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"15/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73705470,"cnpj":"28609744000127","razao":"GILDO CLAUDIO FERREIRA ME","sit":"S","arrecadacao":0.00,"entradas":8931.00,"saidas":0.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"15/09/2017","contador":"CROMACIO RIBEIRO DE MORAES FILHO"}];
 EntradasData.entradas = [{"ie":34530061,"cnpj":"00693182000204","razao":"EDJANE NUNES DE ARAUJO ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":8931.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"12656666449","nome":"GILDO CLAUDIO FERREIRA","ie":73705470,"cnpj":"28609744000127","razao":"GILDO CLAUDIO FERREIRA ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1},

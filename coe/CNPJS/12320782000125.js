@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":45206708,"cnpj":"12320782000125","razao":"ARTSEG - COMERCIO ATACADISTA DE EQUIPAMENTOS DE PROTECAO LTDA ME","sit":"S","arrecadacao":0.00,"entradas":634.42,"saidas":8153.70,"regime":"NORMAL","segmento":"TECIDOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"08/08/2011"}];
+EstabelecimentoData.estabelecimento = [{"ie":45206708,"cnpj":"12320782000125","razao":"ARTSEG - COMERCIO ATACADISTA DE EQUIPAMENTOS DE PROTECAO LTDA ME","sit":"S","arrecadacao":0.00,"entradas":634.42,"saidas":8153.70,"regime":"NORMAL","segmento":"TECIDOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"08/08/2011","contador":"VERA LUCIA DE SOUZA"}];
 EntradasData.entradas = [{"ie":32283040,"cnpj":"07264693000179","razao":"RENASCER MERCANTIL FERRAGISTA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":634.42}];
 SaidasData.saidas = [{"ie":0,"cnpj":"61099826000578","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":480.00},
 {"ie":0,"cnpj":"35349778000276","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1375.50},

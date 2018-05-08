@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":63812436,"cnpj":"23158624000137","razao":"JR MATERIAL DE CONSTRUCAO - EIRELI EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":279037.70,"regime":"NORMAL","segmento":"MATERIAL DE CONSTRUCAO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"27/08/2015"}];
+EstabelecimentoData.estabelecimento = [{"ie":63812436,"cnpj":"23158624000137","razao":"JR MATERIAL DE CONSTRUCAO - EIRELI EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":279037.70,"regime":"NORMAL","segmento":"MATERIAL DE CONSTRUCAO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"27/08/2015","contador":"JOSIAS PEREIRA DE MORAES"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":18168450,"cnpj":"41043399000175","razao":"ARCON ARAUJO CONSTRUCOES LIMITADA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1022.70},
 {"ie":0,"cnpj":"19503607000112","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":38000.00},

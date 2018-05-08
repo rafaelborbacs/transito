@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":61843750,"cnpj":"02016260000776","razao":"R Z AFRETAMENTOS E MODA EIRELI","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"01/04/2015"}];
+EstabelecimentoData.estabelecimento = [{"ie":61843750,"cnpj":"02016260000776","razao":"R Z AFRETAMENTOS E MODA EIRELI","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"01/04/2015","contador":"FLAVIO CESARIO DE BARROS"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"11502879859","nome":"ALEXANDRE RUAS","ie":67491359,"cnpj":"06332036000159","razao":"SHIP TOUR VIAGENS E TURISMO LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},

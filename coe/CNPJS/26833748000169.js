@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":70173915,"cnpj":"26833748000169","razao":"A P DE OLIVEIRA RECICLAVEIS EIRELI EPP","sit":"S","arrecadacao":704.00,"entradas":1066489.28,"saidas":136629803.40,"regime":"NORMAL","segmento":"ATACADO","municipio":"CARPINA","drr":"I","igi":1,"dataie":"10/01/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":70173915,"cnpj":"26833748000169","razao":"A P DE OLIVEIRA RECICLAVEIS EIRELI EPP","sit":"S","arrecadacao":704.00,"entradas":1066489.28,"saidas":136629803.40,"regime":"NORMAL","segmento":"ATACADO","municipio":"CARPINA","drr":"I","igi":1,"dataie":"10/01/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"25878901000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":10794.28},
 {"ie":61762911,"cnpj":"22148896000193","razao":"AGRINLOG AMBIENTAL PERNAMBUCO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":923695.00},
 {"ie":0,"cnpj":"16718518000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":132000.00}];

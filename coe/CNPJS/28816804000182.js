@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74138669,"cnpj":"28816804000182","razao":"DAVID BERNARDINO DE OLIVEIRA 70337228426","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":420808.94,"regime":"SIMEI","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"10/10/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74138669,"cnpj":"28816804000182","razao":"DAVID BERNARDINO DE OLIVEIRA 70337228426","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":420808.94,"regime":"SIMEI","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"10/10/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"98798006053","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":500.00},
 {"ie":0,"cnpj":"96425326204","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":500.00},

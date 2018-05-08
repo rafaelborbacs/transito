@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72880341,"cnpj":"27016125000328","razao":"AMANDA KELLY DO NASCIMENTO SILVA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":581682.65,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"24/07/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72880341,"cnpj":"27016125000328","razao":"AMANDA KELLY DO NASCIMENTO SILVA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":581682.65,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"24/07/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"97548852000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
 {"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},

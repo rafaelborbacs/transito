@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":29389526,"cnpj":"03965559000225","razao":"FEMEA MODAS LTDA - EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"30/08/2002"}];
+EstabelecimentoData.estabelecimento = [{"ie":29389526,"cnpj":"03965559000225","razao":"FEMEA MODAS LTDA - EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"30/08/2002","contador":"CARLOMANO GOMES DA SILVA JUNIOR"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"74439375472","nome":"MARCELO PERES DA SILVA","ie":47621184,"cnpj":"03965559000578","razao":"FEMEA MODAS LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},

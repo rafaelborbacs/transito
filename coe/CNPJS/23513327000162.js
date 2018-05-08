@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":64671640,"cnpj":"23513327000162","razao":"MARIA DE FATIMA LOPES MOTA ME","sit":"C","arrecadacao":0.00,"entradas":12419.78,"saidas":30824.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"22/10/2015"}];
+EstabelecimentoData.estabelecimento = [{"ie":64671640,"cnpj":"23513327000162","razao":"MARIA DE FATIMA LOPES MOTA ME","sit":"C","arrecadacao":0.00,"entradas":12419.78,"saidas":30824.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"22/10/2015","contador":""}];
 EntradasData.entradas = [{"ie":18699812,"cnpj":"40838658000191","razao":"ARA TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":12419.78}];
 SaidasData.saidas = [{"ie":0,"cnpj":"46250411003070","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":3847.50},
 {"ie":0,"cnpj":"46250411002007","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":3685.50},

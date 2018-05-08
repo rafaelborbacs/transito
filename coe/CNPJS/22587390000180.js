@@ -1,11 +1,11 @@
-EstabelecimentoData.estabelecimento = [{"ie":62768905,"cnpj":"22587390000180","razao":"DANIELA DOS SANTOS SILVA 09268528410","sit":"B","arrecadacao":1.00,"entradas":236937.85,"saidas":0.00,"regime":"NORMAL","segmento":"VAREJO","municipio":"OLINDA","drr":"I","igi":1,"dataie":"08/06/2015"}];
+EstabelecimentoData.estabelecimento = [{"ie":62768905,"cnpj":"22587390000180","razao":"DANIELA DOS SANTOS SILVA 09268528410","sit":"B","arrecadacao":1.00,"entradas":236937.85,"saidas":0.00,"regime":"NORMAL","segmento":"VAREJO","municipio":"OLINDA","drr":"I","igi":1,"dataie":"08/06/2015","contador":""}];
 EntradasData.entradas = [{"ie":48654647,"cnpj":"40881070000897","razao":"PALMARES PRODUTOS RURAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":47683.34},
-{"ie":38392496,"cnpj":"10960053000108","razao":"FOCUS DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":88157.64},
 {"ie":0,"cnpj":"17318286000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1027.19},
+{"ie":63780569,"cnpj":"08471163001136","razao":"FVO BRASILIA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":31710.12},
+{"ie":38392496,"cnpj":"10960053000108","razao":"FOCUS DISTRIBUIDORA LTDA","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":88157.64},
 {"ie":64487989,"cnpj":"23426301000187","razao":"NEWPET DISTRIBUIDORA DE RACOES EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":236.95},
-{"ie":54876095,"cnpj":"19087336000161","razao":"DISMEV - DISTRIBUIDORA DE MEDICAMENTOS VETERINARIOS LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1880.89},
 {"ie":29398274,"cnpj":"05157816000147","razao":"E.B.A DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":66241.72},
-{"ie":63780569,"cnpj":"08471163001136","razao":"FVO BRASILIA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":31710.12}];
+{"ie":54876095,"cnpj":"19087336000161","razao":"DISMEV - DISTRIBUIDORA DE MEDICAMENTOS VETERINARIOS LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1880.89}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09268528410","nome":"DANIELA DOS SANTOS SILVA","ie":62768905,"cnpj":"22587390000180","razao":"DANIELA DOS SANTOS SILVA 09268528410","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":1},
 {"cpf":"09268528410","nome":"DANIELA DOS SANTOS SILVA","ie":53274903,"cnpj":"18256342000132","razao":"DANIELA DOS SANTOS SILVA 09268528410","sit":"B","regime":"NORMAL","municipio":"IGARASSU","igi":0}];
@@ -18,13 +18,16 @@ PlacasData.placas = [{"cnpj":"83379215449","placa":"PGH3283","razao":"ANA ELIZAB
 {"cnpj":"32138091449","placa":"PGH3283","razao":"SILVANA BRITO MAIA","municipio":"PAULISTA"},
 {"cnpj":"28545102000101","placa":"PGH3283","razao":"ROSENILDA ZILDA DE OLIVEIRA","municipio":"RECIFE"},
 {"cnpj":"26804873000140","placa":"PFN0480","razao":"IRACI PUREZA DOS SANTOS SILVA","municipio":"OLINDA"},
+{"cnpj":"25180532000189","placa":"PGH3283","razao":"FRANCISCO MARCOS NUNES FERRAZ","municipio":"RECIFE"},
 {"cnpj":"24391278000103","placa":"PGH3283","razao":"A V BRITO ME","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"23529398000153","placa":"PGH3283","razao":"AGUINALDO J L GUIMARAES FILHO","municipio":"RECIFE"},
+{"cnpj":"19193402000188","placa":"PGH3283","razao":"A L DE S BARBOSA MERCADNHO ME","municipio":"RECIFE"},
 {"cnpj":"18569297000176","placa":"PGH3283","razao":"EDINALDO B DE SOUZA JUNIOR ME","municipio":"SAO LOURENCO DA MATA"},
 {"cnpj":"15021932000198","placa":"PGH3283","razao":"MARIA CRISTIANE F M FARMACIA ME","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"14197060000150","placa":"PGH3283","razao":"SOUZA E MELO SUPERMERCADO LTDA","municipio":"OLINDA"},
 {"cnpj":"14019721000158","placa":"PGH3283","razao":"M G COMERCIO DE COSMETICOS LTDA","municipio":"RECIFE"},
 {"cnpj":"13786061000178","placa":"PGH3283","razao":"D S M DE ASSIS ME","municipio":"OLINDA"},
+{"cnpj":"13588301000120","placa":"PGH3283","razao":"MERCADINHO CAVALCANTI DE SOUZA LTDA","municipio":"RECIFE"},
 {"cnpj":"12409208000148","placa":"PGH3283","razao":"S DE F ROMUALDO FEIJO VICTOR","municipio":"ABREU E LIMA"},
 {"cnpj":"12400987000110","placa":"PGH3283","razao":"THACIANA BRUNO DA SILVA","municipio":"OLINDA"},
 {"cnpj":"12252083000195","placa":"PGH3283","razao":"F V DE ABREU FARMACIA","municipio":"ABREU E LIMA"},

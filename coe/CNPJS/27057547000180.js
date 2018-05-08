@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":70825920,"cnpj":"27057547000180","razao":"JOSE MARCOS DE MEDEIROS ALIMENTOS EPP","sit":"C","arrecadacao":0.00,"entradas":1983671.09,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"17/02/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":70825920,"cnpj":"27057547000180","razao":"JOSE MARCOS DE MEDEIROS ALIMENTOS EPP","sit":"C","arrecadacao":0.00,"entradas":1983671.09,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"17/02/2017","contador":""}];
 EntradasData.entradas = [{"ie":10575880,"cnpj":"09038712000174","razao":"IGAL-INDUSTRIA GRAFICA ANDRADE LTDA","sit":"A","regime":"SIMPLES","municipio":"BEZERROS","igi":0,"uf":"PE","valor":80.00},
 {"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":1983591.09}];
 SaidasData.saidas = [];

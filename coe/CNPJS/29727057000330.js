@@ -1,6 +1,7 @@
-EstabelecimentoData.estabelecimento = [{"ie":76754294,"cnpj":"29727057000330","razao":"ELISON JOSE DA SILVA","sit":"A","arrecadacao":0.00,"entradas":123607.90,"saidas":158761.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"11/04/2018"}];
-EntradasData.entradas = [{"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":58970.14},
-{"ie":56007230,"cnpj":"08012433000330","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":64637.76}];
+EstabelecimentoData.estabelecimento = [{"ie":76754294,"cnpj":"29727057000330","razao":"ELISON JOSE DA SILVA","sit":"A","arrecadacao":0.00,"entradas":123637.90,"saidas":158761.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"11/04/2018","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"01425066002059","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":30.00},
+{"ie":56007230,"cnpj":"08012433000330","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":64637.76},
+{"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":58970.14}];
 SaidasData.saidas = [{"ie":0,"cnpj":"32390643000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2000.00},
 {"ie":0,"cnpj":"29017085000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":2500.00},
 {"ie":0,"cnpj":"28985013000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":675.00},

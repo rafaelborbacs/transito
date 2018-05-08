@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":71600892,"cnpj":"27546061000105","razao":"I DE SOUZA SANTOS CONFECCOES ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":242111.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"19/04/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":71600892,"cnpj":"27546061000105","razao":"I DE SOUZA SANTOS CONFECCOES ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":242111.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"19/04/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1050.00},
 {"ie":0,"cnpj":"69112223972","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1200.00},

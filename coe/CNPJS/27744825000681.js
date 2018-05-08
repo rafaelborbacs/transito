@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74519972,"cnpj":"27744825000681","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"S","arrecadacao":0.00,"entradas":63665.25,"saidas":223201.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"09/11/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74519972,"cnpj":"27744825000681","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"S","arrecadacao":0.00,"entradas":63665.25,"saidas":223201.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"09/11/2017","contador":""}];
 EntradasData.entradas = [{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":63665.25}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97525691000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1555.00},
 {"ie":0,"cnpj":"86784915000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2338.70},

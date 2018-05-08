@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":32693290,"cnpj":"07199223000179","razao":"ALUMIX - INDUSTRIA, IMPORTACAO E EXPORTACAO LTDA -ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"06/07/2005"}];
+EstabelecimentoData.estabelecimento = [{"ie":32693290,"cnpj":"07199223000179","razao":"ALUMIX - INDUSTRIA, IMPORTACAO E EXPORTACAO LTDA -ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"06/07/2005","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09858516436","nome":"VALDENICE DO NASCIMENTO FERREIRA","ie":32693290,"cnpj":"07199223000179","razao":"ALUMIX - INDUSTRIA, IMPORTACAO E EXPORTACAO LTDA -ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},

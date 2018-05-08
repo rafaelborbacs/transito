@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":67153461,"cnpj":"24677340000110","razao":"LEURICE HIGINO CARLOS 07527006420","sit":"C","arrecadacao":3.10,"entradas":270.00,"saidas":90794.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"04/05/2016"}];
+EstabelecimentoData.estabelecimento = [{"ie":67153461,"cnpj":"24677340000110","razao":"LEURICE HIGINO CARLOS 07527006420","sit":"C","arrecadacao":3.10,"entradas":270.00,"saidas":90794.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"04/05/2016","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"18872670000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":270.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"55891691000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1000.00},
 {"ie":0,"cnpj":"26152633000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7580.00},

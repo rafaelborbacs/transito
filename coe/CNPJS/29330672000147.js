@@ -1,9 +1,10 @@
-EstabelecimentoData.estabelecimento = [{"ie":75161699,"cnpj":"29330672000147","razao":"J.C. DE PAULO EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"TRIUNFO","drr":"II","igi":1,"dataie":"28/12/2017"}];
-EntradasData.entradas = [];
+EstabelecimentoData.estabelecimento = [{"ie":75161699,"cnpj":"29330672000147","razao":"J.C. DE PAULO EPP","sit":"C","arrecadacao":0.00,"entradas":888422.20,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"TRIUNFO","drr":"II","igi":1,"dataie":"28/12/2017","contador":"SANDRA APARECIDA SOARES DA SILVA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":888422.20}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"82310068420","nome":"JOSE CORREIA DE PAULO","ie":75161699,"cnpj":"29330672000147","razao":"J.C. DE PAULO EPP","sit":"C","regime":"NORMAL","municipio":"TRIUNFO","igi":1}];
 EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"MARCOS CANDIDO DE LIMA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"94849781420","email":"marcos@gmail.com","razao":"MARCOS ALEXANDRE DA SILVA","municipio":"RECIFE"},
+{"cnpj":"86900544487","email":"marcos@gmail.com","razao":"MARCOS SILVA","municipio":"RECIFE"},
 {"cnpj":"78113202404","email":"marcos@gmail.com","razao":"Marcos Andre Dos Santos Braga","municipio":"Canhotinho"},
 {"cnpj":"76995844491","email":"marcos@gmail.com","razao":"MARCOS ANTONIO - Cod. 0411653","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"74273140420","email":"marcos@gmail.com","razao":"MARCOS ANTONIO DA SILVA","municipio":"CAETES"},
@@ -28,6 +29,7 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 TelsData.tels = [{"cnpj":"62836978449","tel":"8738461380","razao":"MARIA DAS DORES SANTOS","municipio":"TRIUNFO"}];
 PlacasData.placas = [{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"MUL6929","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+{"cnpj":"30146086000126","placa":"MUI3891","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"IAG8559","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"HBP8989","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"29699130000146","placa":"NMG8454","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},

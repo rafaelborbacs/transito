@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":37993879,"cnpj":"10810134000121","razao":"ANDERSON WENDELL DE OLIVEIRA VESTUARIO ME","sit":"C","arrecadacao":214.72,"entradas":11410.16,"saidas":46635.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CATENDE","drr":"I","igi":1,"dataie":"27/05/2009"}];
+EstabelecimentoData.estabelecimento = [{"ie":37993879,"cnpj":"10810134000121","razao":"ANDERSON WENDELL DE OLIVEIRA VESTUARIO ME","sit":"C","arrecadacao":214.72,"entradas":11410.16,"saidas":46635.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CATENDE","drr":"I","igi":1,"dataie":"27/05/2009","contador":""}];
 EntradasData.entradas = [{"ie":66718457,"cnpj":"11695541000521","razao":"DISTRIBUIDORA E IMPORTADORA DE TECIDOS LUCENA LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":1328.25},
 {"ie":67681050,"cnpj":"24594451000243","razao":"LIZITEX EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":10081.91}];
 SaidasData.saidas = [{"ie":0,"cnpj":"20662969000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1800.00},

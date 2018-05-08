@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73823830,"cnpj":"28705792000119","razao":"COMERCIAL BEST HOUSE LTDA ME","sit":"C","arrecadacao":0.00,"entradas":65879.04,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"CAMOCIM DE SAO FELIX","drr":"II","igi":1,"dataie":"22/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73823830,"cnpj":"28705792000119","razao":"COMERCIAL BEST HOUSE LTDA ME","sit":"C","arrecadacao":0.00,"entradas":65879.04,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"CAMOCIM DE SAO FELIX","drr":"II","igi":1,"dataie":"22/09/2017","contador":""}];
 EntradasData.entradas = [{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":65879.04}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"74438069491","nome":"MARIA DAS DORES DA SILVA","ie":73823830,"cnpj":"28705792000119","razao":"COMERCIAL BEST HOUSE LTDA ME","sit":"C","regime":"NORMAL","municipio":"CAMOCIM DE SAO FELIX","igi":1},

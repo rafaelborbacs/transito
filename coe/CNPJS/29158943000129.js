@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74735594,"cnpj":"29158943000129","razao":"MANOEL VICTOR DE SOUZA CAVALCANTE EIRELI ME","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":670974.37,"regime":"SIMPLES","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"AGUA PRETA","drr":"I","igi":1,"dataie":"28/11/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74735594,"cnpj":"29158943000129","razao":"MANOEL VICTOR DE SOUZA CAVALCANTE EIRELI ME","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":670974.37,"regime":"SIMPLES","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"AGUA PRETA","drr":"I","igi":1,"dataie":"28/11/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":38302098,"cnpj":"68174069000175","razao":"EXTRA PRESTACAO DE SERVICOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":58393.20},
 {"ie":57238766,"cnpj":"20059156000155","razao":"B. T. DE LIRA ZAIDAN EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":135000.40},

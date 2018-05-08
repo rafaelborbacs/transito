@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":26734524,"cnpj":"03582299000128","razao":"M JUCEMAR PEREIRA SILVA","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":78634.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"03/02/2000"}];
+EstabelecimentoData.estabelecimento = [{"ie":26734524,"cnpj":"03582299000128","razao":"M JUCEMAR PEREIRA SILVA","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":78634.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"03/02/2000","contador":"ALDRIN RIBEIRO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"96764386000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1522.00},
 {"ie":0,"cnpj":"82889098000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":22080.00},

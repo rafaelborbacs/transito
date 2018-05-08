@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":68684797,"cnpj":"26025322000189","razao":"SANTA TEREZINHA ALIMENTOS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":919940.40,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"TEREZINHA","drr":"II","igi":1,"dataie":"26/08/2016"}];
+EstabelecimentoData.estabelecimento = [{"ie":68684797,"cnpj":"26025322000189","razao":"SANTA TEREZINHA ALIMENTOS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":919940.40,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"TEREZINHA","drr":"II","igi":1,"dataie":"26/08/2016","contador":""}];
 EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":919940.40}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"12367030499","nome":"ARTHUR FERREIRA DA CRUZ","ie":68684797,"cnpj":"26025322000189","razao":"SANTA TEREZINHA ALIMENTOS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"TEREZINHA","igi":1},

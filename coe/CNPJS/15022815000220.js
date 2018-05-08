@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":50939882,"cnpj":"15022815000220","razao":"MINERALLI MINERACAO E CONSTRUTORA LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"PETROLINA","drr":"III","igi":1,"dataie":"29/11/2012"}];
+EstabelecimentoData.estabelecimento = [{"ie":50939882,"cnpj":"15022815000220","razao":"MINERALLI MINERACAO E CONSTRUTORA LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"PETROLINA","drr":"III","igi":1,"dataie":"29/11/2012","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"59035935420","nome":"TEREZA MARIA DA SILVA","ie":61082457,"cnpj":"15022815000300","razao":"MINERALLI MINERACAO E CONSTRUTORA LTDA","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0},

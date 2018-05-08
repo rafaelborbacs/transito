@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":66879035,"cnpj":"23830167000185","razao":"MARIA DO SOCORRO TEJO CAMINHA 30437555453","sit":"A","arrecadacao":15.00,"entradas":159498.27,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"11/04/2016"}];
+EstabelecimentoData.estabelecimento = [{"ie":66879035,"cnpj":"23830167000185","razao":"MARIA DO SOCORRO TEJO CAMINHA 30437555453","sit":"A","arrecadacao":15.00,"entradas":159498.27,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"11/04/2016","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"10440482000740","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1120.00},
 {"ie":0,"cnpj":"05522145000419","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":158378.27}];
 SaidasData.saidas = [];

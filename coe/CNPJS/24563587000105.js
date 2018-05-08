@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":20487010,"cnpj":"24563587000105","razao":"CARLOS MOURA CONFECCOES ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":16806.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARPINA","drr":"I","igi":1,"dataie":"03/11/1994"}];
+EstabelecimentoData.estabelecimento = [{"ie":20487010,"cnpj":"24563587000105","razao":"CARLOS MOURA CONFECCOES ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":16806.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARPINA","drr":"I","igi":1,"dataie":"03/11/1994","contador":"JOSE CARLOS RODRIGUES DE LIMA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":19466846,"cnpj":"70220389000166","razao":"COMERCIAL DE CONSTRUCAO 2001 LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":15260.00},
 {"ie":53952758,"cnpj":"17974769000103","razao":"G&R SOLUCOES ELETRICAS LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":996.00},

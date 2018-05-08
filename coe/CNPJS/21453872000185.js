@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":60273500,"cnpj":"21453872000185","razao":"IGOR VENUS DA SILVA 10672534401","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":107607.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"24/11/2014"}];
+EstabelecimentoData.estabelecimento = [{"ie":60273500,"cnpj":"21453872000185","razao":"IGOR VENUS DA SILVA 10672534401","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":107607.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"24/11/2014","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"99384825387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":180.00},
 {"ie":0,"cnpj":"99322927020","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":432.00},

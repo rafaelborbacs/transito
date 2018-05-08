@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":68011105,"cnpj":"25145205000196","razao":"LADIES AND GENTLEMEN EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":4514.54,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"07/07/2016"}];
+EstabelecimentoData.estabelecimento = [{"ie":68011105,"cnpj":"25145205000196","razao":"LADIES AND GENTLEMEN EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":4514.54,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"07/07/2016","contador":"EDMILSON SILVA DE ANDRADE"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"37012499000167","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":99.00},
 {"ie":48863998,"cnpj":"15543337000112","razao":"JU BIJU LTDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":916.00},
 {"ie":32049870,"cnpj":"04206050008246","razao":"TIM CELULAR S.A.","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3499.54}];

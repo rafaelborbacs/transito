@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73130630,"cnpj":"28320606000123","razao":"ANDSON JOSE DA SILVA 09487747460","sit":"C","arrecadacao":0.00,"entradas":202165.61,"saidas":907298.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"07/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73130630,"cnpj":"28320606000123","razao":"ANDSON JOSE DA SILVA 09487747460","sit":"C","arrecadacao":0.00,"entradas":202165.61,"saidas":907298.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"07/08/2017","contador":""}];
 EntradasData.entradas = [{"ie":16261836,"cnpj":"35605732000190","razao":"JADIAEL LIMA BEZERRA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":202165.61}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97124325000118","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":1190.50},
 {"ie":0,"cnpj":"92739135000272","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":810.00},
@@ -18,7 +18,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97124325000118","razao":"","sit":"","regime
 {"ie":0,"cnpj":"50332236668","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":18000.00},
 {"ie":0,"cnpj":"49455222604","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":9000.00},
 {"ie":0,"cnpj":"47084340904","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":195.00},
-{"ie":0,"cnpj":"46733884372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1830.00},
+{"ie":0,"cnpj":"46733884372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1830.00},
 {"ie":0,"cnpj":"45410410815","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1006.00},
 {"ie":0,"cnpj":"45032050300","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":8000.00},
 {"ie":0,"cnpj":"44501463368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1834.00},
@@ -222,7 +222,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97124325000118","razao":"","sit":"","regime
 {"ie":0,"cnpj":"04897701000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3005.00},
 {"ie":0,"cnpj":"04883933000125","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":252.00},
 {"ie":0,"cnpj":"04852289000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":1896.30},
-{"ie":0,"cnpj":"04473449602","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1530.00},
+{"ie":0,"cnpj":"04473449602","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1530.00},
 {"ie":0,"cnpj":"04473177505","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1050.00},
 {"ie":0,"cnpj":"04370929000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":2680.00},
 {"ie":0,"cnpj":"04351762000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1200.00},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73503410,"cnpj":"27797800000212","razao":"ALEXANDRE GALDINO DA SILVA VAREJISTA DE TECIDOS EPP","sit":"S","arrecadacao":0.00,"entradas":34913.67,"saidas":731603.05,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"30/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73503410,"cnpj":"27797800000212","razao":"ALEXANDRE GALDINO DA SILVA VAREJISTA DE TECIDOS EPP","sit":"S","arrecadacao":0.00,"entradas":34913.67,"saidas":731603.05,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"30/08/2017","contador":""}];
 EntradasData.entradas = [{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":34913.67}];
 SaidasData.saidas = [{"ie":0,"cnpj":"88658554287","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2272.00},
 {"ie":0,"cnpj":"86944584204","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4332.00},

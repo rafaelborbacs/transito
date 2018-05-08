@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":43220886,"cnpj":"19884626001299","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"IPOJUCA","drr":"I","igi":1,"dataie":"07/02/2011"}];
+EstabelecimentoData.estabelecimento = [{"ie":43220886,"cnpj":"19884626001299","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"IPOJUCA","drr":"I","igi":1,"dataie":"07/02/2011","contador":"GERSON MOURA FONSECA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"96838841649","nome":"RODRIGO NELSON DE SENNA SOUSA LIMA","ie":43220886,"cnpj":"19884626001299","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","regime":"NORMAL","municipio":"IPOJUCA","igi":1},

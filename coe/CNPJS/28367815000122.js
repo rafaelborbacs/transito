@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73195090,"cnpj":"28367815000122","razao":"COMERCIAL VENTUROSA MERCADOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":1178933.70,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"VENTUROSA","drr":"II","igi":1,"dataie":"14/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73195090,"cnpj":"28367815000122","razao":"COMERCIAL VENTUROSA MERCADOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":1178933.70,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"VENTUROSA","drr":"II","igi":1,"dataie":"14/08/2017","contador":""}];
 EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":948683.70},
 {"ie":30678234,"cnpj":"05828680000150","razao":"CUPIRA BEBIDAS E REFRIGERANTES LTDA","sit":"B","regime":"NORMAL","municipio":"CUPIRA","igi":0,"uf":"PE","valor":230250.00}];
 SaidasData.saidas = [];

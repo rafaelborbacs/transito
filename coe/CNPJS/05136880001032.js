@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":66339782,"cnpj":"05136880001032","razao":"FIO JEITOSO INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"C","arrecadacao":17871.29,"entradas":386216.85,"saidas":589569.45,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"04/03/2016"}];
-EntradasData.entradas = [{"ie":21577560,"cnpj":"10230480001960","razao":"FERREIRA COSTA & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4068.42},
-{"ie":0,"cnpj":"05136880000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":382148.43}];
+EstabelecimentoData.estabelecimento = [{"ie":66339782,"cnpj":"05136880001032","razao":"FIO JEITOSO INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"C","arrecadacao":17871.29,"entradas":398822.77,"saidas":589569.45,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"04/03/2016","contador":"LIZ RAQUEL GOMES ELOI"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"05136880000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":394754.35},
+{"ie":21577560,"cnpj":"10230480001960","razao":"FERREIRA COSTA & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4068.42}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97277738420","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":995.00},
 {"ie":0,"cnpj":"97273368415","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":471.70},
 {"ie":0,"cnpj":"96195762415","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2464.00},

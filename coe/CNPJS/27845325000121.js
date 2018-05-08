@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72254157,"cnpj":"27845325000121","razao":"GRESSON DA SILVA 10746485441","sit":"C","arrecadacao":0.00,"entradas":11250.00,"saidas":457647.83,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"05/06/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72254157,"cnpj":"27845325000121","razao":"GRESSON DA SILVA 10746485441","sit":"C","arrecadacao":0.00,"entradas":11250.00,"saidas":457647.83,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"05/06/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"43263359000164","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":11250.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"94829705191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":6000.00},
 {"ie":0,"cnpj":"93877170110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"DF","valor":300.00},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72918411,"cnpj":"28209462000132","razao":"GEOVANA GESSICA SILVA DE SENA 12597507440","sit":"C","arrecadacao":0.00,"entradas":64539.81,"saidas":309973.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"26/07/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72918411,"cnpj":"28209462000132","razao":"GEOVANA GESSICA SILVA DE SENA 12597507440","sit":"C","arrecadacao":0.00,"entradas":64539.81,"saidas":309973.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"26/07/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":18939.77},
 {"ie":57031231,"cnpj":"04947656000339","razao":"PETROPOLIS TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":45600.04}];
 SaidasData.saidas = [{"ie":0,"cnpj":"91704065291","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":180.00},

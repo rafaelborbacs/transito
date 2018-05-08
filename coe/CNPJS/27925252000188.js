@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72373407,"cnpj":"27925252000188","razao":"EDIVAN CANDIDO DA SILVA JUNIOR 11943207402","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":70404.56,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"13/06/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72373407,"cnpj":"27925252000188","razao":"EDIVAN CANDIDO DA SILVA JUNIOR 11943207402","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":70404.56,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"13/06/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":66129117,"cnpj":"24186949000196","razao":"P A SUPERMERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":3589.42},
 {"ie":65170997,"cnpj":"23714035000198","razao":"MONTEIRO & AMARO COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":1406.50},

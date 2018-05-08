@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":59617187,"cnpj":"21161813000133","razao":"PEDREIRA MUNDIAL LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"TIMBAUBA","drr":"I","igi":1,"dataie":"13/10/2014"}];
+EstabelecimentoData.estabelecimento = [{"ie":59617187,"cnpj":"21161813000133","razao":"PEDREIRA MUNDIAL LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"TIMBAUBA","drr":"I","igi":1,"dataie":"13/10/2014","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"59035935420","nome":"TEREZA MARIA DA SILVA","ie":61082457,"cnpj":"15022815000300","razao":"MINERALLI MINERACAO E CONSTRUTORA LTDA","sit":"C","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0},

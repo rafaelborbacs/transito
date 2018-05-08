@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":42479061,"cnpj":"60736279002060","razao":"MABE BRASIL ELETRODOMESTICOS LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"13/12/2010"}];
+EstabelecimentoData.estabelecimento = [{"ie":42479061,"cnpj":"60736279002060","razao":"MABE BRASIL ELETRODOMESTICOS LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"13/12/2010","contador":"MARIA ELENICE PEREIRA DA CUNHA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"66614481800","nome":"RONALDO REEVE GUNN","ie":43665063,"cnpj":"60736279001250","razao":"MABE BRASIL ELETRODOMESTICOS LTDA","sit":"C","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"HORTOLANDIA","igi":0},

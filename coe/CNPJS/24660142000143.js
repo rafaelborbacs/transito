@@ -1,7 +1,7 @@
-EstabelecimentoData.estabelecimento = [{"ie":67125921,"cnpj":"24660142000143","razao":"JOSE ALVES FERREIRA 94014973891","sit":"A","arrecadacao":3030.15,"entradas":106354.30,"saidas":0.00,"regime":"SIMEI","segmento":"ATACADO DE ALIMENTOS","municipio":"PETROLINA","drr":"III","igi":1,"dataie":"04/05/2016"}];
+EstabelecimentoData.estabelecimento = [{"ie":67125921,"cnpj":"24660142000143","razao":"JOSE ALVES FERREIRA 94014973891","sit":"A","arrecadacao":3030.15,"entradas":106354.30,"saidas":0.00,"regime":"SIMEI","segmento":"ATACADO DE ALIMENTOS","municipio":"PETROLINA","drr":"III","igi":1,"dataie":"04/05/2016","contador":"LEILIANNE EMELUCI SOARES COSTA"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"05531399000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1305.00},
+{"ie":67776868,"cnpj":"02820754000113","razao":"DF ATACADO E DISTRIBUICAO DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":7854.00},
 {"ie":0,"cnpj":"88933114001611","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":72960.00},
-{"ie":67776868,"cnpj":"02820754000113","razao":"DF ATACADO E DISTRIBUICAO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":7854.00},
 {"ie":54144400,"cnpj":"07206816005265","razao":"M. DIAS BRANCO S. A. INDUSTRIA E COMERCIO DE ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":24235.30}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"94014973891","nome":"JOSE ALVES FERREIRA","ie":67125921,"cnpj":"24660142000143","razao":"JOSE ALVES FERREIRA 94014973891","sit":"A","regime":"SIMEI","municipio":"PETROLINA","igi":1}];
@@ -9,6 +9,7 @@ EmailsData.emails = [{"cnpj":"97547511000240","email":"contratacao.pe@ldbcargas.
 {"cnpj":"97547511000240","email":"RECIFE@GBTLOG.COM.BR","razao":"LIDERANCA DE ABASTECIMENTO DE ARTIGOS DE HIGIENE A","municipio":"SAO CAETANO DO SUL"},
 {"cnpj":"97545106000102","email":"mauro.silva@lokaki.com.br","razao":"ANTONIO CARLOS DE SOUZA AMORIM  ME","municipio":"PETROLINA"},
 {"cnpj":"97545106000102","email":"RECIFE@GBTLOG.COM.BR","razao":"ANTONIO CARLOS DE SOUZA AMORIM  ME","municipio":"PETROLINA"},
+{"cnpj":"97422620000150","email":"mauro.silva@lokaki.com.br","razao":"BOMPRECO BAHIA SUPERMERCADOS LTDA","municipio":"SALVADOR"},
 {"cnpj":"93209765031420","email":"contratacao.pe@ldbcargas.com.br","razao":"WMS SUPERMERCADOS DO BRASIL LTDA.","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"75315333020649","email":"contratacao.pe@ldbcargas.com.br","razao":"ATACADAO S.A.","municipio":"TEIXEIRA DE FREITAS"},
 {"cnpj":"75315333009327","email":"contratacao.pe@ldbcargas.com.br","razao":"ATACADAO S.A.","municipio":"EUNAPOLIS"},
@@ -26,6 +27,7 @@ EmailsData.emails = [{"cnpj":"97547511000240","email":"contratacao.pe@ldbcargas.
 {"cnpj":"69936276000182","email":"RECIFE@GBTLOG.COM.BR","razao":"MARIA IZANEIDE DE SOUZA HOLANDA  ME","municipio":"PETROLINA"},
 {"cnpj":"69933398000115","email":"contratacao.pe@ldbcargas.com.br","razao":"MARIA C S ALENCAR","municipio":"SALGUEIRO"},
 {"cnpj":"65816258000106","email":"contratacao.pe@ldbcargas.com.br","razao":"FOXTRONIC TECNOLOGIA ELETRONICA LTDA  ME","municipio":"SANTO ANDRE"},
+{"cnpj":"61192696000190","email":"contratacao.pe@ldbcargas.com.br","razao":"BRASILGRAFICA SA INDUSTRIA E COMERCIO","municipio":"BARUERI"},
 {"cnpj":"58517772000185","email":"contratacao.pe@ldbcargas.com.br","razao":"J.L.W.INDUSTRIA DE APARELHOS ELETRO ELETRONICOS LT","municipio":"CAPIVARI"},
 {"cnpj":"56736010000144","email":"contratacao.pe@ldbcargas.com.br","razao":"ROBERT BOSCH TECNOLOGIA DE EMBALAGEM LIMITADA","municipio":"BARUERI"},
 {"cnpj":"44013159008010","email":"contratacao.pe@ldbcargas.com.br","razao":"SIEMENS LTDA","municipio":"JUNDIAI"},
@@ -733,7 +735,7 @@ EmailsData.emails = [{"cnpj":"97547511000240","email":"contratacao.pe@ldbcargas.
 {"cnpj":"07687085000177","email":"contratacao.pe@ldbcargas.com.br","razao":"IVONETE DE OLIVEIRA A BRAGA  ME","municipio":"PETROLINA"},
 {"cnpj":"07593959000127","email":"mauro.silva@lokaki.com.br","razao":"JOSE DIAS DOS SANTOS MERC","municipio":"PETROLINA"},
 {"cnpj":"07593959000127","email":"contratacao.pe@ldbcargas.com.br","razao":"JOSE DIAS DOS SANTOS MERCADINHO EIRELI EPP","municipio":"PETROLINA"},
-{"cnpj":"07593959000127","email":"RECIFE@GBTLOG.COM.BR","razao":"JOSE DIAS DOS SANTOS MERC","municipio":"PETROLINA"},
+{"cnpj":"07593959000127","email":"RECIFE@GBTLOG.COM.BR","razao":"JOSE DIAS DOS SANTOS MERCADINHO EIRELI EPP","municipio":"PETROLINA"},
 {"cnpj":"07553379000106","email":"mauro.silva@lokaki.com.br","razao":"R  R RODRIGUES MERCADINHO LTDA  ME","municipio":"DORMENTES"},
 {"cnpj":"07553379000106","email":"contratacao.pe@ldbcargas.com.br","razao":"R  R RODRIGUES MERCADINHO LTDA  ME","municipio":"DORMENTES"},
 {"cnpj":"07519298000190","email":"mauro.silva@lokaki.com.br","razao":"JENIVALDO COELHO GOMES ME","municipio":"PETROLINA"},
@@ -806,6 +808,7 @@ EmailsData.emails = [{"cnpj":"97547511000240","email":"contratacao.pe@ldbcargas.
 {"cnpj":"06057223031301","email":"RECIFE@GBTLOG.COM.BR","razao":"SENDAS DISTRIBUIDORA SA","municipio":"JEQUIE"},
 {"cnpj":"06057223030674","email":"contratacao.pe@ldbcargas.com.br","razao":"SENDAS DISTRIBUIDORA SA","municipio":"MACEIO"},
 {"cnpj":"06057223029900","email":"contratacao.pe@ldbcargas.com.br","razao":"SENDAS DISTRIBUIDORA SA","municipio":"ARACAJU"},
+{"cnpj":"06057223028939","email":"contratacao.pe@ldbcargas.com.br","razao":"SENDAS DISTRIBUIDORA SA","municipio":"PAULISTA"},
 {"cnpj":"06057223028505","email":"contratacao.pe@ldbcargas.com.br","razao":"SENDAS DISTRIBUIDORA SA","municipio":"GARANHUNS"},
 {"cnpj":"06057223028009","email":"contratacao.pe@ldbcargas.com.br","razao":"SENDAS DISTRIBUIDORA SA","municipio":"RECIFE"},
 {"cnpj":"06057223027967","email":"contratacao.pe@ldbcargas.com.br","razao":"SENDAS DISTRIBUIDORA SA","municipio":"CAMARAGIBE"},

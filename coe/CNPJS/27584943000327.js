@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74719556,"cnpj":"27584943000327","razao":"FLAVIO FRANCISCO DOS SANTOS LEITE EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":918630.78,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"23/11/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74719556,"cnpj":"27584943000327","razao":"FLAVIO FRANCISCO DOS SANTOS LEITE EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":918630.78,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"23/11/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"97560235115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2353.00},
 {"ie":0,"cnpj":"88658554287","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2523.00},

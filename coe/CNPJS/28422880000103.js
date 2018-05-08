@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73331457,"cnpj":"28422880000103","razao":"TERCIO FRANCISCO DA SILVA SOUZA 70508851424","sit":"C","arrecadacao":0.00,"entradas":4994.40,"saidas":779277.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"21/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73331457,"cnpj":"28422880000103","razao":"TERCIO FRANCISCO DA SILVA SOUZA 70508851424","sit":"C","arrecadacao":0.00,"entradas":4994.40,"saidas":779277.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"21/08/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"22258765000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":4994.40}];
 SaidasData.saidas = [{"ie":0,"cnpj":"94940304353","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4020.00},
 {"ie":0,"cnpj":"80787819387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1030.00},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":28493729,"cnpj":"04618110000172","razao":"BRASILCO INDUSTRIA & COMERCIO DE COUROS EIRELI","sit":"C","arrecadacao":0.00,"entradas":42541.50,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"TIMBAUBA","drr":"I","igi":1,"dataie":"18/09/2001"}];
+EstabelecimentoData.estabelecimento = [{"ie":28493729,"cnpj":"04618110000172","razao":"BRASILCO INDUSTRIA & COMERCIO DE COUROS EIRELI","sit":"C","arrecadacao":0.00,"entradas":42541.50,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"TIMBAUBA","drr":"I","igi":1,"dataie":"18/09/2001","contador":"ELADIO ANTONIO RANGEL JUNIOR"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"26775990000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1669.50},
 {"ie":0,"cnpj":"12929146000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":19676.00},
 {"ie":0,"cnpj":"07052340000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":21196.00}];

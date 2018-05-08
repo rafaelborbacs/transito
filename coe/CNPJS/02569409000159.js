@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":24845795,"cnpj":"02569409000159","razao":"THIORE LINGERIE INDUSTRIA DE CONFECCOES LTDA ME","sit":"A","arrecadacao":354.25,"entradas":0.00,"saidas":29481.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"02/07/1998"}];
+EstabelecimentoData.estabelecimento = [{"ie":24845795,"cnpj":"02569409000159","razao":"THIORE LINGERIE INDUSTRIA DE CONFECCOES LTDA ME","sit":"A","arrecadacao":354.25,"entradas":0.00,"saidas":29481.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"02/07/1998","contador":"FELIPE AUGUSTO BEZERRA DE ARA JO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"23474297000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":616.00},
 {"ie":0,"cnpj":"18053657000182","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1972.00},

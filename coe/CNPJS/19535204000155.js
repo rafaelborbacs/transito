@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":56100108,"cnpj":"19535204000155","razao":"M. A. M. COMERCIO DE LUBRIFICANTES LTDA ME","sit":"C","arrecadacao":80.35,"entradas":0.00,"saidas":962500.00,"regime":"NORMAL","segmento":"COMBUSTIVEL","municipio":"VITORIA DE SANTO ANTAO","drr":"I","igi":1,"dataie":"17/01/2014"}];
+EstabelecimentoData.estabelecimento = [{"ie":56100108,"cnpj":"19535204000155","razao":"M. A. M. COMERCIO DE LUBRIFICANTES LTDA ME","sit":"C","arrecadacao":80.35,"entradas":0.00,"saidas":962500.00,"regime":"NORMAL","segmento":"COMBUSTIVEL","municipio":"VITORIA DE SANTO ANTAO","drr":"I","igi":1,"dataie":"17/01/2014","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":43840752,"cnpj":"13518421000150","razao":"RODOPRIMA - TRANSPORTES RODOVIARIOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":167500.00},
 {"ie":40228584,"cnpj":"12051099000130","razao":"BARRETTO TRANSPORTES LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":90000.00},

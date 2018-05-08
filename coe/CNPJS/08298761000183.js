@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":34329714,"cnpj":"08298761000183","razao":"F.J.M.INDUSTRIA & COMERCIO DE PLASTICOS LTDA","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"19/10/2006"}];
+EstabelecimentoData.estabelecimento = [{"ie":34329714,"cnpj":"08298761000183","razao":"F.J.M.INDUSTRIA & COMERCIO DE PLASTICOS LTDA","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"19/10/2006","contador":"VALDEMAR LINO CHAVES NETO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"03922949401","nome":"MARIANA AVILA TENORIO DE ALMEIDA","ie":72415002,"cnpj":"27977811000101","razao":"PIRULITTA & TEMPORANA COMERCIO DE ROUPAS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"VITORIA DE SANTO ANTAO","igi":0},

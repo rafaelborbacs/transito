@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73200948,"cnpj":"27744825000339","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":580591.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"15/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73200948,"cnpj":"27744825000339","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":580591.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"15/08/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"86699329000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":3020.00},
 {"ie":0,"cnpj":"84101948000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3000.00},
@@ -48,7 +48,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"86699329000108","razao":"","sit":"","regime
 {"ie":0,"cnpj":"18941317000198","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":6011.00},
 {"ie":0,"cnpj":"18912399000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":1250.00},
 {"ie":0,"cnpj":"18805209000198","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1750.00},
-{"ie":0,"cnpj":"18530249100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
+{"ie":0,"cnpj":"18530249100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1000.00},
 {"ie":0,"cnpj":"18497975000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3640.00},
 {"ie":0,"cnpj":"18319007000136","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":547.50},
 {"ie":0,"cnpj":"17723187000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5051.00},

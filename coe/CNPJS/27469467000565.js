@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":75432714,"cnpj":"27469467000565","razao":"FABIANO BERTO DE SOUZA SILVA EPP","sit":"S","arrecadacao":0.00,"entradas":16800.00,"saidas":534240.20,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"18/01/2018"}];
+EstabelecimentoData.estabelecimento = [{"ie":75432714,"cnpj":"27469467000565","razao":"FABIANO BERTO DE SOUZA SILVA EPP","sit":"S","arrecadacao":0.00,"entradas":16800.00,"saidas":534240.20,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"18/01/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"68146810000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":16800.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97945765572","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":520.00},
 {"ie":0,"cnpj":"92051421315","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3095.00},

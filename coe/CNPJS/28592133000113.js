@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73678058,"cnpj":"28592133000113","razao":"ALINE MIQUELLE RAMOS DOS SANTOS 12096267480","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":199426.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"11/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73678058,"cnpj":"28592133000113","razao":"ALINE MIQUELLE RAMOS DOS SANTOS 12096267480","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":199426.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"11/09/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"28819153000184","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":1050.00},
 {"ie":0,"cnpj":"27287942000159","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1625.00},

@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":74930290,"cnpj":"29243692000180","razao":"JOICE BRENA PEREIRA DA SILVA ME","sit":"C","arrecadacao":0.00,"entradas":1169795.00,"saidas":1753661.49,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ILHA DE ITAMARACA","drr":"I","igi":1,"dataie":"11/12/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74930290,"cnpj":"29243692000180","razao":"JOICE BRENA PEREIRA DA SILVA ME","sit":"C","arrecadacao":0.00,"entradas":1169795.00,"saidas":1753661.49,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ILHA DE ITAMARACA","drr":"I","igi":1,"dataie":"11/12/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1043015.00},
-{"ie":49160699,"cnpj":"15777224000181","razao":"A.L. LEMOS DE FIGUEIREDO - ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":126780.00}];
+{"ie":49160699,"cnpj":"15777224000181","razao":"A.L. LEMOS DE FIGUEIREDO - ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":126780.00}];
 SaidasData.saidas = [{"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FERREIRA DUTRA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":20217.00},
 {"ie":74622471,"cnpj":"29074231000121","razao":"A NEVES DE QUEIROZ EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"OROBO","igi":0,"uf":"PE","valor":40949.00},
 {"ie":72527498,"cnpj":"28046952000165","razao":"PRODUTOS DE LIMPEZA MATEUS LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":23670.00},
@@ -29,10 +29,10 @@ SaidasData.saidas = [{"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FE
 {"ie":36733679,"cnpj":"09638485000118","razao":"MERCANTIL DE ALIMENTOS AMORIM LTDA  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":380849.75},
 {"ie":9794573,"cnpj":"08831331000185","razao":"CASA ANDRADE LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":1578.86},
 {"ie":34713905,"cnpj":"08605911000154","razao":"BALAIO SUPERMERCADO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":4400.00},
-{"ie":34364382,"cnpj":"08306646000103","razao":"LETHA EXPORTACAO E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":163200.00},
+{"ie":34364382,"cnpj":"08306646000103","razao":"LETHA EXPORTACAO E COMERCIO DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":163200.00},
 {"ie":33856397,"cnpj":"08017479000180","razao":"CRIPTON DISTRIBUIDORA DE PRODUTOS DE HIGIENE E LIMPEZA LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":30476.00},
 {"ie":33184356,"cnpj":"07653117000113","razao":"VALE COMERCIO DE ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51000.00},
-{"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":224052.10},
+{"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":224052.10},
 {"ie":30950376,"cnpj":"06082872000122","razao":"GOMES OLIVEIRA MERCADINHO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":138.00},
 {"ie":30569290,"cnpj":"05902212000188","razao":"MAGAZINE DO CABELO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2099.62},
 {"ie":26592550,"cnpj":"03474398000196","razao":"COMERCIAL F K LTDA","sit":"A","regime":"NORMAL","municipio":"RIO FORMOSO","igi":0,"uf":"PE","valor":1050.00},

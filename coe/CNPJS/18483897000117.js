@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":53641671,"cnpj":"18483897000117","razao":"QUIMICRAFT NORDESTE INDUSTRIA QUIMICA LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"15/07/2013"}];
+EstabelecimentoData.estabelecimento = [{"ie":53641671,"cnpj":"18483897000117","razao":"QUIMICRAFT NORDESTE INDUSTRIA QUIMICA LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"15/07/2013","contador":"LUIZ CARLOS ALVES SOARES"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"86135520806","nome":"EDISON VENEZIANO","ie":56672594,"cnpj":"19787130000144","razao":"TERMOCRAFT INDUSTRIA E COMERCIO DE PAPEIS LTDA","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},

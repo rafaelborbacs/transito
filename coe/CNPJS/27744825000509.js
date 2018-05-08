@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73936286,"cnpj":"27744825000509","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":213904.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"29/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73936286,"cnpj":"27744825000509","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":213904.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"29/09/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"62123203904","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1800.00},
 {"ie":0,"cnpj":"40353641000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1000.00},

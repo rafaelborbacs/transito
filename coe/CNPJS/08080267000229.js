@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":42665795,"cnpj":"08080267000229","razao":"JOSEILSON GENESIO DA SILVA VESTUARIOS ME","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"17/12/2010"}];
+EstabelecimentoData.estabelecimento = [{"ie":42665795,"cnpj":"08080267000229","razao":"JOSEILSON GENESIO DA SILVA VESTUARIOS ME","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"17/12/2010","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04418959483","nome":"JOSEILSON GENESIO DA SILVA","ie":55626009,"cnpj":"14745824000103","razao":"SILVA E PEREIRA LAVANDERIA LTDA ME","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":70934118,"cnpj":"27173264000101","razao":"TATIANA SILVA BATISTA ME","sit":"C","arrecadacao":0.00,"entradas":390.00,"saidas":733915.95,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"23/02/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":70934118,"cnpj":"27173264000101","razao":"TATIANA SILVA BATISTA ME","sit":"C","arrecadacao":0.00,"entradas":390.00,"saidas":733915.95,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"23/02/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"17740538000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":390.00}];
 SaidasData.saidas = [{"ie":70119031,"cnpj":"26773410000169","razao":"COMERCIAL DE ALIMENTOS BOM SUCESSO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":3488.90},
 {"ie":69053820,"cnpj":"26222221000106","razao":"ATACAREJO IDEAL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1127.50},
@@ -31,7 +31,7 @@ SaidasData.saidas = [{"ie":70119031,"cnpj":"26773410000169","razao":"COMERCIAL D
 {"ie":38998882,"cnpj":"11350192000263","razao":"QUEIROZ SUPERMERCADOS LTDA","sit":"A","regime":"NORMAL","municipio":"AMARAJI","igi":0,"uf":"PE","valor":620.00},
 {"ie":38978938,"cnpj":"11350192000182","razao":"QUEIROZ SUPERMERCADOS LTDA","sit":"A","regime":"NORMAL","municipio":"AMARAJI","igi":0,"uf":"PE","valor":650.00},
 {"ie":38873320,"cnpj":"11335169000119","razao":"SUPERMERCADO CHA GRANDE LTDA","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":704.00},
-{"ie":6486800,"cnpj":"11328598000169","razao":"EDVAL G REGO & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":0,"uf":"PE","valor":7800.00},
+{"ie":6486800,"cnpj":"11328598000169","razao":"EDVAL G REGO & CIA LTDA","sit":"S","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":0,"uf":"PE","valor":7800.00},
 {"ie":38531950,"cnpj":"10968944000100","razao":"COMERCIAL DE ALIMENTOS PADRAO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1127.50},
 {"ie":37162870,"cnpj":"10422303000156","razao":"C.A.A. COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":17560.00},
 {"ie":36109851,"cnpj":"09281768000155","razao":"JOSE AUGUSTO SALES BORBA ESTIVAS","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":14263.30},

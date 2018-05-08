@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73286567,"cnpj":"28428521000163","razao":"COMERCIAL ITAMARACA ALIMENTOS LTDA ME","sit":"C","arrecadacao":0.00,"entradas":771918.22,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"ILHA DE ITAMARACA","drr":"I","igi":1,"dataie":"16/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73286567,"cnpj":"28428521000163","razao":"COMERCIAL ITAMARACA ALIMENTOS LTDA ME","sit":"C","arrecadacao":0.00,"entradas":771918.22,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"ILHA DE ITAMARACA","drr":"I","igi":1,"dataie":"16/08/2017","contador":""}];
 EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":771918.22}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06100185822","nome":"CLAUDIO FERREIRA DA CRUZ","ie":73395854,"cnpj":"28482298000132","razao":"MERCADOS BODOCO ALIMENTOS LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"BODOCO","igi":0},

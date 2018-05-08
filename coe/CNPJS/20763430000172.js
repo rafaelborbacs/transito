@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":58990950,"cnpj":"20763430000172","razao":"J R TEXTIL LTDA EPP","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":315077.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"29/08/2014"}];
+EstabelecimentoData.estabelecimento = [{"ie":58990950,"cnpj":"20763430000172","razao":"J R TEXTIL LTDA EPP","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":315077.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"29/08/2014","contador":"INACIO JOSE DA SILVA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":69393761,"cnpj":"26396303000169","razao":"MARIA ROSALINA LOPES DA SILVA EPP","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":54675.00},
 {"ie":55783880,"cnpj":"19388811000130","razao":"JEAN CARLOS DA SILVA MOURA ME","sit":"A","regime":"SIMPLES","municipio":"SURUBIM","igi":0,"uf":"PE","valor":216347.50},

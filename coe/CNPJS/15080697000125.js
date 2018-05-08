@@ -1,13 +1,13 @@
-EstabelecimentoData.estabelecimento = [{"ie":47698055,"cnpj":"15080697000125","razao":"4SUCESSO COMERCIO SERVICOS IMPORTACAO E EXPORTACAO EIRELI","sit":"C","arrecadacao":555.00,"entradas":581014.46,"saidas":876727.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"28/02/2012"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"08858613000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":52000.00},
+EstabelecimentoData.estabelecimento = [{"ie":47698055,"cnpj":"15080697000125","razao":"4SUCESSO COMERCIO SERVICOS IMPORTACAO E EXPORTACAO EIRELI","sit":"C","arrecadacao":555.00,"entradas":581014.46,"saidas":876727.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"28/02/2012","contador":"MOYSES SALES ROCHA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"23673660000139","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":28000.00},
 {"ie":0,"cnpj":"00097225000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":24.46},
 {"ie":0,"cnpj":"75904383007053","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":169650.00},
-{"ie":0,"cnpj":"23673660000139","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":28000.00},
+{"ie":0,"cnpj":"08858613000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":52000.00},
 {"ie":0,"cnpj":"27488953000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":62020.00},
-{"ie":0,"cnpj":"11852517000125","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":31300.00},
+{"ie":0,"cnpj":"07643005000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":160820.00},
 {"ie":0,"cnpj":"26788096000198","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":30000.00},
-{"ie":0,"cnpj":"17213682000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":47200.00},
-{"ie":0,"cnpj":"07643005000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":160820.00}];
+{"ie":0,"cnpj":"11852517000125","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":31300.00},
+{"ie":0,"cnpj":"17213682000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":47200.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"76370135453","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1900.00},
 {"ie":0,"cnpj":"31012077896","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1080.00},
 {"ie":64180581,"cnpj":"23285536000104","razao":"A DOS SANTOS MELO CIMENTO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":3000.00},
@@ -19,7 +19,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"76370135453","razao":"","sit":"","regime":"
 {"ie":35961414,"cnpj":"08963032000102","razao":"A DE SOUZA REGO","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":200.00},
 {"ie":8896100,"cnpj":"08194920000108","razao":"ORDEP FABRIL NORDESTE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":97000.00},
 {"ie":0,"cnpj":"07786263420","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":56.00},
-{"ie":33402876,"cnpj":"07290015000180","razao":"EMPORIO COMERCIO ATACADISTA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":2125.00},
+{"ie":33402876,"cnpj":"07290015000180","razao":"EMPORIO COMERCIO ATACADISTA EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":2125.00},
 {"ie":0,"cnpj":"06042942476","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":300.00},
 {"ie":30931231,"cnpj":"06015530000190","razao":"AGROINDUSTRIAL FRUTNAA LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":1000.00},
 {"ie":29327415,"cnpj":"05051327000106","razao":"DISTRIBUIDORA UNIVERSAL DE GLP -  EIRELI","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":12100.00},
@@ -41,7 +41,7 @@ SociosData.socios = [{"cpf":"46240730459","nome":"FERNANDO ANTONIO MUNIZ DA CUNH
 {"cpf":"46240730459","nome":"FERNANDO ANTONIO MUNIZ DA CUNHA FILHO","ie":16451880,"cnpj":"35481407000162","razao":"MAXIMA AUTO PECAS LTDA","sit":"B","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0},
 {"cpf":"39978150463","nome":"MOYSES SALES ROCHA","ie":57254109,"cnpj":"11984749000137","razao":"VB LOCACAO DE GUINCHOS LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"39978150463","nome":"MOYSES SALES ROCHA","ie":47698055,"cnpj":"15080697000125","razao":"4SUCESSO COMERCIO SERVICOS IMPORTACAO E EXPORTACAO EIRELI","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
-{"cpf":"39978150463","nome":"MOYSES SALES ROCHA","ie":45178810,"cnpj":"14025353000150","razao":"ORANGE COMERCIO DE ALIMENTOS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":0},
+{"cpf":"39978150463","nome":"MOYSES SALES ROCHA","ie":45178810,"cnpj":"14025353000150","razao":"ORANGE COMERCIO DE ALIMENTOS EIRELI  ME","sit":"B","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":0},
 {"cpf":"39978150463","nome":"MOYSES SALES ROCHA","ie":41057880,"cnpj":"12474525000148","razao":"NE NORDESTE SOLUCOES DE PISOS INDUSTRIAIS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"39978150463","nome":"MOYSES SALES ROCHA","ie":31594930,"cnpj":"06945912000112","razao":"MOYSES SALES ROCHA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"39978150463","nome":"MOYSES SALES ROCHA","ie":30774039,"cnpj":"05864126000128","razao":"MAQROCHA COMERCIO E SERVICOS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":49894650,"cnpj":"12247834000266","razao":"BRASIL CANA E AGUA LTDA ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"ITAPISSUMA","drr":"I","igi":1,"dataie":"30/08/2012"}];
+EstabelecimentoData.estabelecimento = [{"ie":49894650,"cnpj":"12247834000266","razao":"BRASIL CANA E AGUA LTDA ME","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"ITAPISSUMA","drr":"I","igi":1,"dataie":"30/08/2012","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10181141493","nome":"MARIA EDUARDA ARAUJO DE CASTRO","ie":49894650,"cnpj":"12247834000266","razao":"BRASIL CANA E AGUA LTDA ME","sit":"S","regime":"NORMAL","municipio":"ITAPISSUMA","igi":1},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74356658,"cnpj":"27584943000246","razao":"FLAVIO FRANCISCO DOS SANTOS LEITE EPP","sit":"S","arrecadacao":0.00,"entradas":35447.13,"saidas":233761.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"30/10/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74356658,"cnpj":"27584943000246","razao":"FLAVIO FRANCISCO DOS SANTOS LEITE EPP","sit":"S","arrecadacao":0.00,"entradas":35447.13,"saidas":233761.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"30/10/2017","contador":""}];
 EntradasData.entradas = [{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":35447.13}];
 SaidasData.saidas = [{"ie":0,"cnpj":"80787819387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1030.00},
 {"ie":0,"cnpj":"75415780610","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2660.00},

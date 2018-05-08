@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74099400,"cnpj":"28790649000172","razao":"WILLIAMS VASCONCELOS DA LUZ 03942454408","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":681366.09,"regime":"SIMEI","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"10/10/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74099400,"cnpj":"28790649000172","razao":"WILLIAMS VASCONCELOS DA LUZ 03942454408","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":681366.09,"regime":"SIMEI","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"10/10/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"99975823068","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":960.00},
 {"ie":0,"cnpj":"97614904249","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":196.00},

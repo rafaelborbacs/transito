@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":75666200,"cnpj":"27584943000408","razao":"FLAVIO FRANCISCO DOS SANTOS LEITE EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":239295.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"01/02/2018"}];
+EstabelecimentoData.estabelecimento = [{"ie":75666200,"cnpj":"27584943000408","razao":"FLAVIO FRANCISCO DOS SANTOS LEITE EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":239295.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"01/02/2018","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"84454156000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":22640.00},
 {"ie":0,"cnpj":"74002449220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":510.00},

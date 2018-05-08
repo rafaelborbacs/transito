@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72411511,"cnpj":"27956206000146","razao":"REALEZA RESIDUOS  E LOCACOES EIRELI ME","sit":"S","arrecadacao":2379.09,"entradas":18960.00,"saidas":1474864.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"16/06/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72411511,"cnpj":"27956206000146","razao":"REALEZA RESIDUOS  E LOCACOES EIRELI ME","sit":"S","arrecadacao":2379.09,"entradas":18960.00,"saidas":1474864.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"16/06/2017","contador":"ROGERIO JOSE MERGULHAO JUNIOR"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"03157269000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":18960.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"46126058000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":14600.00},
 {"ie":0,"cnpj":"22138107000133","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":40000.00},

@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":70285470,"cnpj":"26829831000164","razao":"REGINA CELI RIBEIRO DE ANDRADE CAMPELO 05882410401","sit":"A","arrecadacao":1.23,"entradas":3163.00,"saidas":80990.70,"regime":"SIMEI","segmento":"VAREJO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"16/01/2017"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"08165429000221","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":64.00},
-{"ie":0,"cnpj":"06220266000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1300.00},
+EstabelecimentoData.estabelecimento = [{"ie":70285470,"cnpj":"26829831000164","razao":"REGINA CELI RIBEIRO DE ANDRADE CAMPELO 05882410401","sit":"A","arrecadacao":1.23,"entradas":3163.00,"saidas":80990.70,"regime":"SIMEI","segmento":"VAREJO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"16/01/2017","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"06220266000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1300.00},
+{"ie":0,"cnpj":"08165429000221","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":64.00},
 {"ie":0,"cnpj":"11970397000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1799.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"70100615000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":702.00},
 {"ie":0,"cnpj":"70047741000456","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1362.15},
@@ -24,7 +24,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"70100615000175","razao":"","sit":"","regime
 {"ie":0,"cnpj":"15122532000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":680.40},
 {"ie":47554800,"cnpj":"14968897000156","razao":"D R DE LIMA MAGAZINE ME","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":2200.20},
 {"ie":0,"cnpj":"14895504000121","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":2250.00},
-{"ie":46170456,"cnpj":"14410854000150","razao":"FERREIRA DISTRIBUIDORA DE ARTIGOS ESCOLARES LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":1670.10},
+{"ie":46170456,"cnpj":"14410854000150","razao":"FERREIRA DISTRIBUIDORA DE ARTIGOS ESCOLARES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":1670.10},
 {"ie":0,"cnpj":"12940463000112","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":760.64},
 {"ie":0,"cnpj":"12029710000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1800.00},
 {"ie":39025799,"cnpj":"11429363000163","razao":"CEMS PAPEIS E CIA LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":999.86},

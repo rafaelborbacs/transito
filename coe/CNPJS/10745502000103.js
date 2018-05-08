@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":37859986,"cnpj":"10745502000103","razao":"COSMETICOS INDUSTRIA E COMERCIO LTDA","sit":"A","arrecadacao":1285.60,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"GOIANA","drr":"I","igi":1,"dataie":"22/04/2009"}];
+EstabelecimentoData.estabelecimento = [{"ie":37859986,"cnpj":"10745502000103","razao":"COSMETICOS INDUSTRIA E COMERCIO LTDA","sit":"A","arrecadacao":1285.60,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"GOIANA","drr":"I","igi":1,"dataie":"22/04/2009","contador":"MARCELE BORGES MILET MORAES"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06071669405","nome":"NICOLE BARBOSA SULTANUM","ie":37859986,"cnpj":"10745502000103","razao":"COSMETICOS INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":1},

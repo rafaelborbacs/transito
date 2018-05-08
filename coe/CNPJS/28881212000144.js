@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74161644,"cnpj":"28881212000144","razao":"ANDRE STEWART DA SILVA LIMA ME","sit":"S","arrecadacao":0.00,"entradas":100532.18,"saidas":410008.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"18/10/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74161644,"cnpj":"28881212000144","razao":"ANDRE STEWART DA SILVA LIMA ME","sit":"S","arrecadacao":0.00,"entradas":100532.18,"saidas":410008.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"18/10/2017","contador":""}];
 EntradasData.entradas = [{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":100532.18}];
 SaidasData.saidas = [{"ie":0,"cnpj":"84967744000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2000.00},
 {"ie":0,"cnpj":"81612630278","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":195.00},
@@ -21,7 +21,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84967744000170","razao":"","sit":"","regime
 {"ie":0,"cnpj":"26973309000151","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":535.00},
 {"ie":0,"cnpj":"26859259000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4100.00},
 {"ie":0,"cnpj":"26476091000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":5020.00},
-{"ie":69236151,"cnpj":"26317174000176","razao":"J N DE ANDRADE JUNIOR","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":31500.00},
+{"ie":69236151,"cnpj":"26317174000176","razao":"J N DE ANDRADE JUNIOR","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":31500.00},
 {"ie":0,"cnpj":"25535021000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1000.00},
 {"ie":0,"cnpj":"25333700000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1010.00},
 {"ie":0,"cnpj":"24941745000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":400.00},

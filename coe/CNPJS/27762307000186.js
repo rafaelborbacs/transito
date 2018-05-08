@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":71930841,"cnpj":"27762307000186","razao":"LEANDRO ALVES DA SILVA METAIS EIRELI EPP","sit":"C","arrecadacao":280.00,"entradas":121.94,"saidas":2923524.50,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"18/05/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":71930841,"cnpj":"27762307000186","razao":"LEANDRO ALVES DA SILVA METAIS EIRELI EPP","sit":"C","arrecadacao":280.00,"entradas":121.94,"saidas":2923524.50,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"18/05/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":121.94}];
 SaidasData.saidas = [{"ie":0,"cnpj":"21967785000146","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":155495.00},
 {"ie":0,"cnpj":"15525921000145","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":57100.00},

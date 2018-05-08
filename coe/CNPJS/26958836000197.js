@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":70481652,"cnpj":"26958836000197","razao":"R. R. DA SILVA FRANCA   EIRELI EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":5311165.81,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"26/01/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":70481652,"cnpj":"26958836000197","razao":"R. R. DA SILVA FRANCA   EIRELI EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":5311165.81,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"26/01/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PRODUTOS ALIMENTICIOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":86575.44},
 {"ie":61077372,"cnpj":"21805352000194","razao":"ALBUQUERQUE GERENCIAMENTO DE RESIDUOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1018800.00},

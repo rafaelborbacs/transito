@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73514969,"cnpj":"11707044000172","razao":"JORGE L L DO NASCIMENTO LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":5798870.28,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"31/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73514969,"cnpj":"11707044000172","razao":"JORGE L L DO NASCIMENTO LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":5798870.28,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"31/08/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PRODUTOS ALIMENTICIOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":83532.00},
 {"ie":38302098,"cnpj":"68174069000175","razao":"EXTRA PRESTACAO DE SERVICOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":212923.26},

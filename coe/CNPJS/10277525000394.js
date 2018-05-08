@@ -1,8 +1,8 @@
-EstabelecimentoData.estabelecimento = [{"ie":55435920,"cnpj":"10277525000394","razao":"DAYANE BABY INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"LIMOEIRO","drr":"I","igi":1,"dataie":"18/11/2013"}];
+EstabelecimentoData.estabelecimento = [{"ie":55435920,"cnpj":"10277525000394","razao":"DAYANE BABY INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"LIMOEIRO","drr":"I","igi":1,"dataie":"18/11/2013","contador":"CARLOS ALBERTO FERREIRA DO NASCIMENTO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"93176643420","nome":"VANUZA DE SOUZA LEMOS AVELINO","ie":68314353,"cnpj":"25316620000165","razao":"V DE SOUZA LEMOS AVELINO ME","sit":"A","regime":"SIMPLES","municipio":"LIMOEIRO","igi":0},
-{"cpf":"93176643420","nome":"VANUZA DE SOUZA LEMOS AVELINO","ie":63237580,"cnpj":"16659460000166","razao":"DAGOBERTO INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"S","regime":"SIMPLES","municipio":"VITORIA DE SANTO ANTAO","igi":0},
+{"cpf":"93176643420","nome":"VANUZA DE SOUZA LEMOS AVELINO","ie":63237580,"cnpj":"16659460000166","razao":"DAGOBERTO INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"A","regime":"SIMPLES","municipio":"VITORIA DE SANTO ANTAO","igi":0},
 {"cpf":"93176643420","nome":"VANUZA DE SOUZA LEMOS AVELINO","ie":55436064,"cnpj":"10277525000203","razao":"DAYANE BABY INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"B","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1},
 {"cpf":"93176643420","nome":"VANUZA DE SOUZA LEMOS AVELINO","ie":55435920,"cnpj":"10277525000394","razao":"DAYANE BABY INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"LIMOEIRO","igi":1},
 {"cpf":"93176643420","nome":"VANUZA DE SOUZA LEMOS AVELINO","ie":36954098,"cnpj":"10277525000122","razao":"DAYANE BABY INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},

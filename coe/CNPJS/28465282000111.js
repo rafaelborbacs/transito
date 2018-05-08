@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73483125,"cnpj":"28465282000111","razao":"MAURICIO JOSE DA SILVA 06264314412","sit":"C","arrecadacao":0.00,"entradas":597621.00,"saidas":518754.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"29/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73483125,"cnpj":"28465282000111","razao":"MAURICIO JOSE DA SILVA 06264314412","sit":"C","arrecadacao":0.00,"entradas":597621.00,"saidas":518754.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"29/08/2017","contador":""}];
 EntradasData.entradas = [{"ie":16261836,"cnpj":"35605732000190","razao":"JADIAEL LIMA BEZERRA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":597621.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97536622000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":3036.80},
 {"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":5900.00},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":36426660,"cnpj":"09369490000172","razao":"PROCEM INDUSTRIAL E COMERCIAL LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"PAULISTA","drr":"I","igi":1,"dataie":"11/04/2008"}];
+EstabelecimentoData.estabelecimento = [{"ie":36426660,"cnpj":"09369490000172","razao":"PROCEM INDUSTRIAL E COMERCIAL LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"PAULISTA","drr":"I","igi":1,"dataie":"11/04/2008","contador":"GABRIEL LIMA SILVA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71306480825","nome":"LUIZ FRANCISCO PITTA","ie":36426660,"cnpj":"09369490000172","razao":"PROCEM INDUSTRIAL E COMERCIAL LTDA","sit":"C","regime":"NORMAL","municipio":"PAULISTA","igi":1},

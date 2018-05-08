@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74830902,"cnpj":"27174665000410","razao":"VANESSA BATISTA DE SALES","sit":"S","arrecadacao":982.60,"entradas":252359.01,"saidas":914235.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"01/12/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74830902,"cnpj":"27174665000410","razao":"VANESSA BATISTA DE SALES","sit":"S","arrecadacao":982.60,"entradas":252359.01,"saidas":914235.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"01/12/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"68146810000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":21840.00},
 {"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":163841.92},
 {"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":50000.12},
@@ -14,9 +14,9 @@ SaidasData.saidas = [{"ie":0,"cnpj":"95059660168","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"42927927200","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1209.00},
 {"ie":0,"cnpj":"41726283895","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":10000.00},
 {"ie":0,"cnpj":"41527966852","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6000.00},
-{"ie":0,"cnpj":"40694029858","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2000.00},
+{"ie":0,"cnpj":"40694029858","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2000.00},
 {"ie":0,"cnpj":"39792811168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":18000.00},
-{"ie":0,"cnpj":"39741510870","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4100.00},
+{"ie":0,"cnpj":"39741510870","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4100.00},
 {"ie":0,"cnpj":"38620366858","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
 {"ie":0,"cnpj":"36769602000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"DF","valor":6510.00},
 {"ie":0,"cnpj":"36397581888","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":14350.00},
@@ -24,7 +24,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"95059660168","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"35223154134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3000.00},
 {"ie":0,"cnpj":"34696278000167","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":8052.00},
 {"ie":0,"cnpj":"34533626831","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6000.00},
-{"ie":0,"cnpj":"34515366840","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":6000.00},
+{"ie":0,"cnpj":"34515366840","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6000.00},
 {"ie":0,"cnpj":"34389293842","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5000.00},
 {"ie":0,"cnpj":"34326146168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":8000.00},
 {"ie":0,"cnpj":"33197258827","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":7000.00},

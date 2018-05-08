@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":53199510,"cnpj":"14732476000121","razao":"NUTRALLE INDUSTRIA E COMERCIO LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"04/06/2013"}];
+EstabelecimentoData.estabelecimento = [{"ie":53199510,"cnpj":"14732476000121","razao":"NUTRALLE INDUSTRIA E COMERCIO LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"04/06/2013","contador":"ANDREA CAVALCANTE DOS SANTOS"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"16061535449","nome":"ALEXANDRE MAGNO COUTINHO DE OLIVEIRA","ie":53199510,"cnpj":"14732476000121","razao":"NUTRALLE INDUSTRIA E COMERCIO LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},

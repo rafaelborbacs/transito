@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":36183741,"cnpj":"09333201000185","razao":"VISABAG - INDUSTRIA E COMERCIO DE EMBALAGENS PLASTICAS LTDA - ME","sit":"C","arrecadacao":2774.85,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"01/02/2008"}];
+EstabelecimentoData.estabelecimento = [{"ie":36183741,"cnpj":"09333201000185","razao":"VISABAG - INDUSTRIA E COMERCIO DE EMBALAGENS PLASTICAS LTDA - ME","sit":"C","arrecadacao":2774.85,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"01/02/2008","contador":"SERGIO HENRIQUE SILVA DE OLIVEIRA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"45191433491","nome":"MARIA LUCINEIDE DA SILVA","ie":37874780,"cnpj":"10766123000191","razao":"CATAR PARTICIPACAO LTDA EPP","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},

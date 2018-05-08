@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74549960,"cnpj":"29024430000125","razao":"ALEXANDRE BARBOSA DE SOUZA 39123935839","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":419993.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"13/11/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74549960,"cnpj":"29024430000125","razao":"ALEXANDRE BARBOSA DE SOUZA 39123935839","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":419993.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"13/11/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"97543881000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":2970.00},
 {"ie":0,"cnpj":"70024522236","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3400.00},

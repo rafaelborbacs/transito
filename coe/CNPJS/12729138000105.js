@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":42031605,"cnpj":"12729138000105","razao":"J M DE QUEIROZ E CIA VESTUARIO LTDA ME","sit":"S","arrecadacao":302.67,"entradas":0.00,"saidas":348311.67,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CORTES","drr":"I","igi":1,"dataie":"09/11/2010"}];
+EstabelecimentoData.estabelecimento = [{"ie":42031605,"cnpj":"12729138000105","razao":"J M DE QUEIROZ E CIA VESTUARIO LTDA ME","sit":"S","arrecadacao":302.67,"entradas":0.00,"saidas":348311.67,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CORTES","drr":"I","igi":1,"dataie":"09/11/2010","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":65163788,"cnpj":"23729667000125","razao":"MARCKDOWEL DE MELO AVIAMENTO","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":50804.77},
 {"ie":58599720,"cnpj":"20684147000155","razao":"GERLANDO PEREIRA DOS SANTOS TECIDOS ME","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":297506.90}];

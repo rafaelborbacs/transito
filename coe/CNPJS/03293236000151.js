@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","arrecadacao":10351.66,"entradas":884856.24,"saidas":223444.78,"regime":"NORMAL","segmento":"TECIDOS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"28/07/1999"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"09000527000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":884856.24}];
+EstabelecimentoData.estabelecimento = [{"ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","arrecadacao":10351.66,"entradas":1111507.58,"saidas":223444.78,"regime":"NORMAL","segmento":"TECIDOS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"28/07/1999","contador":"VANILSON ROBERTO OLIVEIRA VILELA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"09000527000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1111507.58}];
 SaidasData.saidas = [{"ie":0,"cnpj":"35398478000287","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":10755.36},
 {"ie":0,"cnpj":"26828050000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2255.00},
 {"ie":0,"cnpj":"24448751000133","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":3300.00},
@@ -30,5 +30,6 @@ SociosData.socios = [{"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PE
 {"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PEREIRA NACOR","ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","regime":"NORMAL","municipio":"LAJEDO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"12580684000127","tel":"08737731798","razao":"EVERALDO L SILVA LAJENDENSE - ME","municipio":"Lajedo"},
-{"cnpj":"08987355000128","tel":"08737731798","razao":"ADEMILTON JOSE CAVALCANTE - ME","municipio":"LAJEDO"}];
+{"cnpj":"08987355000128","tel":"08737731798","razao":"ADEMILTON JOSE CAVALCANTE - ME","municipio":"LAJEDO"},
+{"cnpj":"08831289000100","tel":"08737731798","razao":"FUNDO MUNICIPAL DE SAUDE DE LAJEDO","municipio":"LAJEDO"}];
 PlacasData.placas = [];

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":7768745,"cnpj":"11577665000189","razao":"JOVERA LTDA","sit":"A","arrecadacao":0.00,"entradas":759.00,"saidas":52530.56,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"28/02/1981"}];
+EstabelecimentoData.estabelecimento = [{"ie":7768745,"cnpj":"11577665000189","razao":"JOVERA LTDA","sit":"A","arrecadacao":0.00,"entradas":759.00,"saidas":52530.56,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"28/02/1981","contador":"MARCONE JUNIOR DA SILVA"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"00445335000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":759.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"84481761000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":300.00},
 {"ie":0,"cnpj":"63709935000161","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1795.50},

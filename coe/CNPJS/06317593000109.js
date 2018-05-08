@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":31468985,"cnpj":"06317593000109","razao":"COMERCIO ML LUBRIFICANTES LTDA  ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":12153713.00,"regime":"NORMAL","segmento":"COMBUSTIVEL","municipio":"VITORIA DE SANTO ANTAO","drr":"I","igi":1,"dataie":"06/08/2004"}];
+EstabelecimentoData.estabelecimento = [{"ie":31468985,"cnpj":"06317593000109","razao":"COMERCIO ML LUBRIFICANTES LTDA  ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":12153713.00,"regime":"NORMAL","segmento":"COMBUSTIVEL","municipio":"VITORIA DE SANTO ANTAO","drr":"I","igi":1,"dataie":"06/08/2004","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":23125810,"cnpj":"85127983000508","razao":"FONTANELLA TRANSPORTES LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1630265.00},
 {"ie":43840752,"cnpj":"13518421000150","razao":"RODOPRIMA - TRANSPORTES RODOVIARIOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":861693.00},

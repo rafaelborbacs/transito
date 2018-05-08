@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":62974637,"cnpj":"22687478000174","razao":"LEANDRO BATISTA DO NASCIMENTO 10687720427","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":1702450.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"22/06/2015"}];
+EstabelecimentoData.estabelecimento = [{"ie":62974637,"cnpj":"22687478000174","razao":"LEANDRO BATISTA DO NASCIMENTO 10687720427","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":1702450.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"22/06/2015","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"68823350000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":161130.00},
 {"ie":0,"cnpj":"18325953000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":435000.00},

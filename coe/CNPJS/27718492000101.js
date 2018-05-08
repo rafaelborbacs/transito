@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":71924108,"cnpj":"27718492000101","razao":"COMERCIAL NOVO CORTES EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":2808137.98,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CORTES","drr":"I","igi":1,"dataie":"17/05/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":71924108,"cnpj":"27718492000101","razao":"COMERCIAL NOVO CORTES EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":2808137.98,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CORTES","drr":"I","igi":1,"dataie":"17/05/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"97506026000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":274854.25},
 {"ie":31688241,"cnpj":"09511015000199","razao":"PERFIL NORDESTE REPRESENTACAO, IMPORTACAO E EXPORTACAO LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":1244645.73},

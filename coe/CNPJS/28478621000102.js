@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73428370,"cnpj":"28478621000102","razao":"SAMUEL SALES DA SILVA 07676240417","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":401191.06,"regime":"NORMAL","segmento":"TECIDOS","municipio":"IBIRAJUBA","drr":"II","igi":1,"dataie":"29/08/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73428370,"cnpj":"28478621000102","razao":"SAMUEL SALES DA SILVA 07676240417","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":401191.06,"regime":"NORMAL","segmento":"TECIDOS","municipio":"IBIRAJUBA","drr":"II","igi":1,"dataie":"29/08/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"99975823068","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":960.00},
 {"ie":0,"cnpj":"99814013749","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":308.00},

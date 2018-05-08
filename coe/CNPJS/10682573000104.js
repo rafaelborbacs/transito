@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":11878649,"cnpj":"10682573000104","razao":"KITAPAN INDUSTRIA COMERCIO E REPRESENTACOES LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"01/09/1986"}];
+EstabelecimentoData.estabelecimento = [{"ie":11878649,"cnpj":"10682573000104","razao":"KITAPAN INDUSTRIA COMERCIO E REPRESENTACOES LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"01/09/1986","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"98773593591","nome":"JULIO CESAR OLIVIERA DE FARIAS","ie":13187210,"cnpj":"10682573000287","razao":"KITAPAN INDUSTRIA COMERCIO E REPRESENTACOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},

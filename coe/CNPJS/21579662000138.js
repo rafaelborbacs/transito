@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":60576839,"cnpj":"21579662000138","razao":"SIMONE PEREIRA DA SILVA 08817728446","sit":"S","arrecadacao":12.00,"entradas":13026.50,"saidas":83550.00,"regime":"SIMPLES","segmento":"VAREJO","municipio":"PETROLANDIA","drr":"III","igi":1,"dataie":"22/12/2014"}];
-EntradasData.entradas = [{"ie":39298507,"cnpj":"11723886000118","razao":"IVO VIANA CAVALCANTE","sit":"A","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":1399.00},
-{"ie":59515937,"cnpj":"21163874000130","razao":"NORDESTE DISTRIBUIDORA DE EXTINTORES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":11627.50}];
+EstabelecimentoData.estabelecimento = [{"ie":60576839,"cnpj":"21579662000138","razao":"SIMONE PEREIRA DA SILVA 08817728446","sit":"S","arrecadacao":12.00,"entradas":13026.50,"saidas":83550.00,"regime":"SIMPLES","segmento":"VAREJO","municipio":"PETROLANDIA","drr":"III","igi":1,"dataie":"22/12/2014","contador":""}];
+EntradasData.entradas = [{"ie":59515937,"cnpj":"21163874000130","razao":"NORDESTE DISTRIBUIDORA DE EXTINTORES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":11627.50},
+{"ie":39298507,"cnpj":"11723886000118","razao":"IVO VIANA CAVALCANTE","sit":"A","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":1399.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":170.00},
 {"ie":0,"cnpj":"90403568587","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":180.00},
 {"ie":0,"cnpj":"85774960404","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":170.00},
@@ -140,7 +140,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":54948932,"cnpj":"19086706000146","razao":"QUITERIA VIANA SOUZA ME","sit":"A","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":400.00},
 {"ie":54873070,"cnpj":"19070038000169","razao":"JOSE ROBERTO RODRIGUES DO AMARAL","sit":"A","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":180.00},
 {"ie":54517796,"cnpj":"18828104000154","razao":"ALCIDESIO ANTONIO PEREIRA DA SILVA ME","sit":"B","regime":"NORMAL","municipio":"TACARATU","igi":0,"uf":"PE","valor":180.00},
-{"ie":54326850,"cnpj":"18766155000107","razao":"ELCY CLEIA FERREIRA DOS SANTOS","sit":"S","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":170.00},
+{"ie":54326850,"cnpj":"18766155000107","razao":"ELCY CLEIA FERREIRA DOS SANTOS","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":170.00},
 {"ie":54375550,"cnpj":"18763666000167","razao":"CICERO EMILIO NUNES 06542326448","sit":"A","regime":"SIMEI","municipio":"TACARATU","igi":0,"uf":"PE","valor":190.00},
 {"ie":54055130,"cnpj":"18648864000180","razao":"MARIA APARECIDA T. DOS SANTOS ME","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":360.00},
 {"ie":53665180,"cnpj":"18508251000147","razao":"ADAILSON MANOEL DA SILVA ME","sit":"B","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":360.00},
@@ -263,11 +263,11 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":28903137,"cnpj":"04733760000169","razao":"MARIA DO ROZARIO DE OLIVEIRA SANTOS","sit":"A","regime":"SIMPLES","municipio":"TACARATU","igi":0,"uf":"PE","valor":170.00},
 {"ie":28633407,"cnpj":"04644030000191","razao":"JOSILDA PINHEIRO SANTOS","sit":"B","regime":"NORMAL","municipio":"TAMANDARE","igi":0,"uf":"PE","valor":350.00},
 {"ie":28356578,"cnpj":"04562127000155","razao":"DENILTON PIRES LACERDA - ME","sit":"A","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":360.00},
-{"ie":27952800,"cnpj":"04328077000146","razao":"FABIANO JAQUES MARQUES","sit":"A","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":190.00},
+{"ie":27952800,"cnpj":"04328077000146","razao":"FABIANO JAQUES MARQUES","sit":"S","regime":"SIMPLES","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":190.00},
 {"ie":27922227,"cnpj":"04291876000195","razao":"JOSE VALDY GONCALVES DOS SANTOS ME","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":190.00},
 {"ie":0,"cnpj":"04273337410","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":170.00},
 {"ie":0,"cnpj":"04026652440","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":160.00},
-{"ie":27398285,"cnpj":"04004220000144","razao":"ELSON J. SOUZA CONFECCOES","sit":"S","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":180.00},
+{"ie":27398285,"cnpj":"04004220000144","razao":"ELSON J. SOUZA CONFECCOES","sit":"A","regime":"SIMPLES","municipio":"FLORESTA","igi":0,"uf":"PE","valor":180.00},
 {"ie":27136914,"cnpj":"03834584000199","razao":"MARCIA MARIA SILVA BARROS","sit":"C","regime":"NORMAL","municipio":"JATOBA","igi":0,"uf":"PE","valor":170.00},
 {"ie":26896427,"cnpj":"03656298000180","razao":"LUCICLEIDE MARIA NASCIMENTO","sit":"A","regime":"SIMEI","municipio":"JATOBA","igi":0,"uf":"PE","valor":190.00},
 {"ie":0,"cnpj":"03636493442","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":190.00},
@@ -288,7 +288,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99397870491","razao":"","sit":"","regime":"
 {"ie":24388602,"cnpj":"02230625000175","razao":"JOAO BATISTA RODRIGUES","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":540.00},
 {"ie":23895330,"cnpj":"02072356000166","razao":"MARIA APARECIDA SOUZA CARVALHO","sit":"A","regime":"SIMPLES","municipio":"TACARATU","igi":0,"uf":"PE","valor":190.00},
 {"ie":0,"cnpj":"02057572439","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":940.00},
-{"ie":23705302,"cnpj":"01929600000100","razao":"DIONALDO SOUZA BARBOSA","sit":"S","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":180.00},
+{"ie":23705302,"cnpj":"01929600000100","razao":"DIONALDO SOUZA BARBOSA","sit":"A","regime":"SIMPLES","municipio":"JATOBA","igi":0,"uf":"PE","valor":180.00},
 {"ie":23588918,"cnpj":"01837856000189","razao":"TEREZA VIANA ARAUJO","sit":"A","regime":"SIMPLES","municipio":"TACARATU","igi":0,"uf":"PE","valor":170.00},
 {"ie":0,"cnpj":"01523651415","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":170.00},
 {"ie":22986197,"cnpj":"01471132000164","razao":"FRANCISCA ALDERLANIA NASCIMENTO","sit":"A","regime":"SIMEI","municipio":"JATOBA","igi":0,"uf":"PE","valor":170.00},

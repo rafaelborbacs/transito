@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72013206,"cnpj":"27740207000159","razao":"JOSE WELLINGTON DA SILVA E SILVA EIRELI ME","sit":"S","arrecadacao":0.00,"entradas":58080.00,"saidas":158169.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"22/05/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72013206,"cnpj":"27740207000159","razao":"JOSE WELLINGTON DA SILVA E SILVA EIRELI ME","sit":"S","arrecadacao":0.00,"entradas":58080.00,"saidas":158169.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"22/05/2017","contador":""}];
 EntradasData.entradas = [{"ie":41889347,"cnpj":"12729332000190","razao":"R & J SCHAEFER COMERCIO ATACADISTA DE TECIDOS, IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":58080.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2800.00},
 {"ie":0,"cnpj":"44322970850","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1250.00},

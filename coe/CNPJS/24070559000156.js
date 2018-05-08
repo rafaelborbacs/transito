@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":14085852,"cnpj":"24070559000156","razao":"TECOREL COMERCIAL LIMITADA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"22/07/1992"}];
+EstabelecimentoData.estabelecimento = [{"ie":14085852,"cnpj":"24070559000156","razao":"TECOREL COMERCIAL LIMITADA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"22/07/1992","contador":"FRANCISCO DE ASSIS MARCELINO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"19216858400","nome":"MARIA VALERIA GUABIRU RODRIGUES DE SOUZA","ie":62798561,"cnpj":"22632647000179","razao":"MARIA VALERIA G R DE SOUZA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0},

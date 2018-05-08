@@ -1,8 +1,8 @@
-EstabelecimentoData.estabelecimento = [{"ie":74239341,"cnpj":"28914469000155","razao":"A F AMORIM DE ALMEIDA FILHO ME","sit":"C","arrecadacao":0.00,"entradas":174773.19,"saidas":2524659.99,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"POMBOS","drr":"II","igi":1,"dataie":"23/10/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74239341,"cnpj":"28914469000155","razao":"A F AMORIM DE ALMEIDA FILHO ME","sit":"C","arrecadacao":0.00,"entradas":174773.19,"saidas":2524659.99,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"POMBOS","drr":"II","igi":1,"dataie":"23/10/2017","contador":""}];
 EntradasData.entradas = [{"ie":36226734,"cnpj":"09346402000117","razao":"COMERCIO DE ALIMENTOS REAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1823.19},
-{"ie":0,"cnpj":"86439494000201","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":135000.00},
+{"ie":0,"cnpj":"27555426000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":14350.00},
 {"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":23600.00},
-{"ie":0,"cnpj":"27555426000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":14350.00}];
+{"ie":0,"cnpj":"86439494000201","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":135000.00}];
 SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COMERCIAL DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":79262.62},
 {"ie":73283622,"cnpj":"28406143000117","razao":"MIRLENE LUCKWU DA SILVA 03062803452","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":920.00},
 {"ie":71904921,"cnpj":"27728209000122","razao":"MONTEIRO & ARRUDA COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":300.00},
@@ -11,7 +11,7 @@ SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COME
 {"ie":68966180,"cnpj":"26183564000109","razao":"COMPRE AKI PROMOCOES DE VENDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":1560.00},
 {"ie":67396950,"cnpj":"24842017000154","razao":"COMERCIAL DE ALIMENTOS ROSENDO EIRELI","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":91679.65},
 {"ie":67385400,"cnpj":"24822335000153","razao":"ECONOMICO COMERCIO DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12716.20},
-{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":95565.00},
+{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":95565.00},
 {"ie":66717132,"cnpj":"24491347000142","razao":"LOJAO DA BELEZA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":936.00},
 {"ie":66425867,"cnpj":"24332484000134","razao":"V M DA CRUZ SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":230.00},
 {"ie":65573765,"cnpj":"23917802000166","razao":"OLIVEIRA E SANTOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":280.50},
@@ -38,7 +38,7 @@ SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COME
 {"ie":40971309,"cnpj":"12380907000102","razao":"SUPERMERCADO XAVANTE LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":6948.00},
 {"ie":40310590,"cnpj":"11506184000182","razao":"MERCADINHO POUPE BEM LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2585.50},
 {"ie":39039153,"cnpj":"11461582000120","razao":"MERCADINHO PARE E COMPRE LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":2392.50},
-{"ie":38673746,"cnpj":"11213848000115","razao":"PHENIX DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":210100.00},
+{"ie":38673746,"cnpj":"11213848000115","razao":"PHENIX DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":210100.00},
 {"ie":37659626,"cnpj":"10641170000109","razao":"ANDRADE, SANTOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":600.00},
 {"ie":36226734,"cnpj":"09346402000117","razao":"COMERCIO DE ALIMENTOS REAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1823.19},
 {"ie":9794573,"cnpj":"08831331000185","razao":"CASA ANDRADE LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":3734.83},
@@ -48,7 +48,7 @@ SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COME
 {"ie":34824561,"cnpj":"08663834000199","razao":"PAULO JORGE FEITOSA BATISTA","sit":"A","regime":"SIMPLES","municipio":"TUPARETAMA","igi":0,"uf":"PE","valor":4500.00},
 {"ie":34713905,"cnpj":"08605911000154","razao":"BALAIO SUPERMERCADO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":3300.00},
 {"ie":54861144,"cnpj":"08435684000247","razao":"EMBREPAR AUTOMOTIVA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":180.00},
-{"ie":34345833,"cnpj":"08202753000191","razao":"LUCIMARIO SILVA DE OLIVEIRA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":33000.00},
+{"ie":34345833,"cnpj":"08202753000191","razao":"LUCIMARIO SILVA DE OLIVEIRA","sit":"S","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":33000.00},
 {"ie":33481725,"cnpj":"07807806000135","razao":"J E DA CRUZ SUPERMERCADO","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":550.00},
 {"ie":32645996,"cnpj":"07429556000147","razao":"J C MATOS DOS SANTOS ME","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":3546.00},
 {"ie":31736408,"cnpj":"07028065000194","razao":"INDUSTRIA DE LATICINIO LETA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"BOM CONSELHO","igi":0,"uf":"PE","valor":604000.00},

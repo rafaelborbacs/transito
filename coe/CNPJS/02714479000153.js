@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":29518865,"cnpj":"02714479000153","razao":"M  E  M PEDRAS LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":5405.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"PETROLINA","drr":"III","igi":1,"dataie":"10/10/2002"}];
+EstabelecimentoData.estabelecimento = [{"ie":29518865,"cnpj":"02714479000153","razao":"M  E  M PEDRAS LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":6005.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"PETROLINA","drr":"III","igi":1,"dataie":"10/10/2002","contador":"MAX GERALDO SANTA ROSA SILVA"}];
 EntradasData.entradas = [];
-SaidasData.saidas = [{"ie":56009445,"cnpj":"05519873000390","razao":"SAO FRANCISCO MINERACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":5405.00}];
+SaidasData.saidas = [{"ie":56009445,"cnpj":"05519873000390","razao":"SAO FRANCISCO MINERACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":6005.00}];
 SociosData.socios = [{"cpf":"24745605803","nome":"MARIA BALBINA RIBEIRO MANDALITI","ie":29518865,"cnpj":"02714479000153","razao":"M  E  M PEDRAS LTDA ME","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1},
 {"cpf":"21129355420","nome":"MARIO DE SOUZA GONZAGA","ie":56009445,"cnpj":"05519873000390","razao":"SAO FRANCISCO MINERACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0},
 {"cpf":"21129355420","nome":"MARIO DE SOUZA GONZAGA","ie":43983863,"cnpj":"13451413000134","razao":"PETROLINA ZETA MINERACAO LTDA","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":0},

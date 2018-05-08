@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72322250,"cnpj":"27936353000154","razao":"JOSE MATEUS A.DE LIMA","sit":"S","arrecadacao":0.00,"entradas":20290.00,"saidas":429456.10,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"12/06/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72322250,"cnpj":"27936353000154","razao":"JOSE MATEUS A.DE LIMA","sit":"S","arrecadacao":0.00,"entradas":20290.00,"saidas":429456.10,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"12/06/2017","contador":"PAULO RONALDO DA SILVA"}];
 EntradasData.entradas = [{"ie":35592036,"cnpj":"09008414000131","razao":"ADAILCIO PEREIRA DE ARAUJO JUNIOR","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":20290.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"84642685000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":4428.60},
 {"ie":0,"cnpj":"79626475234","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":844.00},

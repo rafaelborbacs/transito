@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":23566191,"cnpj":"01902363000185","razao":"T & D COMPANHIA DE LANCHES LTDA","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"VAREJO","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"30/06/1997"}];
+EstabelecimentoData.estabelecimento = [{"ie":23566191,"cnpj":"01902363000185","razao":"T & D COMPANHIA DE LANCHES LTDA","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"VAREJO","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"30/06/1997","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"59271345487","nome":"JOSENILDO SEVERINO DOS SANTOS","ie":71902120,"cnpj":"22581863000132","razao":"J. I. GESTAO DE MARCAS E PATENTES LTDA","sit":"S","regime":"NORMAL","municipio":"GRAVATA","igi":0},

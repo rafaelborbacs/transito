@@ -1,0 +1,40 @@
+EstabelecimentoData.estabelecimento = [{"ie":76976190,"cnpj":"30284446000156","razao":"GENILSON ARAUJO DA SILVA","sit":"A","arrecadacao":0.00,"entradas":12436.00,"saidas":3460763.71,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"DORMENTES","drr":"III","igi":1,"dataie":"24/04/2018","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"06142621000196","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":413.50},
+{"ie":0,"cnpj":"05359982000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2122.50},
+{"ie":35945648,"cnpj":"09175609000176","razao":"SOMAR COMERCIO E TRANSPORTES DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":9900.00}];
+SaidasData.saidas = [{"ie":20181876,"cnpj":"70174511000105","razao":"PADELLE DISTRIBUIDORA DE UTENSILIOS DOMESTICOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":43088.50},
+{"ie":74622471,"cnpj":"29074231000121","razao":"A NEVES DE QUEIROZ EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"OROBO","igi":0,"uf":"PE","valor":37140.00},
+{"ie":69972010,"cnpj":"26727035000110","razao":"ATACAREJO NOVA ALDEIA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":312696.07},
+{"ie":68891075,"cnpj":"26144820000140","razao":"ANDRE B DE VASCONCELOS DESCARTAVEIS","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":150000.00},
+{"ie":67004385,"cnpj":"24622826000150","razao":"ASJ SUPERMERCADOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":21370.20},
+{"ie":64678733,"cnpj":"23523302000140","razao":"JOSIAS RICARDO SANTIAGO MERCADINHO EIRELI","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":13000.00},
+{"ie":61179299,"cnpj":"21851788000110","razao":"ALDEIA MASSAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":94703.90},
+{"ie":60468513,"cnpj":"21557382000129","razao":"MERCANTIL ELI DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":41080.40},
+{"ie":58245081,"cnpj":"20534381000104","razao":"SUPERMERCADO NOVA ERA EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":3600.00},
+{"ie":56089457,"cnpj":"19525053000154","razao":"ALVARES E DUTRA COMBUSTIVEIS LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":100020.00},
+{"ie":55854303,"cnpj":"19419160000106","razao":"COZIPE REFEICOES DE PERNAMBUCO EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":101032.90},
+{"ie":54257271,"cnpj":"18757191000104","razao":"COMERCIAL DE ALIMENTOS O BARATO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":30333.70},
+{"ie":52533069,"cnpj":"17941630000163","razao":"LG SANTOS COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":71225.00},
+{"ie":0,"cnpj":"17775352000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":400000.00},
+{"ie":35945648,"cnpj":"09175609000176","razao":"SOMAR COMERCIO E TRANSPORTES DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":19800.00},
+{"ie":10665609,"cnpj":"09038936000186","razao":"YSO DA VITORIA COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":32550.40},
+{"ie":35558873,"cnpj":"08999776000179","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9425.00},
+{"ie":0,"cnpj":"08935629000305","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1251500.00},
+{"ie":10249575,"cnpj":"08935629000135","razao":"INDUSTRIA E COMERCIO XAVANTE EIRELI","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"uf":"PE","valor":361500.00},
+{"ie":42351855,"cnpj":"07616168000175","razao":"J R ALVES COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":9360.00},
+{"ie":30699665,"cnpj":"05919681000100","razao":"RODRIGUES SILVA SUPERMERCADO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":15475.72},
+{"ie":29207274,"cnpj":"05032501000173","razao":"COMERCIAL SIRINHAEM LTDA","sit":"A","regime":"NORMAL","municipio":"SIRINHAEM","igi":0,"uf":"PE","valor":299219.55},
+{"ie":49952951,"cnpj":"04955676000351","razao":"J R ESTRELA ATACADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4745.00},
+{"ie":29336759,"cnpj":"04955676000190","razao":"J R ESTRELA ATACADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9855.00},
+{"ie":28393180,"cnpj":"04545623000109","razao":"S MANOEL SOUZA MERCADINHO","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":22637.37},
+{"ie":22767126,"cnpj":"01329442000149","razao":"MINERACAO PAULISTA LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTE DO LERIO","igi":0,"uf":"PE","valor":5405.00}];
+SociosData.socios = [{"cpf":"01540086488","nome":"GENILSON ARAUJO DA SILVA","ie":76976190,"cnpj":"30284446000156","razao":"GENILSON ARAUJO DA SILVA","sit":"A","regime":"NORMAL","municipio":"DORMENTES","igi":1},
+{"cpf":"01540086488","nome":"GENILSON ARAUJO DA SILVA","ie":67293638,"cnpj":"24790914000161","razao":"COMERCIAL PEGA LEVE EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0},
+{"cpf":"01540086488","nome":"GENILSON ARAUJO DA SILVA","ie":36646270,"cnpj":"09571918000165","razao":"C G ALIMENTOS E FRIOS LTDA","sit":"B","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0}];
+EmailsData.emails = [];
+TelsData.tels = [{"cnpj":"29480327000190","tel":"8132220000","razao":"THIAGO SANTOS DE LIMA COMERCIO","municipio":"PEDRA"},
+{"cnpj":"28548962000107","tel":"8132220000","razao":"PETRONIO PINTO DE CAMPOS ME","municipio":"RECIFE"},
+{"cnpj":"26158586000100","tel":"8132220000","razao":"COMERCIAL NOVA CRUZ EIRELI - ME","municipio":"OLINDA"},
+{"cnpj":"22566221000164","tel":"8132220000","razao":"COMÉRCIO E INDÚSTRIA DE ALIMENTOS CANDEIAS LTDA -","municipio":"Jaboatão dos Guararapes"},
+{"cnpj":"17991863000170","tel":"8132220000","razao":"R MARIA DE ANDRADE EPP","municipio":"OLINDA"}];
+PlacasData.placas = [];

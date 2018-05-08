@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":75275350,"cnpj":"29425540000107","razao":"DDS INDUSTRIA E COMERCIO DE UTENSILIOS DOMESTICOS EIRELI ME","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":60785.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"12/01/2018"}];
+EstabelecimentoData.estabelecimento = [{"ie":75275350,"cnpj":"29425540000107","razao":"DDS INDUSTRIA E COMERCIO DE UTENSILIOS DOMESTICOS EIRELI ME","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":60785.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"12/01/2018","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL CENTRAL DE GENEROS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":7800.00},
 {"ie":65167341,"cnpj":"23730212000120","razao":"BORBA & PEIXOTO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3900.00},

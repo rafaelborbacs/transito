@@ -1,15 +1,15 @@
-EstabelecimentoData.estabelecimento = [{"ie":73707686,"cnpj":"28662580000100","razao":"COMERCIAL NOVO CONDADO EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":296482.00,"saidas":1520706.10,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CATENDE","drr":"I","igi":1,"dataie":"19/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73707686,"cnpj":"28662580000100","razao":"COMERCIAL NOVO CONDADO EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":296482.00,"saidas":1520706.10,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CATENDE","drr":"I","igi":1,"dataie":"19/09/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"91108489672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7500.00},
 {"ie":0,"cnpj":"12229753000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":40000.00},
-{"ie":66121990,"cnpj":"24197705000109","razao":"M C ATACAREJO EIRELI  ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":14762.00},
+{"ie":0,"cnpj":"13642699000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":68500.00},
 {"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":165720.00},
-{"ie":0,"cnpj":"13642699000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":68500.00}];
+{"ie":66121990,"cnpj":"24197705000109","razao":"M C ATACAREJO EIRELI  ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":14762.00}];
 SaidasData.saidas = [{"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL VILA POPULAR EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"FLORES","igi":1,"uf":"PE","valor":51736.00},
 {"ie":69972010,"cnpj":"26727035000110","razao":"ATACAREJO NOVA ALDEIA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":157143.90},
 {"ie":68966180,"cnpj":"26183564000109","razao":"COMPRE AKI PROMOCOES DE VENDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":9599.00},
 {"ie":67385400,"cnpj":"24822335000153","razao":"ECONOMICO COMERCIO DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":74162.20},
 {"ie":67004385,"cnpj":"24622826000150","razao":"ASJ SUPERMERCADOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":11455.00},
-{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":34800.00},
+{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":34800.00},
 {"ie":15864910,"cnpj":"24380610000126","razao":"TORRE AUTO SERVICE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":192.00},
 {"ie":65877985,"cnpj":"24059497000181","razao":"SUPERMERCADO ESCADENSE LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":19160.00},
 {"ie":64508226,"cnpj":"23459056000104","razao":"MANOEL FELIX DA SILVA ALIMENTOS ME","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":37518.50},
@@ -47,8 +47,8 @@ SaidasData.saidas = [{"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL V
 {"ie":34824561,"cnpj":"08663834000199","razao":"PAULO JORGE FEITOSA BATISTA","sit":"A","regime":"SIMPLES","municipio":"TUPARETAMA","igi":0,"uf":"PE","valor":5000.00},
 {"ie":34713905,"cnpj":"08605911000154","razao":"BALAIO SUPERMERCADO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":2200.00},
 {"ie":34673504,"cnpj":"08362335000161","razao":"DM COMBUSTIVEIS LTDA","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":660.00},
-{"ie":34345833,"cnpj":"08202753000191","razao":"LUCIMARIO SILVA DE OLIVEIRA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":43000.00},
-{"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":54366.50},
+{"ie":34345833,"cnpj":"08202753000191","razao":"LUCIMARIO SILVA DE OLIVEIRA","sit":"S","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":43000.00},
+{"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":54366.50},
 {"ie":31736408,"cnpj":"07028065000194","razao":"INDUSTRIA DE LATICINIO LETA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"BOM CONSELHO","igi":0,"uf":"PE","valor":192360.00},
 {"ie":31610641,"cnpj":"06934979000151","razao":"MERCADINHO RIO BRANCO LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":4900.00},
 {"ie":31501354,"cnpj":"06893925000195","razao":"J. A. DA SILVA- MERCADINHO","sit":"A","regime":"SIMPLES","municipio":"BUIQUE","igi":0,"uf":"PE","valor":8925.00},

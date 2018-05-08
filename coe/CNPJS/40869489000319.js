@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":20637608,"cnpj":"40869489000319","razao":"GRANDE RIO INDUSTRIA TEXTIL LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"08/12/1994"}];
+EstabelecimentoData.estabelecimento = [{"ie":20637608,"cnpj":"40869489000319","razao":"GRANDE RIO INDUSTRIA TEXTIL LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"08/12/1994","contador":"FRANCIMEIRE DOS ANJOS GOMES"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"65611861415","nome":"MARIA ELZA GOMES MACEDO QUEIROZ","ie":33481644,"cnpj":"40869489000742","razao":"GRANDE RIO INDUSTRIA TEXTIL LTDA","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":1},

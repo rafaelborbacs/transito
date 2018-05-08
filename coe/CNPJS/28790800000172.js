@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":74099744,"cnpj":"28790800000172","razao":"SANDRO ALEX DOS ANJOS 07161070406","sit":"C","arrecadacao":0.00,"entradas":24990.00,"saidas":1224615.43,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TACAIMBO","drr":"II","igi":1,"dataie":"10/10/2017"}];
-EntradasData.entradas = [{"ie":99999900,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":24990.00},
-{"ie":999999940,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":24990.00}];
+EstabelecimentoData.estabelecimento = [{"ie":74099744,"cnpj":"28790800000172","razao":"SANDRO ALEX DOS ANJOS 07161070406","sit":"C","arrecadacao":0.00,"entradas":24990.00,"saidas":1224615.43,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TACAIMBO","drr":"II","igi":1,"dataie":"10/10/2017","contador":""}];
+EntradasData.entradas = [{"ie":999999940,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":24990.00},
+{"ie":99999900,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":24990.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97749842772","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1400.00},
 {"ie":0,"cnpj":"97302520500","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":120.00},
 {"ie":0,"cnpj":"96425326204","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":150.00},
@@ -178,7 +178,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97749842772","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"19579020000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1000.00},
 {"ie":0,"cnpj":"19544172000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":6150.00},
 {"ie":0,"cnpj":"19514791000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":750.00},
-{"ie":55959164,"cnpj":"19452476000191","razao":"RIVANIA D DE SOUZA SILVA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2000.00},
+{"ie":55959164,"cnpj":"19452476000191","razao":"RIVANIA D DE SOUZA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2000.00},
 {"ie":0,"cnpj":"19439161000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":5500.00},
 {"ie":0,"cnpj":"19363645000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2390.00},
 {"ie":0,"cnpj":"19252724000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1000.00},

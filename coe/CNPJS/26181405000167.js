@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":68964722,"cnpj":"26181405000167","razao":"GOMES E FILHOS TECIDOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"16/09/2016"}];
+EstabelecimentoData.estabelecimento = [{"ie":68964722,"cnpj":"26181405000167","razao":"GOMES E FILHOS TECIDOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"16/09/2016","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06522737426","nome":"DAYVISON CHAGAS GOMES","ie":68964722,"cnpj":"26181405000167","razao":"GOMES E FILHOS TECIDOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1},

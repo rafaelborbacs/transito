@@ -1,8 +1,9 @@
-EstabelecimentoData.estabelecimento = [{"ie":72527579,"cnpj":"28046976000114","razao":"BRUNO CESAR DEDA PACHECO EIRELI ME","sit":"A","arrecadacao":188.06,"entradas":218287.88,"saidas":0.00,"regime":"SIMPLES","segmento":"INDUSTRIA","municipio":"CARUARU","drr":"II","igi":1,"dataie":"30/06/2017"}];
-EntradasData.entradas = [{"ie":44093535,"cnpj":"13624442000150","razao":"ANTONIO RODRIGO DE ARAUJO SILVA-ME.","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":3276.00},
-{"ie":66441471,"cnpj":"24360910000143","razao":"PLENA INDUSTRIA DE FRALDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":108704.34},
+EstabelecimentoData.estabelecimento = [{"ie":72527579,"cnpj":"28046976000114","razao":"BRUNO CESAR DEDA PACHECO EIRELI ME","sit":"A","arrecadacao":188.06,"entradas":234138.31,"saidas":0.00,"regime":"SIMPLES","segmento":"INDUSTRIA","municipio":"CARUARU","drr":"II","igi":1,"dataie":"30/06/2017","contador":"MILSON SALES VIEIRA"}];
+EntradasData.entradas = [{"ie":66441471,"cnpj":"24360910000143","razao":"PLENA INDUSTRIA DE FRALDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":108704.34},
+{"ie":44093535,"cnpj":"13624442000150","razao":"ANTONIO RODRIGO DE ARAUJO SILVA-ME.","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":3276.00},
 {"ie":0,"cnpj":"13406927000178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5560.00},
-{"ie":0,"cnpj":"07112364000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":100747.54}];
+{"ie":0,"cnpj":"07112364000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":105349.55},
+{"ie":0,"cnpj":"08244957000438","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":11248.42}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"70316957402","nome":"BRUNO CESAR DEDA PACHECO","ie":72527579,"cnpj":"28046976000114","razao":"BRUNO CESAR DEDA PACHECO EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [{"cnpj":"29369297000149","email":"msvcont@hotmail.com","razao":"FARMACIA J K LTDA ME","municipio":"PANELAS"},
@@ -18,7 +19,7 @@ EmailsData.emails = [{"cnpj":"29369297000149","email":"msvcont@hotmail.com","raz
 {"cnpj":"07410265000107","email":"msvcont@hotmail.com","razao":"PINHEIRO E QUEIROZ FARMACIA LTDA","municipio":"CARUARU"},
 {"cnpj":"04857842000115","email":"msvcont@hotmail.com","razao":"IVETE DA CONCEICAO SILVA DE SOUZA  ME","municipio":"CARUARU"},
 {"cnpj":"04847189400","email":"msvcont@hotmail.com","razao":"MOACIR APOLINARIO LEITE FILHO","municipio":"CARUARU"},
-{"cnpj":"04749860000183","email":"msvcont@hotmail.com","razao":"NEVES NEVES MEDICAMENTOS LTDA","municipio":"CARUARU"},
+{"cnpj":"04749860000183","email":"msvcont@hotmail.com","razao":"NEVES NEVES MEDICAMENTOS LTDA FARMACIA DIARIAMENTE","municipio":"CARUARU"},
 {"cnpj":"03043845420","email":"msvcont@hotmail.com","razao":"JACKELINE KELLE DE ANDRADE SALES","municipio":"PANELAS"}];
 TelsData.tels = [{"cnpj":"29369297000149","tel":"8137210142","razao":"FARMACIA J K LTDA","municipio":"PANELAS"},
 {"cnpj":"28832456000137","tel":"8137210142","razao":"M CRISTINA DE AZEVEDO CONFECCOES ME","municipio":"CARUARU"},

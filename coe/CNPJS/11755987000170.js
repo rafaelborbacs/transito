@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":43018203,"cnpj":"11755987000170","razao":"IMPACTO INDUSTRIA DE PAPEL E DISTRIBUIDORA DE CERAMICAS LTDA - ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"20/01/2011"}];
+EstabelecimentoData.estabelecimento = [{"ie":43018203,"cnpj":"11755987000170","razao":"IMPACTO INDUSTRIA DE PAPEL E DISTRIBUIDORA DE CERAMICAS LTDA - ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"20/01/2011","contador":"FERNANDO LUIZ DE ARAUJO BARBOSA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"55492525468","nome":"ARTHUR GUIMARAES REGO","ie":43018203,"cnpj":"11755987000170","razao":"IMPACTO INDUSTRIA DE PAPEL E DISTRIBUIDORA DE CERAMICAS LTDA - ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1},

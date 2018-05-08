@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":48343307,"cnpj":"15433686000181","razao":"C J DA SILVA COMERCIO DE RESIDUOS DE OLEO LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"OLINDA","drr":"I","igi":1,"dataie":"27/04/2012"}];
+EstabelecimentoData.estabelecimento = [{"ie":48343307,"cnpj":"15433686000181","razao":"C J DA SILVA COMERCIO DE RESIDUOS DE OLEO LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"OLINDA","drr":"I","igi":1,"dataie":"27/04/2012","contador":"JUTHS JOSE BEZERRA DA SILVA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"78486530482","nome":"MARCOS ANDRE DOS SANTOS","ie":69221804,"cnpj":"26297419000140","razao":"M A DOS SANTOS RESIDUOS OLEOSOS EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0},

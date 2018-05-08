@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":73937681,"cnpj":"28760058000152","razao":"SAO LONGUINHO COMERCIO E  EMPACOTAMENTO  LTDA ME","sit":"C","arrecadacao":4734.00,"entradas":101700.00,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"BEZERROS","drr":"II","igi":1,"dataie":"29/09/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":73937681,"cnpj":"28760058000152","razao":"SAO LONGUINHO COMERCIO E  EMPACOTAMENTO  LTDA ME","sit":"C","arrecadacao":4734.00,"entradas":101700.00,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"BEZERROS","drr":"II","igi":1,"dataie":"29/09/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"08824097000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":101700.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"25432426862","nome":"EVANIO MAURICIO DE LIMA","ie":73937681,"cnpj":"28760058000152","razao":"SAO LONGUINHO COMERCIO E  EMPACOTAMENTO  LTDA ME","sit":"C","regime":"NORMAL","municipio":"BEZERROS","igi":1},

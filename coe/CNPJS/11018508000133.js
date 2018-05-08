@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":38297230,"cnpj":"11018508000133","razao":"IRISMAR OLIVEIRA DA SILVA CONFECCOES ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"12/08/2009"}];
+EstabelecimentoData.estabelecimento = [{"ie":38297230,"cnpj":"11018508000133","razao":"IRISMAR OLIVEIRA DA SILVA CONFECCOES ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"12/08/2009","contador":"EDNALDO JOSE PEREIRA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08907771448","nome":"JOSE ANDRESSON DA SILVA","ie":39996530,"cnpj":"11018508000214","razao":"IRISMAR OLIVEIRA DA SILVA CONFECCOES ME","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},

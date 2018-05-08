@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":47983175,"cnpj":"15197142000168","razao":"FIO.COM TECIDOS,MALHAS,CONFECCOES E ACESSORIOS COMERCIO LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"20/03/2012"}];
+EstabelecimentoData.estabelecimento = [{"ie":47983175,"cnpj":"15197142000168","razao":"FIO.COM TECIDOS,MALHAS,CONFECCOES E ACESSORIOS COMERCIO LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"20/03/2012","contador":"JOAO ALVES DE LIRA FILHO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06641823482","nome":"ELANE LIMEIRA DA SILVA","ie":47983175,"cnpj":"15197142000168","razao":"FIO.COM TECIDOS,MALHAS,CONFECCOES E ACESSORIOS COMERCIO LTDA","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":71453229,"cnpj":"27439696000103","razao":"RAYANNE KAROLAYNE FERREIRA DE MELO 71164016440","sit":"C","arrecadacao":0.00,"entradas":5780.00,"saidas":231522.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"03/04/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":71453229,"cnpj":"27439696000103","razao":"RAYANNE KAROLAYNE FERREIRA DE MELO 71164016440","sit":"C","arrecadacao":0.00,"entradas":5780.00,"saidas":231522.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"03/04/2017","contador":""}];
 EntradasData.entradas = [{"ie":46843701,"cnpj":"14713285000112","razao":"ANTONIO GOMES RIBEIRO FILHO & CIA LTDA  ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":5780.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"34705582000204","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":700.00},
 {"ie":0,"cnpj":"27739316000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":6020.00},

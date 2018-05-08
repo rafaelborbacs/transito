@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":75087359,"cnpj":"29300968000115","razao":"ISABELA F A DE ALMEIDA ALIMENTOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":1312839.74,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"FLORES","drr":"II","igi":1,"dataie":"20/12/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":75087359,"cnpj":"29300968000115","razao":"ISABELA F A DE ALMEIDA ALIMENTOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":1312839.74,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"FLORES","drr":"II","igi":1,"dataie":"20/12/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":255751.62},
 {"ie":68221428,"cnpj":"15777224000262","razao":"A.L. LEMOS DE FIGUEIREDO - ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":212772.12},

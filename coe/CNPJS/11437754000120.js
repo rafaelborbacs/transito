@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":39303780,"cnpj":"11437754000120","razao":"EMIRADOS CONFECCOES LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"25/03/2010"}];
+EstabelecimentoData.estabelecimento = [{"ie":39303780,"cnpj":"11437754000120","razao":"EMIRADOS CONFECCOES LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"25/03/2010","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06930390437","nome":"ALEXSANDRO LUIZ DO NASCIMENTO","ie":39303780,"cnpj":"11437754000120","razao":"EMIRADOS CONFECCOES LTDA","sit":"C","regime":"NORMAL","municipio":"VERTENTES","igi":1},

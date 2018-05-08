@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":76453766,"cnpj":"30036387000105","razao":"JOSE LIVALDO DE ARRUDA JUNIOR","sit":"A","arrecadacao":0.00,"entradas":100437.20,"saidas":345006.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"26/03/2018"}];
+EstabelecimentoData.estabelecimento = [{"ie":76453766,"cnpj":"30036387000105","razao":"JOSE LIVALDO DE ARRUDA JUNIOR","sit":"A","arrecadacao":0.00,"entradas":100437.20,"saidas":345006.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"26/03/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"56724412000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":100437.20}];
 SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3050.00},
 {"ie":0,"cnpj":"45136823615","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1510.00},

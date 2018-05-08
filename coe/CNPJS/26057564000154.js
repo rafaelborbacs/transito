@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":68809409,"cnpj":"26057564000154","razao":"ADENILTON PIRES DA PAZ 36041431877","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":2734335.90,"regime":"SIMEI","segmento":"VAREJO","municipio":"PAULISTA","drr":"I","igi":1,"dataie":"05/09/2016"}];
+EstabelecimentoData.estabelecimento = [{"ie":68809409,"cnpj":"26057564000154","razao":"ADENILTON PIRES DA PAZ 36041431877","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":2734335.90,"regime":"SIMEI","segmento":"VAREJO","municipio":"PAULISTA","drr":"I","igi":1,"dataie":"05/09/2016","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"68823350000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":120300.00},
 {"ie":0,"cnpj":"60402555015","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":26150.00},

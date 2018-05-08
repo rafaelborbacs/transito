@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74916971,"cnpj":"29216548000155","razao":"ALCIONE M DA SILVA CONFECCOES ME","sit":"S","arrecadacao":0.00,"entradas":78347.08,"saidas":156307.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JATAUBA","drr":"II","igi":1,"dataie":"06/12/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":74916971,"cnpj":"29216548000155","razao":"ALCIONE M DA SILVA CONFECCOES ME","sit":"S","arrecadacao":0.00,"entradas":78347.08,"saidas":156307.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JATAUBA","drr":"II","igi":1,"dataie":"06/12/2017","contador":""}];
 EntradasData.entradas = [{"ie":74354019,"cnpj":"28954240000144","razao":"MT CARUARU ATACADO E VAREJO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":34981.29},
 {"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":43365.79}];
 SaidasData.saidas = [{"ie":0,"cnpj":"82320802487","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":140.00},

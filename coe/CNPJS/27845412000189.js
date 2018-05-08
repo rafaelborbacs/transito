@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":72254319,"cnpj":"27845412000189","razao":"MARIA AQUINO DAS NEVES 13247082476","sit":"C","arrecadacao":0.00,"entradas":798683.52,"saidas":501392.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"05/06/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":72254319,"cnpj":"27845412000189","razao":"MARIA AQUINO DAS NEVES 13247082476","sit":"C","arrecadacao":0.00,"entradas":798683.52,"saidas":501392.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"05/06/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"09090047000320","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":527182.32},
 {"ie":20545312,"cnpj":"00188962000116","razao":"MERCANTIL LIMA LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":34315.00},
 {"ie":0,"cnpj":"11731515000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":15379.00},

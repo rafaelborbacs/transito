@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":59998121,"cnpj":"21347452000114","razao":"CARUARU MINERACAO LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"CARUARU","drr":"II","igi":1,"dataie":"11/11/2014"}];
+EstabelecimentoData.estabelecimento = [{"ie":59998121,"cnpj":"21347452000114","razao":"CARUARU MINERACAO LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"CARUARU","drr":"II","igi":1,"dataie":"11/11/2014","contador":"JOBSON MYKAEL RODRIGUES BATISTA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"98505351487","nome":"JOELMA MORAES NUNES SILVA","ie":59998121,"cnpj":"21347452000114","razao":"CARUARU MINERACAO LTDA","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":33600325,"cnpj":"07888136000129","razao":"V. M. R. PRODUTOS SERIGRAFICOS LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"22/03/2006"}];
+EstabelecimentoData.estabelecimento = [{"ie":33600325,"cnpj":"07888136000129","razao":"V. M. R. PRODUTOS SERIGRAFICOS LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"22/03/2006","contador":"FABIO OLIVEIRA FALCAO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"12868671420","nome":"VILMA CARNEIRO CAVALCANTI","ie":43824471,"cnpj":"13450190000190","razao":"V.R.PRODUTOS SERIGRAFICOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},

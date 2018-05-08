@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":28939409,"cnpj":"04939182000111","razao":"DC PAULA BEACH AND STREET WEAR LTDA EPP","sit":"S","arrecadacao":0.00,"entradas":279.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"20/03/2002"}];
+EstabelecimentoData.estabelecimento = [{"ie":28939409,"cnpj":"04939182000111","razao":"DC PAULA BEACH AND STREET WEAR LTDA EPP","sit":"S","arrecadacao":0.00,"entradas":279.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"20/03/2002","contador":"NIETE ALVES RANGEL"}];
 EntradasData.entradas = [{"ie":30300169,"cnpj":"05680868000101","razao":"ALUMIACO COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":49.00},
 {"ie":45613419,"cnpj":"14222080000134","razao":"PERNAMBUCO BOBINAS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"IGARASSU","igi":0,"uf":"PE","valor":230.00}];
 SaidasData.saidas = [];

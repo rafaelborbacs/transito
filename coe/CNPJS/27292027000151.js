@@ -1,17 +1,17 @@
-EstabelecimentoData.estabelecimento = [{"ie":71172130,"cnpj":"27292027000151","razao":"LIDIANE GOMES DE ARRUDA ME","sit":"C","arrecadacao":3812.08,"entradas":692738.39,"saidas":147944.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"17/03/2017"}];
-EntradasData.entradas = [{"ie":42347904,"cnpj":"12871997000134","razao":"J M TECIDOS E AVIAMENTOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":129925.21},
-{"ie":0,"cnpj":"60163235000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":13075.60},
-{"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":79728.76},
-{"ie":0,"cnpj":"26092984000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":11120.35},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":134952.77},
-{"ie":0,"cnpj":"65441842000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7556.25},
+EstabelecimentoData.estabelecimento = [{"ie":71172130,"cnpj":"27292027000151","razao":"LIDIANE GOMES DE ARRUDA ME","sit":"C","arrecadacao":3812.08,"entradas":692738.39,"saidas":147944.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"17/03/2017","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"01082566000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6109.00},
 {"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":223331.12},
-{"ie":65433912,"cnpj":"21538059000370","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":7497.69},
-{"ie":0,"cnpj":"01082566000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6109.00},
+{"ie":0,"cnpj":"65441842000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7556.25},
 {"ie":0,"cnpj":"09487288000145","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":21408.26},
+{"ie":0,"cnpj":"60163235000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":13075.60},
 {"ie":0,"cnpj":"11264372000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":36132.59},
+{"ie":65433912,"cnpj":"21538059000370","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":7497.69},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":134952.77},
+{"ie":42347904,"cnpj":"12871997000134","razao":"J M TECIDOS E AVIAMENTOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":129925.21},
 {"ie":0,"cnpj":"20522323000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":19902.12},
-{"ie":0,"cnpj":"22760507000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1998.67}];
+{"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":79728.76},
+{"ie":0,"cnpj":"22760507000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1998.67},
+{"ie":0,"cnpj":"26092984000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":11120.35}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97951870234","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":454.00},
 {"ie":0,"cnpj":"92515819168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":500.00},
 {"ie":0,"cnpj":"84057355000298","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":705.00},

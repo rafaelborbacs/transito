@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":75084848,"cnpj":"29298756000140","razao":"THALYANA IZIDIO DE OLIVEIRA ME","sit":"C","arrecadacao":0.00,"entradas":1321740.00,"saidas":49040.97,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ALAGOINHA","drr":"II","igi":1,"dataie":"20/12/2017"}];
+EstabelecimentoData.estabelecimento = [{"ie":75084848,"cnpj":"29298756000140","razao":"THALYANA IZIDIO DE OLIVEIRA ME","sit":"C","arrecadacao":0.00,"entradas":1321740.00,"saidas":49040.97,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ALAGOINHA","drr":"II","igi":1,"dataie":"20/12/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1321740.00}];
 SaidasData.saidas = [{"ie":69218501,"cnpj":"26287333000137","razao":"SCIUBBA & VIDAL VAREJO DE MERCADORIAS EM GERAL LTDA ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3866.02},
 {"ie":65573765,"cnpj":"23917802000166","razao":"OLIVEIRA E SANTOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":232.80},
