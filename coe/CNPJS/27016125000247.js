@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":72607092,"cnpj":"27016125000247","razao":"AMANDA KELLY DO NASCIMENTO SILVA","sit":"C","arrecadacao":0.00,"entradas":613517.09,"saidas":759059.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"07/07/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"01663834000301","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":180877.81},
-{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":30003.27},
-{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":52674.38},
 {"ie":0,"cnpj":"11462290000292","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":126174.02},
+{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":52674.38},
 {"ie":0,"cnpj":"20719576000200","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":118351.33},
-{"ie":0,"cnpj":"10355361000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":105436.28}];
+{"ie":0,"cnpj":"10355361000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":105436.28},
+{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":30003.27}];
 SaidasData.saidas = [{"ie":0,"cnpj":"90727681672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5369.00},
 {"ie":0,"cnpj":"90449649687","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5369.00},
-{"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2000.00},
+{"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2000.00},
 {"ie":0,"cnpj":"87449242168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1656.00},
 {"ie":0,"cnpj":"83876755000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3166.00},
 {"ie":0,"cnpj":"79014178549","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5048.00},
@@ -27,7 +27,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"90727681672","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"39792811168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":12000.00},
 {"ie":0,"cnpj":"37312865000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":4100.00},
 {"ie":0,"cnpj":"35632897869","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5445.00},
-{"ie":0,"cnpj":"34332650115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
+{"ie":0,"cnpj":"34332650115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":3000.00},
 {"ie":0,"cnpj":"34326146168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":22000.00},
 {"ie":0,"cnpj":"33333696304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2036.50},
 {"ie":0,"cnpj":"32535382814","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5445.00},

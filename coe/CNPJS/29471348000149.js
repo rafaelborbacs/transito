@@ -3,10 +3,10 @@ EntradasData.entradas = [{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX 
 {"ie":76311970,"cnpj":"29727057000250","razao":"ELISON JOSE DA SILVA","sit":"A","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":1.00},
 {"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":141840.47},
 {"ie":76309304,"cnpj":"29727080000244","razao":"DAYVID ANTONY ALVES DA SILVA","sit":"A","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":1.00},
-{"ie":8108510,"cnpj":"08021677000118","razao":"DISTRIBUIDORA RECIFE IMPORTACAO E EXPORTACAO S/A","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":8200.00},
+{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":71908.54},
 {"ie":0,"cnpj":"08021677000541","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":82342.50},
-{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":186346.55},
-{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":71908.54}];
+{"ie":8108510,"cnpj":"08021677000118","razao":"DISTRIBUIDORA RECIFE IMPORTACAO E EXPORTACAO S/A","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":8200.00},
+{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":186346.55}];
 SaidasData.saidas = [{"ie":0,"cnpj":"95527702620","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":30.00},
 {"ie":0,"cnpj":"86999943000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2050.00},
 {"ie":0,"cnpj":"84101948000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":23840.00},

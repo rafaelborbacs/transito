@@ -1,7 +1,7 @@
-EstabelecimentoData.estabelecimento = [{"ie":42399386,"cnpj":"11194048000102","razao":"WESLEY MANOEL DELMONDES ME","sit":"A","arrecadacao":4676.76,"entradas":488175.33,"saidas":1286255.00,"regime":"SIMPLES","segmento":"MATERIAL DE CONSTRUCAO","municipio":"IPUBI","drr":"III","igi":1,"dataie":"06/12/2010","contador":"FATIMA GLEYCIANE LOPES PIRES"}];
+EstabelecimentoData.estabelecimento = [{"ie":42399386,"cnpj":"11194048000102","razao":"WESLEY MANOEL DELMONDES ME","sit":"A","arrecadacao":4676.76,"entradas":488175.33,"saidas":1293155.00,"regime":"SIMPLES","segmento":"MATERIAL DE CONSTRUCAO","municipio":"IPUBI","drr":"III","igi":1,"dataie":"06/12/2010","contador":"FATIMA GLEYCIANE LOPES PIRES"}];
 EntradasData.entradas = [{"ie":33662193,"cnpj":"89637490015924","razao":"KLABIN S/A","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":276874.19},
-{"ie":46659536,"cnpj":"14655554000131","razao":"ANTONIO LAERCIO DE ALMEIDA SACARIA ME","sit":"A","regime":"SIMPLES","municipio":"TRINDADE","igi":0,"uf":"PE","valor":12500.00},
-{"ie":31202608,"cnpj":"06192767000146","razao":"MPGESSO AGRICOLA EIRELI","sit":"A","regime":"NORMAL","municipio":"IPUBI","igi":0,"uf":"PE","valor":198801.14}];
+{"ie":31202608,"cnpj":"06192767000146","razao":"MPGESSO AGRICOLA EIRELI","sit":"A","regime":"NORMAL","municipio":"IPUBI","igi":0,"uf":"PE","valor":198801.14},
+{"ie":46659536,"cnpj":"14655554000131","razao":"ANTONIO LAERCIO DE ALMEIDA SACARIA ME","sit":"A","regime":"SIMPLES","municipio":"TRINDADE","igi":0,"uf":"PE","valor":12500.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"40062112368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":10560.00},
 {"ie":0,"cnpj":"28324064000167","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":9200.00},
 {"ie":0,"cnpj":"27129062000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7360.00},
@@ -13,7 +13,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"40062112368","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"13810235000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":32520.00},
 {"ie":0,"cnpj":"13345702000159","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":297725.00},
 {"ie":0,"cnpj":"11709584000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":25530.00},
-{"ie":0,"cnpj":"10857150000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":194140.00},
+{"ie":0,"cnpj":"10857150000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":201040.00},
 {"ie":0,"cnpj":"09397500000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5280.00},
 {"ie":0,"cnpj":"09364003000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":11500.00},
 {"ie":0,"cnpj":"09288068000192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6210.00},
@@ -40,6 +40,7 @@ EmailsData.emails = [{"cnpj":"92933157187","email":"escritorioararipina@mpgesso.
 {"cnpj":"34526110949","email":"escritorioararipina@mpgesso.com.br","razao":"SERGIO PITT","municipio":"SAO DESIDERIO"},
 {"cnpj":"29735845000107","email":"escritorioararipina@mpgesso.com.br","razao":"ANA KAROLYNE DE ALENCAR SILVA ARAUJO","municipio":"TRINDADE"},
 {"cnpj":"29250390000130","email":"escritorioararipina@mpgesso.com.br","razao":"D E F INDUSTRIA E COMERCIO DE GESSO LTDA ME","municipio":"IPUBI"},
+{"cnpj":"28167694534","email":"escritorioararipina@mpgesso.com.br","razao":"JOSE ALMIR GORGEN","municipio":"FORMOSA DO RIO PRETO"},
 {"cnpj":"26695806888","email":"escritorioararipina@mpgesso.com.br","razao":"ARIEL HOROVITZ","municipio":"SAO DESIDERIO"},
 {"cnpj":"26369143000169","email":"escritorioararipina@mpgesso.com.br","razao":"AMASA INDUSTRIA E COMERCIO DE GESSO LTDA ME","municipio":"IPUBI"},
 {"cnpj":"26251875000150","email":"escritorioararipina@mpgesso.com.br","razao":"IVANILDO SEBASTIAO DA SILVA GESSO ME","municipio":"IPUBI"},
@@ -71,6 +72,7 @@ EmailsData.emails = [{"cnpj":"92933157187","email":"escritorioararipina@mpgesso.
 {"cnpj":"10642279000160","email":"escritorioararipina@mpgesso.com.br","razao":"AMANDA PRISCILA DA SILVA LEITE - ME","municipio":"TRINDADE"},
 {"cnpj":"10346596000130","email":"escritorioararipina@mpgesso.com.br","razao":"J G DE ARAUJO GESSO - ME","municipio":"TRINDADE"},
 {"cnpj":"09015405000178","email":"escritorioararipina@mpgesso.com.br","razao":"CALCARIO RENOVA TERRA LTDA","municipio":"VERTENTE DO LERIO"},
+{"cnpj":"08326575000100","email":"escritorioararipina@mpgesso.com.br","razao":"MINERADORA ALHO LTDA - ME","municipio":"BODOCO"},
 {"cnpj":"07461614000110","email":"escritorioararipina@mpgesso.com.br","razao":"S.M. FLORENTINO GESSO","municipio":"IPUBI"},
 {"cnpj":"06956391000107","email":"escritorioararipina@mpgesso.com.br","razao":"TREVO INDUSTRIAL DE ACARTONADOS S/A","municipio":"JUAZEIRO DO NORTE"},
 {"cnpj":"06236618534","email":"escritorioararipina@mpgesso.com.br","razao":"FERNANDO FERNANDES DE MORAES","municipio":"CARINHANHA"},
@@ -79,6 +81,7 @@ EmailsData.emails = [{"cnpj":"92933157187","email":"escritorioararipina@mpgesso.
 {"cnpj":"05373212000995","email":"escritorioararipina@mpgesso.com.br","razao":"AGROPAULO AGROINDUSTRIAL S.A","municipio":"JAGUARUANA"},
 {"cnpj":"04996602000100","email":"escritorioararipina@mpgesso.com.br","razao":"GESSO ALIANCA DO ARARIPE LTDA - EPP","municipio":"TRINDADE"},
 {"cnpj":"04407867000117","email":"escritorioararipina@mpgesso.com.br","razao":"JOSE ROBERTO RODRIGUES AQUINO","municipio":"OURICURI"},
+{"cnpj":"04271071560","email":"escritorioararipina@mpgesso.com.br","razao":"ALEX DONADEL","municipio":"RIACHAO DAS NEVES"},
 {"cnpj":"03290695000181","email":"escritorioararipina@mpgesso.com.br","razao":"NEURY MARTINS  ME","municipio":"TRINDADE"},
 {"cnpj":"02782491598","email":"escritorioararipina@mpgesso.com.br","razao":"EMERSON TOSHIO WATANABE","municipio":"FORMOSA DO RIO PRETO"},
 {"cnpj":"02653133920","email":"escritorioararipina@mpgesso.com.br","razao":"HILBERTO BRUKE","municipio":"LUIS EDUARDO MAGALHAES"},
@@ -92,8 +95,10 @@ TelsData.tels = [{"cnpj":"07683039000108","tel":"01156218400","razao":"EVANILCE 
 PlacasData.placas = [{"cnpj":"29735845000107","placa":"PFY0293","razao":"ANA KAROLYNE DE ALENCAR SILVA ARAUJO","municipio":"TRINDADE"},
 {"cnpj":"14699173000154","placa":"PFY0293","razao":"DUARTE ARAUJO E CIA LTDA","municipio":"TRINDADE"},
 {"cnpj":"14428441000101","placa":"PFY0293","razao":"GESSO UNIAO LTDA EPP","municipio":"TRINDADE"},
+{"cnpj":"14102907000176","placa":"PFY0293","razao":"INDUSTRIA E COMERCIO DE GESSO E PLACAS SEBASTIAO","municipio":"TRINDADE"},
 {"cnpj":"12463399000126","placa":"PFY0293","razao":"GESSO MODESTO INDUSTRIA E COMERCIO LTDA ME","municipio":"IPUBI"},
 {"cnpj":"10642279000160","placa":"PFY0293","razao":"AMANDA PRISCILA DA SILVA LEITE - ME","municipio":"TRINDADE"},
+{"cnpj":"08326575000100","placa":"PFY0293","razao":"MINERADORA ALHO LTDA - ME","municipio":"BODOCO"},
 {"cnpj":"06956391000107","placa":"PFY3133","razao":"TREVO INDUSTRIAL DE ACARTONADOS S/A","municipio":"JUAZEIRO DO NORTE"},
 {"cnpj":"06956391000107","placa":"PFY0293","razao":"TREVO INDUSTRIAL DE ACARTONADOS S/A","municipio":"JUAZEIRO DO NORTE"},
 {"cnpj":"04996602000100","placa":"PFY0293","razao":"GESSO ALIANCA DO ARARIPE LTDA - EPP","municipio":"TRINDADE"}];

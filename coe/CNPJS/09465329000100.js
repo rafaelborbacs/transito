@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":15676242,"cnpj":"09465329000100","razao":"CONFECCOES DEOLINDA LTDA EPP","sit":"B","arrecadacao":0.00,"entradas":19554.14,"saidas":332313.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"18/05/1990","contador":"JANIO MARTINS BARROS"}];
-EntradasData.entradas = [{"ie":43767303,"cnpj":"13330786000157","razao":"VALENCIA COMERCIO DE TECIDOS E CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9668.99},
-{"ie":43767303,"cnpj":"13330786000157","razao":"VALENCIA COMERCIO DE TECIDOS E CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9668.99},
-{"ie":0,"cnpj":"70147004000263","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3269.50},
-{"ie":0,"cnpj":"70147004000263","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3269.50},
+EntradasData.entradas = [{"ie":30082153,"cnpj":"05562769000117","razao":"COMERCIAL ITAPEMA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6615.65},
 {"ie":30082153,"cnpj":"05562769000117","razao":"COMERCIAL ITAPEMA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6615.65},
-{"ie":30082153,"cnpj":"05562769000117","razao":"COMERCIAL ITAPEMA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6615.65}];
+{"ie":0,"cnpj":"70147004000263","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3269.50},
+{"ie":0,"cnpj":"70147004000263","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3269.50},
+{"ie":43767303,"cnpj":"13330786000157","razao":"VALENCIA COMERCIO DE TECIDOS E CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9668.99},
+{"ie":43767303,"cnpj":"13330786000157","razao":"VALENCIA COMERCIO DE TECIDOS E CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9668.99}];
 SaidasData.saidas = [{"ie":0,"cnpj":"82901000000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1400.00},
 {"ie":0,"cnpj":"82901000000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1400.00},
 {"ie":16323530,"cnpj":"71673990000177","razao":"NATURA COSMETICOS S/A","sit":"B","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SAO PAULO","igi":0,"uf":"SP","valor":1491.00},

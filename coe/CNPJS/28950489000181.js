@@ -12,6 +12,6 @@ SociosData.socios = [{"cpf":"71761349449","nome":"VICTOR CLEMENTE SETTE DE OLIVE
 {"cpf":"10855872403","nome":"ANTONIO AUGUSTO SETTE LEITE DE CARVALHO","ie":74350455,"cnpj":"28950489000181","razao":"NORDESTE COMERCIO DE DOCES, BALAS E BOMBONS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"29738154000167","tel":"8134467901","razao":"E D A COMERCIO DE MATERIAL DE LIMPEZA LTDA","municipio":"Recife"},
-{"cnpj":"27018061000132","tel":"8134467901","razao":"JVP DE CASTRO-EIRELI-ME","municipio":"Recife"},
+{"cnpj":"27018061000132","tel":"8134467901","razao":"JVP DE CASTRO EIRELLI ME","municipio":"RECIFE"},
 {"cnpj":"02809967482","tel":"8134467901","razao":"VICTOR SETTE DE CRASTO","municipio":"RECIFE"}];
 PlacasData.placas = [];

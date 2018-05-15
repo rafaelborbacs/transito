@@ -1,9 +1,9 @@
-EstabelecimentoData.estabelecimento = [{"ie":73896470,"cnpj":"28699294000100","razao":"MARINA ALVES DE SIQUEIRA 12585360482","sit":"A","arrecadacao":1115.43,"entradas":29377.86,"saidas":122704.78,"regime":"SIMEI","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"25/09/2017","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":73896470,"cnpj":"28699294000100","razao":"MARINA ALVES DE SIQUEIRA 12585360482","sit":"A","arrecadacao":1115.43,"entradas":29377.86,"saidas":123087.28,"regime":"SIMEI","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"25/09/2017","contador":""}];
 EntradasData.entradas = [{"ie":24788899,"cnpj":"00863750000197","razao":"CASA DO CONDOMINIO LTDA ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":2974.95},
 {"ie":0,"cnpj":"05414377000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6720.23},
-{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":121.94},
-{"ie":37546422,"cnpj":"10588538000112","razao":"RDS DISTRIBUICAO E INSTALACAO DE PELICULAS E ACESSORIOS AUTOMOTIVOS EIRELI","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1360.00},
 {"ie":0,"cnpj":"02828620000149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":15053.34},
+{"ie":37546422,"cnpj":"10588538000112","razao":"RDS DISTRIBUICAO E INSTALACAO DE PELICULAS E ACESSORIOS AUTOMOTIVOS EIRELI","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1360.00},
+{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":121.94},
 {"ie":0,"cnpj":"12975313000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2843.40},
 {"ie":46344381,"cnpj":"14415891000151","razao":"M C M DE MELO FILHA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":304.00}];
 SaidasData.saidas = [{"ie":31124119,"cnpj":"83310441003485","razao":"COOPERATIVA CENTRAL AURORA ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":818.22},
@@ -17,7 +17,7 @@ SaidasData.saidas = [{"ie":31124119,"cnpj":"83310441003485","razao":"COOPERATIVA
 {"ie":0,"cnpj":"17638739000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":11727.45},
 {"ie":50457462,"cnpj":"16851592000195","razao":"MARAPAN COMERCIO DE PRODUTOS PARA PANIFICACAO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":250.00},
 {"ie":0,"cnpj":"14131051000167","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1838.44},
-{"ie":0,"cnpj":"12019360000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":700.00},
+{"ie":0,"cnpj":"12019360000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1082.50},
 {"ie":0,"cnpj":"11828725004500","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4320.00},
 {"ie":0,"cnpj":"11828725000199","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":2073.60},
 {"ie":61194255,"cnpj":"10912186000370","razao":"RAZONI HOTEIS E TURISMO LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":2019.60},

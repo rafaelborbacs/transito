@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":73028789,"cnpj":"28268965000189","razao":"CARLOS CESAR GOMES DA SILVA 07161635438","sit":"C","arrecadacao":72.40,"entradas":161836.39,"saidas":237487.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"31/07/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"05381559000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":9306.99},
+EntradasData.entradas = [{"ie":0,"cnpj":"25265845000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":92462.40},
+{"ie":0,"cnpj":"05381559000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":9306.99},
 {"ie":0,"cnpj":"24009039000138","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1810.00},
-{"ie":0,"cnpj":"06028097000208","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":58257.00},
-{"ie":0,"cnpj":"25265845000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":92462.40}];
+{"ie":0,"cnpj":"06028097000208","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":58257.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"31550049000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3130.00},
 {"ie":0,"cnpj":"28371197000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":10493.00},
 {"ie":0,"cnpj":"27795023000196","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2838.00},

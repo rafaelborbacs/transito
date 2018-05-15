@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":76052850,"cnpj":"29768873000120","razao":"ANDERSON DA SILVA MENDES 10385123442","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":1491084.22,"regime":"SIMEI","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"26/02/2018","contador":""}];
-EntradasData.entradas = [];
+EstabelecimentoData.estabelecimento = [{"ie":76052850,"cnpj":"29768873000120","razao":"ANDERSON DA SILVA MENDES 10385123442","sit":"A","arrecadacao":0.00,"entradas":21959.08,"saidas":1491084.22,"regime":"SIMEI","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"26/02/2018","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":21959.08}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99125757091","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":1000.00},
 {"ie":0,"cnpj":"98414470459","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1500.00},
 {"ie":0,"cnpj":"97300365191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":99.99},

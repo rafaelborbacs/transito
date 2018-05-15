@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":72409290,"cnpj":"27974149000128","razao":"COMERCIAL SANTA MONICA EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":1628849.97,"saidas":1302936.32,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"TRIUNFO","drr":"II","igi":1,"dataie":"16/06/2017","contador":""}];
 EntradasData.entradas = [{"ie":29400945,"cnpj":"05087553000147","razao":"CAVALCANTI BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":52325.65},
-{"ie":35945648,"cnpj":"09175609000176","razao":"SOMAR COMERCIO E TRANSPORTES DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":13500.00},
-{"ie":33083916,"cnpj":"07620045000108","razao":"HB ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":40620.50},
-{"ie":1450255,"cnpj":"10204485000199","razao":"USINA UNIAO E INDUSTRIA S/A","sit":"A","regime":"NORMAL","municipio":"PRIMAVERA","igi":0,"uf":"PE","valor":1125850.00},
-{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":199142.98},
 {"ie":50622684,"cnpj":"17090600000190","razao":"GL INDUSTRIA E DISTRIBUICAO DE ALIMENTOS S.A","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":24326.58},
+{"ie":1450255,"cnpj":"10204485000199","razao":"USINA UNIAO E INDUSTRIA S/A","sit":"A","regime":"NORMAL","municipio":"PRIMAVERA","igi":0,"uf":"PE","valor":1125850.00},
+{"ie":33083916,"cnpj":"07620045000108","razao":"HB ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":40620.50},
 {"ie":28922867,"cnpj":"04906351000117","razao":"CANINHA DO INTERIOR IND E COM DE BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"uf":"PE","valor":6710.25},
-{"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":93600.00},
+{"ie":34059407,"cnpj":"08192388000181","razao":"COMERCIAL DE ALIMENTOS BETANIA LTDA","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"uf":"PE","valor":17748.00},
+{"ie":35945648,"cnpj":"09175609000176","razao":"SOMAR COMERCIO E TRANSPORTES DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":13500.00},
 {"ie":11096004,"cnpj":"09565557000144","razao":"GELSON FREIRE DOS SANTOS & CIA LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"FLORES","igi":0,"uf":"PE","valor":137.88},
 {"ie":31278426,"cnpj":"06281775000169","razao":"M. F. SANTOS PRODUTOS ALIMENTICIOS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":54888.13},
-{"ie":34059407,"cnpj":"08192388000181","razao":"COMERCIAL DE ALIMENTOS BETANIA LTDA","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"uf":"PE","valor":17748.00}];
+{"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":93600.00},
+{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":199142.98}];
 SaidasData.saidas = [{"ie":48220809,"cnpj":"70175336000170","razao":"BONANCA PRODUTOS ALIMENTICIOS E CESTAS BASICAS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":4129.00},
 {"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H DA COSTA MERCEARIA ME","sit":"A","regime":"NORMAL","municipio":"CHA DE ALEGRIA","igi":0,"uf":"PE","valor":30005.25},
 {"ie":0,"cnpj":"34260869000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":18034.20},

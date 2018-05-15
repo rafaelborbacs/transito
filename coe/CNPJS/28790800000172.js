@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":74099744,"cnpj":"28790800000172","razao":"SANDRO ALEX DOS ANJOS 07161070406","sit":"C","arrecadacao":0.00,"entradas":24990.00,"saidas":1224615.43,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TACAIMBO","drr":"II","igi":1,"dataie":"10/10/2017","contador":""}];
-EntradasData.entradas = [{"ie":999999940,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":24990.00},
-{"ie":99999900,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":24990.00}];
+EntradasData.entradas = [{"ie":99999900,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":24990.00},
+{"ie":999999940,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":24990.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97749842772","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1400.00},
 {"ie":0,"cnpj":"97302520500","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":120.00},
 {"ie":0,"cnpj":"96425326204","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":150.00},

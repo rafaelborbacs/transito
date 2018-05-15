@@ -3,9 +3,9 @@ EntradasData.entradas = [{"ie":0,"cnpj":"02370049000161","razao":"","sit":"","re
 {"ie":0,"cnpj":"55407761000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":10758.80},
 {"ie":53666313,"cnpj":"18522358000140","razao":"ALFA EMBALAGEM EIRELI ME","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":2987.20},
 {"ie":0,"cnpj":"58202912000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4293.00},
+{"ie":0,"cnpj":"06786985000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":14053.00},
 {"ie":0,"cnpj":"07601936000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":532.32},
-{"ie":69050562,"cnpj":"25108761000192","razao":"NEW LIFE ANGARA INDUSTRIA DE EMBALAGENS EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":3379.00},
-{"ie":0,"cnpj":"06786985000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":14053.00}];
+{"ie":69050562,"cnpj":"25108761000192","razao":"NEW LIFE ANGARA INDUSTRIA DE EMBALAGENS EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":3379.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"85328961000182","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":5280.00},
 {"ie":70719063,"cnpj":"84429737000114","razao":"MALWEE MALHAS LTDA","sit":"A","regime":"EC 87/2015","municipio":"JARAGUA DO SUL","igi":0,"uf":"SC","valor":16668.20},
 {"ie":0,"cnpj":"75797118000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1800.00},

@@ -1,13 +1,13 @@
-EstabelecimentoData.estabelecimento = [{"ie":31253199,"cnpj":"04744781004681","razao":"ADM. COMERCIO DE ROUPAS LTDA.","sit":"A","arrecadacao":429966.33,"entradas":2842145.18,"saidas":1816935.67,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"04/06/2004","contador":"JULIANA RIBEIRO BRANDAO"}];
+EstabelecimentoData.estabelecimento = [{"ie":31253199,"cnpj":"04744781004681","razao":"ADM. COMERCIO DE ROUPAS LTDA.","sit":"A","arrecadacao":429966.33,"entradas":2904045.09,"saidas":1816935.67,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"04/06/2004","contador":"JULIANA RIBEIRO BRANDAO"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"59927665000198","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":95.20},
 {"ie":0,"cnpj":"00723405000158","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":191.95},
-{"ie":0,"cnpj":"08153481000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":318.00},
 {"ie":0,"cnpj":"19055225000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":278.30},
-{"ie":0,"cnpj":"04744781000341","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2823434.35},
-{"ie":32649711,"cnpj":"04744781005572","razao":"ADM. COMERCIO DE ROUPAS LTDA.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":47.96},
-{"ie":50516655,"cnpj":"09044235032868","razao":"Q1 COMERCIAL DE ROOUPAS S/A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6458.22},
+{"ie":36039462,"cnpj":"09044235001202","razao":"Q1 COMERCIAL DE ROOUPAS S/A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1490.80},
 {"ie":57954941,"cnpj":"09044235041344","razao":"Q1 COMERCIAL DE ROOUPAS S/A","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":9830.40},
-{"ie":36039462,"cnpj":"09044235001202","razao":"Q1 COMERCIAL DE ROOUPAS S/A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1490.80}];
+{"ie":0,"cnpj":"08153481000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":318.00},
+{"ie":50516655,"cnpj":"09044235032868","razao":"Q1 COMERCIAL DE ROOUPAS S/A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6458.22},
+{"ie":32649711,"cnpj":"04744781005572","razao":"ADM. COMERCIO DE ROUPAS LTDA.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":47.96},
+{"ie":0,"cnpj":"04744781000341","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2885334.26}];
 SaidasData.saidas = [{"ie":19882637,"cnpj":"73886434000104","razao":"COND EDF CAESAR TOWERS DOUBLE REVERSE FLAT","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1739.89},
 {"ie":0,"cnpj":"41231796000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":419.95},
 {"ie":0,"cnpj":"25044474000166","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":199.99},

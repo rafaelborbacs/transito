@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","arrecadacao":10351.66,"entradas":1111507.58,"saidas":223444.78,"regime":"NORMAL","segmento":"TECIDOS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"28/07/1999","contador":"VANILSON ROBERTO OLIVEIRA VILELA"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"09000527000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1111507.58}];
+EstabelecimentoData.estabelecimento = [{"ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","arrecadacao":10351.66,"entradas":1121511.42,"saidas":223444.78,"regime":"NORMAL","segmento":"TECIDOS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"28/07/1999","contador":"VANILSON ROBERTO OLIVEIRA VILELA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"09000527000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1121511.42}];
 SaidasData.saidas = [{"ie":0,"cnpj":"35398478000287","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":10755.36},
 {"ie":0,"cnpj":"26828050000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2255.00},
 {"ie":0,"cnpj":"24448751000133","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":3300.00},

@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":68573375,"cnpj":"25526729000127","razao":"LUCIANA GOMES DA SILVA 07656529438","sit":"S","arrecadacao":12.01,"entradas":220943.15,"saidas":0.00,"regime":"SIMPLES","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"15/08/2016","contador":""}];
 EntradasData.entradas = [{"ie":26676303,"cnpj":"03552876000139","razao":"PISCICULTURA PE DE COELHO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":10391.28},
-{"ie":48515108,"cnpj":"15034616000150","razao":"GL INTERZOO INDUSTRIA E COMERCIO EXPORTACAO E IMPORTACAO LTDA","sit":"S","regime":"SIMPLES","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":57.60},
-{"ie":19045310,"cnpj":"35700038000151","razao":"TARASIO ESCOBAR VIEIRA JUNIOR EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":5259.41},
-{"ie":64487989,"cnpj":"23426301000187","razao":"NEWPET DISTRIBUIDORA DE RACOES EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":265.45},
+{"ie":69215073,"cnpj":"26285533000150","razao":"EVORA COMERCIO ATACADISTA DE MEDICAMENTOS E DROGAS DE USO VETERINARIO EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1673.31},
 {"ie":48654647,"cnpj":"40881070000897","razao":"PALMARES PRODUTOS RURAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":40625.04},
 {"ie":12192350,"cnpj":"10672608000116","razao":"NUTRIVALE NUTRIMENTOS DO VALE DO SAO FRANCISCO LTDA","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":691.96},
-{"ie":69215073,"cnpj":"26285533000150","razao":"EVORA COMERCIO ATACADISTA DE MEDICAMENTOS E DROGAS DE USO VETERINARIO EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1673.31},
+{"ie":19045310,"cnpj":"35700038000151","razao":"TARASIO ESCOBAR VIEIRA JUNIOR EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":5259.41},
+{"ie":33892199,"cnpj":"03887324000262","razao":"ADIMAX - INDUSTRIA E COMERCIO DE ALIMENTOS LTDA.","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":93147.67},
+{"ie":64487989,"cnpj":"23426301000187","razao":"NEWPET DISTRIBUIDORA DE RACOES EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":265.45},
 {"ie":29398274,"cnpj":"05157816000147","razao":"E.B.A DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":7947.62},
+{"ie":48515108,"cnpj":"15034616000150","razao":"GL INTERZOO INDUSTRIA E COMERCIO EXPORTACAO E IMPORTACAO LTDA","sit":"S","regime":"SIMPLES","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":57.60},
 {"ie":63780569,"cnpj":"08471163001136","razao":"FVO BRASILIA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":51930.01},
-{"ie":38392496,"cnpj":"10960053000108","razao":"FOCUS DISTRIBUIDORA LTDA","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":8953.80},
-{"ie":33892199,"cnpj":"03887324000262","razao":"ADIMAX - INDUSTRIA E COMERCIO DE ALIMENTOS LTDA.","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":93147.67}];
+{"ie":38392496,"cnpj":"10960053000108","razao":"FOCUS DISTRIBUIDORA LTDA","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":8953.80}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07656529438","nome":"LUCIANA GOMES DA SILVA","ie":68573375,"cnpj":"25526729000127","razao":"LUCIANA GOMES DA SILVA 07656529438","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [{"cnpj":"03545161404","email":"kleberguilhermino1980@hotmail.com","razao":"KLEBER GUILHERMINO SAMPAIO","municipio":"RECIFE"}];
@@ -41,6 +41,7 @@ PlacasData.placas = [{"cnpj":"70177837000196","placa":"PFP5181","razao":"FRIGORI
 {"cnpj":"21545036000120","placa":"PFP5181","razao":"CABO COMERCIO DE ALIMENTOS LTDA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"21460833000105","placa":"PFP5181","razao":"CARMEM DELICATESSEN GOURMET LTDA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"21170762000106","placa":"PFP5181","razao":"E C MINIMERCADO LTDA ME","municipio":"CABO DE SANTO AGOSTINHO"},
+{"cnpj":"21030904000130","placa":"PFP5181","razao":"ANA ELIZABETH DA SILVA LEITE","municipio":"CAMARAGIBE"},
 {"cnpj":"20910623000109","placa":"PFP5181","razao":"JACKSON DURVAL DE SOUZA SILVA 03706","municipio":"IPOJUCA"},
 {"cnpj":"20826292000123","placa":"PFP5181","razao":"JOSE MANOEL DE LIMA PROD AGROP ME","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"20296110000150","placa":"PFP5181","razao":"P G SANTANA MERCADINHO LTDA ME","municipio":"RECIFE"},
@@ -52,6 +53,7 @@ PlacasData.placas = [{"cnpj":"70177837000196","placa":"PFP5181","razao":"FRIGORI
 {"cnpj":"17578335000194","placa":"PFP5181","razao":"ESTACIO FAUSTINO DE MORAIS ME","municipio":"RECIFE"},
 {"cnpj":"16842324000107","placa":"PFP5181","razao":"H M DA SILVA MERCADINHO EPP","municipio":"SAO LOURENCO DA MATA"},
 {"cnpj":"16692038000102","placa":"PFP5181","razao":"YURIA NUNES TAVARES RIBEIRO","municipio":"RECIFE"},
+{"cnpj":"15242436000164","placa":"PFP5181","razao":"T H SUPERMERCADOS EIRELI EPP","municipio":"SAO LOURENCO DA MATA"},
 {"cnpj":"15230960000115","placa":"PFP5181","razao":"KMP COMERCIO DE ANIMAIS E ALIM P AN","municipio":"RECIFE"},
 {"cnpj":"15225759000140","placa":"PFP5181","razao":"COMERCIO DE ALIMENTOS COSME LTDA","municipio":"IPOJUCA"},
 {"cnpj":"14855921000140","placa":"PFP5181","razao":"MOACIEL DE LIMA ME","municipio":"RECIFE"},
@@ -69,10 +71,13 @@ PlacasData.placas = [{"cnpj":"70177837000196","placa":"PFP5181","razao":"FRIGORI
 {"cnpj":"10912186000290","placa":"PFP5181","razao":"RAZONI HOTEIS TURISMO LTDA","municipio":"IPOJUCA"},
 {"cnpj":"10873243000198","placa":"PFP5181","razao":"ALEXSANDRA R PEREIRA ME","municipio":"CAMARAGIBE"},
 {"cnpj":"10867105000104","placa":"PFP5181","razao":"KITANDA DOIS IRMAOS LTDA ME","municipio":"RECIFE"},
+{"cnpj":"10669790000156","placa":"PFP5181","razao":"FERNANDA ROSENDO DE CARVALHO","municipio":"RECIFE"},
 {"cnpj":"10575383000180","placa":"PFP5181","razao":"LEITE SUPERMERCADO","municipio":"OLINDA"},
 {"cnpj":"10308675000156","placa":"PFP5181","razao":"PAULO CESAR REMIGIO VIANNA ME","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"09912019000189","placa":"PFP5181","razao":"COMERCIAL FARMALDEIA LTDA","municipio":"CAMARAGIBE"},
 {"cnpj":"09578230000298","placa":"PFP5181","razao":"JUNIOR E JOANE FARMACIA LTDA","municipio":"CABO DE SANTO AGOSTINHO"},
+{"cnpj":"09342529000168","placa":"PFP5181","razao":"R G DA CUNHA PANIFICACAO","municipio":"PAULISTA"},
+{"cnpj":"09276683000189","placa":"PFP5181","razao":"MERCADINHO SUPERMIX LTDA","municipio":"RECIFE"},
 {"cnpj":"09223666000183","placa":"PFP5181","razao":"JPP MERCADINHO LTDA ME","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"09021200000103","placa":"PFP5181","razao":"ANTONIO AUGUSTO DE O LIMA RACOES ME","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"08905841000150","placa":"PFP5181","razao":"A G DE ARRUDA ME","municipio":"IGARASSU"},
@@ -89,6 +94,7 @@ PlacasData.placas = [{"cnpj":"70177837000196","placa":"PFP5181","razao":"FRIGORI
 {"cnpj":"06485274413","placa":"PFP5181","razao":"LEANDRO DIONISIO GOMES","municipio":"RECIFE"},
 {"cnpj":"06252002000154","placa":"PFP5181","razao":"PANMIRIM PROD DE PADARIA LTDA ME","municipio":"RECIFE"},
 {"cnpj":"06084441000103","placa":"PFP5181","razao":"DANYELLE DE FATIMA BUARQUE DE ANDRA","municipio":"CABO DE SANTO AGOSTINHO"},
+{"cnpj":"06040841000109","placa":"PFP5181","razao":"JOSE R DA SILVA RACOES","municipio":"CAMARAGIBE"},
 {"cnpj":"05944078000188","placa":"PFP5181","razao":"DOMENACK BRASIL COMERCIO SERVICOS E","municipio":"RECIFE"},
 {"cnpj":"05795006000116","placa":"PFP5181","razao":"FARMACIA VERDE LTDA ME","municipio":"OLINDA"},
 {"cnpj":"05727927000141","placa":"PFP5181","razao":"ALBA VALERIA DE ALMEIDA CHAGAS","municipio":"RECIFE"},
@@ -106,4 +112,5 @@ PlacasData.placas = [{"cnpj":"70177837000196","placa":"PFP5181","razao":"FRIGORI
 {"cnpj":"02620719000150","placa":"PFP5181","razao":"EDSON LUIZ G PRADO","municipio":"CAMARAGIBE"},
 {"cnpj":"02239512000130","placa":"PFP5181","razao":"RANIERE MARCILIO FIGUEIREDO DE SOUZ","municipio":"RECIFE"},
 {"cnpj":"01621781000102","placa":"PFP5181","razao":"VALDINES NASCIMENTO ARAUJO MERCEARI","municipio":"CAMARAGIBE"},
-{"cnpj":"00420822000121","placa":"PFP5181","razao":"JOSELMA QUEIROZ SILVA","municipio":"RECIFE"}];
+{"cnpj":"00420822000121","placa":"PFP5181","razao":"JOSELMA QUEIROZ SILVA","municipio":"RECIFE"},
+{"cnpj":"00309787000178","placa":"PFP5181","razao":"EDINALDO CAVALCANTE ARAUJO","municipio":"CAMARAGIBE"}];

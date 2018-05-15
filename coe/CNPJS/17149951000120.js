@@ -1,5 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":50708996,"cnpj":"17149951000120","razao":"MJ EMBALAGENS PLASTICAS LTDA - EPP","sit":"A","arrecadacao":0.00,"entradas":33.00,"saidas":336343.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"OLINDA","drr":"I","igi":1,"dataie":"12/11/2012","contador":"GILMAR ARAUJO DE OLIVEIRA"}];
-EntradasData.entradas = [{"ie":35989343,"cnpj":"05266210000573","razao":"PORTELA DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":33.00}];
+EstabelecimentoData.estabelecimento = [{"ie":50708996,"cnpj":"17149951000120","razao":"MJ EMBALAGENS PLASTICAS LTDA - EPP","sit":"A","arrecadacao":0.00,"entradas":730.72,"saidas":336343.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"OLINDA","drr":"I","igi":1,"dataie":"12/11/2012","contador":"GILMAR ARAUJO DE OLIVEIRA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"07567392000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":697.72},
+{"ie":35989343,"cnpj":"05266210000573","razao":"PORTELA DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":33.00}];
 SaidasData.saidas = [{"ie":16584333,"cnpj":"35347194000180","razao":"DEUSIRANY BATISTA MARTINS ARMARINHO ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9800.00},
 {"ie":71372814,"cnpj":"27405367000141","razao":"ROSILMA DE OLIVEIRA ARAUJO MELO ME","sit":"A","regime":"SIMPLES","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":1610.00},
 {"ie":70712808,"cnpj":"27081350000186","razao":"EDILEUZA FRANCISCA DA SILVA BOMBONIERE ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":59970.00},

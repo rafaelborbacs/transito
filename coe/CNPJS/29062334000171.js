@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":74530607,"cnpj":"29062334000171","razao":"CREMILDO SILVA DE SOUZA ME","sit":"C","arrecadacao":0.00,"entradas":2570824.63,"saidas":1056241.99,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"CASINHAS","drr":"II","igi":1,"dataie":"13/11/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1989494.68},
-{"ie":0,"cnpj":"13491807000388","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":121660.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"24074911000121","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":97281.00},
 {"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":91970.00},
 {"ie":0,"cnpj":"08778562000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":19540.31},
-{"ie":0,"cnpj":"24074911000121","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":97281.00},
 {"ie":0,"cnpj":"17329213000164","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":137620.00},
-{"ie":0,"cnpj":"17120250000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":113258.64}];
+{"ie":0,"cnpj":"13491807000388","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":121660.00},
+{"ie":0,"cnpj":"17120250000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":113258.64},
+{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1989494.68}];
 SaidasData.saidas = [{"ie":16996100,"cnpj":"35609866000189","razao":"VAREJAO MOINHO OLIVEIRA LTDA ME","sit":"A","regime":"NORMAL","municipio":"MACAPARANA","igi":0,"uf":"PE","valor":1840.00},
 {"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FERREIRA DUTRA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":20554.80},
 {"ie":71468099,"cnpj":"27484924000167","razao":"ATACAREJO AGUIAR EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10154.30},

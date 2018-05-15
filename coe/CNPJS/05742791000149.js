@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":30252334,"cnpj":"05742791000149","razao":"INDUSTRIA DE CONFECCOES 40 GRAUS LTDA EPP","sit":"S","arrecadacao":48.05,"entradas":19670.93,"saidas":53232.20,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"07/07/2003","contador":""}];
-EntradasData.entradas = [{"ie":64292541,"cnpj":"23341505000115","razao":"FERNANDA PATRICIA DA COSTA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":7680.00},
+EntradasData.entradas = [{"ie":71905308,"cnpj":"11975965000205","razao":"P & F TEXTIL LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":10681.31},
 {"ie":26383209,"cnpj":"03413165000183","razao":"R. MARINHO MALHAS - EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":1309.62},
-{"ie":71905308,"cnpj":"11975965000205","razao":"P & F TEXTIL LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":10681.31}];
+{"ie":64292541,"cnpj":"23341505000115","razao":"FERNANDA PATRICIA DA COSTA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":7680.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"84454156000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4880.00},
 {"ie":0,"cnpj":"27305687000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1001.50},
 {"ie":0,"cnpj":"26388533000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":965.00},

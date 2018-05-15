@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":72299339,"cnpj":"27906400000117","razao":"ANDERSON DA SILVA CLAUDINO ME","sit":"C","arrecadacao":0.00,"entradas":1286934.96,"saidas":1381693.10,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"09/06/2017","contador":"AFONSO JOSE MAIA"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"40568933000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":97094.49},
-{"ie":0,"cnpj":"08312766000202","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":114648.51},
-{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":50686.02},
-{"ie":0,"cnpj":"05358507000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":72514.50},
 {"ie":0,"cnpj":"14172362000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":78000.00},
+{"ie":0,"cnpj":"08312766000202","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":114648.51},
 {"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":832290.00},
-{"ie":0,"cnpj":"05360434000116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":41701.44}];
+{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":50686.02},
+{"ie":0,"cnpj":"05360434000116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":41701.44},
+{"ie":0,"cnpj":"05358507000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":72514.50}];
 SaidasData.saidas = [{"ie":19068603,"cnpj":"69933398000115","razao":"MARIA C S ALENCAR EPP","sit":"A","regime":"NORMAL","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":4025.00},
 {"ie":18893465,"cnpj":"69910883000173","razao":"MONTEIRO SOARES LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":13200.00},
 {"ie":0,"cnpj":"41401076000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":75000.00},

@@ -40,11 +40,12 @@ SaidasData.saidas = [{"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FE
 {"ie":22767126,"cnpj":"01329442000149","razao":"MINERACAO PAULISTA LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTE DO LERIO","igi":0,"uf":"PE","valor":8000.00},
 {"ie":20395752,"cnpj":"00180383000127","razao":"MERCADINHO MACKSON LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":23799.75}];
 SociosData.socios = [{"cpf":"70509763421","nome":"THIAGO SANTOS DE LIMA","ie":75434504,"cnpj":"29480327000190","razao":"THIAGO SANTOS DE LIMA COMERCIO","sit":"C","regime":"NORMAL","municipio":"PEDRA","igi":1}];
-EmailsData.emails = [{"cnpj":"18073013000156","email":"NATHANDISTRIBUIDORA@GMAIL.COM","razao":"L N DISTRIBUIDORA DE ALIMENTOS LTDA","municipio":"PESQUEIRA"},
+EmailsData.emails = [{"cnpj":"18073013000156","email":"NATHANDISTRIBUIDORA@GMAIL.COM","razao":"LN DISTRIBUIDORA DE ALIMENTOS LTDA","municipio":"PESQUEIRA"},
 {"cnpj":"07582697000448","email":"NATHANDISTRIBUIDORA@GMAIL.COM","razao":"SABOR INDUSTRIA E COMERCIO","municipio":"PAULISTA"}];
-TelsData.tels = [{"cnpj":"30284446000156","tel":"8132220000","razao":"GENILSON ARAUJO DA SILVA-00280","municipio":"DORMENTES"},
+TelsData.tels = [{"cnpj":"30284446000156","tel":"8132220000","razao":"GENILSON ARAUJO DA SILVA","municipio":"Dormentes"},
+{"cnpj":"28901196000104","tel":"8132220000","razao":"FJ ACESSORIOS PARA CELULAR LTDA","municipio":"RECIFE"},
 {"cnpj":"28548962000107","tel":"8132220000","razao":"PETRONIO PINTO DE CAMPOS ME","municipio":"RECIFE"},
-{"cnpj":"26158586000100","tel":"8132220000","razao":"COMERCIAL NOVA CRUZ EIRELI - ME","municipio":"OLINDA"},
-{"cnpj":"22566221000164","tel":"8132220000","razao":"COMÉRCIO E INDÚSTRIA DE ALIMENTOS CANDEIAS LTDA -","municipio":"Jaboatão dos Guararapes"},
+{"cnpj":"26158586000100","tel":"8132220000","razao":"COMERCIAL NOVA CRUZ EIRELI ME","municipio":"OLINDA"},
+{"cnpj":"22566221000164","tel":"8132220000","razao":"COMERCIO E IND DE ALIMENTOS CANDEIAS LTDA ME","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"17991863000170","tel":"8132220000","razao":"R MARIA DE ANDRADE EPP","municipio":"OLINDA"}];
 PlacasData.placas = [{"cnpj":"07582697000448","placa":"KKH9105","razao":"SABOR INDUSTRIA E COMERCIO","municipio":"PAULISTA"}];

@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":74188097,"cnpj":"28832527000100","razao":"ELIELTON VASCONCELOS DA SILVA 71305476425","sit":"C","arrecadacao":0.00,"entradas":376048.20,"saidas":0.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"18/10/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":144243.09},
+EntradasData.entradas = [{"ie":0,"cnpj":"09258807000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":138179.80},
 {"ie":0,"cnpj":"19526748000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":44783.36},
-{"ie":0,"cnpj":"09258807000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":138179.80},
-{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":38641.95},
-{"ie":0,"cnpj":"10843534000214","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":10200.00}];
+{"ie":0,"cnpj":"10843534000214","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":10200.00},
+{"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":144243.09},
+{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":38641.95}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71305476425","nome":"ELIELTON VASCONCELOS DA SILVA","ie":74188097,"cnpj":"28832527000100","razao":"ELIELTON VASCONCELOS DA SILVA 71305476425","sit":"C","regime":"SIMEI","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
 EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","razao":"MODAUM INDUSTRIA E COMERCIO DE CONFECCOES LTDA EPP","municipio":"INDAIAL"},
@@ -47,6 +47,7 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"46543948000194","email":"rivania@gso.com.br","razao":"TRUTZSCHLER IND E COM DE MAQUINAS LTDA","municipio":"CURITIBA"},
 {"cnpj":"44828952000173","email":"rivania@gso.com.br","razao":"TECEART INDUSTRIA E COMERCIO LTDA","municipio":"SANTA BARBARA D OESTE"},
 {"cnpj":"43992676000111","email":"rivania@gso.com.br","razao":"MURATA DO BRASIL LTDA","municipio":"ITAQUAQUECETUBA"},
+{"cnpj":"43237197000190","email":"rivania@gso.com.br","razao":"HUDTELFA TEXTILE TECHNOLOGY EIRELI","municipio":"NOVA ODESSA"},
 {"cnpj":"43066521000154","email":"rivania@gso.com.br","razao":"PELUCIAS A DOMINHOCA LTDA - EPP","municipio":"SAO PAULO"},
 {"cnpj":"41241266000103","email":"rivania@gso.com.br","razao":"ETICAL ETIQUETAS CARUARU LTDA","municipio":"CARUARU"},
 {"cnpj":"40838658000191","email":"rivania@gso.com.br","razao":"ARA TEXTIL LTDA","municipio":"ABREU E LIMA"},
@@ -64,8 +65,10 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"19776541000134","email":"rivania@gso.com.br","razao":"CONFECCOES CHILDREN LTDA","municipio":"SAO JOAO NEPOMUCENO"},
 {"cnpj":"19687872000106","email":"rivania@gso.com.br","razao":"GA TEXTIL LTDA ME","municipio":"BRUSQUE"},
 {"cnpj":"19526748000150","email":"rivania@gso.com.br","razao":"CIA INDUSTRIAL CATAGUASES","municipio":"CATAGUASES"},
-{"cnpj":"19525260000109","email":"rivania@gso.com.br","razao":"CIA MANUFATORA DE TECIDOS DE ALGODAO","municipio":"CATAGUASES"},
+{"cnpj":"19525260000109","email":"rivania@gso.com.br","razao":"COMPANHIA MANUFATORA DE TECIDOS DE ALGODAO","municipio":"CATAGUASES"},
 {"cnpj":"19275972000117","email":"rivania@gso.com.br","razao":"SCHLOSSER INDUSTRIA TEXTIL SA","municipio":"BRUSQUE"},
+{"cnpj":"18975636000114","email":"rivania@gso.com.br","razao":"LIMOTEXTIL LTDA - EPP","municipio":"LIMOEIRO"},
+{"cnpj":"17771009000107","email":"rivania@gso.com.br","razao":"SAURER TEXTIL SOLUCOES LTDA","municipio":"SAO LEOPOLDO"},
 {"cnpj":"15776822000217","email":"rivania@gso.com.br","razao":"TEK-SANA TECIDOS EIRELI","municipio":"AMERICANA"},
 {"cnpj":"15443613000170","email":"rivania@gso.com.br","razao":"HS INDUSTRIA E COMERCIO DE MALHAS LTDA EPP","municipio":"BRUSQUE"},
 {"cnpj":"13116630000178","email":"rivania@gso.com.br","razao":"INFLUENCIA TECELAGEM E CONFECCOES LTDA. ME","municipio":"GASPAR"},
@@ -77,6 +80,7 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"11634941000101","email":"rivania@gso.com.br","razao":"PRIMUS INDUSTRIA TEXTIL LTDA - ME","municipio":"GASPAR"},
 {"cnpj":"11548696000101","email":"rivania@gso.com.br","razao":"T-AR TECELAGEM LTDA","municipio":"JUIZ DE FORA"},
 {"cnpj":"11513202000153","email":"rivania@gso.com.br","razao":"ENCHANTE TEXTIL LTDA","municipio":"BLUMENAU"},
+{"cnpj":"10948651000161","email":"rivania@gso.com.br","razao":"SPRINGER CARRIER LTDA","municipio":"CANOAS"},
 {"cnpj":"10880927000117","email":"rivania@gso.com.br","razao":"GRACIELE C MEINERZ ME","municipio":"JARAGUA DO SUL"},
 {"cnpj":"10474553000130","email":"rivania@gso.com.br","razao":"MALHAS MENEGOTTI INDUSTRIA TEXTIL LTDA","municipio":"JARAGUA DO SUL"},
 {"cnpj":"10261086000160","email":"rivania@gso.com.br","razao":"JJWH INDUSTRIA E CONFECCAO DE PRODUTOS TEXTEIS EIRELI EPP","municipio":"BRUSQUE"},
@@ -105,6 +109,7 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"06980158000151","email":"rivania@gso.com.br","razao":"ZEMAPRI IND.COM.DE MALHAS LTDA","municipio":"BRUSQUE"},
 {"cnpj":"06250420000102","email":"rivania@gso.com.br","razao":"HAR TEXTIL MALHAS E CONFECCOES LTDA","municipio":"BRUSQUE"},
 {"cnpj":"06241868000160","email":"rivania@gso.com.br","razao":"ESTILO MALHAS INDUSTRIA E COMERCIO DE TECIDOS LTDA ME","municipio":"JARAGUA DO SUL"},
+{"cnpj":"06170396000100","email":"rivania@gso.com.br","razao":"ACO NOBRE METAIS ESPECIAIS LTDA","municipio":"RECIFE"},
 {"cnpj":"06130723000191","email":"rivania@gso.com.br","razao":"MALHAS BEUSTOL LTDA ME","municipio":"BRUSQUE"},
 {"cnpj":"05766708000171","email":"rivania@gso.com.br","razao":"M E D MODAS FASHION LTDA ME","municipio":"GASPAR"},
 {"cnpj":"05376311000173","email":"rivania@gso.com.br","razao":"NEW TEXTIL LTDA","municipio":"BRUSQUE"},

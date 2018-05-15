@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":68129025,"cnpj":"25240817000168","razao":"BLENNDEDD EIRELI ME","sit":"A","arrecadacao":58452.77,"entradas":1539997.23,"saidas":628264.23,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"20/07/2016","contador":"HERLLA GINYANA CORDEIRO PRADO"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"03123987000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":92993.61},
 {"ie":0,"cnpj":"26919821000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":262778.12},
-{"ie":0,"cnpj":"05215641000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":44594.20},
+{"ie":39894290,"cnpj":"11907846000126","razao":"MEGABAG INDUSTRIA DE BOLSAS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":144649.00},
 {"ie":0,"cnpj":"56724412000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":961082.30},
 {"ie":34054944,"cnpj":"08184364000180","razao":"A. M. JUNIOR COMERCIO DE ARTIGOS DE COUROS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":33900.00},
-{"ie":39894290,"cnpj":"11907846000126","razao":"MEGABAG INDUSTRIA DE BOLSAS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":144649.00}];
+{"ie":0,"cnpj":"05215641000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":44594.20}];
 SaidasData.saidas = [{"ie":76039080,"cnpj":"29757669000104","razao":"VANDEILDO SIQUEIRA TORRES 02949010431","sit":"B","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":25425.00},
 {"ie":75968045,"cnpj":"29730641000183","razao":"ABDIAS RIBEIRO DA SILVA 01432906496","sit":"B","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":33900.00},
 {"ie":73918202,"cnpj":"28713590000119","razao":"FABIANO BARROS DE ARAUJO 33520858894","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":33898.15},

@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":54615887,"cnpj":"18900359000180","razao":"FABIO ALVES DE ARAUJO CONFECCOES ME","sit":"A","arrecadacao":214.44,"entradas":35494.30,"saidas":1811801.74,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"20/09/2013","contador":"HERLLA GINYANA CORDEIRO PRADO"}];
 EntradasData.entradas = [{"ie":69041814,"cnpj":"26206199000100","razao":"PDK COMERCIO ATACADISTA DE TECIDOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":12901.00},
-{"ie":32144512,"cnpj":"07185665000166","razao":"BOTOES DO BRASIL INDUSTRIA E SERVICOS PERSONALIZADOS LTDA","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":21763.30},
-{"ie":54615887,"cnpj":"18900359000180","razao":"FABIO ALVES DE ARAUJO CONFECCOES ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":1,"uf":"PE","valor":830.00}];
+{"ie":54615887,"cnpj":"18900359000180","razao":"FABIO ALVES DE ARAUJO CONFECCOES ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":1,"uf":"PE","valor":830.00},
+{"ie":32144512,"cnpj":"07185665000166","razao":"BOTOES DO BRASIL INDUSTRIA E SERVICOS PERSONALIZADOS LTDA","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":21763.30}];
 SaidasData.saidas = [{"ie":0,"cnpj":"26649398000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":2001.74},
 {"ie":0,"cnpj":"19132795000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":1801800.00},
 {"ie":0,"cnpj":"17740867000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":945.00},

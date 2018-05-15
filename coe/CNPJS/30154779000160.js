@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":76750701,"cnpj":"30154779000160","razao":"ANTONIO AUGUSTO SETTE LEITE DE CARVALHO PLASTICOS","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":180890.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"10/04/2018","contador":""}];
-EntradasData.entradas = [];
+EstabelecimentoData.estabelecimento = [{"ie":76750701,"cnpj":"30154779000160","razao":"ANTONIO AUGUSTO SETTE LEITE DE CARVALHO PLASTICOS","sit":"A","arrecadacao":0.00,"entradas":109411.01,"saidas":180890.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"10/04/2018","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"03570768000199","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":109411.01}];
 SaidasData.saidas = [{"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL CENTRAL DE GENEROS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9100.00},
 {"ie":63810735,"cnpj":"23157578000151","razao":"JOSE N NUNES JUNIOR ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":3590.00},
 {"ie":48651702,"cnpj":"15417004000147","razao":"DISTRIBUIDORA CRISTAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5200.00},

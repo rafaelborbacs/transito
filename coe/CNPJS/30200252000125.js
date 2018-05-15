@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":76875407,"cnpj":"30200252000125","razao":"ALINE PRISCILA DE SOUZA DA SILVA 13367040479","sit":"A","arrecadacao":0.00,"entradas":14381.00,"saidas":442271.90,"regime":"SIMEI","segmento":"VAREJO","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"23/04/2018","contador":""}];
-EntradasData.entradas = [{"ie":72767960,"cnpj":"28141817000107","razao":"DOUGLAS DA S DE LIMA TECIDOS E CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":6756.00},
-{"ie":75949091,"cnpj":"29735962000170","razao":"DIEGO TORRES PEREIRA ATACADO E VAREJO","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":7625.00}];
+EntradasData.entradas = [{"ie":75949091,"cnpj":"29735962000170","razao":"DIEGO TORRES PEREIRA ATACADO E VAREJO","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":7625.00},
+{"ie":72767960,"cnpj":"28141817000107","razao":"DOUGLAS DA S DE LIMA TECIDOS E CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":6756.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"87349272120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":402.00},
 {"ie":0,"cnpj":"79137385704","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
 {"ie":0,"cnpj":"79014178549","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":23590.00},

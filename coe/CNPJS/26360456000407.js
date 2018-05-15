@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":76080986,"cnpj":"26360456000407","razao":"KLETIA WILANE FARIAS","sit":"S","arrecadacao":0.00,"entradas":31429.49,"saidas":622972.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"05/03/2018","contador":""}];
-EntradasData.entradas = [{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":30745.49},
+EntradasData.entradas = [{"ie":34937412,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":684.00},
 {"ie":35375442,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":684.00},
-{"ie":34937412,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":684.00}];
+{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":30745.49}];
 SaidasData.saidas = [{"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7050.00},
 {"ie":0,"cnpj":"92739135000272","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":280.00},
 {"ie":0,"cnpj":"92739135000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":280.00},
@@ -32,7 +32,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"29471045000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":10011.00},
 {"ie":0,"cnpj":"29166381134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
 {"ie":0,"cnpj":"29008947000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2024.00},
-{"ie":0,"cnpj":"28100026149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2000.00},
+{"ie":0,"cnpj":"28100026149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2000.00},
 {"ie":0,"cnpj":"28072636000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":8002.00},
 {"ie":0,"cnpj":"27581085000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1350.00},
 {"ie":0,"cnpj":"26828005000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":1738.30},
@@ -48,7 +48,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"19120116000192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":3020.00},
 {"ie":0,"cnpj":"19079067000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":39074.00},
 {"ie":0,"cnpj":"18545690000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":750.00},
-{"ie":0,"cnpj":"18530249100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1000.00},
+{"ie":0,"cnpj":"18530249100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1000.00},
 {"ie":0,"cnpj":"16653472000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":118.00},
 {"ie":0,"cnpj":"15409939000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":23400.00},
 {"ie":0,"cnpj":"15080933000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":1200.00},
