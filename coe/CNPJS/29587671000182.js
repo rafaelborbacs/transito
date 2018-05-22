@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":75739798,"cnpj":"29587671000182","razao":"JOSE MAVIAEL DA SILVA 11518018440","sit":"C","arrecadacao":0.00,"entradas":1026294.48,"saidas":2023606.57,"regime":"SIMEI","segmento":"VAREJO","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"05/02/2018","contador":""}];
 EntradasData.entradas = [{"ie":16261836,"cnpj":"35605732000190","razao":"JADIAEL LIMA BEZERRA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":1015574.48},
-{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":6400.00},
-{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4320.00}];
+{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4320.00},
+{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":6400.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99826780197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"DF","valor":40.00},
 {"ie":0,"cnpj":"99267411500","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4090.00},
 {"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2714.00},
@@ -282,7 +282,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99826780197","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"13601730000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1000.00},
 {"ie":0,"cnpj":"13461368000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":188.00},
 {"ie":0,"cnpj":"13266964000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":3010.00},
-{"ie":0,"cnpj":"13252159619","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4180.00},
+{"ie":0,"cnpj":"13252159619","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":8360.00},
 {"ie":0,"cnpj":"13238375000136","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":1230.00},
 {"ie":0,"cnpj":"13229834000204","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":5411.17},
 {"ie":0,"cnpj":"13185865000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1200.00},

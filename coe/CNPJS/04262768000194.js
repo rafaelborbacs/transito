@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":28354877,"cnpj":"04262768000194","razao":"WJV COMPANY - INDUSTRIA E COMERCIO LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BELO JARDIM","drr":"II","igi":1,"dataie":"01/08/2001","contador":"ELIANE ANDRADE NEVES BAPTISTA"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
-SociosData.socios = [{"cpf":"59313943468","nome":"JOSE VICENTE BARBOSA CINTRA GALVAO","ie":65686373,"cnpj":"24000776000170","razao":"J.V.B. CINTRA GALVAO - EIRELI ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0},
+SociosData.socios = [{"cpf":"59313943468","nome":"JOSE VICENTE BARBOSA CINTRA GALVAO","ie":65686373,"cnpj":"24000776000170","razao":"J.V.B. CINTRA GALVAO - EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0},
 {"cpf":"59313943468","nome":"JOSE VICENTE BARBOSA CINTRA GALVAO","ie":42405378,"cnpj":"04017989000105","razao":"FARDASSUS INDUSTRIA E COMERCIO LTDA","sit":"C","regime":"NORMAL","municipio":"BELO JARDIM","igi":0},
 {"cpf":"59313943468","nome":"JOSE VICENTE BARBOSA CINTRA GALVAO","ie":28354877,"cnpj":"04262768000194","razao":"WJV COMPANY - INDUSTRIA E COMERCIO LTDA ME","sit":"C","regime":"NORMAL","municipio":"BELO JARDIM","igi":1},
 {"cpf":"59313943468","nome":"JOSE VICENTE BARBOSA CINTRA GALVAO","ie":15439623,"cnpj":"09466392000153","razao":"TRANSPORTADORA ITACAITE LTDA","sit":"B","regime":"NORMAL","municipio":"BELO JARDIM","igi":0},

@@ -8,7 +8,7 @@ SaidasData.saidas = [{"ie":17481066,"cnpj":"40819823000168","razao":"KELSCH INDU
 {"ie":15296687,"cnpj":"24450041000148","razao":"ROSINETE ALMEIDA Q DE OLIVEIRA EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":796.80},
 {"ie":60651202,"cnpj":"21625424000111","razao":"SUPERMERCADO IMPERIO EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1835.00},
 {"ie":53761227,"cnpj":"18546074000193","razao":"I. P. ADMINISTRADORA DE SERVICOS LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":9000.20},
-{"ie":44096550,"cnpj":"13491609000152","razao":"PADARIA LA ROQUE LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1012.31},
+{"ie":44096550,"cnpj":"13491609000152","razao":"PADARIA LA ROQUE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1012.31},
 {"ie":42338409,"cnpj":"12810592000196","razao":"GOA ADMINISTRADORA DE SERVICOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3687.40},
 {"ie":41427050,"cnpj":"11872411000193","razao":"C R DE OLIVEIRA BARROS","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":6421.05},
 {"ie":68507232,"cnpj":"11744898000471","razao":"ATACADAO COMERCIO DE CARNES LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":2569.80},

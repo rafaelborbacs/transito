@@ -1,5 +1,5 @@
 EstabelecimentoData.estabelecimento = [{"ie":74161644,"cnpj":"28881212000144","razao":"ANDRE STEWART DA SILVA LIMA ME","sit":"S","arrecadacao":0.00,"entradas":100532.18,"saidas":410008.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"18/10/2017","contador":""}];
-EntradasData.entradas = [{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":100532.18}];
+EntradasData.entradas = [{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":100532.18}];
 SaidasData.saidas = [{"ie":0,"cnpj":"84967744000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2000.00},
 {"ie":0,"cnpj":"81612630278","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":195.00},
 {"ie":0,"cnpj":"81249989000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":3510.00},

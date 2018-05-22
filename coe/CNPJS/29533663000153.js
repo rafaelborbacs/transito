@@ -1,18 +1,19 @@
-EstabelecimentoData.estabelecimento = [{"ie":75627132,"cnpj":"29533663000153","razao":"MAY ANNE ARRAES COSTA 04342846454","sit":"A","arrecadacao":3.40,"entradas":132527.46,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"ARARIPINA","drr":"III","igi":1,"dataie":"29/01/2018","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"03103404000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":3311.00},
-{"ie":48654647,"cnpj":"40881070000897","razao":"PALMARES PRODUTOS RURAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":25833.35},
+EstabelecimentoData.estabelecimento = [{"ie":75627132,"cnpj":"29533663000153","razao":"MAY ANNE ARRAES COSTA 04342846454","sit":"A","arrecadacao":2021.29,"entradas":132527.46,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"ARARIPINA","drr":"III","igi":1,"dataie":"29/01/2018","contador":""}];
+EntradasData.entradas = [{"ie":22575480,"cnpj":"01369649000147","razao":"AGRONETO COMERCIAL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1074.37},
 {"ie":70830410,"cnpj":"12798443000825","razao":"RANCHO ALEGRE PRODUTOS AGROPECUARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":8831.39},
-{"ie":22575480,"cnpj":"01369649000147","razao":"AGRONETO COMERCIAL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1074.37},
-{"ie":0,"cnpj":"76719525000305","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":11032.15},
-{"ie":13535943,"cnpj":"12798443000159","razao":"RANCHO ALEGRE PRODUTOS AGROPECUARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":2082.50},
+{"ie":48654647,"cnpj":"40881070000897","razao":"PALMARES PRODUTOS RURAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":25833.35},
+{"ie":0,"cnpj":"03103404000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":3311.00},
 {"ie":30323533,"cnpj":"17359233000188","razao":"TECIDOS E ARMARINHOS MIGUEL BARTOLOMEU S/A","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CONTAGEM","igi":0,"uf":"MG","valor":6231.55},
-{"ie":28432932,"cnpj":"04591114000104","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":74131.15}];
+{"ie":0,"cnpj":"76719525000305","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":11032.15},
+{"ie":28432932,"cnpj":"04591114000104","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":74131.15},
+{"ie":13535943,"cnpj":"12798443000159","razao":"RANCHO ALEGRE PRODUTOS AGROPECUARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":2082.50}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04342846454","nome":"MAY ANNE ARRAES COSTA","ie":75627132,"cnpj":"29533663000153","razao":"MAY ANNE ARRAES COSTA 04342846454","sit":"A","regime":"SIMEI","municipio":"ARARIPINA","igi":1},
 {"cpf":"04342846454","nome":"MAY ANNE ARRAES COSTA","ie":61803022,"cnpj":"22125003000194","razao":"MAY ANNE ARRAES COSTA 04342846454","sit":"B","regime":"NORMAL","municipio":"ARARIPINA","igi":0}];
 EmailsData.emails = [{"cnpj":"29543929000149","email":"wandersonagronomo@hotmail.com","razao":"WANDERSON DA SILVA SOUSA 02653964333","municipio":"ARARIPINA"},
 {"cnpj":"28163257000183","email":"wandersonagronomo@hotmail.com","razao":"GARDENIA JACO ARRAES 55676421487","municipio":"ARARIPINA"},
 {"cnpj":"28089553000181","email":"wandersonagronomo@hotmail.com","razao":"MARIA DE JESUS ARRAES 10035737468","municipio":"ARARIPINA"},
+{"cnpj":"24750888000148","email":"wandersonagronomo@hotmail.com","razao":"WANDERSON DA SILVA SOUSA 02653964333","municipio":"ARARIPINA"},
 {"cnpj":"02653964333","email":"wandersonagronomo@hotmail.com","razao":"WANDERSON DA SILVA SOUSA","municipio":"ARARIPINA"}];
 TelsData.tels = [{"cnpj":"29543929000149","tel":"87999592725","razao":"WANDERSON DA SILVA SOUSA 02653964333","municipio":"ARARIPINA"},
 {"cnpj":"29543929000149","tel":"8799592725","razao":"WANDERSON DA SILVA SOUSA 0265396433","municipio":"ARARIPINA"},
@@ -73,6 +74,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"63042029468","placa":"OYM5953","razao":"JOAO FERREIRA DA SILVA","municipio":"SAO JOSE DO BELMONTE"},
 {"cnpj":"62945602415","placa":"PGK0100","razao":"ROGERIO BARBOZA CAVALCANTE","municipio":"CUSTODIA"},
 {"cnpj":"62945602415","placa":"PCP2781","razao":"ROGERIO BARBOZA CAVALCANTE","municipio":"CUSTODIA"},
+{"cnpj":"62945602415","placa":"OYM5953","razao":"ROGERIO BARBOZA CAVALCANTE","municipio":"CUSTODIA"},
 {"cnpj":"60324974370","placa":"PCP7991","razao":"CARLENE FRANCA DA SILVA","municipio":"PRESIDENTE DUTRA"},
 {"cnpj":"60152974415","placa":"PGK0100","razao":"JOSENILDO GONCALVES DA COSTA","municipio":"OLIVEDOS"},
 {"cnpj":"59906170468","placa":"PDR4399","razao":"JOSE ARINALDO LEONIDAS PARENTE","municipio":"SALGUEIRO"},
@@ -251,6 +253,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"17774964000190","placa":"PCP7991","razao":"MARCIA COELHO RODRIGUES ME","municipio":"DORMENTES"},
 {"cnpj":"17774964000190","placa":"PCP2781","razao":"MARCIA COELHO RODRIGUES ME","municipio":"DORMENTES"},
 {"cnpj":"17774964000190","placa":"KIQ8053","razao":"MARCIA COELHO RODRIGUES ME","municipio":"DORMENTES"},
+{"cnpj":"16869281572","placa":"PDR4399","razao":"ELIZALDO BARROS BRANDAO","municipio":"CANAPI"},
 {"cnpj":"16869281572","placa":"PCP2781","razao":"ELIZALDO BARROS BRANDAO","municipio":"CANAPI"},
 {"cnpj":"16096584420","placa":"PDR4399","razao":"JOSE BRAULIO JAPIASSU","municipio":"SUME"},
 {"cnpj":"16096584420","placa":"PCP2781","razao":"JOSE BRAULIO JAPIASSU","municipio":"SUME"},
@@ -366,6 +369,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"06778716436","placa":"PDR4399","razao":"JANIEL DE MIRANDA ALENCAR","municipio":"BODOCO"},
 {"cnpj":"06778716436","placa":"OYM5953","razao":"JANIEL DE MIRANDA ALENCAR","municipio":"BODOCO"},
 {"cnpj":"06589267480","placa":"PCP2781","razao":"ADRIANO JOSE DA SILVA","municipio":"BREJO DA MADRE DE DEUS"},
+{"cnpj":"06589267480","placa":"OYM5953","razao":"ADRIANO JOSE DA SILVA","municipio":"BREJO DA MADRE DE DEUS"},
 {"cnpj":"06290855441","placa":"PGK0100","razao":"JORGE ALVES DE BARROS","municipio":"MIRANDIBA"},
 {"cnpj":"06290855441","placa":"PDR4399","razao":"JORGE ALVES DE BARROS","municipio":"MIRANDIBA"},
 {"cnpj":"06271176437","placa":"PGK0100","razao":"KLEYTON GOMES CAVALCANTI","municipio":"PEDRA"},
@@ -380,6 +384,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"05985107450","placa":"OYM5953","razao":"MARIA RYONE HENRIQUE PEREIRA","municipio":"EXU"},
 {"cnpj":"05853552000166","placa":"PGK0100","razao":"F LIBERATO DE OLIVEIRA - ME","municipio":"NATAL"},
 {"cnpj":"05686229000145","placa":"OYM5953","razao":"STELIVAN PEIXOTO DE MIRANDA","municipio":"PARNAMIRIM"},
+{"cnpj":"05514920402","placa":"OYM5953","razao":"GERALDO JUNIOR GONCALVES DA SILVA","municipio":"JATAUBA"},
 {"cnpj":"05382400407","placa":"PGK0100","razao":"JULIANO DINIZ DE MORAIS","municipio":"SAO JOSE DE PRINCESA"},
 {"cnpj":"05382400407","placa":"OYM5953","razao":"JULIANO DINIZ DE MORAIS","municipio":"SAO JOSE DE PRINCESA"},
 {"cnpj":"05328357434","placa":"PGK0100","razao":"RAIMUNDO GONCALVES BARBOSA","municipio":"TRINDADE"},
@@ -410,6 +415,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"04939780000190","placa":"OYM5953","razao":"EDANGELA MARIA BEZERRA DOS SANTOS ME","municipio":"SERRA TALHADA"},
 {"cnpj":"04930262402","placa":"PCP2781","razao":"DAMIAO EDSON BARBOSA DOS SANTOS","municipio":"MONTEIRO"},
 {"cnpj":"04744319408","placa":"PCP2781","razao":"EMMANUEL FERNANDES DE FREITAS GOIS","municipio":"CUSTODIA"},
+{"cnpj":"04744319408","placa":"OYM5953","razao":"EMMANUEL FERNANDES DE FREITAS GOIS","municipio":"CUSTODIA"},
 {"cnpj":"04725523000156","placa":"PCP2781","razao":"MARIA LUZIMAR DOS SANTOS MERCADINHO ME","municipio":"INAJA"},
 {"cnpj":"04697404424","placa":"PDR4399","razao":"WESLEI MEDEIROS DE SOUZA","municipio":"MONTEIRO"},
 {"cnpj":"04697404424","placa":"PCP2781","razao":"WESLEI MEDEIROS DE SOUZA","municipio":"MONTEIRO"},
@@ -417,6 +423,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"04651090478","placa":"PDR4399","razao":"JOSE NICACIO DA SILVA","municipio":"AFOGADOS DA INGAZEIRA"},
 {"cnpj":"04651090478","placa":"PCP2781","razao":"JOSE NICACIO DA SILVA","municipio":"AFOGADOS DA INGAZEIRA"},
 {"cnpj":"04651090478","placa":"OYM5953","razao":"JOSE NICACIO DA SILVA","municipio":"AFOGADOS DA INGAZEIRA"},
+{"cnpj":"04568887488","placa":"PDR4399","razao":"EDSON LEITE DA SILVA","municipio":"ITAIBA"},
 {"cnpj":"04565148480","placa":"PGK0100","razao":"RODRIGO MANOEL DE ARAUJO","municipio":"INAJA"},
 {"cnpj":"04565148480","placa":"PCP2781","razao":"RODRIGO MANOEL DE ARAUJO","municipio":"INAJA"},
 {"cnpj":"04343227413","placa":"PDR4399","razao":"CICERO ROMAO BATISTA DA SILVA","municipio":"SERTANIA"},
@@ -494,5 +501,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"01046595806","placa":"OYM5953","razao":"GENIVAL BEZERRA DOS SANTOS","municipio":"SERTANIA"},
 {"cnpj":"00886897000100","placa":"PGK0100","razao":"J ADILSON SILVA-MERCEARIA","municipio":"SERTANIA"},
 {"cnpj":"00860500000101","placa":"OYM5953","razao":"ADALBERIO BARROS LIMA RACOES","municipio":"SAO BENTO DO UNA"},
+{"cnpj":"00678170000120","placa":"PDR4399","razao":"JORGE MANOEL DA SILVA FERRAGENS ME","municipio":"ITAIBA"},
 {"cnpj":"00461628449","placa":"PGK0100","razao":"EDILBERTO XAVIER DE ALBUQUERQUE","municipio":"AFOGADOS DA INGAZEIRA"},
+{"cnpj":"00461628449","placa":"PDR4399","razao":"EDILBERTO XAVIER DE ALBUQUERQUE","municipio":"AFOGADOS DA INGAZEIRA"},
 {"cnpj":"00461628449","placa":"OYM5953","razao":"EDILBERTO XAVIER DE ALBUQUERQUE","municipio":"AFOGADOS DA INGAZEIRA"}];

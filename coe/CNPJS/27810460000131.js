@@ -34,7 +34,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"23586450000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3002.50},
 {"ie":0,"cnpj":"22711229882","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":4000.00},
 {"ie":0,"cnpj":"22685266000158","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6005.00},
-{"ie":62293877,"cnpj":"22399955000104","razao":"ANGELA MARIA SOUTO MAIOR GUERRA","sit":"S","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":1160.00},
+{"ie":62293877,"cnpj":"22399955000104","razao":"ANGELA MARIA SOUTO MAIOR GUERRA","sit":"C","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":1160.00},
 {"ie":0,"cnpj":"22244292000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":5150.00},
 {"ie":0,"cnpj":"21878607000149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":268.75},
 {"ie":0,"cnpj":"21502301000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":4011.50},

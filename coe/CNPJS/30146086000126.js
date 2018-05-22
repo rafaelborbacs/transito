@@ -11,6 +11,7 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"74273140420","email":"marcos@gmail.com","razao":"MARCOS ANTONIO DA SILVA","municipio":"CAETES"},
 {"cnpj":"64961419400","email":"marcos@gmail.com","razao":"MARCOS VINICIUS DE LEMOS - Cod. 0021710","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"55334415734","email":"marcos@gmail.com","razao":"MARCOS GALVAO - Cod. 0044690","municipio":"RECIFE"},
+{"cnpj":"30378766000175","email":"marcos@gmail.com","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"29699130000146","email":"marcos@gmail.com","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
 {"cnpj":"29697512000130","email":"marcos@gmail.com","razao":"DARLAN J DA SILVA","municipio":"JUPI"},
 {"cnpj":"29436321000115","email":"marcos@gmail.com","razao":"RL DA SILVA MERCADINHO EPP","municipio":"ALIANCA"},
@@ -28,7 +29,10 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"03456001428","email":"marcos@gmail.com","razao":"MARCOS SEVERINO DA SILVA","municipio":"PETROLINA"},
 {"cnpj":"03105791477","email":"marcos@gmail.com","razao":"MARCOS ANDRE DA SILVA","municipio":"Jaboatao dos Guararapes"}];
 TelsData.tels = [];
-PlacasData.placas = [{"cnpj":"29699130000146","placa":"NMG8454","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
+PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30378766000175","placa":"IAG8559","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30378766000175","placa":"CYI5945","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"29699130000146","placa":"NMG8454","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
 {"cnpj":"29699130000146","placa":"MUL6929","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
 {"cnpj":"29699130000146","placa":"MUI3891","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
 {"cnpj":"29699130000146","placa":"IAG8559","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},

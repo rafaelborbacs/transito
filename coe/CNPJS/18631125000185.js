@@ -2,8 +2,8 @@ EstabelecimentoData.estabelecimento = [{"ie":54097053,"cnpj":"18631125000185","r
 EntradasData.entradas = [{"ie":0,"cnpj":"27060434000133","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":663.96},
 {"ie":0,"cnpj":"12377764000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5343.17},
 {"ie":0,"cnpj":"65977878000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2415.00},
-{"ie":0,"cnpj":"10800230000199","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":755.00},
 {"ie":0,"cnpj":"17314975000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":965.00},
+{"ie":0,"cnpj":"10800230000199","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":755.00},
 {"ie":0,"cnpj":"12006782000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":4549.41},
 {"ie":0,"cnpj":"22221114000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":119650.56},
 {"ie":0,"cnpj":"21758005000158","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5407.70}];

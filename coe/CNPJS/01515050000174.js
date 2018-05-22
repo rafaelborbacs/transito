@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":40226700,"cnpj":"01515050000174","razao":"LANGON COSMETICOS LTDA","sit":"S","arrecadacao":101993.26,"entradas":777246.15,"saidas":16095403.98,"regime":"CONTRIBUINTE SUBSTITUTO","segmento":"ATACADO","municipio":"CURITIBA","drr":"I","igi":1,"dataie":"14/06/2010","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":40226700,"cnpj":"01515050000174","razao":"LANGON COSMETICOS LTDA","sit":"C","arrecadacao":101993.26,"entradas":777246.15,"saidas":16095403.98,"regime":"CONTRIBUINTE SUBSTITUTO","segmento":"ATACADO","municipio":"CURITIBA","drr":"I","igi":1,"dataie":"14/06/2010","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"07695395000133","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":14736.29},
 {"ie":27204855,"cnpj":"03890093000165","razao":"BARRETO E RAMOS LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":6146.53},
 {"ie":51425980,"cnpj":"17134622000105","razao":"CD- PE COMERCIO DE COSMETICOS LTDA","sit":"C","regime":"NORMAL","municipio":"ABREU E LIMA","igi":1,"uf":"PE","valor":756363.33}];
@@ -1510,7 +1510,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99966174400","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"28578090349","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":116.94},
 {"ie":0,"cnpj":"28529499468","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":171.48},
 {"ie":0,"cnpj":"28473964896","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1197.85},
-{"ie":73290912,"cnpj":"28433640000104","razao":"DILEUZA FAGUNDES DOS SANTOS EIRELI ME","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":189009.40},
+{"ie":73290912,"cnpj":"28433640000104","razao":"DILEUZA FAGUNDES DOS SANTOS EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":189009.40},
 {"ie":0,"cnpj":"28217288836","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":343.42},
 {"ie":0,"cnpj":"28211634449","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":4438.42},
 {"ie":0,"cnpj":"28187199000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":88275.67},
@@ -1585,7 +1585,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99966174400","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"24079994000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":13093.31},
 {"ie":0,"cnpj":"23604310482","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":260.70},
 {"ie":0,"cnpj":"23603844491","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":81.18},
-{"ie":64773302,"cnpj":"23548807000169","razao":"FERNANDES COMERCIO DE COSMETICOS EIRELI ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":528935.76},
+{"ie":64773302,"cnpj":"23548807000169","razao":"FERNANDES COMERCIO DE COSMETICOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":528935.76},
 {"ie":0,"cnpj":"23475269520","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1695.72},
 {"ie":0,"cnpj":"23367903434","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1541.42},
 {"ie":0,"cnpj":"23208878818","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":301.27},
@@ -1622,11 +1622,11 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99966174400","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"21001715349","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":5123.32},
 {"ie":0,"cnpj":"20865752000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":5179.05},
 {"ie":58655654,"cnpj":"20736790000185","razao":"POLYANA ROCHA LOPES 05539248422","sit":"A","regime":"SIMEI","municipio":"GRAVATA","igi":1,"uf":"PE","valor":376257.61},
-{"ie":58637400,"cnpj":"20726696000145","razao":"GENILDA GOMES DE MORAES 02238770429","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":39815.31},
+{"ie":58637400,"cnpj":"20726696000145","razao":"GENILDA GOMES DE MORAES COSTA","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":39815.31},
 {"ie":58569146,"cnpj":"20699263000148","razao":"IVANISE MARIA DA SILVA 28650387420","sit":"A","regime":"SIMEI","municipio":"LAJEDO","igi":0,"uf":"PE","valor":20695.66},
 {"ie":58470360,"cnpj":"20660175000132","razao":"MANOEL FELIX DA SILVA FILHO 66117402449","sit":"A","regime":"SIMEI","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":15159.49},
-{"ie":58446060,"cnpj":"20642447000171","razao":"GILBERTO BISPO DE FIGUEIREDO JUNIOR","sit":"S","regime":"SIMPLES","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":267032.10},
-{"ie":58310835,"cnpj":"20557346000100","razao":"STEPHANIE OLIVEIRA DE LIMA RODRIGUES 05386598406","sit":"A","regime":"SIMPLES","municipio":"GOIANA","igi":0,"uf":"PE","valor":123472.22},
+{"ie":58446060,"cnpj":"20642447000171","razao":"GILBERTO BISPO DE FIGUEIREDO JUNIOR","sit":"A","regime":"SIMPLES","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":267032.10},
+{"ie":58310835,"cnpj":"20557346000100","razao":"STEPHANIE OLIVEIRA DE LIMA RODRIGUES 05386598406","sit":"S","regime":"SIMPLES","municipio":"GOIANA","igi":0,"uf":"PE","valor":123472.22},
 {"ie":0,"cnpj":"20500676000151","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":14908.27},
 {"ie":0,"cnpj":"20354839000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":64023.44},
 {"ie":0,"cnpj":"20291167420","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":17488.41},
@@ -4719,9 +4719,9 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99966174400","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00116909501","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":929.81},
 {"ie":0,"cnpj":"00115028358","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":320.42},
 {"ie":0,"cnpj":"00053272374","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":310.90}];
-SociosData.socios = [{"cpf":"46431730925","nome":"GISELA PISSETTI RAUEN","ie":40226700,"cnpj":"01515050000174","razao":"LANGON COSMETICOS LTDA","sit":"S","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CURITIBA","igi":1},
+SociosData.socios = [{"cpf":"46431730925","nome":"GISELA PISSETTI RAUEN","ie":40226700,"cnpj":"01515050000174","razao":"LANGON COSMETICOS LTDA","sit":"C","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CURITIBA","igi":1},
 {"cpf":"00722380976","nome":"TATHYA CAROLINE RAUEN GAFFKE FREITAS","ie":52924416,"cnpj":"85040103000138","razao":"BAYONNE COSMETICOS LTDA","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CURITIBA","igi":0},
-{"cpf":"00722380976","nome":"TATHYA CAROLINE RAUEN GAFFKE FREITAS","ie":40226700,"cnpj":"01515050000174","razao":"LANGON COSMETICOS LTDA","sit":"S","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CURITIBA","igi":1}];
+{"cpf":"00722380976","nome":"TATHYA CAROLINE RAUEN GAFFKE FREITAS","ie":40226700,"cnpj":"01515050000174","razao":"LANGON COSMETICOS LTDA","sit":"C","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CURITIBA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

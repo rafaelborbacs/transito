@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":75809753,"cnpj":"29699142000170","razao":"FRANCIELY M DA SILVA","sit":"C","arrecadacao":80.00,"entradas":207095.76,"saidas":3684426.23,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ITAMBE","drr":"I","igi":1,"dataie":"16/02/2018","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"13230246000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":81599.04},
-{"ie":0,"cnpj":"05466036000260","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":78300.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"03915936000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":11413.22},
 {"ie":0,"cnpj":"22663806000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":12000.00},
 {"ie":54257271,"cnpj":"18757191000104","razao":"COMERCIAL DE ALIMENTOS O BARATO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":7068.50},
-{"ie":0,"cnpj":"03915936000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":11413.22},
-{"ie":0,"cnpj":"10220478000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":16715.00}];
+{"ie":0,"cnpj":"05466036000260","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":78300.00},
+{"ie":0,"cnpj":"10220478000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":16715.00},
+{"ie":0,"cnpj":"13230246000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":81599.04}];
 SaidasData.saidas = [{"ie":19263570,"cnpj":"87456562001790","razao":"JOSAPAR  JOAQUIM OLIVEIRA SA PARTICIPACOES","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":6800.00},
 {"ie":0,"cnpj":"51038180000131","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1200.00},
 {"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FERREIRA DUTRA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":61285.62},
@@ -17,7 +17,7 @@ SaidasData.saidas = [{"ie":19263570,"cnpj":"87456562001790","razao":"JOSAPAR  JO
 {"ie":68867107,"cnpj":"26113204000122","razao":"GIRLEIDE LIMA EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":465.00},
 {"ie":67004385,"cnpj":"24622826000150","razao":"ASJ SUPERMERCADOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":5712.20},
 {"ie":66241030,"cnpj":"24270906000194","razao":"MIRAX DISTRIBUIDORA EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":14720.00},
-{"ie":65974913,"cnpj":"24101067000180","razao":"NS PESCADOS COMERCIO, IMPORTACAO E EXPORTACAO DE ALIMENTOS EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51800.00},
+{"ie":65974913,"cnpj":"24101067000180","razao":"NS PESCADOS COMERCIO, IMPORTACAO E EXPORTACAO DE ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51800.00},
 {"ie":65435109,"cnpj":"23828754000130","razao":"J A BEZERRA DE VASCONCELOS & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":21014.20},
 {"ie":64678733,"cnpj":"23523302000140","razao":"JOSIAS RICARDO SANTIAGO MERCADINHO EIRELI","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":9124.80},
 {"ie":63692945,"cnpj":"23094631000112","razao":"MERCANTIL PRAZERES DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":553.00},

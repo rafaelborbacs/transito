@@ -11,7 +11,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97543881000129","razao":"","sit":"","regime
 {"ie":70128707,"cnpj":"26771189000100","razao":"CARLOS FRANCISCO FERREIRA CONFECCOES ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":202737.10},
 {"ie":0,"cnpj":"22916078000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":720.00},
 {"ie":0,"cnpj":"21880001000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":696.00},
-{"ie":59601698,"cnpj":"21189796000142","razao":"O'PATI COMERCIO DE ARTIGOS DE VESTUARIOS EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":110000.00},
+{"ie":59601698,"cnpj":"21189796000142","razao":"O'PATI COMERCIO DE ARTIGOS DE VESTUARIOS EIRELI EPP","sit":"S","regime":"SIMPLES","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":110000.00},
 {"ie":71470824,"cnpj":"13228490000120","razao":"MARIA DE LOURDES DA SILVA VESTUARIOS","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":156599.40},
 {"ie":37012479,"cnpj":"08083433000160","razao":"GG - COMERCIO E REPRESENTACOES DE ARTIGOS DO VESTUARIO LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":32000.00}];
 SociosData.socios = [{"cpf":"07061568461","nome":"ANA MARIA DA SILVA","ie":58513353,"cnpj":"20644197000109","razao":"NASCIMENTO E SILVA COMERCIO DE TECIDOS LTDA ME","sit":"C","regime":"SIMPLES","municipio":"TORITAMA","igi":1},

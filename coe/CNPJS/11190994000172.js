@@ -32,7 +32,7 @@ SociosData.socios = [{"cpf":"98755064434","nome":"GILBERTO PEREIRA DA SILVA","ie
 {"cpf":"98755064434","nome":"GILBERTO PEREIRA DA SILVA","ie":37043196,"cnpj":"10329882000197","razao":"POSTO PAIS & FILHOS DERIVADOS DE PETROLEO LTDA ME","sit":"C","regime":"NORMAL","municipio":"MORENO","igi":0},
 {"cpf":"32059869897","nome":"BARBARA DE ALMEIDA SOUZA","ie":44197233,"cnpj":"13568026000182","razao":"POSTO B & R COMERCIO DE COMBUSTIVEIS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"32059869897","nome":"BARBARA DE ALMEIDA SOUZA","ie":38925818,"cnpj":"11190994000172","razao":"POSTO DE COMBUSTIVEIS EUROPA LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
-{"cpf":"04158546443","nome":"EVANDRO LEMOS FRAGOSO NETO","ie":59813105,"cnpj":"08894809000116","razao":"E. LEMOS CONSULTORIA E ADMINISTRACAO EIRELI ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0},
+{"cpf":"04158546443","nome":"EVANDRO LEMOS FRAGOSO NETO","ie":59813105,"cnpj":"08894809000116","razao":"E. LEMOS CONSULTORIA E ADMINISTRACAO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"04158546443","nome":"EVANDRO LEMOS FRAGOSO NETO","ie":38925818,"cnpj":"11190994000172","razao":"POSTO DE COMBUSTIVEIS EUROPA LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"04158546443","nome":"EVANDRO LEMOS FRAGOSO NETO","ie":29468825,"cnpj":"05101526000181","razao":"E P R V DISTRIBUIDORA LTDA","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0},
 {"cpf":"04158546443","nome":"EVANDRO LEMOS FRAGOSO NETO","ie":14476371,"cnpj":"11837457000171","razao":"PLANALTO OIL DISTRIBUIDORA DE LUBRIFICANTES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},

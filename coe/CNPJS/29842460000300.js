@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":76980111,"cnpj":"29842460000300","razao":"GEOVANO BENTO ALVES","sit":"A","arrecadacao":0.00,"entradas":432574.20,"saidas":281928.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"25/04/2018","contador":""}];
 EntradasData.entradas = [{"ie":76453928,"cnpj":"29471348000220","razao":"LUCLECIO CARLOS SILVA DE LIMA","sit":"S","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":0,"uf":"PE","valor":11.00},
-{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":178619.12},
 {"ie":34990496,"cnpj":"08795153000184","razao":"JOSELANE BARBOSA DE LIMA EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":80200.13},
-{"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":103881.35},
 {"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":69734.60},
+{"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":103881.35},
+{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":178619.12},
 {"ie":0,"cnpj":"10836944000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":128.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97463277000516","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":200.00},
 {"ie":0,"cnpj":"97463277000435","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":160.00},

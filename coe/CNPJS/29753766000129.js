@@ -7,7 +7,7 @@ SaidasData.saidas = [{"ie":75444992,"cnpj":"29506749000197","razao":"V L GOMES D
 {"ie":65573765,"cnpj":"23917802000166","razao":"OLIVEIRA E SANTOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":692.00},
 {"ie":65260554,"cnpj":"23778043000106","razao":"FAMILIA CONCEICAO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":124.20},
 {"ie":64176550,"cnpj":"23276159000139","razao":"N. J. N. DE ALMEIDA MERCADINHO EPP","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":6700.00},
-{"ie":57147370,"cnpj":"20022320000150","razao":"A. ALEXANDRE DA SILVA - COMERCIO ME","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":1866.60},
+{"ie":57147370,"cnpj":"20022320000150","razao":"A. ALEXANDRE DA SILVA - COMERCIO ME","sit":"S","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":1866.60},
 {"ie":48870854,"cnpj":"15572740000170","razao":"L B DE LIMA HORTIFRUTI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":57000.90},
 {"ie":42833094,"cnpj":"12977440000182","razao":"MERCADINHO POUPE MAIS LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2117.00},
 {"ie":40310590,"cnpj":"11506184000182","razao":"MERCADINHO POUPE BEM LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":870.00},

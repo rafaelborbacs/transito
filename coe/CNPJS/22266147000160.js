@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":62088190,"cnpj":"22266147000160","razao":"ACIONE SANTOS DE OLIVEIRA ARAUJO 69786860500","sit":"A","arrecadacao":0.00,"entradas":242604.76,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"JATOBA","drr":"III","igi":1,"dataie":"24/04/2015","contador":""}];
-EntradasData.entradas = [{"ie":28432932,"cnpj":"04591114000104","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":159903.81},
-{"ie":53213106,"cnpj":"16701716003686","razao":"FCA FIAT CHRYSLER AUTOMOVEIS BRASIL LTDA.","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":82700.95}];
+EntradasData.entradas = [{"ie":53213106,"cnpj":"16701716003686","razao":"FCA FIAT CHRYSLER AUTOMOVEIS BRASIL LTDA.","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":82700.95},
+{"ie":28432932,"cnpj":"04591114000104","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":159903.81}];
 SaidasData.saidas = [];
 SociosData.socios = [];
 EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","razao":"RAIMUNDO CESAR DE OLIVEIRA LIMA","municipio":"RIACHAO DO JACUIPE"},
@@ -86,6 +86,7 @@ EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","ra
 {"cnpj":"64336034400","email":"cliente@durancho.com.br","razao":"TACIO DE FREITAS LEITE","municipio":"SANHARO"},
 {"cnpj":"64100685491","email":"cliente@durancho.com.br","razao":"JOSE ADALBERTO TENORIO NETO","municipio":"PEDRA"},
 {"cnpj":"63215756404","email":"cliente@durancho.com.br","razao":"ANTONIO CARLOS TENORIO DE BRITO","municipio":"ARCOVERDE"},
+{"cnpj":"63105233334","email":"cliente@durancho.com.br","razao":"CLECIO VASCONCELOS MOURAO","municipio":"CRATEUS"},
 {"cnpj":"63042029468","email":"cliente@durancho.com.br","razao":"JOAO FERREIRA DA SILVA","municipio":"SAO JOSE DO BELMONTE"},
 {"cnpj":"62990713549","email":"cliente@durancho.com.br","razao":"MARCIA REJANE FEITOSA DOS ANJOS","municipio":"TUPARETAMA"},
 {"cnpj":"62945602415","email":"cliente@durancho.com.br","razao":"ROGERIO BARBOZA CAVALCANTE","municipio":"CUSTODIA"},
@@ -123,6 +124,8 @@ EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","ra
 {"cnpj":"48234885472","email":"cliente@durancho.com.br","razao":"MARCOS AURELIO PEREIRA PINTO","municipio":"SOLANEA"},
 {"cnpj":"47870435449","email":"cliente@durancho.com.br","razao":"JOSE GENIVALDO CAVALCANTE DE OLIVEIRA","municipio":"PESQUEIRA"},
 {"cnpj":"47348003400","email":"cliente@durancho.com.br","razao":"CLAUDEMON SILVEIRA","municipio":"ARAPIRACA"},
+{"cnpj":"47105003472","email":"cliente@durancho.com.br","razao":"JOSE EDUARDO LINS MACEDO","municipio":"OURICURI"},
+{"cnpj":"47061995491","email":"cliente@durancho.com.br","razao":"ANTONIO FERNANDO MONTEIRO CAVALCANTI","municipio":"BUIQUE"},
 {"cnpj":"46241523449","email":"cliente@durancho.com.br","razao":"SILVANO RODRIGUES VICTOR","municipio":"PEDRA"},
 {"cnpj":"46077278491","email":"cliente@durancho.com.br","razao":"ADAO HENRIQUE BEZERRA ALENCAR","municipio":"BODOCO"},
 {"cnpj":"46021868404","email":"cliente@durancho.com.br","razao":"JOSE ADRIAO BARBOSA MENDES","municipio":"POCAO"},
@@ -150,6 +153,7 @@ EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","ra
 {"cnpj":"41390931000120","email":"cliente@durancho.com.br","razao":"DIMAVEL DIST DE MAT AGRICOLAS E VETERINARIOS LTDA","municipio":"SOBRAL"},
 {"cnpj":"41234113000139","email":"cliente@durancho.com.br","razao":"CICERO A DA SILVA RACOES - ME","municipio":"CAPOEIRAS"},
 {"cnpj":"41045121000137","email":"cliente@durancho.com.br","razao":"SIVONALDO GOMES SILVA SAO CAETANO","municipio":"SAO CAITANO"},
+{"cnpj":"41017674000186","email":"cliente@durancho.com.br","razao":"JOSE CIBERIO DE FREITAS MANARI - ME","municipio":"MANARI"},
 {"cnpj":"40965104400","email":"cliente@durancho.com.br","razao":"EVANDI GONCALVES DE BRITO","municipio":"BOQUEIRAO"},
 {"cnpj":"40949141000170","email":"cliente@durancho.com.br","razao":"MARDONIO LUIZ BORGES MORATO","municipio":"MONTEIRO"},
 {"cnpj":"40856890000152","email":"cliente@durancho.com.br","razao":"P.F BARROS ARAUJO","municipio":"BUIQUE"},
@@ -485,6 +489,7 @@ EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","ra
 {"cnpj":"08688792000140","email":"cliente@durancho.com.br","razao":"ASS. DOS PEQCRIAD. DE PEIXE LARG PAPAGAIO","municipio":"PETROLANDIA"},
 {"cnpj":"08688090000167","email":"cliente@durancho.com.br","razao":"FRANCISCA CANDIDA SILVA ME","municipio":"JUAZEIRO DO NORTE"},
 {"cnpj":"08683365484","email":"cliente@durancho.com.br","razao":"MARLENE VALENCA VIRAES","municipio":"PESQUEIRA"},
+{"cnpj":"08665642000111","email":"cliente@durancho.com.br","razao":"J B LOPES DE SOUZA ME","municipio":"MACAIBA"},
 {"cnpj":"08633265000139","email":"cliente@durancho.com.br","razao":"COMERCIAL DE ESTIVAS PACHECO LTDA EPP","municipio":"ARCOVERDE"},
 {"cnpj":"08629492000190","email":"cliente@durancho.com.br","razao":"JOAO BATISTA DE OLIVEIRA MERCEARIA - ME","municipio":"MATA GRANDE"},
 {"cnpj":"08580306400","email":"cliente@durancho.com.br","razao":"INES PATRICIA DA SILVA","municipio":"JUPI"},
@@ -554,6 +559,7 @@ EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","ra
 {"cnpj":"06676920450","email":"cliente@durancho.com.br","razao":"AUREANE DE PAIVA SILVA","municipio":"MONTEIRO"},
 {"cnpj":"06589267480","email":"cliente@durancho.com.br","razao":"ADRIANO JOSE DA SILVA","municipio":"BREJO DA MADRE DE DEUS"},
 {"cnpj":"06588784414","email":"cliente@durancho.com.br","razao":"ELIS NOEL DE LIMA","municipio":"POMBOS"},
+{"cnpj":"06562280400","email":"cliente@durancho.com.br","razao":"JOSE PAIXAO FILHO","municipio":"TUPANATINGA"},
 {"cnpj":"06545211404","email":"cliente@durancho.com.br","razao":"LUIZITO DE FREITAS MACEDO","municipio":"PESQUEIRA"},
 {"cnpj":"06471263465","email":"cliente@durancho.com.br","razao":"JOSE CLECIO ALVES DA COSTA","municipio":"VENTUROSA"},
 {"cnpj":"06410293496","email":"cliente@durancho.com.br","razao":"THIAGO DE ARAUJO SILVA","municipio":"JABOATAO DOS GUARARAPES"},
@@ -765,6 +771,7 @@ EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","ra
 {"cnpj":"00860500000101","email":"cliente@durancho.com.br","razao":"ADALBERIO BARROS LIMA RACOES","municipio":"SAO BENTO DO UNA"},
 {"cnpj":"00846958000106","email":"cliente@durancho.com.br","razao":"MERCADINHO ANGELA LTDA ME","municipio":"ITAIBA"},
 {"cnpj":"00810500892","email":"cliente@durancho.com.br","razao":"JOSIAS SOARES LOPES","municipio":"PESQUEIRA"},
+{"cnpj":"00788749000145","email":"cliente@durancho.com.br","razao":"ASSOCIACAO CULTURAL PEDRA DO REINO","municipio":"SAO JOSE DO BELMONTE"},
 {"cnpj":"00785754865","email":"cliente@durancho.com.br","razao":"GENECI JOAQUIM BEZERRA","municipio":"PESQUEIRA"},
 {"cnpj":"00678170000120","email":"cliente@durancho.com.br","razao":"JORGE MANOEL DA SILVA FERRAGENS ME","municipio":"ITAIBA"},
 {"cnpj":"00664386000136","email":"cliente@durancho.com.br","razao":"AFRISUL - ABATEDOURO E FRIGORIFICO REFIONAL SUL DA BAHIA","municipio":"ITABUNA"},

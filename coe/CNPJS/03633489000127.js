@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":26776448,"cnpj":"03633489000127","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","arrecadacao":0.00,"entradas":26475.60,"saidas":1619438.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"17/02/2000","contador":"INACIO JOSE DA SILVA"}];
 EntradasData.entradas = [{"ie":24291102,"cnpj":"02233622001248","razao":"GOTEMBURGO VEICULOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":565.00},
-{"ie":53675576,"cnpj":"18529447000118","razao":"MANASSEIS V TAVARES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3998.00},
 {"ie":61869473,"cnpj":"22161232000164","razao":"ANNA LUIZA A. DE PAIVA","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":5109.60},
-{"ie":35578394,"cnpj":"08956711000146","razao":"J. ISAAC DA SILVA BEZERRA LAVANDERIA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":4313.00},
 {"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":11370.00},
-{"ie":53849825,"cnpj":"06070166000160","razao":"JOSE ELIZIO GONCALVES BATISTA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":1120.00}];
+{"ie":53849825,"cnpj":"06070166000160","razao":"JOSE ELIZIO GONCALVES BATISTA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":1120.00},
+{"ie":35578394,"cnpj":"08956711000146","razao":"J. ISAAC DA SILVA BEZERRA LAVANDERIA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":4313.00},
+{"ie":53675576,"cnpj":"18529447000118","razao":"MANASSEIS V TAVARES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3998.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"83313643000112","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2100.00},
 {"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":6230.00},
 {"ie":0,"cnpj":"63874333000240","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2612.00},

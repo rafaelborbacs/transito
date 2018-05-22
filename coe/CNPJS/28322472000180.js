@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":73078450,"cnpj":"28322472000180","razao":"COMERCIAL CARAUNA LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":2278196.62,"saidas":287190.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"AFOGADOS DA INGAZEIRA","drr":"II","igi":1,"dataie":"02/08/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1024045.00},
 {"ie":71471200,"cnpj":"27475885000131","razao":"GIOVANNI F BARBOSA COMERCIO DE ALIMENTOS EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":106298.79},
-{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":283558.81},
-{"ie":0,"cnpj":"86439494000201","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":444000.00},
 {"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":85210.02},
-{"ie":73077054,"cnpj":"28321866000113","razao":"COMERCIAL FALESIAS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":94700.00},
-{"ie":62482505,"cnpj":"12990403000104","razao":"SAMAR COMERCIAL DE ALIMENTOS - EIRELI","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":29484.00},
+{"ie":0,"cnpj":"86439494000201","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":444000.00},
 {"ie":0,"cnpj":"12706289000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":63900.00},
-{"ie":0,"cnpj":"13642699000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":147000.00}];
+{"ie":73077054,"cnpj":"28321866000113","razao":"COMERCIAL FALESIAS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":94700.00},
+{"ie":0,"cnpj":"13642699000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":147000.00},
+{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":283558.81},
+{"ie":62482505,"cnpj":"12990403000104","razao":"SAMAR COMERCIAL DE ALIMENTOS - EIRELI","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":29484.00}];
 SaidasData.saidas = [{"ie":67385400,"cnpj":"24822335000153","razao":"ECONOMICO COMERCIO DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":20420.00},
-{"ie":66907420,"cnpj":"24568296000100","razao":"LIRA ALIMENTOS EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":30600.00},
+{"ie":66907420,"cnpj":"24568296000100","razao":"LIRA ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":30600.00},
 {"ie":60468513,"cnpj":"21557382000129","razao":"MERCANTIL ELI DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":30000.00},
 {"ie":60460539,"cnpj":"21545036000120","razao":"CABO COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":29000.00},
 {"ie":68416270,"cnpj":"21035996000302","razao":"MERCANTIL VALENCA DE ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":20380.00},

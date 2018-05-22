@@ -12,7 +12,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"60701521002141","razao":"","sit":"","regime
 {"ie":64872467,"cnpj":"11601184001133","razao":"ARLINDO DA FONSECA LINS & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":2776.00},
 {"ie":14116081,"cnpj":"11601184000161","razao":"ARLINDO DA FONSECA LINS & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":411.00},
 {"ie":7301499,"cnpj":"11601184000161","razao":"ARLINDO DA FONSECA LINS & CIA LTDA","sit":"B","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":411.00},
-{"ie":42826128,"cnpj":"11089261000146","razao":"SUAPE LOG CONSTRUCAO E MONTAGEM INDUSTRIAL LOGISTICA E TRANSPORTES EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1351.00},
+{"ie":42826128,"cnpj":"11089261000146","razao":"SUAPE LOG CONSTRUCAO E MONTAGEM INDUSTRIAL LOGISTICA E TRANSPORTES EIRELI","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1351.00},
 {"ie":11628880,"cnpj":"10647550000150","razao":"GEOPLAN ENGENHARIA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1000.00},
 {"ie":36531375,"cnpj":"09533651000111","razao":"VILA ESPERANCA COMERCIO DE COMBUSTIVEIS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":492.00},
 {"ie":36449792,"cnpj":"09456974000159","razao":"POSTO SUL LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":843.00},

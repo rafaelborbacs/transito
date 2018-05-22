@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":61765937,"cnpj":"22151389000109","razao":"SIC SOLUCOES INTELIGENTES DE CONSTRUCAO LTDA","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":19195.78,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"30/03/2015","contador":"JOSE FELIX DE SOUZA JUNIOR"}];
 EntradasData.entradas = [];
-SaidasData.saidas = [{"ie":26517698,"cnpj":"02639582000186","razao":"TEMAPE TERMINAIS MARITIMOS DE PERNAMBUCO S/A","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":19195.78},
-{"ie":25067001,"cnpj":"02639582000186","razao":"TEMAPE TERMINAIS MARITIMOS DE PERNAMBUCO S/A","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":19195.78}];
+SaidasData.saidas = [{"ie":25067001,"cnpj":"02639582000186","razao":"TEMAPE TERMINAIS MARITIMOS DE PERNAMBUCO S/A","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":19195.78},
+{"ie":26517698,"cnpj":"02639582000186","razao":"TEMAPE TERMINAIS MARITIMOS DE PERNAMBUCO S/A","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":19195.78}];
 SociosData.socios = [{"cpf":"77008529449","nome":"CLAUDIA LUCK DE MELLO FREYRE","ie":61765937,"cnpj":"22151389000109","razao":"SIC SOLUCOES INTELIGENTES DE CONSTRUCAO LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"09927905149","nome":"JUDITH MARGRET SCHUKKEL ROMAGUERA","ie":65986768,"cnpj":"24119201000170","razao":"PARQUE XAREU - EMPREENDIMENTO DE TURISMO E LAZER LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"09927905149","nome":"JUDITH MARGRET SCHUKKEL ROMAGUERA","ie":61765937,"cnpj":"22151389000109","razao":"SIC SOLUCOES INTELIGENTES DE CONSTRUCAO LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},

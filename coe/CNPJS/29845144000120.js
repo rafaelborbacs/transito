@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":76214931,"cnpj":"29845144000120","razao":"TIAGO JOSE DA SILVA 05366261465","sit":"A","arrecadacao":300.00,"entradas":515042.40,"saidas":2124226.41,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"12/03/2018","contador":""}];
-EntradasData.entradas = [{"ie":71899740,"cnpj":"24332700000222","razao":"WAND & MAX CONFECCOES LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":351185.44},
+EntradasData.entradas = [{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":7300.00},
 {"ie":16261836,"cnpj":"35605732000190","razao":"JADIAEL LIMA BEZERRA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":156556.96},
-{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":7300.00}];
+{"ie":71899740,"cnpj":"24332700000222","razao":"WAND & MAX CONFECCOES LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":351185.44}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99852705334","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1900.00},
 {"ie":0,"cnpj":"97548852000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1550.00},
 {"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4900.00},
@@ -26,7 +26,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99852705334","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"63512057000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":3100.00},
 {"ie":0,"cnpj":"60476174333","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":14750.00},
 {"ie":0,"cnpj":"60406895600","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":7340.00},
-{"ie":0,"cnpj":"45410410815","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5010.00},
+{"ie":0,"cnpj":"45410410815","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":8015.00},
 {"ie":0,"cnpj":"45136823615","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":9600.00},
 {"ie":0,"cnpj":"40894711334","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":34200.00},
 {"ie":0,"cnpj":"40771326300","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2100.00},
@@ -339,7 +339,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99852705334","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"08362647000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4070.00},
 {"ie":0,"cnpj":"08331292000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1985.00},
 {"ie":0,"cnpj":"08201734000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":10000.00},
-{"ie":0,"cnpj":"08196617674","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":9270.00},
+{"ie":0,"cnpj":"08196617674","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":12325.00},
 {"ie":0,"cnpj":"08083615625","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":3436.00},
 {"ie":0,"cnpj":"08061739000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":2600.00},
 {"ie":0,"cnpj":"07812408000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":900.00},
@@ -427,7 +427,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99852705334","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"01328892506","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1065.00},
 {"ie":0,"cnpj":"01037482000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":1430.00},
 {"ie":0,"cnpj":"00819690236","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":42169.00},
-{"ie":0,"cnpj":"00729830195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1065.00},
+{"ie":0,"cnpj":"00729830195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":3195.00},
 {"ie":0,"cnpj":"00604767617","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1075.00},
 {"ie":0,"cnpj":"00577722000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":5000.00},
 {"ie":0,"cnpj":"00577010000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":3845.00},
@@ -435,7 +435,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99852705334","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00545759000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3000.00},
 {"ie":0,"cnpj":"00532779614","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3070.00},
 {"ie":0,"cnpj":"00261993000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":1010.00},
-{"ie":0,"cnpj":"00132556570","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":7025.00},
+{"ie":0,"cnpj":"00132556570","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":9010.00},
 {"ie":0,"cnpj":"00091258000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":6060.00}];
 SociosData.socios = [{"cpf":"05366261465","nome":"TIAGO JOSE DA SILVA","ie":76214931,"cnpj":"29845144000120","razao":"TIAGO JOSE DA SILVA 05366261465","sit":"A","regime":"SIMEI","municipio":"TORITAMA","igi":1}];
 EmailsData.emails = [];

@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":74188097,"cnpj":"28832527000100","razao":"ELIELTON VASCONCELOS DA SILVA 71305476425","sit":"C","arrecadacao":0.00,"entradas":376048.20,"saidas":0.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"18/10/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"09258807000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":138179.80},
-{"ie":0,"cnpj":"19526748000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":44783.36},
 {"ie":0,"cnpj":"10843534000214","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":10200.00},
+{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":38641.95},
 {"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":144243.09},
-{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":38641.95}];
+{"ie":0,"cnpj":"19526748000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":44783.36}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71305476425","nome":"ELIELTON VASCONCELOS DA SILVA","ie":74188097,"cnpj":"28832527000100","razao":"ELIELTON VASCONCELOS DA SILVA 71305476425","sit":"C","regime":"SIMEI","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
 EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","razao":"MODAUM INDUSTRIA E COMERCIO DE CONFECCOES LTDA EPP","municipio":"INDAIAL"},
@@ -44,6 +44,7 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"59267120000100","email":"rivania@gso.com.br","razao":"TEXTIL TROPICAL LTDA - EPP","municipio":"AMERICANA"},
 {"cnpj":"54514294000875","email":"rivania@gso.com.br","razao":"OLIVEIRA E LOPES LT","municipio":"IBITINGA"},
 {"cnpj":"50115823000130","email":"rivania@gso.com.br","razao":"INDUSTRIA TEXTIL N.S. DO BELEM LTDA","municipio":"ITATIBA"},
+{"cnpj":"48899322000140","email":"rivania@gso.com.br","razao":"MAQUINAS E EQUIPAMENTOS JOHNNY LTDA","municipio":"SAO PAULO"},
 {"cnpj":"46543948000194","email":"rivania@gso.com.br","razao":"TRUTZSCHLER IND E COM DE MAQUINAS LTDA","municipio":"CURITIBA"},
 {"cnpj":"44828952000173","email":"rivania@gso.com.br","razao":"TECEART INDUSTRIA E COMERCIO LTDA","municipio":"SANTA BARBARA D OESTE"},
 {"cnpj":"43992676000111","email":"rivania@gso.com.br","razao":"MURATA DO BRASIL LTDA","municipio":"ITAQUAQUECETUBA"},
@@ -59,6 +60,7 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"27514225000112","email":"rivania@gso.com.br","razao":"JH TECELAGEM LTDA ME","municipio":"BRUSQUE"},
 {"cnpj":"24859735000133","email":"rivania@gso.com.br","razao":"SUPREMA TEXTIL LTDA EPP","municipio":"GUARAMIRIM"},
 {"cnpj":"24451007000198","email":"rivania@gso.com.br","razao":"ALTERNATIVA MOTORES ELETRICOS LTDA","municipio":"JABOATAO DOS GUARARAPES"},
+{"cnpj":"21555008000194","email":"rivania@gso.com.br","razao":"S A FABRICA DE TECIDOS SAO JOAO EVANGELISTA","municipio":"JUIZ DE FORA"},
 {"cnpj":"21255663000127","email":"rivania@gso.com.br","razao":"A E F TEXTIL LTDA","municipio":"CARUARU"},
 {"cnpj":"21240209000100","email":"rivania@gso.com.br","razao":"ESTAMPARIA VITORIA LTDA","municipio":"VITORIA DE SANTO ANTAO"},
 {"cnpj":"21172673000107","email":"rivania@gso.com.br","razao":"ERS IND. E COM. PRODUTOS DE HIGIENE E LIMPEZA LTDA","municipio":"ABREU E LIMA"},
@@ -73,6 +75,7 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"15443613000170","email":"rivania@gso.com.br","razao":"HS INDUSTRIA E COMERCIO DE MALHAS LTDA EPP","municipio":"BRUSQUE"},
 {"cnpj":"13116630000178","email":"rivania@gso.com.br","razao":"INFLUENCIA TECELAGEM E CONFECCOES LTDA. ME","municipio":"GASPAR"},
 {"cnpj":"13030104000190","email":"rivania@gso.com.br","razao":"LMS TECELAGEM LTDA ME","municipio":"GASPAR"},
+{"cnpj":"12768720000180","email":"rivania@gso.com.br","razao":"MALHAS JN LTDA","municipio":"RODEIO"},
 {"cnpj":"12614732000150","email":"rivania@gso.com.br","razao":"R E A TEXTIL EIRELI EPP","municipio":"APIUNA"},
 {"cnpj":"12236362000165","email":"rivania@gso.com.br","razao":"VANAAM MALHAS LTDA EPP","municipio":"GUABIRUBA"},
 {"cnpj":"11975965000205","email":"rivania@gso.com.br","razao":"P E F TEXTIL LTDA ME","municipio":"SANTA CRUZ DO CAPIBARIBE"},
@@ -96,6 +99,7 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"09056634000130","email":"rivania@gso.com.br","razao":"ELO C TEXTIL LTDA ME","municipio":"GUABIRUBA"},
 {"cnpj":"09011635000169","email":"rivania@gso.com.br","razao":"SILSEMAR RECH ME","municipio":"LUIZ ALVES"},
 {"cnpj":"08936901000100","email":"rivania@gso.com.br","razao":"A.L. TEXTIL LTDA EPP","municipio":"BRUSQUE"},
+{"cnpj":"08924116000129","email":"rivania@gso.com.br","razao":"R E L MALHAS LTDA","municipio":"BRUSQUE"},
 {"cnpj":"08858988000136","email":"rivania@gso.com.br","razao":"L R DA S PEREIRA MATERIAL ELETRICO  EPP","municipio":"RECIFE"},
 {"cnpj":"08792312000197","email":"rivania@gso.com.br","razao":"TEXTIL LONGO LTDA EPP","municipio":"RODEIO"},
 {"cnpj":"08584931000196","email":"rivania@gso.com.br","razao":"RADICAL STYLE IND.E COM.DE CONFECCOES LT","municipio":"TIJUCAS"},
@@ -129,6 +133,7 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"03658436000160","email":"rivania@gso.com.br","razao":"PAPINHA BABY LTDA","municipio":"GASPAR"},
 {"cnpj":"03553265000105","email":"rivania@gso.com.br","razao":"CARAN CONFECCOES LTDA EPP","municipio":"GASPAR"},
 {"cnpj":"03458754000188","email":"rivania@gso.com.br","razao":"MC-VI MALHAS LTDA","municipio":"BRUSQUE"},
+{"cnpj":"03457085000200","email":"rivania@gso.com.br","razao":"BOGRANTEX INDUSTRIA DO VESTUARIO LTDA","municipio":"JARAGUA DO SUL"},
 {"cnpj":"03450718000178","email":"rivania@gso.com.br","razao":"INDUSTRIA TEXTIL TRINDADE LTDA ME EPP","municipio":"GASPAR"},
 {"cnpj":"03403794000122","email":"rivania@gso.com.br","razao":"FIACAO ITABAIANA LTDA","municipio":"RIBEIROPOLIS"},
 {"cnpj":"03319629000197","email":"rivania@gso.com.br","razao":"MINI MUNDO CONFECCOES LTDA","municipio":"GASPAR"},
@@ -148,11 +153,12 @@ EmailsData.emails = [{"cnpj":"97464812000120","email":"rivania@gso.com.br","raza
 {"cnpj":"01612046000124","email":"rivania@gso.com.br","razao":"ROLIMEC ROLAMENTOS LTDA","municipio":"RECIFE"},
 {"cnpj":"01602109000161","email":"rivania@gso.com.br","razao":"ZIG TEXTIL LTDA - EPP","municipio":"SANTA BARBARA D OESTE"},
 {"cnpj":"01478727000141","email":"rivania@gso.com.br","razao":"SEUBERTEX INDUSTRIA E COMERCIO DE PRODUTOS TEXTEIS EIRELI -","municipio":"BRUSQUE"},
+{"cnpj":"01330435000167","email":"rivania@gso.com.br","razao":"TRIPOWER CORREIAS INDUSTRIAIS LTDA","municipio":"SAO PAULO"},
 {"cnpj":"00926223000265","email":"rivania@gso.com.br","razao":"W-8 TEXTIL LTDA","municipio":"INDAIAL"},
 {"cnpj":"00490926000102","email":"rivania@gso.com.br","razao":"JO LEVER CONFECCOES LTDA EPP","municipio":"JARAGUA DO SUL"},
 {"cnpj":"00115768000100","email":"rivania@gso.com.br","razao":"SPIO MALHAS EIRELI","municipio":"TIMBO"},
 {"cnpj":"00087731000116","email":"rivania@gso.com.br","razao":"IND.COM.DE MALHAS PEMGIR LTDA","municipio":"BRUSQUE"},
-{"cnpj":"","email":"rivania@gso.com.br","razao":"BRACKER AG","municipio":"EXTERIOR"}];
+{"cnpj":"","email":"rivania@gso.com.br","razao":"ELETRO-JET S/A","municipio":"EXTERIOR"}];
 TelsData.tels = [];
 PlacasData.placas = [{"cnpj":"27469467000727","placa":"KES6464","razao":"FABIANO BERTO DE SOUZA SILVA EPP","municipio":"BREJO DA MADRE DE DEUS"},
 {"cnpj":"21240209000100","placa":"KES6464","razao":"ESTAMPARIA VITORIA LTDA","municipio":"VITORIA DE SANTO ANTAO"}];

@@ -10,6 +10,7 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"74273140420","email":"marcos@gmail.com","razao":"MARCOS ANTONIO DA SILVA","municipio":"CAETES"},
 {"cnpj":"64961419400","email":"marcos@gmail.com","razao":"MARCOS VINICIUS DE LEMOS - Cod. 0021710","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"55334415734","email":"marcos@gmail.com","razao":"MARCOS GALVAO - Cod. 0044690","municipio":"RECIFE"},
+{"cnpj":"30378766000175","email":"marcos@gmail.com","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30146086000126","email":"marcos@gmail.com","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"29699130000146","email":"marcos@gmail.com","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
 {"cnpj":"29697512000130","email":"marcos@gmail.com","razao":"DARLAN J DA SILVA","municipio":"JUPI"},
@@ -27,7 +28,9 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"03456001428","email":"marcos@gmail.com","razao":"MARCOS SEVERINO DA SILVA","municipio":"PETROLINA"},
 {"cnpj":"03105791477","email":"marcos@gmail.com","razao":"MARCOS ANDRE DA SILVA","municipio":"Jaboatao dos Guararapes"}];
 TelsData.tels = [{"cnpj":"62836978449","tel":"8738461380","razao":"MARIA DAS DORES SANTOS","municipio":"TRIUNFO"}];
-PlacasData.placas = [{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30378766000175","placa":"IAG8559","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"MUL6929","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"MUI3891","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"IAG8559","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},

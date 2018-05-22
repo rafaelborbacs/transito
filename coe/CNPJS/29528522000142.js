@@ -5,7 +5,10 @@ SociosData.socios = [{"cpf":"71248844467","nome":"VERINALDO JUNIOR DE SOUZA SILV
 EmailsData.emails = [{"cnpj":"29470775000102","email":"diretoria@gmail.com","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
 {"cnpj":"28385828000124","email":"diretoria@gmail.com","razao":"MERCADINHO DMAIS EIRELI ME","municipio":"PAULISTA"}];
 TelsData.tels = [];
-PlacasData.placas = [{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30378766000175","placa":"IAG8559","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30378766000175","placa":"CYI5945","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"MUL6929","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"MUI3891","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"IAG8559","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},

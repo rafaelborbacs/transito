@@ -250,7 +250,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97749842772","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"11827455000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":4800.00},
 {"ie":0,"cnpj":"11602648727","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},
 {"ie":0,"cnpj":"11600368450","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1920.00},
-{"ie":34583505,"cnpj":"11434784000182","razao":"JOSE QUEIROZ DE CARVALHO IRMAO","sit":"S","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":1500.00},
+{"ie":34583505,"cnpj":"11434784000182","razao":"JOSE QUEIROZ DE CARVALHO IRMAO","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":1500.00},
 {"ie":6332757,"cnpj":"11434784000182","razao":"JOSE QUEIROZ DE CARVALHO IRMAO","sit":"B","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":1500.00},
 {"ie":0,"cnpj":"11183762771","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":738.00},
 {"ie":0,"cnpj":"11121800000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":2900.00},

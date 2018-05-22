@@ -15,7 +15,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84454156000132","razao":"","sit":"","regime
 {"ie":0,"cnpj":"10954828000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":990.00},
 {"ie":0,"cnpj":"10891969000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":1035.00},
 {"ie":65261879,"cnpj":"10850999000383","razao":"FRANK COMERCIO DE CONFECCOES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"ARARIPINA","igi":0,"uf":"PE","valor":3665.60},
-{"ie":34808523,"cnpj":"10673143000460","razao":"JOSE DEOCLECIO DO NASCIMENTO","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":10873.80},
+{"ie":34808523,"cnpj":"10673143000460","razao":"JOSE DEOCLECIO DO NASCIMENTO","sit":"S","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1,"uf":"PE","valor":10873.80},
 {"ie":0,"cnpj":"10376596000182","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1171.00},
 {"ie":0,"cnpj":"07990726000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2520.00},
 {"ie":0,"cnpj":"06371593000260","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1383.00},

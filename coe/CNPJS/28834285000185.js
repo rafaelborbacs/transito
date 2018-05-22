@@ -1,12 +1,12 @@
 EstabelecimentoData.estabelecimento = [{"ie":74190318,"cnpj":"28834285000185","razao":"ADRIANO FARIAS DAS NEVES 12945814498","sit":"C","arrecadacao":150.00,"entradas":38249.98,"saidas":143592.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"18/10/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"03479097000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":6460.00},
-{"ie":0,"cnpj":"07647049000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":5600.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"07647049000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":5600.00},
+{"ie":0,"cnpj":"03479097000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":6460.00},
 {"ie":18699812,"cnpj":"40838658000191","razao":"ARA TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":15919.51},
 {"ie":0,"cnpj":"00141965000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":10270.47}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99164892034","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2629.50},
 {"ie":0,"cnpj":"95087206387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2605.00},
 {"ie":0,"cnpj":"82812713372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2657.50},
-{"ie":0,"cnpj":"80957811349","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2795.00},
+{"ie":0,"cnpj":"80957811349","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5590.00},
 {"ie":0,"cnpj":"80489591272","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2325.00},
 {"ie":0,"cnpj":"79312969153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2331.00},
 {"ie":0,"cnpj":"75823985304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2475.00},

@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":74106708,"cnpj":"28795465000103","razao":"JOSEFA DIAS DA SILVA 03327473447","sit":"C","arrecadacao":0.00,"entradas":74016.60,"saidas":406534.38,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"10/10/2017","contador":""}];
-EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":10276.65},
-{"ie":57031231,"cnpj":"04947656000339","razao":"PETROPOLIS TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":50009.40},
+EntradasData.entradas = [{"ie":57031231,"cnpj":"04947656000339","razao":"PETROPOLIS TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":50009.40},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":10276.65},
 {"ie":65433912,"cnpj":"21538059000370","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":13730.55}];
 SaidasData.saidas = [{"ie":0,"cnpj":"95972641704","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":600.00},
 {"ie":0,"cnpj":"95611991068","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":300.00},

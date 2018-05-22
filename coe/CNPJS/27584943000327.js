@@ -171,7 +171,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97560235115","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"11335472000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1365.00},
 {"ie":0,"cnpj":"11166893000166","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":11221.60},
 {"ie":0,"cnpj":"11165674000162","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":6000.00},
-{"ie":34808523,"cnpj":"10673143000460","razao":"JOSE DEOCLECIO DO NASCIMENTO","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3462.90},
+{"ie":34808523,"cnpj":"10673143000460","razao":"JOSE DEOCLECIO DO NASCIMENTO","sit":"S","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1,"uf":"PE","valor":3462.90},
 {"ie":0,"cnpj":"10553338000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5800.00},
 {"ie":0,"cnpj":"10514905000133","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":480.00},
 {"ie":0,"cnpj":"09906871474","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2498.00},

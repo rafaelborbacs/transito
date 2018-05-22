@@ -23,7 +23,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"35398478000287","razao":"","sit":"","regime
 {"ie":31398243,"cnpj":"05545366000160","razao":"C P M CONSTRUTORA LTDA EPP","sit":"B","regime":"NORMAL","municipio":"JUPI","igi":0,"uf":"PE","valor":14181.58},
 {"ie":0,"cnpj":"03970540000196","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":5927.77},
 {"ie":26737469,"cnpj":"03560339000130","razao":"SABORMIL INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":24521.94},
-{"ie":22724907,"cnpj":"01437007000138","razao":"ROCHA E COSTA MINERACAO LTDA  ME","sit":"A","regime":"NORMAL","municipio":"SANTA MARIA DO CAMBUCA","igi":0,"uf":"PE","valor":12902.89},
+{"ie":22724907,"cnpj":"01437007000138","razao":"ROCHA E COSTA MINERACAO LTDA  ME","sit":"S","regime":"NORMAL","municipio":"SANTA MARIA DO CAMBUCA","igi":0,"uf":"PE","valor":12902.89},
 {"ie":22767126,"cnpj":"01329442000149","razao":"MINERACAO PAULISTA LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTE DO LERIO","igi":0,"uf":"PE","valor":16459.19}];
 SociosData.socios = [{"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PEREIRA NACOR","ie":55611672,"cnpj":"19305247000144","razao":"JC NACOR COMBUSTIVEIS LTDA - EPP","sit":"C","regime":"NORMAL","municipio":"CALCADO","igi":0},
 {"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PEREIRA NACOR","ie":38241870,"cnpj":"10826125000129","razao":"JD NACOR COMBUSTIVEIS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JUPI","igi":0},

@@ -15,7 +15,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97426712000109","razao":"","sit":"","regime
 {"ie":0,"cnpj":"68138403000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7000.00},
 {"ie":0,"cnpj":"63601843000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":600.00},
 {"ie":0,"cnpj":"63012278249","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2010.00},
-{"ie":0,"cnpj":"60476174333","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2000.00},
+{"ie":0,"cnpj":"60476174333","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4000.00},
 {"ie":0,"cnpj":"59478284568","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":550.00},
 {"ie":0,"cnpj":"58190376268","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2150.00},
 {"ie":0,"cnpj":"51425696287","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2410.00},

@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":75278707,"cnpj":"29436321000115","razao":"R.L. DA SILVA - MERCADINHO EPP","sit":"C","arrecadacao":0.00,"entradas":1032076.83,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"ALIANCA","drr":"I","igi":1,"dataie":"15/01/2018","contador":"SANDRA APARECIDA SOARES DA SILVA"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"09137485000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":19969.15},
-{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1012107.68}];
+EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1012107.68},
+{"ie":0,"cnpj":"09137485000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":19969.15}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06758961427","nome":"RICARDO LUIZ DA SILVA","ie":76650162,"cnpj":"30146086000126","razao":"RICARDO LUIZ DA SILVA EIRELI","sit":"S","regime":"NORMAL","municipio":"AFRANIO","igi":1},
 {"cpf":"06758961427","nome":"RICARDO LUIZ DA SILVA","ie":75278707,"cnpj":"29436321000115","razao":"R.L. DA SILVA - MERCADINHO EPP","sit":"C","regime":"NORMAL","municipio":"ALIANCA","igi":1}];
@@ -12,6 +12,7 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"74273140420","email":"marcos@gmail.com","razao":"MARCOS ANTONIO DA SILVA","municipio":"CAETES"},
 {"cnpj":"64961419400","email":"marcos@gmail.com","razao":"MARCOS VINICIUS DE LEMOS - Cod. 0021710","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"55334415734","email":"marcos@gmail.com","razao":"MARCOS GALVAO - Cod. 0044690","municipio":"RECIFE"},
+{"cnpj":"30378766000175","email":"marcos@gmail.com","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30146086000126","email":"marcos@gmail.com","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"29699130000146","email":"marcos@gmail.com","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
 {"cnpj":"29697512000130","email":"marcos@gmail.com","razao":"DARLAN J DA SILVA","municipio":"JUPI"},
@@ -29,7 +30,9 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"03456001428","email":"marcos@gmail.com","razao":"MARCOS SEVERINO DA SILVA","municipio":"PETROLINA"},
 {"cnpj":"03105791477","email":"marcos@gmail.com","razao":"MARCOS ANDRE DA SILVA","municipio":"Jaboatao dos Guararapes"}];
 TelsData.tels = [];
-PlacasData.placas = [{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
+PlacasData.placas = [{"cnpj":"30378766000175","placa":"IAG8559","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30378766000175","placa":"CYI5945","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"MUL6929","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"IAG8559","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"HBP8989","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},

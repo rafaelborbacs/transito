@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":8581533,"cnpj":"08066649000117","razao":"METALURGICA PEIXINHO LTDA","sit":"C","arrecadacao":0.00,"entradas":11339.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"PETROLINA","drr":"III","igi":1,"dataie":"13/04/1982","contador":"ADERVAL ALVES NERI"}];
 EntradasData.entradas = [{"ie":21650586,"cnpj":"00842847000113","razao":"ALDIEGAS PECAS SERVICOS LTDA","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":11339.00}];
 SaidasData.saidas = [];
-SociosData.socios = [{"cpf":"72865466434","nome":"GEORGE CORDEIRO DA SILVA","ie":31535097,"cnpj":"41073388000138","razao":"GEORGE CORDEIRO DA SILVA","sit":"S","regime":"NORMAL","municipio":"PETROLINA","igi":0},
+SociosData.socios = [{"cpf":"72865466434","nome":"GEORGE CORDEIRO DA SILVA","ie":31535097,"cnpj":"41073388000138","razao":"GEORGE CORDEIRO DA SILVA","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0},
 {"cpf":"72865466434","nome":"GEORGE CORDEIRO DA SILVA","ie":22477802,"cnpj":"08066649000206","razao":"METALURGICA PEIXINHO LTDA","sit":"B","regime":"NORMAL","municipio":"PETROLINA","igi":0},
 {"cpf":"72865466434","nome":"GEORGE CORDEIRO DA SILVA","ie":8581533,"cnpj":"08066649000117","razao":"METALURGICA PEIXINHO LTDA","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1},
 {"cpf":"10025103504","nome":"MARIA DE LOURDES PEIXINHO DA SILVA","ie":64283984,"cnpj":"03009751000248","razao":"INDUSTRIA METALURGICA PEIXINHO LTDA ME","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":0},
