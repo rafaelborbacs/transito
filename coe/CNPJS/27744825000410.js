@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":73627496,"cnpj":"27744825000410","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"C","arrecadacao":0.00,"entradas":35760.41,"saidas":829201.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"06/09/2017","contador":""}];
-EntradasData.entradas = [{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2856.00},
-{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":32904.41}];
+EntradasData.entradas = [{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":32904.41},
+{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2856.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"92142753353","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
 {"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
 {"ie":0,"cnpj":"57326150168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":14000.00},

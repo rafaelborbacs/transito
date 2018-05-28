@@ -1,10 +1,10 @@
-EstabelecimentoData.estabelecimento = [{"ie":67747760,"cnpj":"24977350000170","razao":"TATIANE SILVA DE MOURA 00801938465","sit":"A","arrecadacao":15.35,"entradas":5585.33,"saidas":130767.30,"regime":"SIMEI","segmento":"VAREJO","municipio":"OLINDA","drr":"I","igi":1,"dataie":"14/06/2016","contador":"JENER LUIZ CORREIA"}];
-EntradasData.entradas = [{"ie":32546661,"cnpj":"35627413000347","razao":"RECIFE MERCANTIL DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":775.39},
-{"ie":31095429,"cnpj":"03654469000132","razao":"BUREAU DE IMAGENS LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1050.00},
-{"ie":66691150,"cnpj":"24443148000169","razao":"PRINT NORDESTE LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2305.00},
-{"ie":38158035,"cnpj":"93209765034798","razao":"WMS SUPERMERCADOS DO BRASIL LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":662.94},
+EstabelecimentoData.estabelecimento = [{"ie":67747760,"cnpj":"24977350000170","razao":"TATIANE SILVA DE MOURA 00801938465","sit":"A","arrecadacao":16.35,"entradas":5585.33,"saidas":130767.30,"regime":"SIMEI","segmento":"VAREJO","municipio":"OLINDA","drr":"I","igi":1,"dataie":"14/06/2016","contador":"JENER LUIZ CORREIA"}];
+EntradasData.entradas = [{"ie":38158035,"cnpj":"93209765034798","razao":"WMS SUPERMERCADOS DO BRASIL LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":662.94},
 {"ie":29337135,"cnpj":"03654469000132","razao":"BUREAU DE IMAGENS LTDA","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1050.00},
-{"ie":57679037,"cnpj":"02558157038640","razao":"TELEFONICA BRASIL S.A.","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":792.00}];
+{"ie":66691150,"cnpj":"24443148000169","razao":"PRINT NORDESTE LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2305.00},
+{"ie":32546661,"cnpj":"35627413000347","razao":"RECIFE MERCANTIL DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":775.39},
+{"ie":57679037,"cnpj":"02558157038640","razao":"TELEFONICA BRASIL S.A.","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":792.00},
+{"ie":31095429,"cnpj":"03654469000132","razao":"BUREAU DE IMAGENS LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1050.00}];
 SaidasData.saidas = [{"ie":19394675,"cnpj":"70203799000107","razao":"AUTOLINE VEICULOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":747.00},
 {"ie":0,"cnpj":"29538388000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":149.00},
 {"ie":75086972,"cnpj":"29300819000156","razao":"GELATO CAFE LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":143.20},
@@ -17,7 +17,7 @@ SaidasData.saidas = [{"ie":19394675,"cnpj":"70203799000107","razao":"AUTOLINE VE
 {"ie":70367876,"cnpj":"26902867000126","razao":"FERNANDO JOSE LINS JUNIOR RESTAURANTE EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":176.00},
 {"ie":68865074,"cnpj":"26111255000115","razao":"ECDPM COMERCIO DE SORVETES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":90.00},
 {"ie":68311761,"cnpj":"25310052000195","razao":"SP COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":584.50},
-{"ie":67915574,"cnpj":"25106462000119","razao":"JKONRAD ALIMENTOS LTDA","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":525.50},
+{"ie":67915574,"cnpj":"25106462000119","razao":"JKONRAD ALIMENTOS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":525.50},
 {"ie":67397506,"cnpj":"24842946000163","razao":"ARRAIAL COMERCIO DE COMBUSTIVEIS LTDA.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":70.00},
 {"ie":67296068,"cnpj":"24796163000190","razao":"ARAUJO & SOUZA CONVENIENCIA LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":808.50},
 {"ie":67016472,"cnpj":"24552868000162","razao":"PALATSI CONVENIENCIA COFFEE SHOP LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":3161.50},
@@ -87,8 +87,8 @@ SaidasData.saidas = [{"ie":19394675,"cnpj":"70203799000107","razao":"AUTOLINE VE
 {"ie":26836360,"cnpj":"03630777000128","razao":"RECIFE MOTORS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":325.00},
 {"ie":66220629,"cnpj":"03007712000554","razao":"SUPERMERCADO PRAZERES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3762.50},
 {"ie":31750818,"cnpj":"03007712000201","razao":"SUPERMERCADO PRAZERES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":630.00},
-{"ie":25806670,"cnpj":"03007712000120","razao":"SUPERMERCADO PRAZERES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2131.50},
 {"ie":25788248,"cnpj":"03007712000120","razao":"SUPERMERCADO PRAZERES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2131.50},
+{"ie":25806670,"cnpj":"03007712000120","razao":"SUPERMERCADO PRAZERES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2131.50},
 {"ie":25251279,"cnpj":"02711373000104","razao":"CONVENIENCIA PRINCESA ISABEL EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":339.50},
 {"ie":24027340,"cnpj":"02152549000127","razao":"FUKUOKA COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":4333.00},
 {"ie":24050679,"cnpj":"02016104000110","razao":"ESTACAO SERVICOS BOA VIAGEM LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1515.50},

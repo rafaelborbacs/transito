@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":19910517,"cnpj":"70066436000169","razao":"DICESARE INDUSTRIA CONFECCOES LTDA","sit":"C","arrecadacao":0.00,"entradas":64122.86,"saidas":17176.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"04/05/1994","contador":"SEVERINO HENRIQUE GAMA"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"48036552000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":275.11},
-{"ie":30303346,"cnpj":"05767492000169","razao":"COMERCIAL SILVA PINTO TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":48151.01},
+EntradasData.entradas = [{"ie":30303346,"cnpj":"05767492000169","razao":"COMERCIAL SILVA PINTO TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":48151.01},
+{"ie":0,"cnpj":"48036552000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":275.11},
 {"ie":13070100,"cnpj":"12043733000192","razao":"SOUZA TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15696.74}];
 SaidasData.saidas = [{"ie":23513314,"cnpj":"41070889000160","razao":"TRANSPORTES E SERVICOS ASTRO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3160.00},
 {"ie":44096550,"cnpj":"13491609000152","razao":"PADARIA LA ROQUE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":506.00},

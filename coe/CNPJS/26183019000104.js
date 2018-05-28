@@ -16,7 +16,7 @@ SociosData.socios = [{"cpf":"08449626439","nome":"TIAGO CLEYTON DE SOUZA SILVA",
 {"cpf":"05515903439","nome":"GEORGE DE LIMA PIMENTEL","ie":70601224,"cnpj":"26850281000165","razao":"ARCOVERDE ALIMENTOS LTDA EPP","sit":"B","regime":"NORMAL","municipio":"ARCOVERDE","igi":0},
 {"cpf":"05515903439","nome":"GEORGE DE LIMA PIMENTEL","ie":68969449,"cnpj":"26183019000104","razao":"COMERCIAL MERCADOS ALIMENTOS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1},
 {"cpf":"05515903439","nome":"GEORGE DE LIMA PIMENTEL","ie":68683715,"cnpj":"26018544000174","razao":"COMERCIAL TEJUCOPAPO ALIMENTOS LTDA EPP","sit":"B","regime":"NORMAL","municipio":"GOIANA","igi":0},
-{"cpf":"05515903439","nome":"GEORGE DE LIMA PIMENTEL","ie":68679360,"cnpj":"26008899000182","razao":"GEORGE DE LIMA PIMENTEL MERCADOS EPP","sit":"B","regime":"NORMAL","municipio":"BREJAO","igi":0}];
+{"cpf":"05515903439","nome":"GEORGE DE LIMA PIMENTEL","ie":68679360,"cnpj":"26008899000182","razao":"GEORGE DE LIMA PIMENTEL MERCADOS EPP","sit":"B","regime":"NORMAL","municipio":"BREJAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

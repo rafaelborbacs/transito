@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":57255423,"cnpj":"12904278000334","razao":"HW COMERCIO IMPORTACAO E EXPORTACAO LTDA ME","sit":"S","arrecadacao":8105.39,"entradas":1506561.16,"saidas":1010864.69,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"15/04/2014","contador":"LEONARDO MARQUES DE MATOS"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"14842663000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":515.00},
-{"ie":0,"cnpj":"12904278000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":725109.56},
+EntradasData.entradas = [{"ie":0,"cnpj":"12904278000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":725109.56},
+{"ie":0,"cnpj":"14842663000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":515.00},
 {"ie":56090625,"cnpj":"19525913000150","razao":"DIRECT COMERCIAL IMPORTADORA E CONSULTORIA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":780936.60}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":25071.00},
 {"ie":71807055,"cnpj":"27637653000132","razao":"QIUFANG LIN PRESENTES ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1955.16},

@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":73414743,"cnpj":"28388463000272","razao":"ANDRE FRANCISCO DA SILVA CONFECCOES","sit":"C","arrecadacao":0.00,"entradas":192200.94,"saidas":270423.52,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"29/08/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"09163825000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":121179.33},
+EntradasData.entradas = [{"ie":69129312,"cnpj":"26246081000106","razao":"CARLOS E. DE OLIVEIRA TECIDOS EPP","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":31020.00},
 {"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":40001.61},
-{"ie":69129312,"cnpj":"26246081000106","razao":"CARLOS E. DE OLIVEIRA TECIDOS EPP","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":31020.00}];
+{"ie":0,"cnpj":"09163825000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":121179.33}];
 SaidasData.saidas = [{"ie":0,"cnpj":"87782595000162","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":4452.10},
 {"ie":0,"cnpj":"84475102000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":330.00},
 {"ie":0,"cnpj":"83583690000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2004.00},

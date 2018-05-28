@@ -11,7 +11,7 @@ SaidasData.saidas = [{"ie":19264038,"cnpj":"69950079000118","razao":"MERCADINHO 
 {"ie":69217106,"cnpj":"26287131000195","razao":"E A LINS MERCADINHO EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"TAMANDARE","igi":0,"uf":"PE","valor":250.00},
 {"ie":69053820,"cnpj":"26222221000106","razao":"ATACAREJO IDEAL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":100845.00},
 {"ie":68966180,"cnpj":"26183564000109","razao":"COMPRE AKI PROMOCOES DE VENDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":689.50},
-{"ie":68951400,"cnpj":"26158586000100","razao":"COMERCIAL NOVA CRUZ EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":1215530.50},
+{"ie":68951400,"cnpj":"26158586000100","razao":"COMERCIAL NOVA CRUZ EIRELI","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":1215530.50},
 {"ie":68891075,"cnpj":"26144820000140","razao":"ANDRE B DE VASCONCELOS DESCARTAVEIS","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":165637.45},
 {"ie":67780709,"cnpj":"25035729000124","razao":"M. J. COMERCIO ATACADISTA DE EQUIPAMENTOS ELETRICOS E MOVEIS EIRELI","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":19184.00},
 {"ie":67004385,"cnpj":"24622826000150","razao":"ASJ SUPERMERCADOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":15010.00},

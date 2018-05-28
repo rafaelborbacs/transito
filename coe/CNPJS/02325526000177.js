@@ -1,13 +1,13 @@
-EstabelecimentoData.estabelecimento = [{"ie":24412414,"cnpj":"02325526000177","razao":"SOLANGE TEIXEIRA GURGEL - ME","sit":"C","arrecadacao":0.00,"entradas":14515.85,"saidas":198911.50,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"OLINDA","drr":"I","igi":1,"dataie":"16/02/1998","contador":"JOSE JAIR DE AGUIAR"}];
+EstabelecimentoData.estabelecimento = [{"ie":24412414,"cnpj":"02325526000177","razao":"SOLANGE TEIXEIRA GURGEL - ME","sit":"C","arrecadacao":0.00,"entradas":14697.85,"saidas":198911.50,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"OLINDA","drr":"I","igi":1,"dataie":"16/02/1998","contador":"JOSE JAIR DE AGUIAR"}];
 EntradasData.entradas = [{"ie":20817924,"cnpj":"00310864000100","razao":"TALMAR COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":250.00},
 {"ie":16744551,"cnpj":"35533132000163","razao":"SUPERMERCADO PINHEIRAO LTDA","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":63.00},
-{"ie":33177651,"cnpj":"05155739000358","razao":"E J C ESTIVAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":30.00},
+{"ie":50848739,"cnpj":"17190945000116","razao":"ONZEPLAST INDUSTRIA E COMERCIO LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":413.92},
 {"ie":31445853,"cnpj":"06334268000146","razao":"SERV-LAR COMECIO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"VENTUROSA","igi":0,"uf":"PE","valor":1184.20},
+{"ie":36152358,"cnpj":"09308170000102","razao":"MERCADINHO LEITE E AMORIM LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":38.00},
+{"ie":33177651,"cnpj":"05155739000358","razao":"E J C ESTIVAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":30.00},
 {"ie":40281558,"cnpj":"10678262000163","razao":"NUTRI INGREDIENTES COMERCIO LTDA-ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6552.80},
 {"ie":28972023,"cnpj":"04907489000130","razao":"CIHUTA EMBALAGENS PLASTICAS LTDA","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":4522.93},
 {"ie":42343089,"cnpj":"12833270000162","razao":"A DE B SILVA SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"BARREIROS","igi":0,"uf":"PE","valor":238.00},
-{"ie":36152358,"cnpj":"09308170000102","razao":"MERCADINHO LEITE E AMORIM LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":38.00},
-{"ie":50848739,"cnpj":"17190945000116","razao":"ONZEPLAST INDUSTRIA E COMERCIO LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":231.92},
 {"ie":8798605,"cnpj":"08160707000177","razao":"IRMAOS BORGES LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":1342.00},
 {"ie":52823903,"cnpj":"18066796000140","razao":"N M DE OLIVEIRA EIRELI - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":63.00}];
 SaidasData.saidas = [{"ie":20218621,"cnpj":"70176060000145","razao":"MERCADINHO VALDENICE LTDA","sit":"A","regime":"NORMAL","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":520.00},
@@ -34,7 +34,7 @@ SaidasData.saidas = [{"ie":20218621,"cnpj":"70176060000145","razao":"MERCADINHO 
 {"ie":47619953,"cnpj":"24339129000278","razao":"TANIA MARIA VASCONCELOS NEVES ABELENDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":5020.00},
 {"ie":66008328,"cnpj":"24163790000194","razao":"MERCADINHO SAN MARTIN LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1791.00},
 {"ie":65885309,"cnpj":"24070705000143","razao":"ATACADAO DE ALIMENTOS TRIUNFO LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":500.00},
-{"ie":65681061,"cnpj":"23990370000119","razao":"E. DE M. VELOSO MERCADINHO ME","sit":"S","regime":"SIMPLES","municipio":"JOAQUIM NABUCO","igi":0,"uf":"PE","valor":581.60},
+{"ie":65681061,"cnpj":"23990370000119","razao":"E. DE M. VELOSO MERCADINHO ME","sit":"A","regime":"SIMPLES","municipio":"JOAQUIM NABUCO","igi":0,"uf":"PE","valor":581.60},
 {"ie":65662270,"cnpj":"23951314000175","razao":"M.M. DE OLIVEIRA MINIMERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":520.00},
 {"ie":65492765,"cnpj":"23871543000180","razao":"MERCADO VITORIA EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":623.00},
 {"ie":65278330,"cnpj":"23812510000169","razao":"EZEQUIEL JORGE DA SILVA MERCADINHO ME","sit":"A","regime":"SIMPLES","municipio":"GAMELEIRA","igi":0,"uf":"PE","valor":759.00},

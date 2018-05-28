@@ -3,6 +3,8 @@ EntradasData.entradas = [{"ie":0,"cnpj":"00445335000113","razao":"","sit":"","re
 {"ie":41476859,"cnpj":"12550956000146","razao":"RENATHA HENRIQUE SOUSA DE ARAUJO EPP","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":4500.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09388715446","nome":"MARIA CLARA GOMES CHAGAS","ie":35238020,"cnpj":"08927008000100","razao":"J GOMES CHAGAS LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":1},
+{"cpf":"08358755473","nome":"MARIA CAMILA FERREIRA MORAES","ie":35238020,"cnpj":"08927008000100","razao":"J GOMES CHAGAS LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":1},
+{"cpf":"08358755473","nome":"MARIA CAMILA FERREIRA MORAES","ie":30348102,"cnpj":"05783269000105","razao":"J C TECIDOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"07501985405","nome":"DANIELLE MORGANE NASCIMENTO ALMEIDA","ie":35238020,"cnpj":"08927008000100","razao":"J GOMES CHAGAS LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":1},
 {"cpf":"06098670404","nome":"JASON GOMES CHAGAS","ie":56841531,"cnpj":"19869894000189","razao":"TOP IMPORT CARUARU LTDA","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"06098670404","nome":"JASON GOMES CHAGAS","ie":35556900,"cnpj":"09018592000143","razao":"TOP IMPORT TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0},

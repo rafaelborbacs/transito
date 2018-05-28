@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":73704822,"cnpj":"28609706000174","razao":"JOSEFA L G DE SOUSA ME","sit":"C","arrecadacao":0.00,"entradas":291587.52,"saidas":831789.05,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"15/09/2017","contador":""}];
 EntradasData.entradas = [{"ie":35592036,"cnpj":"09008414000131","razao":"ADAILCIO PEREIRA DE ARAUJO JUNIOR","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":31300.00},
 {"ie":0,"cnpj":"01550704000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":23620.80},
-{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":70003.87},
-{"ie":22276815,"cnpj":"01171397000147","razao":"UNIVERSO TEXTIL LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":22500.00},
 {"ie":0,"cnpj":"25265845000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":81479.65},
-{"ie":0,"cnpj":"05381559000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7633.20},
+{"ie":22276815,"cnpj":"01171397000147","razao":"UNIVERSO TEXTIL LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":22500.00},
 {"ie":51615762,"cnpj":"17482125000106","razao":"INDUSTRIA E COMERCIO ATACADAO BOM JESUS LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":10800.00},
-{"ie":41489403,"cnpj":"12581143000113","razao":"ABELVONEIDE M. DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":36100.00},
-{"ie":0,"cnpj":"18938030000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8150.00}];
+{"ie":0,"cnpj":"05381559000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7633.20},
+{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":70003.87},
+{"ie":0,"cnpj":"18938030000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8150.00},
+{"ie":41489403,"cnpj":"12581143000113","razao":"ABELVONEIDE M. DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":36100.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99164892034","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2592.00},
 {"ie":0,"cnpj":"98170562368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4994.00},
 {"ie":0,"cnpj":"97387223220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2592.00},

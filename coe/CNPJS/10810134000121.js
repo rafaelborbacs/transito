@@ -10,7 +10,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"20662969000135","razao":"","sit":"","regime
 {"ie":0,"cnpj":"07259240000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2400.00},
 {"ie":0,"cnpj":"02501824000251","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1060.00},
 {"ie":0,"cnpj":"02501824000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":700.00}];
-SociosData.socios = [{"cpf":"05882029406","nome":"ANDERSON WENDELL DE OLIVEIRA","ie":64981673,"cnpj":"23671288000121","razao":"RICA DE MARRE COMERCIO DE BOLSAS E ACESSORIOS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"TORITAMA","igi":0},
+SociosData.socios = [{"cpf":"05882029406","nome":"ANDERSON WENDELL DE OLIVEIRA","ie":64981673,"cnpj":"23671288000121","razao":"RICA DE MARRE COMERCIO DE BOLSAS E ACESSORIOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0},
 {"cpf":"05882029406","nome":"ANDERSON WENDELL DE OLIVEIRA","ie":56677804,"cnpj":"10810134000202","razao":"ANDERSON WENDELL DE OLIVEIRA VESTUARIO ME","sit":"B","regime":"NORMAL","municipio":"CATENDE","igi":0},
 {"cpf":"05882029406","nome":"ANDERSON WENDELL DE OLIVEIRA","ie":37993879,"cnpj":"10810134000121","razao":"ANDERSON WENDELL DE OLIVEIRA VESTUARIO ME","sit":"C","regime":"NORMAL","municipio":"CATENDE","igi":1}];
 EmailsData.emails = [];

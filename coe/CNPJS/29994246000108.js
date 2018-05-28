@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":76433730,"cnpj":"29994246000108","razao":"EDIVANIA GOMES DA SILVA COMERCIO","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":1048716.34,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ITAMBE","drr":"I","igi":1,"dataie":"21/03/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":76433730,"cnpj":"29994246000108","razao":"EDIVANIA GOMES DA SILVA COMERCIO","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":1048716.34,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ITAMBE","drr":"I","igi":1,"dataie":"21/03/2018","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":69972010,"cnpj":"26727035000110","razao":"ATACAREJO NOVA ALDEIA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":98998.30},
 {"ie":68891075,"cnpj":"26144820000140","razao":"ANDRE B DE VASCONCELOS DESCARTAVEIS","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":100000.70},
@@ -11,7 +11,7 @@ SaidasData.saidas = [{"ie":69972010,"cnpj":"26727035000110","razao":"ATACAREJO N
 {"ie":0,"cnpj":"17775352000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":500003.00},
 {"ie":30722667,"cnpj":"05932995000142","razao":"DISTRIBUIDORA ESTRELA GUIA EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":19200.00},
 {"ie":22767126,"cnpj":"01329442000149","razao":"MINERACAO PAULISTA LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTE DO LERIO","igi":0,"uf":"PE","valor":6710.00}];
-SociosData.socios = [{"cpf":"09455306417","nome":"EDIVANIA GOMES DA SILVA","ie":76433730,"cnpj":"29994246000108","razao":"EDIVANIA GOMES DA SILVA COMERCIO","sit":"A","regime":"NORMAL","municipio":"ITAMBE","igi":1}];
+SociosData.socios = [{"cpf":"09455306417","nome":"EDIVANIA GOMES DA SILVA","ie":76433730,"cnpj":"29994246000108","razao":"EDIVANIA GOMES DA SILVA COMERCIO","sit":"C","regime":"NORMAL","municipio":"ITAMBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

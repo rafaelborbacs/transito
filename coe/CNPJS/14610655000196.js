@@ -1,11 +1,11 @@
-EstabelecimentoData.estabelecimento = [{"ie":46596275,"cnpj":"14610655000196","razao":"ALEXANDRE CESAR MOTA FLORENCIO ME","sit":"A","arrecadacao":144894.12,"entradas":3950095.26,"saidas":101316.50,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"21/11/2011","contador":"ROSANGELA MARTHA FERREIRA DE ALCANTARA"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"01024606000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4371.30},
+EstabelecimentoData.estabelecimento = [{"ie":46596275,"cnpj":"14610655000196","razao":"ALEXANDRE CESAR MOTA FLORENCIO ME","sit":"A","arrecadacao":146021.52,"entradas":4144188.73,"saidas":101316.50,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"21/11/2011","contador":"ROSANGELA MARTHA FERREIRA DE ALCANTARA"}];
+EntradasData.entradas = [{"ie":53044827,"cnpj":"05423963002670","razao":"OI MOVEL S/A","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SAO PAULO","igi":0,"uf":"SP","valor":1.00},
+{"ie":0,"cnpj":"81672099000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1695542.77},
+{"ie":0,"cnpj":"15102098000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":218947.06},
+{"ie":0,"cnpj":"01024606000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4371.30},
 {"ie":0,"cnpj":"75284224000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2211486.57},
 {"ie":0,"cnpj":"17934576000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":13790.03},
-{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":50.00},
-{"ie":0,"cnpj":"81672099000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1501449.30},
-{"ie":53044827,"cnpj":"05423963002670","razao":"OI MOVEL S/A","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SAO PAULO","igi":0,"uf":"SP","valor":1.00},
-{"ie":0,"cnpj":"15102098000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":218947.06}];
+{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":50.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"70579987400","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":4000.06},
 {"ie":0,"cnpj":"70264974484","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":5000.05},
 {"ie":56923937,"cnpj":"19889037000140","razao":"EVANIELE MARIA DA SILVA CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":4425.08},

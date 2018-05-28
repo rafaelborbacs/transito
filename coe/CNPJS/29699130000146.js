@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":75809672,"cnpj":"29699130000146","razao":"FABIO M. DA SILVA","sit":"C","arrecadacao":0.00,"entradas":1018273.30,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ALTINHO","drr":"II","igi":1,"dataie":"16/02/2018","contador":"SANDRA APARECIDA SOARES DA SILVA"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"09137485000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":34594.32},
-{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":983678.98}];
+EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":983678.98},
+{"ie":0,"cnpj":"09137485000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":34594.32}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10574393471","nome":"FABIO MANOEL DA SILVA","ie":75809672,"cnpj":"29699130000146","razao":"FABIO M. DA SILVA","sit":"C","regime":"NORMAL","municipio":"ALTINHO","igi":1}];
 EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"MARCOS CANDIDO DE LIMA","municipio":"CABO DE SANTO AGOSTINHO"},
@@ -28,9 +28,10 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"04058361476","email":"marcos@gmail.com","razao":"MARCOS JOSE CHAGAS SOUZA","municipio":"PETROLINA"},
 {"cnpj":"03456001428","email":"marcos@gmail.com","razao":"MARCOS SEVERINO DA SILVA","municipio":"PETROLINA"},
 {"cnpj":"03105791477","email":"marcos@gmail.com","razao":"MARCOS ANDRE DA SILVA","municipio":"Jaboatao dos Guararapes"}];
-TelsData.tels = [{"cnpj":"12463838000109","tel":"8137391120","razao":"VERA LUCIA JESUS DA C LUCIO","municipio":"Altinho"},
+TelsData.tels = [{"cnpj":"12463838000109","tel":"8137391120","razao":"VERA LUCIA JESUS DA C. LUCIO ME","municipio":"ALTINHO"},
 {"cnpj":"04378988810","tel":"8137391120","razao":"VERA LUCIA JESUS DA COSTA LUCIO","municipio":"ALTINHO"}];
-PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUL6929","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30378766000175","placa":"IAG8559","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30378766000175","placa":"CYI5945","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
@@ -67,4 +68,5 @@ PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL 
 {"cnpj":"29330672000147","placa":"JSK3282","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
 {"cnpj":"29330672000147","placa":"IAG8559","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
 {"cnpj":"29330672000147","placa":"HBP8989","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
-{"cnpj":"29111826000100","placa":"HBP8989","razao":"LJ DA SILVA MERCADINHO EPP","municipio":"ALTINHO"}];
+{"cnpj":"29111826000100","placa":"HBP8989","razao":"LJ DA SILVA MERCADINHO EPP","municipio":"ALTINHO"},
+{"cnpj":"14998371001603","placa":"CYI5945","razao":"JMacêdo S/A","municipio":"MACEIÓ"}];

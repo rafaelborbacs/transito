@@ -83,7 +83,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99125757091","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"29891648000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3030.00},
 {"ie":0,"cnpj":"29833769000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":500.00},
 {"ie":0,"cnpj":"29747115000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":600.00},
-{"ie":76639355,"cnpj":"29543577000202","razao":"MARIA AURINETE COSTA DE QUEIROZ","sit":"S","regime":"SIMPLES","municipio":"TRINDADE","igi":0,"uf":"PE","valor":10700.00},
+{"ie":76639355,"cnpj":"29543577000202","razao":"MARIA AURINETE COSTA DE QUEIROZ","sit":"A","regime":"SIMPLES","municipio":"TRINDADE","igi":0,"uf":"PE","valor":10700.00},
 {"ie":0,"cnpj":"29506336000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":620.00},
 {"ie":0,"cnpj":"29363395880","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4850.00},
 {"ie":0,"cnpj":"29356171000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3931.00},

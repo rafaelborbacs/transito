@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":75792419,"cnpj":"29650977000136","razao":"RAFAEL TEODORO DA ROCHA","sit":"A","arrecadacao":0.00,"entradas":697340.00,"saidas":451544.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"IPUBI","drr":"III","igi":1,"dataie":"08/02/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":75792419,"cnpj":"29650977000136","razao":"RAFAEL TEODORO DA ROCHA","sit":"A","arrecadacao":0.00,"entradas":794620.00,"saidas":451544.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"IPUBI","drr":"III","igi":1,"dataie":"08/02/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"05693158000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":309500.00},
-{"ie":0,"cnpj":"77966570000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":387840.00}];
+{"ie":0,"cnpj":"77966570000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":485120.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"80895255804","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":20000.00},
 {"ie":0,"cnpj":"78678994215","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":100.00},
 {"ie":0,"cnpj":"72171529334","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":24080.00},

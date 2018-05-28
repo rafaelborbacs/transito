@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":45999260,"cnpj":"14365090000129","razao":"JOSINEIDE FERREIRA DA SILVA 61118540468","sit":"B","arrecadacao":15.01,"entradas":183981.58,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"03/10/2011","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":45999260,"cnpj":"14365090000129","razao":"JOSINEIDE FERREIRA DA SILVA 61118540468","sit":"B","arrecadacao":16.01,"entradas":183981.58,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"03/10/2011","contador":""}];
 EntradasData.entradas = [{"ie":19884095,"cnpj":"70225859000184","razao":"INDUSTRIA COM VELAS SANTA CRUZ LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":50540.00},
 {"ie":23788844,"cnpj":"59104422010384","razao":"VOLKSWAGEN DO BRASIL LTDA","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SAO JOSE DOS PINHAIS","igi":0,"uf":"PR","valor":133441.58}];
 SaidasData.saidas = [];

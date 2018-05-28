@@ -1,5 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":76856020,"cnpj":"29866252000341","razao":"ADRIANA SANTINA DE OLIVEIRA","sit":"A","arrecadacao":0.00,"entradas":35458.87,"saidas":172287.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"18/04/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":76856020,"cnpj":"29866252000341","razao":"ADRIANA SANTINA DE OLIVEIRA","sit":"A","arrecadacao":0.00,"entradas":35528.87,"saidas":172287.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"18/04/2018","contador":""}];
 EntradasData.entradas = [{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":26352.07},
+{"ie":0,"cnpj":"01425066001087","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":70.00},
 {"ie":70358109,"cnpj":"26852295000118","razao":"CLEIDIANA C DE APRIGIO SILVA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":9106.80}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97463277000516","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":365.00},
 {"ie":0,"cnpj":"97463277000435","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":320.00},

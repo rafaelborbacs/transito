@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":73820814,"cnpj":"27469467000212","razao":"FABIANO BERTO DE SOUZA SILVA EPP","sit":"S","arrecadacao":0.00,"entradas":80215.42,"saidas":288279.20,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"22/09/2017","contador":""}];
-EntradasData.entradas = [{"ie":73820733,"cnpj":"28388463000353","razao":"ANDRE FRANCISCO DA SILVA CONFECCOES","sit":"S","regime":"NORMAL","municipio":"VERTENTES","igi":1,"uf":"PE","valor":1.00},
-{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":80214.42}];
+EntradasData.entradas = [{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":80214.42},
+{"ie":73820733,"cnpj":"28388463000353","razao":"ANDRE FRANCISCO DA SILVA CONFECCOES","sit":"S","regime":"NORMAL","municipio":"VERTENTES","igi":1,"uf":"PE","valor":1.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1000.00},
 {"ie":0,"cnpj":"72869607253","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1500.00},
 {"ie":0,"cnpj":"57326150168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4000.00},

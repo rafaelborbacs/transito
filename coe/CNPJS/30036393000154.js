@@ -46,7 +46,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97394076172","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"32609119879","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1600.00},
 {"ie":0,"cnpj":"32535382814","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":14060.00},
 {"ie":0,"cnpj":"30304599000118","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6766.00},
-{"ie":76661016,"cnpj":"30083985000127","razao":"MARIA HELENA DE SOUZA LIMA MANOEL 26263635886","sit":"A","regime":"SIMEI","municipio":"CARUARU","igi":0,"uf":"PE","valor":200.00},
+{"ie":76661016,"cnpj":"30083985000127","razao":"MARIA HELENA DE SOUZA LIMA MANOEL 26263635886","sit":"A","regime":"SIMEI","municipio":"CARUARU","igi":1,"uf":"PE","valor":200.00},
 {"ie":0,"cnpj":"30081464000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3200.00},
 {"ie":0,"cnpj":"29824519807","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2200.00},
 {"ie":0,"cnpj":"29717117000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3064.00},

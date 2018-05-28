@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":75085143,"cnpj":"29298765000131","razao":"ISABELA FRANCISCA AMORIM DE ALMEIDA ME","sit":"C","arrecadacao":0.00,"entradas":641935.83,"saidas":4298276.69,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"FLORES","drr":"II","igi":1,"dataie":"20/12/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":638859.83},
-{"ie":67583121,"cnpj":"05463924000229","razao":"M REGINA DE AGUIAR VIEIRA DA SILVA ME","sit":"A","regime":"NORMAL","municipio":"JOAO ALFREDO","igi":0,"uf":"PE","valor":456.00},
+EntradasData.entradas = [{"ie":67583121,"cnpj":"05463924000229","razao":"M REGINA DE AGUIAR VIEIRA DA SILVA ME","sit":"A","regime":"NORMAL","municipio":"JOAO ALFREDO","igi":0,"uf":"PE","valor":456.00},
+{"ie":40989194,"cnpj":"12406173000193","razao":"A M MELO COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1540.00},
 {"ie":35558873,"cnpj":"08999776000179","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1080.00},
-{"ie":40989194,"cnpj":"12406173000193","razao":"A M MELO COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1540.00}];
+{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":638859.83}];
 SaidasData.saidas = [{"ie":16996100,"cnpj":"35609866000189","razao":"VAREJAO MOINHO OLIVEIRA LTDA ME","sit":"A","regime":"NORMAL","municipio":"MACAPARANA","igi":0,"uf":"PE","valor":2964.00},
 {"ie":0,"cnpj":"27905388000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":42000.00},
-{"ie":68951400,"cnpj":"26158586000100","razao":"COMERCIAL NOVA CRUZ EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":918381.40},
+{"ie":68951400,"cnpj":"26158586000100","razao":"COMERCIAL NOVA CRUZ EIRELI","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":918381.40},
 {"ie":68040202,"cnpj":"25207344000105","razao":"ORLAN CAVALCANTI DE ALBUQUERQUE MERCADINHO","sit":"A","regime":"NORMAL","municipio":"NAZARE DA MATA","igi":0,"uf":"PE","valor":640.00},
 {"ie":67396950,"cnpj":"24842017000154","razao":"COMERCIAL DE ALIMENTOS ROSENDO EIRELI","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":25008.10},
 {"ie":67004385,"cnpj":"24622826000150","razao":"ASJ SUPERMERCADOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":41320.95},

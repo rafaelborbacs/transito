@@ -3,7 +3,7 @@ EntradasData.entradas = [{"ie":0,"cnpj":"91062497000128","razao":"","sit":"","re
 {"ie":22952888,"cnpj":"01537271000143","razao":"TOYOLEX VEICULOS S.A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2878.80}];
 SaidasData.saidas = [{"ie":18567231,"cnpj":"41113465000136","razao":"EDIANE DE SOUSA MACIEL ME","sit":"A","regime":"SIMPLES","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":1715.76}];
 SociosData.socios = [{"cpf":"76752828415","nome":"PAULO CESAR BEZERRA DA SILVA","ie":39670422,"cnpj":"11285770000144","razao":"CALCADAS MSP COMERCIO DE CONFECCOES LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
-{"cpf":"76752828415","nome":"PAULO CEZAR BEZERRA DA SILVA","ie":26344904,"cnpj":"03401488000157","razao":"M S P BABY LTDA","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0},
+{"cpf":"76752828415","nome":"PAULO CESAR BEZERRA DA SILVA","ie":26344904,"cnpj":"03401488000157","razao":"M S P BABY LTDA","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0},
 {"cpf":"76752828415","nome":"PAULO CEZAR BEZERRA DA SILVA","ie":20786867,"cnpj":"00276862000141","razao":"DISTRIBUIDORA SANTA JOANA COMERCIO LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"76752828415","nome":"PAULO CEZAR BEZERRA DA SILVA","ie":7474245,"cnpj":"11624335000105","razao":"MALHARIA SANTO ANTONIO LTDA","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"76752828415","nome":"PAULO CESAR BEZERRA DA SILVA","ie":6124305,"cnpj":"11388964000175","razao":"MALHARIA SAO PAULO COMERCIO LTDA","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1},

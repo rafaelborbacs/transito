@@ -28,7 +28,8 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"03456001428","email":"marcos@gmail.com","razao":"MARCOS SEVERINO DA SILVA","municipio":"PETROLINA"},
 {"cnpj":"03105791477","email":"marcos@gmail.com","razao":"MARCOS ANDRE DA SILVA","municipio":"Jaboatao dos Guararapes"}];
 TelsData.tels = [{"cnpj":"29330209000103","tel":"8131325415","razao":"REMIX ALIANCA COMERCIO VAREJISTA DE BEBIDAS EIRELI EPP","municipio":"Recife"}];
-PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUL6929","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30378766000175","placa":"IAG8559","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30378766000175","placa":"CYI5945","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
@@ -67,4 +68,5 @@ PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL 
 {"cnpj":"29330672000147","placa":"MUI3891","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
 {"cnpj":"29330672000147","placa":"IAG8559","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
 {"cnpj":"29330672000147","placa":"HBP8989","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
-{"cnpj":"29111826000100","placa":"HBP8989","razao":"LJ DA SILVA MERCADINHO EPP","municipio":"ALTINHO"}];
+{"cnpj":"29111826000100","placa":"HBP8989","razao":"LJ DA SILVA MERCADINHO EPP","municipio":"ALTINHO"},
+{"cnpj":"14998371001603","placa":"CYI5945","razao":"JMacêdo S/A","municipio":"MACEIÓ"}];

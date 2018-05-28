@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":70316880,"cnpj":"26848345000193","razao":"BEETHOWEM SEVERINO DE ATAIDE 04182853490","sit":"A","arrecadacao":15.11,"entradas":145361.97,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"16/01/2017","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":70316880,"cnpj":"26848345000193","razao":"BEETHOWEM SEVERINO DE ATAIDE 04182853490","sit":"A","arrecadacao":16.11,"entradas":145361.97,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"16/01/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"02745351000319","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":3151.35},
 {"ie":0,"cnpj":"07019231000358","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":49161.33},
 {"ie":53213106,"cnpj":"16701716003686","razao":"FCA FIAT CHRYSLER AUTOMOVEIS BRASIL LTDA.","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":92011.40},

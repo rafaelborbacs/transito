@@ -5,7 +5,8 @@ SociosData.socios = [{"cpf":"71248844467","nome":"VERINALDO JUNIOR DE SOUZA SILV
 EmailsData.emails = [{"cnpj":"29470775000102","email":"diretoria@gmail.com","razao":"M F DE SOUZA JUNIOR EPP","municipio":"ANGELIM"},
 {"cnpj":"28385828000124","email":"diretoria@gmail.com","razao":"MERCADINHO DMAIS EIRELI ME","municipio":"PAULISTA"}];
 TelsData.tels = [];
-PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUL6929","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30378766000175","placa":"IAG8559","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30378766000175","placa":"CYI5945","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30146086000126","placa":"NMG8454","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
@@ -43,4 +44,5 @@ PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL 
 {"cnpj":"29330672000147","placa":"MUI3891","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
 {"cnpj":"29330672000147","placa":"IAG8559","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
 {"cnpj":"29330672000147","placa":"HBP8989","razao":"JC DE PAULO EPP","municipio":"TRIUNFO"},
-{"cnpj":"29111826000100","placa":"HBP8989","razao":"LJ DA SILVA MERCADINHO EPP","municipio":"ALTINHO"}];
+{"cnpj":"29111826000100","placa":"HBP8989","razao":"LJ DA SILVA MERCADINHO EPP","municipio":"ALTINHO"},
+{"cnpj":"14998371001603","placa":"CYI5945","razao":"JMacêdo S/A","municipio":"MACEIÓ"}];

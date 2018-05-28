@@ -3,17 +3,17 @@ EntradasData.entradas = [{"ie":0,"cnpj":"02554179000154","razao":"","sit":"","re
 {"ie":24385930,"cnpj":"84683408000103","razao":"DOHLER S/A","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"JOINVILLE","igi":0,"uf":"SC","valor":154118.14},
 {"ie":0,"cnpj":"11958084000278","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":29696.00},
 {"ie":0,"cnpj":"82725607000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":70145.92},
+{"ie":0,"cnpj":"07663140000431","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2478.42},
+{"ie":53644930,"cnpj":"18464588000108","razao":"ROSABA CONFECCAO E ARTIGOS PARA PRESENTES LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":22658.60},
 {"ie":0,"cnpj":"07663140000270","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":6887.76},
-{"ie":53644930,"cnpj":"18464588000108","razao":"ROSABA CONFECCAO E ARTIGOS PARA PRESENTES LTDA - ME","sit":"S","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":22658.60},
-{"ie":0,"cnpj":"14344779000177","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":66000.00},
-{"ie":0,"cnpj":"07663140000431","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2478.42}];
+{"ie":0,"cnpj":"14344779000177","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":66000.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06965148420","nome":"ROMILDA SANTANA DE BARROS","ie":64767671,"cnpj":"18464588000280","razao":"ROSABA CONFECCAO E ARTIGOS PARA PRESENTES LTDA - ME","sit":"S","regime":"SIMPLES","municipio":"RIBEIRAO","igi":1},
-{"cpf":"06965148420","nome":"ROMILDA SANTANA DE BARROS","ie":53644930,"cnpj":"18464588000108","razao":"ROSABA CONFECCAO E ARTIGOS PARA PRESENTES LTDA - ME","sit":"S","regime":"SIMPLES","municipio":"ESCADA","igi":0},
+{"cpf":"06965148420","nome":"ROMILDA SANTANA DE BARROS","ie":53644930,"cnpj":"18464588000108","razao":"ROSABA CONFECCAO E ARTIGOS PARA PRESENTES LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"ESCADA","igi":0},
 {"cpf":"02974736467","nome":"ROBELHA SANTANA DE BARROS FERREIRA","ie":75163047,"cnpj":"29332576000138","razao":"R&C INDUSTRIA E COMERCIO DE ARTIGOS TEXTEIS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"ESCADA","igi":0},
 {"cpf":"02974736467","nome":"ROBELHA SANTANA DE BARROS","ie":64767671,"cnpj":"18464588000280","razao":"ROSABA CONFECCAO E ARTIGOS PARA PRESENTES LTDA - ME","sit":"S","regime":"SIMPLES","municipio":"RIBEIRAO","igi":1},
 {"cpf":"02974736467","nome":"ROBELHA SANTANA DE BARROS","ie":58346279,"cnpj":"20631634000150","razao":"R. S. DE B. FERREIRA CONFECCOES E ARTIGOS PARA PRESENTES ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
-{"cpf":"02974736467","nome":"ROBELHA SANTANA DE BARROS","ie":53644930,"cnpj":"18464588000108","razao":"ROSABA CONFECCAO E ARTIGOS PARA PRESENTES LTDA - ME","sit":"S","regime":"SIMPLES","municipio":"ESCADA","igi":0}];
+{"cpf":"02974736467","nome":"ROBELHA SANTANA DE BARROS","ie":53644930,"cnpj":"18464588000108","razao":"ROSABA CONFECCAO E ARTIGOS PARA PRESENTES LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"ESCADA","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

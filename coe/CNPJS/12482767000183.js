@@ -1,14 +1,14 @@
 EstabelecimentoData.estabelecimento = [{"ie":41071603,"cnpj":"12482767000183","razao":"J N A COMERCIO DE UNIFORMES E ACESSORIOS LTDA","sit":"C","arrecadacao":0.00,"entradas":93572.75,"saidas":184530.90,"regime":"NORMAL","segmento":"TECIDOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"10/09/2010","contador":"EDILSON NUNES DA SILVA"}];
 EntradasData.entradas = [{"ie":21000883,"cnpj":"40869463000109","razao":"ESSE ENGENHARIA SINALIZACAO E SERVICOS ESPECIAIS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10044.00},
-{"ie":51273195,"cnpj":"03413165000426","razao":"R. MARINHO MALHAS - EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":564.76},
-{"ie":32515006,"cnpj":"07376725000128","razao":"F S COMERCIO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12842.28},
 {"ie":32272863,"cnpj":"04917296000837","razao":"AVIL TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":876.21},
-{"ie":0,"cnpj":"05507113000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":215.50},
 {"ie":62497790,"cnpj":"22496412000105","razao":"SAFE LIFE COMERCIO DE EQUIPAMENTOS DE SEGURANCA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":715.00},
-{"ie":0,"cnpj":"15792669000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":176.00},
+{"ie":51273195,"cnpj":"03413165000426","razao":"R. MARINHO MALHAS - EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":564.76},
 {"ie":0,"cnpj":"08308229000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":189.00},
 {"ie":31701957,"cnpj":"04917296000594","razao":"AVIL TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9922.80},
-{"ie":43767303,"cnpj":"13330786000157","razao":"VALENCIA COMERCIO DE TECIDOS E CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":58027.20}];
+{"ie":43767303,"cnpj":"13330786000157","razao":"VALENCIA COMERCIO DE TECIDOS E CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":58027.20},
+{"ie":0,"cnpj":"05507113000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":215.50},
+{"ie":0,"cnpj":"15792669000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":176.00},
+{"ie":32515006,"cnpj":"07376725000128","razao":"F S COMERCIO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12842.28}];
 SaidasData.saidas = [{"ie":21000883,"cnpj":"40869463000109","razao":"ESSE ENGENHARIA SINALIZACAO E SERVICOS ESPECIAIS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":36713.00},
 {"ie":0,"cnpj":"27068117000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2390.00},
 {"ie":68955901,"cnpj":"26152745000160","razao":"FERRAZ E SANTANA LTDA ME","sit":"A","regime":"SIMPLES","municipio":"GOIANA","igi":0,"uf":"PE","valor":780.00},

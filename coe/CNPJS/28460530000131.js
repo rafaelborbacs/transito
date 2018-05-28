@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":73389374,"cnpj":"28460530000131","razao":"EDY ALVES DE MENDONCA 03276446480","sit":"A","arrecadacao":0.00,"entradas":15205.29,"saidas":60850.30,"regime":"SIMEI","segmento":"VAREJO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"21/08/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"10861329000443","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":15205.29}];
+EstabelecimentoData.estabelecimento = [{"ie":73389374,"cnpj":"28460530000131","razao":"EDY ALVES DE MENDONCA 03276446480","sit":"A","arrecadacao":0.00,"entradas":15217.76,"saidas":60850.30,"regime":"SIMEI","segmento":"VAREJO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"21/08/2017","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"10861329000443","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":15217.76}];
 SaidasData.saidas = [{"ie":0,"cnpj":"96391782415","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":5472.00},
 {"ie":0,"cnpj":"92083943449","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":5999.90},
 {"ie":0,"cnpj":"90810937468","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":6840.00},

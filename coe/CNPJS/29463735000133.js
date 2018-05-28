@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":75493349,"cnpj":"29463735000133","razao":"LARISSA THAYNA DA SILVA CAVALCANTE 13342611480","sit":"C","arrecadacao":0.00,"entradas":113359.75,"saidas":1285610.30,"regime":"SIMEI","segmento":"VAREJO","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"23/01/2018","contador":""}];
-EntradasData.entradas = [{"ie":75432633,"cnpj":"29474055000115","razao":"VR TECIDOS 2 LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":8367.82},
-{"ie":41489403,"cnpj":"12581143000113","razao":"ABELVONEIDE M. DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":800.00},
-{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":7497.36},
+EntradasData.entradas = [{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":7497.36},
 {"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":30164.84},
+{"ie":75432633,"cnpj":"29474055000115","razao":"VR TECIDOS 2 LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":8367.82},
+{"ie":41489403,"cnpj":"12581143000113","razao":"ABELVONEIDE M. DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":800.00},
 {"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":28103.01},
-{"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":19232.16},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":19194.56}];
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":19194.56},
+{"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":19232.16}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99975823068","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":510.00},
 {"ie":0,"cnpj":"99606194191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":480.00},
 {"ie":0,"cnpj":"99220326000","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":1030.00},
@@ -195,7 +195,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99975823068","razao":"","sit":"","regime":"
 {"ie":59202483,"cnpj":"21033868000168","razao":"A G FASHION COMERCIO DE CALCADOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":20180.00},
 {"ie":0,"cnpj":"21020001000178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2400.00},
 {"ie":0,"cnpj":"20917594000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":6300.00},
-{"ie":58529438,"cnpj":"20719532000190","razao":"CICERO PEREIRA GONCALVES CONFECCAO ME","sit":"S","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":14060.00},
+{"ie":58529438,"cnpj":"20719532000190","razao":"CICERO PEREIRA GONCALVES CONFECCAO ME","sit":"A","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":14060.00},
 {"ie":0,"cnpj":"20451278000192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":200.00},
 {"ie":0,"cnpj":"20268103000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":14840.00},
 {"ie":0,"cnpj":"20146384000162","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2300.00},

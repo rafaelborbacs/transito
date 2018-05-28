@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":73513806,"cnpj":"28548391000100","razao":"M MESSIAS DA SILVA EIRELI EPP","sit":"C","arrecadacao":965.64,"entradas":779450.35,"saidas":393243.87,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"31/08/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07764918000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":348480.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"07817316000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":317952.35},
+{"ie":38952467,"cnpj":"11413524000120","razao":"ADL  INDUSTRIA DE DERIVADOS DE LATICINIOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":49098.00},
+{"ie":0,"cnpj":"07764918000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":348480.00},
 {"ie":0,"cnpj":"10537593000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":57395.00},
-{"ie":0,"cnpj":"07817316000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":317952.35},
-{"ie":38047047,"cnpj":"10737656000145","razao":"LEONAM INDUSTRIA E COMERCIO LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":6525.00},
-{"ie":38952467,"cnpj":"11413524000120","razao":"ADL  INDUSTRIA DE DERIVADOS DE LATICINIOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":49098.00}];
+{"ie":38047047,"cnpj":"10737656000145","razao":"LEONAM INDUSTRIA E COMERCIO LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":6525.00}];
 SaidasData.saidas = [{"ie":70829080,"cnpj":"69952844000309","razao":"SANFRANCISCO COMERCIAL LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":1577.50},
 {"ie":19200811,"cnpj":"69952844000139","razao":"SANFRANCISCO COMERCIAL LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":2446.00},
 {"ie":18814000,"cnpj":"41111535000117","razao":"MERCADINHO VALDIVINO LTDA","sit":"A","regime":"NORMAL","municipio":"ARACOIABA","igi":0,"uf":"PE","valor":986.20},

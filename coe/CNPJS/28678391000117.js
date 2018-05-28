@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":73859940,"cnpj":"28678391000117","razao":"VALCIEL JOSE DOS SANTOS 11019046406","sit":"C","arrecadacao":0.00,"entradas":78327.53,"saidas":896166.10,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"25/09/2017","contador":""}];
 EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":65322.53},
-{"ie":73859940,"cnpj":"28678391000117","razao":"VALCIEL JOSE DOS SANTOS 11019046406","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":1,"uf":"PE","valor":8000.00},
-{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":5005.00}];
+{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":5005.00},
+{"ie":73859940,"cnpj":"28678391000117","razao":"VALCIEL JOSE DOS SANTOS 11019046406","sit":"C","regime":"NORMAL","municipio":"TORITAMA","igi":1,"uf":"PE","valor":8000.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97634719820","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":805.00},
 {"ie":0,"cnpj":"97543881000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1600.00},
 {"ie":0,"cnpj":"92482139520","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":194.60},
@@ -121,7 +121,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97634719820","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"21296719000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":1060.00},
 {"ie":0,"cnpj":"21276918000138","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":4400.00},
 {"ie":0,"cnpj":"20939365000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2000.00},
-{"ie":58529438,"cnpj":"20719532000190","razao":"CICERO PEREIRA GONCALVES CONFECCAO ME","sit":"S","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":13230.00},
+{"ie":58529438,"cnpj":"20719532000190","razao":"CICERO PEREIRA GONCALVES CONFECCAO ME","sit":"A","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":13230.00},
 {"ie":0,"cnpj":"20588030000259","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2000.00},
 {"ie":0,"cnpj":"20207746000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1110.00},
 {"ie":0,"cnpj":"20083856000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3060.00},

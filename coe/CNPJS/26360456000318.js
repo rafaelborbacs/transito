@@ -2,7 +2,7 @@ EstabelecimentoData.estabelecimento = [{"ie":75426315,"cnpj":"26360456000318","r
 EntradasData.entradas = [{"ie":0,"cnpj":"54585567000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":620.00},
 {"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":138469.55},
 {"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":128264.76},
-{"ie":38295610,"cnpj":"05863459000302","razao":"MARCOS ANDRE ALVES DIAS EIRELI - EPP EM RECUPERACAO JUDICIAL","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":195627.57}];
+{"ie":38295610,"cnpj":"05863459000302","razao":"MARCOS ANDRE ALVES DIAS EIRELI - EPP EM RECUPERACAO JUDICIAL","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":195627.57}];
 SaidasData.saidas = [{"ie":0,"cnpj":"98170562368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2803.00},
 {"ie":0,"cnpj":"97548852000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1724.00},
 {"ie":0,"cnpj":"97387223220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3033.00},

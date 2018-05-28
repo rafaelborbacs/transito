@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":61657026,"cnpj":"22093432000127","razao":"CAMISARIA TEZ EIRELI EPP","sit":"S","arrecadacao":83.79,"entradas":15465.29,"saidas":122925.34,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"20/03/2015","contador":"BRUNO TAVARES DE SANTANA"}];
-EntradasData.entradas = [{"ie":70125350,"cnpj":"14170515000225","razao":"WTEXT COMERCIO E REPRESENTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":12046.39},
-{"ie":33480672,"cnpj":"07793333000164","razao":"JFC - AVIAMENTOS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":3418.90}];
+EntradasData.entradas = [{"ie":33480672,"cnpj":"07793333000164","razao":"JFC - AVIAMENTOS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":3418.90},
+{"ie":70125350,"cnpj":"14170515000225","razao":"WTEXT COMERCIO E REPRESENTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":12046.39}];
 SaidasData.saidas = [{"ie":0,"cnpj":"87788578215","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":843.70},
 {"ie":0,"cnpj":"74701460249","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5889.10},
 {"ie":0,"cnpj":"40442586191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":486.75},

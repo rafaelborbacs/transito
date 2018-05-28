@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":63441195,"cnpj":"22927269000150","razao":"JOSINEIDE LEANDRO DE FARIAS 01926265742","sit":"A","arrecadacao":92.93,"entradas":511219.18,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"CABO DE SANTO AGOSTINHO","drr":"I","igi":1,"dataie":"28/07/2015","contador":""}];
-EntradasData.entradas = [{"ie":74723316,"cnpj":"18631739002100","razao":"NEOVIA NUTRICAO E SAUDE ANIMAL LTDA.","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":48876.76},
-{"ie":0,"cnpj":"50753094000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":21450.76},
-{"ie":73935719,"cnpj":"04591114000457","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":40530.25},
+EntradasData.entradas = [{"ie":49133969,"cnpj":"07489678001877","razao":"SUL MINEIRA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":19409.59},
 {"ie":33892199,"cnpj":"03887324000262","razao":"ADIMAX - INDUSTRIA E COMERCIO DE ALIMENTOS LTDA.","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":231563.21},
-{"ie":49133969,"cnpj":"07489678001877","razao":"SUL MINEIRA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":19409.59},
+{"ie":0,"cnpj":"50753094000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":21450.76},
 {"ie":63780569,"cnpj":"08471163001136","razao":"FVO BRASILIA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":72605.45},
-{"ie":52818144,"cnpj":"05253499000324","razao":"DCL - DISTRIBUIDORA CARDEAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":76783.16}];
+{"ie":52818144,"cnpj":"05253499000324","razao":"DCL - DISTRIBUIDORA CARDEAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":76783.16},
+{"ie":74723316,"cnpj":"18631739002100","razao":"NEOVIA NUTRICAO E SAUDE ANIMAL LTDA.","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":48876.76},
+{"ie":73935719,"cnpj":"04591114000457","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":40530.25}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"01926265742","nome":"JOSINEIDE LEANDRO DE FARIAS","ie":63441195,"cnpj":"22927269000150","razao":"JOSINEIDE LEANDRO DE FARIAS 01926265742","sit":"A","regime":"SIMEI","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
 EmailsData.emails = [];
@@ -17,6 +17,7 @@ PlacasData.placas = [{"cnpj":"28189768000174","placa":"KGS2371","razao":"FLAVIA 
 {"cnpj":"24440901000162","placa":"PFM8474","razao":"NUTRICAES LTDA","municipio":"CAMARAGIBE"},
 {"cnpj":"24440901000162","placa":"KGS2371","razao":"NUTRICAES LTDA","municipio":"CAMARAGIBE"},
 {"cnpj":"23446285415","placa":"PFM8474","razao":"JOSE FIRMINO DOS ANJOS","municipio":"VITORIA DE SANTO ANTAO"},
+{"cnpj":"19764391400","placa":"PFM8474","razao":"LUIZ MEDEIROS MOROTO","municipio":"FREI MIGUELINHO"},
 {"cnpj":"10318467000308","placa":"PFM8474","razao":"JOSIVAN DE SOUZA E CIA LTDA","municipio":"VITORIA DE SANTO ANTAO"},
 {"cnpj":"10318467000308","placa":"KGA2683","razao":"JOSIVAN DE SOUZA E CIA LTDA","municipio":"VITORIA DE SANTO ANTAO"},
 {"cnpj":"10318467000219","placa":"PFM8474","razao":"JOSIVAN DE SOUZA E CIA LTDA","municipio":"GRAVATA"},

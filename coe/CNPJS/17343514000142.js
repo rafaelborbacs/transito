@@ -55,7 +55,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"89996461220","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"21348079000116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2500.00},
 {"ie":0,"cnpj":"21067002000178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":4200.00},
 {"ie":0,"cnpj":"20849941000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1390.00},
-{"ie":58529438,"cnpj":"20719532000190","razao":"CICERO PEREIRA GONCALVES CONFECCAO ME","sit":"S","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":18531.00},
+{"ie":58529438,"cnpj":"20719532000190","razao":"CICERO PEREIRA GONCALVES CONFECCAO ME","sit":"A","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":18531.00},
 {"ie":0,"cnpj":"20554483000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":790.00},
 {"ie":0,"cnpj":"20310994000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3010.00},
 {"ie":0,"cnpj":"20276563000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":5050.00},

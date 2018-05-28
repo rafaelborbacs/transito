@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":73707686,"cnpj":"28662580000100","razao":"COMERCIAL NOVO CONDADO EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":296482.00,"saidas":1520706.10,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CATENDE","drr":"I","igi":1,"dataie":"19/09/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"91108489672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7500.00},
-{"ie":0,"cnpj":"12229753000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":40000.00},
-{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":165720.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":165720.00},
+{"ie":0,"cnpj":"91108489672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7500.00},
 {"ie":0,"cnpj":"13642699000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":68500.00},
-{"ie":66121990,"cnpj":"24197705000109","razao":"M C ATACAREJO EIRELI  ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":14762.00}];
+{"ie":66121990,"cnpj":"24197705000109","razao":"M C ATACAREJO EIRELI  ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":14762.00},
+{"ie":0,"cnpj":"12229753000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":40000.00}];
 SaidasData.saidas = [{"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL VILA POPULAR EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"FLORES","igi":1,"uf":"PE","valor":51736.00},
 {"ie":69972010,"cnpj":"26727035000110","razao":"ATACAREJO NOVA ALDEIA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":157143.90},
 {"ie":68966180,"cnpj":"26183564000109","razao":"COMPRE AKI PROMOCOES DE VENDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":9599.00},
@@ -57,7 +57,7 @@ SaidasData.saidas = [{"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL V
 {"ie":30722667,"cnpj":"05932995000142","razao":"DISTRIBUIDORA ESTRELA GUIA EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":35300.00},
 {"ie":30144957,"cnpj":"05651747000123","razao":"ARMARINHO COMERCIO E VAREJOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":34170.00},
 {"ie":28452020,"cnpj":"04543248000150","razao":"INDUSTRIA E COMERCIO PROD ALIMENT QUEROMAS","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":18000.00},
-{"ie":27805930,"cnpj":"04159635000197","razao":"TRANSROCA COMERCIAL LTDA EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":15902.00},
+{"ie":27805930,"cnpj":"04159635000197","razao":"TRANSROCA COMERCIAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":15902.00},
 {"ie":25800981,"cnpj":"02998548000106","razao":"SIVINI PETROLEO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":165.00},
 {"ie":24076805,"cnpj":"02161340000120","razao":"CAVALCANTE & COSTA SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"SAO CAETANO","igi":0,"uf":"PE","valor":9800.00}];
 SociosData.socios = [{"cpf":"74438069491","nome":"MARIA DAS DORES DA SILVA","ie":73823830,"cnpj":"28705792000119","razao":"COMERCIAL BEST HOUSE LTDA ME","sit":"C","regime":"NORMAL","municipio":"CAMOCIM DE SAO FELIX","igi":1},

@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":76120600,"cnpj":"29795121000159","razao":"DAMIAO ASSUNCAO DOS SNTOS 09493180433","sit":"A","arrecadacao":0.00,"entradas":53897.57,"saidas":2732296.93,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"05/03/2018","contador":""}];
 EntradasData.entradas = [{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15290.00},
-{"ie":39318893,"cnpj":"11693768000104","razao":"JOSE AGLAILSON DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2900.00},
 {"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":19314.32},
-{"ie":65433912,"cnpj":"21538059000370","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":16393.25}];
+{"ie":65433912,"cnpj":"21538059000370","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":16393.25},
+{"ie":39318893,"cnpj":"11693768000104","razao":"JOSE AGLAILSON DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2900.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99564653134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":400.00},
 {"ie":0,"cnpj":"97769207720","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":240.00},
 {"ie":0,"cnpj":"97634719820","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":630.00},
@@ -283,7 +283,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99564653134","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"20917594000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":8500.00},
 {"ie":0,"cnpj":"20868125000145","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1200.00},
 {"ie":58529357,"cnpj":"20719607000133","razao":"M M B LINS ARTIGOS DO VESTUARIO  ME","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":4000.00},
-{"ie":58529438,"cnpj":"20719532000190","razao":"CICERO PEREIRA GONCALVES CONFECCAO ME","sit":"S","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":27198.40},
+{"ie":58529438,"cnpj":"20719532000190","razao":"CICERO PEREIRA GONCALVES CONFECCAO ME","sit":"A","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":27198.40},
 {"ie":0,"cnpj":"20554483000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":600.00},
 {"ie":0,"cnpj":"20395250000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":840.00},
 {"ie":0,"cnpj":"20382714000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":700.00},

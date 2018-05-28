@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":75809753,"cnpj":"29699142000170","razao":"FRANCIELY M DA SILVA","sit":"C","arrecadacao":80.00,"entradas":207095.76,"saidas":3684426.23,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ITAMBE","drr":"I","igi":1,"dataie":"16/02/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"03915936000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":11413.22},
-{"ie":0,"cnpj":"22663806000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":12000.00},
-{"ie":54257271,"cnpj":"18757191000104","razao":"COMERCIAL DE ALIMENTOS O BARATO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":7068.50},
-{"ie":0,"cnpj":"05466036000260","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":78300.00},
 {"ie":0,"cnpj":"10220478000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":16715.00},
-{"ie":0,"cnpj":"13230246000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":81599.04}];
+{"ie":0,"cnpj":"05466036000260","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":78300.00},
+{"ie":0,"cnpj":"22663806000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":12000.00},
+{"ie":0,"cnpj":"13230246000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":81599.04},
+{"ie":54257271,"cnpj":"18757191000104","razao":"COMERCIAL DE ALIMENTOS O BARATO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":7068.50}];
 SaidasData.saidas = [{"ie":19263570,"cnpj":"87456562001790","razao":"JOSAPAR  JOAQUIM OLIVEIRA SA PARTICIPACOES","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":6800.00},
 {"ie":0,"cnpj":"51038180000131","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1200.00},
 {"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FERREIRA DUTRA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":61285.62},
@@ -13,7 +13,7 @@ SaidasData.saidas = [{"ie":19263570,"cnpj":"87456562001790","razao":"JOSAPAR  JO
 {"ie":72499850,"cnpj":"28008519000135","razao":"PRECOBOM COMERCIAL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":18535.00},
 {"ie":0,"cnpj":"27905388000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":56000.00},
 {"ie":69053820,"cnpj":"26222221000106","razao":"ATACAREJO IDEAL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":150621.60},
-{"ie":68951400,"cnpj":"26158586000100","razao":"COMERCIAL NOVA CRUZ EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":1027606.80},
+{"ie":68951400,"cnpj":"26158586000100","razao":"COMERCIAL NOVA CRUZ EIRELI","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":1027606.80},
 {"ie":68867107,"cnpj":"26113204000122","razao":"GIRLEIDE LIMA EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":465.00},
 {"ie":67004385,"cnpj":"24622826000150","razao":"ASJ SUPERMERCADOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":5712.20},
 {"ie":66241030,"cnpj":"24270906000194","razao":"MIRAX DISTRIBUIDORA EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":14720.00},

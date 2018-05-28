@@ -18,7 +18,11 @@ SociosData.socios = [{"cpf":"19875622400","nome":"JEASI HONORIO DA SILVA","ie":7
 {"cpf":"19875622400","nome":"JEAZI HONORIO DA SILVA","ie":36172200,"cnpj":"08830299000113","razao":"VITRIN STUDIO COMERCIO DE COSMETICOS E SERVICOS ESTETICOS LTDA - ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"19875622400","nome":"JEAZI HONORIO DA SILVA","ie":35249145,"cnpj":"08644636000188","razao":"PROLUZ COMERCIO E MONTAGEM DE MATERIAIS ELETRICOS E HIDRAULICOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"19875622400","nome":"JEAZI HONORIO DA SILVA","ie":33309744,"cnpj":"07667385000194","razao":"PETROUNA COMBUSTIVEIS LUBRIFICANTES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
+{"cpf":"19875622400","nome":"JEASI HONORIO DA SILVA","ie":25939041,"cnpj":"03129070000132","razao":"AUTO GAS TECNOLOGIA AUTOMOTIVA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"19875622400","nome":"JEAZI HONORIO DA SILVA","ie":357774,"cnpj":"09769332000100","razao":"POSTO BR 101 LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
-EmailsData.emails = [];
-TelsData.tels = [];
-PlacasData.placas = [];
+EmailsData.emails = [{"cnpj":"22890723000146","email":"faturamentorecebimento01@gmail.com","razao":"BABYKIDS ARTIGOS INFANTIL LTDA ME","municipio":"ABREU E LIMA"}];
+TelsData.tels = [{"cnpj":"22890723000146","tel":"8139727871","razao":"BABYKIDS ARTIGOS INFANTIL LTDA ME","municipio":"ABREU E LIMA"}];
+PlacasData.placas = [{"cnpj":"35312891000287","placa":"AAA1234","razao":"RUTE CORREIA GUERRA ARMARINHO - EPP","municipio":"ABREU E LIMA"},
+{"cnpj":"26932390000121","placa":"AAA1234","razao":"ELIANE SERAFIM DA SILVA","municipio":"RECIFE"},
+{"cnpj":"22890723000146","placa":"AAA1234","razao":"BABYKIDS ARTIGOS INFANTIL LTDA ME","municipio":"ABREU E LIMA"},
+{"cnpj":"09041658000116","placa":"AAA1234","razao":"MANOEL A DO NASCIMENTO CONFECCOES - EPP","municipio":"RECIFE"}];
