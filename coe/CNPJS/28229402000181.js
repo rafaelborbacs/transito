@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":72879254,"cnpj":"28229402000181","razao":"M DAS GRACAS DE MOURA CONFECCOES ME","sit":"A","arrecadacao":3085.72,"entradas":963204.16,"saidas":184859.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"24/07/2017","contador":"ANDRE FERNANDO CAVALCANTI FILHO"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"46529590000579","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":14500.00},
-{"ie":0,"cnpj":"05630873000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":152095.40},
+{"ie":0,"cnpj":"02384871000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":11119.62},
 {"ie":0,"cnpj":"08055884000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":263314.08},
 {"ie":20383665,"cnpj":"00188955000114","razao":"KIT'S ELASTICOS LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":99462.00},
+{"ie":0,"cnpj":"08080487000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":70073.54},
+{"ie":0,"cnpj":"05630873000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":152095.40},
 {"ie":0,"cnpj":"08308119000138","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":23924.16},
 {"ie":0,"cnpj":"02232872000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":11073.89},
 {"ie":0,"cnpj":"08780971000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":312548.43},
-{"ie":0,"cnpj":"03442526000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":4971.10},
-{"ie":0,"cnpj":"08080487000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":70073.54},
 {"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":121.94},
-{"ie":0,"cnpj":"02384871000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":11119.62}];
+{"ie":0,"cnpj":"03442526000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":4971.10}];
 SaidasData.saidas = [{"ie":0,"cnpj":"90066077000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":33400.00},
 {"ie":0,"cnpj":"84955038000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1560.00},
 {"ie":0,"cnpj":"78529054000136","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":732.00},

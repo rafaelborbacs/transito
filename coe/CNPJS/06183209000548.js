@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":33620350,"cnpj":"06183209000548","razao":"DB CONFECCOES S.A.","sit":"S","arrecadacao":27808.05,"entradas":48612.31,"saidas":230358.04,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"28/03/2006","contador":"ADMILTON RODRIGUES DA SILVA"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"10529420000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":33698.20},
+{"ie":37458728,"cnpj":"01838723016201","razao":"BRF S.A.","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":113.80},
+{"ie":32544707,"cnpj":"06183209000467","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":0.00},
 {"ie":32352891,"cnpj":"06183209000386","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":0.00},
 {"ie":0,"cnpj":"04943560000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":2640.84},
-{"ie":0,"cnpj":"06183209000700","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":12159.47},
-{"ie":32544707,"cnpj":"06183209000467","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":0.00},
-{"ie":37458728,"cnpj":"01838723016201","razao":"BRF S.A.","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":113.80}];
+{"ie":0,"cnpj":"06183209000700","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":12159.47}];
 SaidasData.saidas = [{"ie":26988542,"cnpj":"41974460000874","razao":"FLAG CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":3855.25},
 {"ie":0,"cnpj":"06183209000700","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":107173.14},
 {"ie":32544707,"cnpj":"06183209000467","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":66068.30},

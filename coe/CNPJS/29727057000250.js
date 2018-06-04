@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":76311970,"cnpj":"29727057000250","razao":"ELISON JOSE DA SILVA","sit":"A","arrecadacao":0.00,"entradas":345731.54,"saidas":81252.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"14/03/2018","contador":""}];
-EntradasData.entradas = [{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":104230.86},
-{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":62197.18},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":16630.68},
+EntradasData.entradas = [{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":23116.26},
 {"ie":25534734,"cnpj":"02932830000182","razao":"KATIA CILENE DE LIMA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":55873.59},
-{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":47680.85},
-{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":23116.26},
-{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":36002.12}];
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":16630.68},
+{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":62197.18},
+{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":36002.12},
+{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":104230.86},
+{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":47680.85}];
 SaidasData.saidas = [{"ie":75431742,"cnpj":"29471348000149","razao":"LUCLECIO CARLOS SILVA DE LIMA","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":1.00},
 {"ie":0,"cnpj":"28985013000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":1112.00},
 {"ie":0,"cnpj":"26626516000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":700.00},

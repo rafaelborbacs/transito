@@ -10,7 +10,7 @@ SaidasData.saidas = [{"ie":19363524,"cnpj":"69930667000190","razao":"A J ALMEIDA
 {"ie":63810735,"cnpj":"23157578000151","razao":"JOSE N NUNES JUNIOR ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":13244.00},
 {"ie":61335762,"cnpj":"21940363000187","razao":"E. J. BARBOSA LIRA ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":17050.00},
 {"ie":55435769,"cnpj":"19257437000133","razao":"BARRETTO & SILVA COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13970.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5200.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5200.00},
 {"ie":0,"cnpj":"17740538000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2684.00},
 {"ie":49135406,"cnpj":"15624575000152","razao":"LEMOS MERCANTIL DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":106.00},
 {"ie":48651702,"cnpj":"15417004000147","razao":"DISTRIBUIDORA CRISTAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10400.00},

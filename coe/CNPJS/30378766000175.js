@@ -1,16 +1,18 @@
-EstabelecimentoData.estabelecimento = [{"ie":77100468,"cnpj":"30378766000175","razao":"MANOEL F. DE SOUZA JUNIOR EIRELI","sit":"S","arrecadacao":0.00,"entradas":378309.64,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ALIANCA","drr":"I","igi":1,"dataie":"07/05/2018","contador":"SANDRA APARECIDA SOARES DA SILVA"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":378309.64}];
+EstabelecimentoData.estabelecimento = [{"ie":77100468,"cnpj":"30378766000175","razao":"MANOEL F. DE SOUZA JUNIOR EIRELI","sit":"S","arrecadacao":0.00,"entradas":481595.04,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ALIANCA","drr":"I","igi":1,"dataie":"07/05/2018","contador":"SANDRA APARECIDA SOARES DA SILVA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":481595.04}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09901446406","nome":"MANOEL FERREIRA DE SOUZA JUNIOR","ie":77100468,"cnpj":"30378766000175","razao":"MANOEL F. DE SOUZA JUNIOR EIRELI","sit":"S","regime":"NORMAL","municipio":"ALIANCA","igi":1},
 {"cpf":"09901446406","nome":"MANOEL FERREIRA DE SOUZA JUNIOR","ie":75431076,"cnpj":"29470775000102","razao":"M. F. DE SOUZA JUNIOR EPP","sit":"C","regime":"NORMAL","municipio":"ANGELIM","igi":1}];
 EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"MARCOS CANDIDO DE LIMA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"94849781420","email":"marcos@gmail.com","razao":"MARCOS ALEXANDRE DA SILVA","municipio":"RECIFE"},
 {"cnpj":"86900544487","email":"marcos@gmail.com","razao":"MARCOS SILVA","municipio":"RECIFE"},
+{"cnpj":"85657697472","email":"marcos@gmail.com","razao":"MARCOS ANTONIO GOMES DA SILVA - Cod. 0369316","municipio":"RECIFE"},
 {"cnpj":"78113202404","email":"marcos@gmail.com","razao":"Marcos Andre Dos Santos Braga","municipio":"Canhotinho"},
 {"cnpj":"76995844491","email":"marcos@gmail.com","razao":"MARCOS ANTONIO - Cod. 0411653","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"74273140420","email":"marcos@gmail.com","razao":"MARCOS ANTONIO DA SILVA","municipio":"CAETES"},
 {"cnpj":"64961419400","email":"marcos@gmail.com","razao":"MARCOS VINICIUS DE LEMOS - Cod. 0021710","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"55334415734","email":"marcos@gmail.com","razao":"MARCOS GALVAO - Cod. 0044690","municipio":"RECIFE"},
+{"cnpj":"41203321449","email":"marcos@gmail.com","razao":"MARCOS ROGERIO ROCHA MALTA","municipio":"ITAIBA"},
 {"cnpj":"30146086000126","email":"marcos@gmail.com","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"29699130000146","email":"marcos@gmail.com","razao":"FABIO M DA SILVA","municipio":"ALTINHO"},
 {"cnpj":"29697512000130","email":"marcos@gmail.com","razao":"DARLAN J DA SILVA","municipio":"JUPI"},
@@ -27,7 +29,8 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"04234257494","email":"marcos@gmail.com","razao":"MARCOS PADILHA","municipio":"RECIFE"},
 {"cnpj":"04058361476","email":"marcos@gmail.com","razao":"MARCOS JOSE CHAGAS SOUZA","municipio":"PETROLINA"},
 {"cnpj":"03456001428","email":"marcos@gmail.com","razao":"MARCOS SEVERINO DA SILVA","municipio":"PETROLINA"},
-{"cnpj":"03105791477","email":"marcos@gmail.com","razao":"MARCOS ANDRE DA SILVA","municipio":"Jaboatao dos Guararapes"}];
+{"cnpj":"03105791477","email":"marcos@gmail.com","razao":"MARCOS ANDRE DA SILVA","municipio":"Jaboatao dos Guararapes"},
+{"cnpj":"02342593457","email":"marcos@gmail.com","razao":"MARCOS JOSE DE SANTANA - Cod. 0138846","municipio":"JABOATAO DOS GUARARAPES"}];
 TelsData.tels = [];
 PlacasData.placas = [{"cnpj":"30146086000126","placa":"MUL6929","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},
 {"cnpj":"30146086000126","placa":"MUI3891","razao":"RICARDO LUIZ DA SILVA EIRELI","municipio":"AFRANIO"},

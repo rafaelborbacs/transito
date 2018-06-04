@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":73719420,"cnpj":"28677574000118","razao":"COMERCIAL SUPER MIX LTDA ME","sit":"C","arrecadacao":0.00,"entradas":306576.70,"saidas":758744.39,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"BONITO","drr":"II","igi":1,"dataie":"19/09/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":293280.00},
-{"ie":66121990,"cnpj":"24197705000109","razao":"M C ATACAREJO EIRELI  ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":9394.00},
-{"ie":40271838,"cnpj":"12064001000189","razao":"R M PANIFICADORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3902.70}];
+EntradasData.entradas = [{"ie":40271838,"cnpj":"12064001000189","razao":"R M PANIFICADORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3902.70},
+{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":293280.00},
+{"ie":66121990,"cnpj":"24197705000109","razao":"M C ATACAREJO EIRELI  ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":9394.00}];
 SaidasData.saidas = [{"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL VILA POPULAR EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"FLORES","igi":1,"uf":"PE","valor":17824.04},
 {"ie":69039089,"cnpj":"26201164000170","razao":"BARBOSA & BRITO SUPERMERCADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4000.00},
 {"ie":67385400,"cnpj":"24822335000153","razao":"ECONOMICO COMERCIO DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":75892.20},

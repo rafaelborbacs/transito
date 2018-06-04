@@ -15,7 +15,7 @@ SaidasData.saidas = [{"ie":75444992,"cnpj":"29506749000197","razao":"V L GOMES D
 {"ie":38873320,"cnpj":"11335169000119","razao":"SUPERMERCADO CHA GRANDE LTDA","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":390.00},
 {"ie":36733679,"cnpj":"09638485000118","razao":"MERCANTIL DE ALIMENTOS AMORIM LTDA  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":7500.00},
 {"ie":10270698,"cnpj":"08958423000120","razao":"ESMERALDO PAULO LIRA ME","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":90.00},
-{"ie":34383174,"cnpj":"08386671000144","razao":"LUCIA MENDES ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":46557.20},
+{"ie":34383174,"cnpj":"08386671000144","razao":"LUCIA MENDES ALIMENTOS EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":46557.20},
 {"ie":8986606,"cnpj":"08192619000157","razao":"ANTAO & CREUZA SANTOS LTDA","sit":"A","regime":"SIMPLES","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":195.20},
 {"ie":30144957,"cnpj":"05651747000123","razao":"ARMARINHO COMERCIO E VAREJOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":70027.93},
 {"ie":24243396,"cnpj":"01892524000105","razao":"LINDINALVA M DA SILVA ME","sit":"A","regime":"NORMAL","municipio":"SIRINHAEM","igi":0,"uf":"PE","valor":2880.00},

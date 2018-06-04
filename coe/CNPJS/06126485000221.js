@@ -1,12 +1,12 @@
-EstabelecimentoData.estabelecimento = [{"ie":40320715,"cnpj":"06126485000221","razao":"H A GONCALVES PRODUTOS OPTICOS EPP","sit":"S","arrecadacao":45.81,"entradas":16325.59,"saidas":18917.23,"regime":"SIMPLES","segmento":"VAREJO","municipio":"SERRA TALHADA","drr":"II","igi":1,"dataie":"12/07/2010","contador":"FLAVIO JOSE MENDONCA RODRIGUES"}];
-EntradasData.entradas = [{"ie":32613792,"cnpj":"07419661000103","razao":"VISA COMERCIO E SERVICOS DE INFORMATICA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":71.39},
-{"ie":0,"cnpj":"68571041000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":0.00},
-{"ie":9237534,"cnpj":"08641953000140","razao":"TUPAN CONSTRUCOES INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":173.33},
+EstabelecimentoData.estabelecimento = [{"ie":40320715,"cnpj":"06126485000221","razao":"H A GONCALVES PRODUTOS OPTICOS EPP","sit":"S","arrecadacao":103.84,"entradas":16325.59,"saidas":18917.23,"regime":"SIMPLES","segmento":"VAREJO","municipio":"SERRA TALHADA","drr":"II","igi":1,"dataie":"12/07/2010","contador":"FLAVIO JOSE MENDONCA RODRIGUES"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"07019231000358","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":9036.87},
 {"ie":68881002,"cnpj":"22933933000255","razao":"C PEREIRA BARNABE OTICA EPP","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":7044.00},
-{"ie":0,"cnpj":"07019231000358","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":9036.87}];
+{"ie":0,"cnpj":"68571041000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":0.00},
+{"ie":32613792,"cnpj":"07419661000103","razao":"VISA COMERCIO E SERVICOS DE INFORMATICA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":71.39},
+{"ie":9237534,"cnpj":"08641953000140","razao":"TUPAN CONSTRUCOES INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":173.33}];
 SaidasData.saidas = [{"ie":68881002,"cnpj":"22933933000255","razao":"C PEREIRA BARNABE OTICA EPP","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":7044.00},
 {"ie":0,"cnpj":"07019231000358","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":4829.23},
-{"ie":26270005,"cnpj":"03273507000107","razao":"FABIO GERMANO FERREIRA RODRIGUES ME","sit":"A","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":7044.00}];
+{"ie":26270005,"cnpj":"03273507000107","razao":"FABIO GERMANO FERREIRA RODRIGUES ME","sit":"S","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":7044.00}];
 SociosData.socios = [{"cpf":"81046235168","nome":"JOSEMEIRE FEITOSA BARNABE","ie":53393244,"cnpj":"07713655000318","razao":"J F BARNABE PRODUTOS  OPTICOS EPP","sit":"A","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0},
 {"cpf":"81046235168","nome":"JOSEMEIRE FEITOSA BARNABE","ie":48885533,"cnpj":"07713655000237","razao":"J F BARNABE PRODUTOS  OPTICOS EPP","sit":"B","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0},
 {"cpf":"81046235168","nome":"JOSEMEIRE FEITOSA BARNABE","ie":40320715,"cnpj":"06126485000221","razao":"H A GONCALVES PRODUTOS OPTICOS EPP","sit":"S","regime":"SIMPLES","municipio":"SERRA TALHADA","igi":1},

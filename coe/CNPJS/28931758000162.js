@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":74339648,"cnpj":"28931758000162","razao":"S. SILVA COMERCIO VAREJISTA DE ALIMENTOS LTDA ME","sit":"C","arrecadacao":16569.12,"entradas":1984775.48,"saidas":2051029.69,"regime":"SIMPLES","segmento":"SUPERMERCADOS","municipio":"ITAMBE","drr":"I","igi":1,"dataie":"25/10/2017","contador":"JOSE ANTONIO BARBOSA JUNIOR"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"08395782000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":15732.00},
-{"ie":22863435,"cnpj":"01514118000109","razao":"JADIR ALVES DE SOUSA LADEIRA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51541.90},
+EntradasData.entradas = [{"ie":22863435,"cnpj":"01514118000109","razao":"JADIR ALVES DE SOUSA LADEIRA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51541.90},
+{"ie":0,"cnpj":"10537593000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":50265.00},
 {"ie":0,"cnpj":"28999388000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":247728.54},
-{"ie":0,"cnpj":"07764918000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":315504.78},
-{"ie":0,"cnpj":"03860617000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":95310.50},
 {"ie":0,"cnpj":"07817316000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":685754.30},
-{"ie":0,"cnpj":"04985298000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":27130.00},
-{"ie":0,"cnpj":"07764918000237","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":189000.00},
-{"ie":0,"cnpj":"03376307000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":176833.94},
+{"ie":0,"cnpj":"08395782000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":15732.00},
+{"ie":0,"cnpj":"07764918000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":315504.78},
 {"ie":0,"cnpj":"17120250000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":129974.52},
-{"ie":0,"cnpj":"10537593000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":50265.00}];
+{"ie":0,"cnpj":"04985298000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":27130.00},
+{"ie":0,"cnpj":"03860617000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":95310.50},
+{"ie":0,"cnpj":"03376307000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":176833.94},
+{"ie":0,"cnpj":"07764918000237","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":189000.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"71454845449","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6000.00},
 {"ie":0,"cnpj":"70097068000116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":4890.00},
 {"ie":0,"cnpj":"67490727472","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},

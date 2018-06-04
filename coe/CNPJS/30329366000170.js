@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":76995224,"cnpj":"30329366000170","razao":"ALEX DE SOUZA TORRES","sit":"A","arrecadacao":0.00,"entradas":334760.40,"saidas":1594608.90,"regime":"NORMAL","segmento":"TECIDOS","municipio":"FREI MIGUELINHO","drr":"II","igi":1,"dataie":"30/04/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"14344779000258","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":60710.40},
+{"ie":58739670,"cnpj":"20827856000142","razao":"JAN TEXTIL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":82000.00},
 {"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":45950.00},
 {"ie":36564893,"cnpj":"09548160000144","razao":"MARIA ADENILZA DA S SOUZA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1500.00},
-{"ie":0,"cnpj":"08080487000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":144600.00},
-{"ie":58739670,"cnpj":"20827856000142","razao":"JAN TEXTIL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":82000.00}];
+{"ie":0,"cnpj":"08080487000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":144600.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"92561896668","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7023.00},
 {"ie":0,"cnpj":"90727681672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7163.00},
 {"ie":0,"cnpj":"90449649687","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":6990.00},

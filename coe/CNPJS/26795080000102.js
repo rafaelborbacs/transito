@@ -1,12 +1,12 @@
 EstabelecimentoData.estabelecimento = [{"ie":70204144,"cnpj":"26795080000102","razao":"VALQUIRIA ALVES DA SILVA 06479044460","sit":"A","arrecadacao":1.00,"entradas":26336.48,"saidas":213116.26,"regime":"SIMEI","segmento":"VAREJO","municipio":"MARAIAL","drr":"I","igi":1,"dataie":"10/01/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"05860875000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":701.17},
-{"ie":62594567,"cnpj":"22476084000177","razao":"TOP AVIL LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CUPIRA","igi":0,"uf":"PE","valor":8100.00},
-{"ie":0,"cnpj":"06194839000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":18.47},
+EntradasData.entradas = [{"ie":0,"cnpj":"06194839000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":18.47},
 {"ie":0,"cnpj":"08669074000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":884.44},
-{"ie":40608654,"cnpj":"12306917000106","razao":"OTACILIO FRANCISCO DA SILVA","sit":"S","regime":"SIMPLES","municipio":"CUPIRA","igi":0,"uf":"PE","valor":2250.00},
-{"ie":0,"cnpj":"20552119000184","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":132.00},
+{"ie":0,"cnpj":"05860875000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":701.17},
 {"ie":0,"cnpj":"12043723000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":50.40},
-{"ie":69758603,"cnpj":"26579397000101","razao":"JOSE CLAUDIO MICHEL DOMINGOS DE LIMA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"CUPIRA","igi":0,"uf":"PE","valor":14200.00}];
+{"ie":0,"cnpj":"20552119000184","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":132.00},
+{"ie":69758603,"cnpj":"26579397000101","razao":"JOSE CLAUDIO MICHEL DOMINGOS DE LIMA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"CUPIRA","igi":0,"uf":"PE","valor":14200.00},
+{"ie":62594567,"cnpj":"22476084000177","razao":"TOP AVIL LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CUPIRA","igi":0,"uf":"PE","valor":8100.00},
+{"ie":40608654,"cnpj":"12306917000106","razao":"OTACILIO FRANCISCO DA SILVA","sit":"S","regime":"SIMPLES","municipio":"CUPIRA","igi":0,"uf":"PE","valor":2250.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99951274072","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":198.90},
 {"ie":0,"cnpj":"99943280344","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":174.90},
 {"ie":0,"cnpj":"99806169387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":128.99},

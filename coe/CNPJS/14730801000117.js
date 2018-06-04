@@ -1,5 +1,5 @@
 EstabelecimentoData.estabelecimento = [{"ie":46841687,"cnpj":"14730801000117","razao":"A. AMARAL DE MELO CONFECCOES ME","sit":"C","arrecadacao":589.70,"entradas":28411.02,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"08/12/2011","contador":"JOSE MONTEIRO DE SOUZA IRMAO"}];
-EntradasData.entradas = [{"ie":26547090,"cnpj":"89738173000549","razao":"SANREMO S/A","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":23667.41},
+EntradasData.entradas = [{"ie":26547090,"cnpj":"89738173000549","razao":"SANREMO S/A","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":23667.41},
 {"ie":0,"cnpj":"04381287000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":1558.57},
 {"ie":0,"cnpj":"87230553000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":3185.04}];
 SaidasData.saidas = [];

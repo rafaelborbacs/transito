@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":52404099,"cnpj":"17852784000189","razao":"MARIA STELA LIBERATO FERREIRA MEIRELES 16727738491","sit":"A","arrecadacao":3979.27,"entradas":112240.49,"saidas":0.00,"regime":"SIMEI","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"09/04/2013","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":52404099,"cnpj":"17852784000189","razao":"MARIA STELA LIBERATO FERREIRA MEIRELES 16727738491","sit":"A","arrecadacao":4213.62,"entradas":112240.49,"saidas":0.00,"regime":"SIMEI","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"09/04/2013","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"00153705000300","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":112240.49}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"16727738491","nome":"MARIA STELA LIBERATO FERREIRA MEIRELES","ie":52404099,"cnpj":"17852784000189","razao":"MARIA STELA LIBERATO FERREIRA MEIRELES 16727738491","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];

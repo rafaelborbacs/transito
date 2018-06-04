@@ -85,7 +85,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99564653134","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"30216754844","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5770.00},
 {"ie":0,"cnpj":"30190614000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":750.00},
 {"ie":0,"cnpj":"30126516000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1500.00},
-{"ie":76559246,"cnpj":"30061161000156","razao":"MARIA EDUARDA SOUZA E SILVA","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":6260.00},
+{"ie":76559246,"cnpj":"30061161000156","razao":"MARIA EDUARDA SOUZA E SILVA","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":6260.00},
 {"ie":0,"cnpj":"30027334000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":42178.00},
 {"ie":0,"cnpj":"30024189863","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5000.00},
 {"ie":0,"cnpj":"29952640000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":865.00},

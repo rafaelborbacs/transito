@@ -62,7 +62,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84967744000170","razao":"","sit":"","regime
 {"ie":0,"cnpj":"09607758000167","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":400.00},
 {"ie":0,"cnpj":"09525804000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":1000.00},
 {"ie":0,"cnpj":"09080230000344","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4000.00},
-{"ie":34383174,"cnpj":"08386671000144","razao":"LUCIA MENDES ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":95712.00},
+{"ie":34383174,"cnpj":"08386671000144","razao":"LUCIA MENDES ALIMENTOS EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":95712.00},
 {"ie":0,"cnpj":"08297302000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2000.00},
 {"ie":0,"cnpj":"07885673000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1000.00},
 {"ie":0,"cnpj":"07752309000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":3000.00},

@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":74628321,"cnpj":"29091260000100","razao":"EDVANIA M DE LIMA CONFECCOES ME","sit":"A","arrecadacao":87.55,"entradas":289670.47,"saidas":355917.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"17/11/2017","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":74628321,"cnpj":"29091260000100","razao":"EDVANIA M DE LIMA CONFECCOES ME","sit":"S","arrecadacao":87.55,"entradas":289670.47,"saidas":355917.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"17/11/2017","contador":""}];
 EntradasData.entradas = [{"ie":35592036,"cnpj":"09008414000131","razao":"ADAILCIO PEREIRA DE ARAUJO JUNIOR","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":22080.00},
 {"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":193390.47},
 {"ie":41489403,"cnpj":"12581143000113","razao":"ABELVONEIDE M. DA SILVA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":74200.00}];
@@ -30,7 +30,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"34696278000167","razao":"","sit":"","regime
 {"ie":0,"cnpj":"04120314000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":6663.00},
 {"ie":0,"cnpj":"03139476000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":3720.00},
 {"ie":0,"cnpj":"00805608494","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":500.00}];
-SociosData.socios = [{"cpf":"06185713454","nome":"EDVANIA MARIA DE LIMA","ie":74628321,"cnpj":"29091260000100","razao":"EDVANIA M DE LIMA CONFECCOES ME","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":1}];
+SociosData.socios = [{"cpf":"06185713454","nome":"EDVANIA MARIA DE LIMA","ie":74628321,"cnpj":"29091260000100","razao":"EDVANIA M DE LIMA CONFECCOES ME","sit":"S","regime":"NORMAL","municipio":"VERTENTES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

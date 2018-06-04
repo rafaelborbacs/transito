@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":71721509,"cnpj":"27609814000184","razao":"COMERCIAL BREJAO EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":448776.11,"saidas":4950525.07,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"27/04/2017","contador":""}];
-EntradasData.entradas = [{"ie":57230358,"cnpj":"08999776000330","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":64645.85},
+EntradasData.entradas = [{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":213300.00},
 {"ie":18227724,"cnpj":"40878332000198","razao":"ANTONIO JAIME RIBEIRO LUCENA-MERCEARIA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1626.50},
 {"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":47473.00},
-{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":213300.00},
-{"ie":10657428,"cnpj":"09058504000137","razao":"ARMAZEM DO GRAO COMERCIO DE ALIMENTOS E EMBALAGENS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13200.00},
 {"ie":52118754,"cnpj":"17733830000120","razao":"QUALLYHORTI COMERCIO & IMPORTACAO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":54135.00},
-{"ie":44646801,"cnpj":"13819887000196","razao":"F RAFAELA OLIVEIRA BEZERRA COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":54395.76}];
+{"ie":10657428,"cnpj":"09058504000137","razao":"ARMAZEM DO GRAO COMERCIO DE ALIMENTOS E EMBALAGENS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13200.00},
+{"ie":44646801,"cnpj":"13819887000196","razao":"F RAFAELA OLIVEIRA BEZERRA COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EIRELI","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":54395.76},
+{"ie":57230358,"cnpj":"08999776000330","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":64645.85}];
 SaidasData.saidas = [{"ie":0,"cnpj":"73576902000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":120893.00},
 {"ie":20328052,"cnpj":"70222278000199","razao":"MARIA DOS ANJOS FERREIRA LINS EPP","sit":"B","regime":"SIMPLES","municipio":"PALMARES","igi":0,"uf":"PE","valor":463.74},
 {"ie":19587201,"cnpj":"70222278000199","razao":"MARIA DOS ANJOS FERREIRA LINS EPP","sit":"A","regime":"SIMPLES","municipio":"PALMARES","igi":0,"uf":"PE","valor":463.74},
@@ -40,7 +40,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73576902000144","razao":"","sit":"","regime
 {"ie":51112930,"cnpj":"17308104000160","razao":"SUPERMERCADO X8 LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":100055.00},
 {"ie":0,"cnpj":"17204495000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":56700.00},
 {"ie":49983326,"cnpj":"16786231000102","razao":"TACIANNE ACIOLI LINS SANTOS ME","sit":"A","regime":"SIMPLES","municipio":"BREJO DA MADRE DE DEUS","igi":0,"uf":"PE","valor":682.08},
-{"ie":50200771,"cnpj":"16700733000179","razao":"LEME CONDIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":15000.00},
+{"ie":50200771,"cnpj":"16700733000179","razao":"LEME CONDIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":15000.00},
 {"ie":49769324,"cnpj":"16683395000104","razao":"COMERCIAL MASSANGANA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":92700.30},
 {"ie":49626302,"cnpj":"15988406000100","razao":"MANO & MANU'S MERCADINHO LTDA ME","sit":"A","regime":"NORMAL","municipio":"CACHOEIRINHA","igi":0,"uf":"PE","valor":175.00},
 {"ie":49160699,"cnpj":"15777224000181","razao":"A.L. LEMOS DE FIGUEIREDO - ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":25798.50},
@@ -63,7 +63,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73576902000144","razao":"","sit":"","regime
 {"ie":35558873,"cnpj":"08999776000179","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":360.00},
 {"ie":35417382,"cnpj":"08975742000144","razao":"MERCADINHO MAXIMO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5002.00},
 {"ie":34541772,"cnpj":"08473685000103","razao":"SOUZA & MELO COMERCIO VAREJISTA DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SAO JOAO","igi":0,"uf":"PE","valor":453.10},
-{"ie":34383174,"cnpj":"08386671000144","razao":"LUCIA MENDES ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":145535.40},
+{"ie":34383174,"cnpj":"08386671000144","razao":"LUCIA MENDES ALIMENTOS EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":145535.40},
 {"ie":47325534,"cnpj":"08208391000146","razao":"UNIDOS HORTIFRUTIGRANJEIROS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":488326.86},
 {"ie":0,"cnpj":"08208024000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":36750.00},
 {"ie":32114362,"cnpj":"07169427000167","razao":"COMERCIAL DE ALIMENTOS COTUNGUBA EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":11200.00},

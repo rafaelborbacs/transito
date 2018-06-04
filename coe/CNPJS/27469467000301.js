@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":74628755,"cnpj":"27469467000301","razao":"FABIANO BERTO DE SOUZA SILVA EPP","sit":"S","arrecadacao":0.00,"entradas":240472.30,"saidas":273668.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"17/11/2017","contador":""}];
-EntradasData.entradas = [{"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":100000.09},
-{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":140472.21}];
+EntradasData.entradas = [{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":140472.21},
+{"ie":59704748,"cnpj":"21240209000100","razao":"ESTAMPARIA VITORIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":100000.09}];
 SaidasData.saidas = [{"ie":0,"cnpj":"84454156000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":24570.00},
 {"ie":0,"cnpj":"80787819387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4120.00},
 {"ie":0,"cnpj":"80112501000280","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":3000.00},

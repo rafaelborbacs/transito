@@ -30,6 +30,7 @@ SociosData.socios = [{"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PE
 {"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PEREIRA NACOR","ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","regime":"NORMAL","municipio":"LAJEDO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"12580684000127","tel":"08737731798","razao":"EVERALDO L SILVA LAJENDENSE - ME","municipio":"Lajedo"},
+{"cnpj":"09131493000173","tel":"08737731798","razao":"ACC SUPERMERCADO LTDA","municipio":"Lajedo"},
 {"cnpj":"08987355000128","tel":"08737731798","razao":"ADEMILTON JOSE CAVALCANTE - ME","municipio":"LAJEDO"},
 {"cnpj":"08831289000100","tel":"08737731798","razao":"FUNDO MUNICIPAL DE SAUDE DE LAJEDO","municipio":"LAJEDO"}];
 PlacasData.placas = [];

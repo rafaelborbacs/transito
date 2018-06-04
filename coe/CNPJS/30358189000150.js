@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":77149475,"cnpj":"30358189000150","razao":"HUGO SILVA DOS SANTOS 32151418847","sit":"A","arrecadacao":0.00,"entradas":53898.35,"saidas":233756.50,"regime":"SIMEI","segmento":"VAREJO","municipio":"CARUARU","drr":"II","igi":1,"dataie":"07/05/2018","contador":""}];
 EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":11297.00},
-{"ie":0,"cnpj":"28438678000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":18500.00},
-{"ie":75432633,"cnpj":"29474055000115","razao":"VR TECIDOS 2 LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":24101.35}];
+{"ie":75432633,"cnpj":"29474055000115","razao":"VR TECIDOS 2 LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":24101.35},
+{"ie":0,"cnpj":"28438678000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":18500.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97207578920","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":5040.00},
 {"ie":0,"cnpj":"84659986001178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":7200.00},
 {"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1650.00},

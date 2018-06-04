@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":50943219,"cnpj":"17230494000101","razao":"SUPRARE COMERCIO DE ALIMENTOS LTDA - ME","sit":"S","arrecadacao":0.00,"entradas":63848.15,"saidas":49937.12,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"30/11/2012","contador":"ANDREA CAVALCANTE DOS SANTOS"}];
-EntradasData.entradas = [{"ie":23583100,"cnpj":"01772272000172","razao":"M G INDUSTRIAS QUIMICAS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":115.00},
-{"ie":0,"cnpj":"74295981000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2120.00},
-{"ie":40661032,"cnpj":"12336734000125","razao":"JURERE INDUSTRIA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":3838.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"19860823000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1923.60},
 {"ie":47833106,"cnpj":"50154061001820","razao":"FESTPAN ALIMENTOS IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":50362.55},
-{"ie":0,"cnpj":"19860823000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1923.60},
-{"ie":40977854,"cnpj":"12256420000112","razao":"EURIPAN INDUSTRIA & COMERCIO REPRESENTACAO LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":3229.00},
-{"ie":43271367,"cnpj":"12997775000162","razao":"PALMACOCO INDUSTRIA DE CONSERVAS EIRELI","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":2260.00}];
+{"ie":23583100,"cnpj":"01772272000172","razao":"M G INDUSTRIAS QUIMICAS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":115.00},
+{"ie":40661032,"cnpj":"12336734000125","razao":"JURERE INDUSTRIA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":3838.00},
+{"ie":0,"cnpj":"74295981000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2120.00},
+{"ie":43271367,"cnpj":"12997775000162","razao":"PALMACOCO INDUSTRIA DE CONSERVAS EIRELI","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":2260.00},
+{"ie":40977854,"cnpj":"12256420000112","razao":"EURIPAN INDUSTRIA & COMERCIO REPRESENTACAO LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":3229.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"27795314449","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":785.00},
 {"ie":70121524,"cnpj":"26774478000162","razao":"EDNARD BRUNO DE OLIVEIRA ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":99.20},
 {"ie":68794622,"cnpj":"26103104000115","razao":"SUPERMERCADO TRADICAO LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":234.96},
@@ -16,7 +16,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"27795314449","razao":"","sit":"","regime":"
 {"ie":57882690,"cnpj":"20374132000190","razao":"SUPERMERCADO NORDESTINO LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":234.96},
 {"ie":55501656,"cnpj":"19277456000121","razao":"SUPERMERCADO ALVORADA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":234.96},
 {"ie":52650456,"cnpj":"17991863000170","razao":"R. MARIA DE ANDRADE EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":3273.98},
-{"ie":48857750,"cnpj":"15506585000193","razao":"FELIX COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":485.95},
+{"ie":48857750,"cnpj":"15506585000193","razao":"FELIX COMERCIO DE ALIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":485.95},
 {"ie":45709793,"cnpj":"14152875000113","razao":"M.S. COMERCIO DE ALIMENTACAO E LATICINIOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":547.10},
 {"ie":43351557,"cnpj":"13259313000100","razao":"SUPERMERCADO ROYAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":602.96},
 {"ie":23612649,"cnpj":"12858700000109","razao":"J M ARAUJO DIAS PANIFICADORA ME","sit":"B","regime":"SIMPLES","municipio":"FERNANDO DE NORONHA","igi":0,"uf":"PE","valor":2523.60},
@@ -31,11 +31,11 @@ SaidasData.saidas = [{"ie":0,"cnpj":"27795314449","razao":"","sit":"","regime":"
 {"ie":16627911,"cnpj":"11601085000180","razao":"PANIFICADORA SAO MATEUS LTDA","sit":"B","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":665.03},
 {"ie":7833407,"cnpj":"11601085000180","razao":"PANIFICADORA SAO MATEUS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":665.03},
 {"ie":17496764,"cnpj":"10623635000107","razao":"PANIFICADORA CABO VERDE LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9443.35},
-{"ie":11490160,"cnpj":"10623635000107","razao":"PANIFICADORA CABO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9443.35},
+{"ie":11490160,"cnpj":"10623635000107","razao":"PANIFICADORA CABO VERDE LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9443.35},
 {"ie":35417382,"cnpj":"08975742000144","razao":"MERCADINHO MAXIMO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":234.96},
 {"ie":31124461,"cnpj":"05678702000142","razao":"VENEZA SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2010.16},
-{"ie":22631739,"cnpj":"01021094000148","razao":"CARMEM DELICATESSEN LTDA","sit":"B","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":299.10},
-{"ie":22616853,"cnpj":"01021094000148","razao":"CARMEM DELICATESSEN LTDA","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":299.10}];
+{"ie":22616853,"cnpj":"01021094000148","razao":"CARMEM DELICATESSEN LTDA","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":299.10},
+{"ie":22631739,"cnpj":"01021094000148","razao":"CARMEM DELICATESSEN LTDA","sit":"B","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":299.10}];
 SociosData.socios = [{"cpf":"91886937400","nome":"DANIELA MARIA CRUZ MUNIZ","ie":66370787,"cnpj":"24285701000182","razao":"DANIELA MARIA CRUZ MUNIZ 91886937400","sit":"A","regime":"SIMEI","municipio":"SAO LOURENCO DA MATA","igi":0},
 {"cpf":"91886937400","nome":"DANIELA MARIA CRUZ MUNIZ","ie":50943219,"cnpj":"17230494000101","razao":"SUPRARE COMERCIO DE ALIMENTOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"04475523419","nome":"JOAO ALVES BEZERRA JUNIOR","ie":50943219,"cnpj":"17230494000101","razao":"SUPRARE COMERCIO DE ALIMENTOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},

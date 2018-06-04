@@ -1,5 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":76439933,"cnpj":"27584943000670","razao":"FLAVIO FRANCISCO DOS SANTOS LEITE EPP","sit":"S","arrecadacao":0.00,"entradas":42935.10,"saidas":434112.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"22/03/2018","contador":""}];
-EntradasData.entradas = [{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":42935.10}];
+EstabelecimentoData.estabelecimento = [{"ie":76439933,"cnpj":"27584943000670","razao":"FLAVIO FRANCISCO DOS SANTOS LEITE EPP","sit":"S","arrecadacao":0.00,"entradas":60939.10,"saidas":434112.80,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"22/03/2018","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"54094768000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":18004.00},
+{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":42935.10}];
 SaidasData.saidas = [{"ie":0,"cnpj":"84033075000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":575.00},
 {"ie":0,"cnpj":"63601843000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":800.00},
 {"ie":0,"cnpj":"34705723000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":300.00},

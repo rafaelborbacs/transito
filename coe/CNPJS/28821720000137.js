@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":74054309,"cnpj":"28821720000137","razao":"J N SILVA PLASTICOS EPP","sit":"C","arrecadacao":0.00,"entradas":107990.00,"saidas":270953.39,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"CAMUTANGA","drr":"I","igi":1,"dataie":"09/10/2017","contador":"VERA LUCIA REVOREDO PASSOS"}];
-EntradasData.entradas = [{"ie":30388660,"cnpj":"03861512001021","razao":"INDUSTRIAS ALIMENTICIAS MARATA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":83750.00},
-{"ie":36321990,"cnpj":"09369684000178","razao":"ATACADAO DE ALIMENTOS SANTANA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":24240.00}];
+EntradasData.entradas = [{"ie":36321990,"cnpj":"09369684000178","razao":"ATACADAO DE ALIMENTOS SANTANA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":24240.00},
+{"ie":30388660,"cnpj":"03861512001021","razao":"INDUSTRIAS ALIMENTICIAS MARATA LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":83750.00}];
 SaidasData.saidas = [{"ie":72214287,"cnpj":"27883902000170","razao":"INDUSTRIA DE PLASTICOS PROGRESSO LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":42000.00},
 {"ie":69309990,"cnpj":"26328291000135","razao":"CSA COMERCIO DE ALIMENTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3360.00},
 {"ie":73410756,"cnpj":"24967227000250","razao":"WJLM ESPERANCA DISTRIBUIDORA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2775.00},
@@ -12,8 +12,8 @@ SaidasData.saidas = [{"ie":72214287,"cnpj":"27883902000170","razao":"INDUSTRIA D
 {"ie":56287925,"cnpj":"19621824000107","razao":"AVENIDA SUPERMERCADO LTDA","sit":"B","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":13140.00},
 {"ie":55435769,"cnpj":"19257437000133","razao":"BARRETTO & SILVA COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3838.00},
 {"ie":52837793,"cnpj":"18073013000156","razao":"L N DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":1450.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":16812.00},
-{"ie":52416348,"cnpj":"17862678000186","razao":"CRISTIANE DE A ALBUQUERQUE PRODUTOS SANEANTES ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":782.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":16812.00},
+{"ie":52416348,"cnpj":"17862678000186","razao":"CRISTIANE DE A ALBUQUERQUE PRODUTOS SANEANTES ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":782.00},
 {"ie":50702017,"cnpj":"17141902000140","razao":"SILVA & NEVES COMERCIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":5785.00},
 {"ie":50193708,"cnpj":"16842324000107","razao":"H M DA SILVA MERCADINHO - EPP","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":6349.80},
 {"ie":48002143,"cnpj":"15242436000164","razao":"T.H. SUPERMERCADOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":540.00},
@@ -25,7 +25,7 @@ SaidasData.saidas = [{"ie":72214287,"cnpj":"27883902000170","razao":"INDUSTRIA D
 {"ie":38849372,"cnpj":"10980629000107","razao":"MERCANTIL JABOATAO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":540.00},
 {"ie":38027879,"cnpj":"10860783000137","razao":"IBEFIL ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":13920.00},
 {"ie":38189348,"cnpj":"10779172000169","razao":"MERCANTIL DOIS IRMAOS DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":2386.50},
-{"ie":37662767,"cnpj":"10642159000163","razao":"J. OLIVEIRA ARMARINHO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1080.00},
+{"ie":37662767,"cnpj":"10642159000163","razao":"J. OLIVEIRA ARMARINHO LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1080.00},
 {"ie":37766112,"cnpj":"10634361000143","razao":"MARCELA EVANGELISTA DE OLIVEIRA-ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":970.66},
 {"ie":1116860,"cnpj":"10497345000156","razao":"J N TEIXEIRA & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":3225.00},
 {"ie":37210190,"cnpj":"10448580000138","razao":"JUAREZ TENORIO DA SILVA EIRELI  ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":300.00},

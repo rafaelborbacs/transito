@@ -1,0 +1,41 @@
+EstabelecimentoData.estabelecimento = [{"ie":44419317,"cnpj":"13778858000123","razao":"SAFIRA DISTRIBUIDORA DE ARTIGOS DESCARTAVEIS EIRELI","sit":"S","arrecadacao":0.00,"entradas":1000.00,"saidas":1448927.36,"regime":"NORMAL","segmento":"ATACADO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"13/06/2011","contador":"SIMONE PEREIRA DA SILVA"}];
+EntradasData.entradas = [{"ie":37381911,"cnpj":"10526700000178","razao":"MIX MUSIC LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1000.00}];
+SaidasData.saidas = [{"ie":17053935,"cnpj":"35593706000199","razao":"UNIPAUTA FORMULARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":49540.00},
+{"ie":75678390,"cnpj":"29621566000112","razao":"SAO LOURENCO SUPERMERCADO EIRELI","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":3458.01},
+{"ie":73515779,"cnpj":"28550527000109","razao":"INOJOSA E CAMPELLO SUPERMERCADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1168.00},
+{"ie":67585175,"cnpj":"24930966000196","razao":"EXODO LIMPEZA LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":8249.36},
+{"ie":66819997,"cnpj":"24561358000151","razao":"J A G DISTRIBUICAO DE EMBALAGENS LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":6792.00},
+{"ie":63997975,"cnpj":"23201070000103","razao":"ANDRE SANTOS SILVA COMERCIO DE EMBALAGENS","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":319110.50},
+{"ie":73391867,"cnpj":"23190843000101","razao":"ELINEIA FREITAS DA SILVA EMBALAGENS ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":7361.00},
+{"ie":63810735,"cnpj":"23157578000151","razao":"JOSE N NUNES JUNIOR ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":6342.30},
+{"ie":57136688,"cnpj":"20008831000117","razao":"VIVA DISTRIBUIDORA DE PRODUTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":200137.40},
+{"ie":43607373,"cnpj":"13368165000162","razao":"MARCOS PAULO MARTINS DA SILVA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":15431.72},
+{"ie":13765272,"cnpj":"12854865000102","razao":"COELHO DE ANDRADE ENGENHARIA LTDA","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":100222.35},
+{"ie":0,"cnpj":"11554474000282","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":8000.00},
+{"ie":39286673,"cnpj":"11387827000116","razao":"EXODO TECNOLOGIA EM SISTEMAS ELETRICOS - EIRELI","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":1947.00},
+{"ie":1901281,"cnpj":"11295284000107","razao":"IND E COM MOVEIS KUTZ LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":24444.00},
+{"ie":38623137,"cnpj":"10949990000162","razao":"SUPREMO PREDILETA COMERCIO IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":4109.80},
+{"ie":40345203,"cnpj":"10474123000118","razao":"ZELANDYO DOS SANTOS SILVA","sit":"A","regime":"NORMAL","municipio":"PARANATAMA","igi":0,"uf":"PE","valor":85135.85},
+{"ie":0,"cnpj":"08811119000822","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":19000.00},
+{"ie":0,"cnpj":"08811119000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":10000.00},
+{"ie":34773207,"cnpj":"08655947000142","razao":"MARIA AMALIA SILVA DO EGITO ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":6199.20},
+{"ie":33800502,"cnpj":"07998882000175","razao":"TACYANA SALOME SANTOS DE SANTANA - ME.","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1380.00},
+{"ie":33058563,"cnpj":"07601691000128","razao":"K E DA SILVA RODRIGUES PADARIA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4750.00},
+{"ie":31938884,"cnpj":"07114263000170","razao":"COMERCIAL DE ALIMENTOS PONTE DOS CARVALHOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1446.24},
+{"ie":31943454,"cnpj":"07114256000179","razao":"DIAMANTE COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":1653.76},
+{"ie":31943373,"cnpj":"07114222000184","razao":"COMERCIAL NORDESTINO DE ALIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1100.58},
+{"ie":31526349,"cnpj":"06893441000146","razao":"R G ALBUQUERQUE PASSIRA","sit":"A","regime":"NORMAL","municipio":"PASSIRA","igi":0,"uf":"PE","valor":5435.00},
+{"ie":31026613,"cnpj":"06139697000162","razao":"INFORME MERCANTIL LIMITADA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":274197.84},
+{"ie":41400798,"cnpj":"06032732000220","razao":"MERCANTIL NORDESTINO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1618.62},
+{"ie":30835941,"cnpj":"06032732000140","razao":"MERCANTIL NORDESTINO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1971.70},
+{"ie":30766443,"cnpj":"05946524000193","razao":"ZL COMERCIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":272396.85},
+{"ie":30085683,"cnpj":"05603563000198","razao":"E.C. MORAIS COMBUSTIVEIS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13.00},
+{"ie":43289495,"cnpj":"05151403000236","razao":"VAREJAO BRASILEIRO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":632.28},
+{"ie":29299535,"cnpj":"05151403000155","razao":"VAREJAO BRASILEIRO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":2996.20},
+{"ie":29738806,"cnpj":"04549339000283","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1492.10},
+{"ie":28465784,"cnpj":"04549339000100","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1194.70}];
+SociosData.socios = [{"cpf":"99535009400","nome":"LUCIANA ANDREA DO NASCIMENTO","ie":44419317,"cnpj":"13778858000123","razao":"SAFIRA DISTRIBUIDORA DE ARTIGOS DESCARTAVEIS EIRELI","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1},
+{"cpf":"83552596453","nome":"CARLOS LIRA DA SILVA","ie":44419317,"cnpj":"13778858000123","razao":"SAFIRA DISTRIBUIDORA DE ARTIGOS DESCARTAVEIS EIRELI","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];
+PlacasData.placas = [];

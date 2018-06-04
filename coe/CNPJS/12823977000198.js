@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":13671022,"cnpj":"12823977000198","razao":"ROBERTO FERREIRA XAVIER-ME","sit":"S","arrecadacao":398.08,"entradas":36458.03,"saidas":0.00,"regime":"SIMPLES","segmento":"VAREJO","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"19/04/1988","contador":"BRUNO VICENTE FERREIRA DE OLIVEIRA"}];
 EntradasData.entradas = [{"ie":41025849,"cnpj":"11592663000169","razao":"PESCATORE COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":462.00},
 {"ie":56088302,"cnpj":"50221019006339","razao":"HNK BR INDUSTRIA DE BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":26511.72},
-{"ie":36031801,"cnpj":"09257917000140","razao":"EPITACIO PESCADOS IMPORTADORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1024.80},
+{"ie":0,"cnpj":"21379437000158","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":503.51},
 {"ie":38649799,"cnpj":"50221019005286","razao":"HNK BR INDUSTRIA DE BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":7956.00},
-{"ie":0,"cnpj":"21379437000158","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":503.51}];
+{"ie":36031801,"cnpj":"09257917000140","razao":"EPITACIO PESCADOS IMPORTADORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1024.80}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"09796193434","nome":"ROBERTO FERREIRA XAVIER","ie":13671022,"cnpj":"12823977000198","razao":"ROBERTO FERREIRA XAVIER-ME","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [{"cnpj":"03897179407","email":"rosanacabralll@gmail.com","razao":"rosana cabral","municipio":"RECIFE"}];
-TelsData.tels = [{"cnpj":"09796193434","tel":"81991350063","razao":"ROBERTO FERREIRA XAVIER","municipio":"JABOATAO DOS GUARARAPES"}];
+TelsData.tels = [{"cnpj":"09796193434","tel":"81991350063","razao":"roberto ferreira xavier","municipio":"Jaboatao dos Guararapes"}];
 PlacasData.placas = [{"cnpj":"99850516453","placa":"SSS1234","razao":"ISRAEL FORTUNATO MEIRA VAZ","municipio":"RECIFE"},
 {"cnpj":"99611996420","placa":"SSS1234","razao":"RICARDO RAMOS MENDES","municipio":"RECIFE"},
 {"cnpj":"99020629468","placa":"SSS1234","razao":"IVETE BEZERRA DE OLIVEIRA","municipio":"RECIFE"},
@@ -21,6 +21,7 @@ PlacasData.placas = [{"cnpj":"99850516453","placa":"SSS1234","razao":"ISRAEL FOR
 {"cnpj":"90652592449","placa":"SSS1234","razao":"ADILSON DOS SANTOS FERREIRA","municipio":"RECIFE"},
 {"cnpj":"90527623415","placa":"SSS1234","razao":"LUIZ VIEIRA DAS CHAGAS FILHO ME","municipio":"IGARASSU"},
 {"cnpj":"89941306400","placa":"SSS1234","razao":"REGINALDO JOSE DOS SANTOS","municipio":"RECIFE"},
+{"cnpj":"89842200434","placa":"SSS1234","razao":"FABIO LUIZ FERREIRA DE ARAUJO","municipio":"IPOJUCA"},
 {"cnpj":"89276680497","placa":"SSS1234","razao":"RONALDO FELIX PEREIRA","municipio":"RECIFE"},
 {"cnpj":"89042700491","placa":"SSS1234","razao":"WASHINGTON MARANHAO DA SILVA","municipio":"OLINDA"},
 {"cnpj":"89023820444","placa":"SSS1234","razao":"LENILDO GONZAGA DE SOUZA","municipio":"RECIFE"},
@@ -322,6 +323,7 @@ PlacasData.placas = [{"cnpj":"99850516453","placa":"SSS1234","razao":"ISRAEL FOR
 {"cnpj":"20274045000161","placa":"SSS1234","razao":"LPDA COMERCIO DE ALIMENTOS LTDA - EPP","municipio":"RECIFE"},
 {"cnpj":"20218428000112","placa":"SSS1234","razao":"SOUZA E PESSOA PADARIA LTDA - ME","municipio":"RECIFE"},
 {"cnpj":"20212812000108","placa":"SSS1234","razao":"ERINALDO MACHADO DA SILVA FILHO 12134819456","municipio":"OLINDA"},
+{"cnpj":"20037510000140","placa":"SSS1234","razao":"VERA LUCIA CAMPELO DE ARAUJO - ME","municipio":"RECIFE"},
 {"cnpj":"19992679000170","placa":"SSS1234","razao":"MT OSTERIA COMERCIO DE ALIMENTOS LTDA - ME","municipio":"RECIFE"},
 {"cnpj":"19945875000194","placa":"SSS1234","razao":"AFC HOTELARIA LTDA","municipio":"RECIFE"},
 {"cnpj":"19895080000119","placa":"SSS1234","razao":"PANIFICADORA F E R LTDA ME","municipio":"RECIFE"},
@@ -791,6 +793,7 @@ PlacasData.placas = [{"cnpj":"99850516453","placa":"SSS1234","razao":"ISRAEL FOR
 {"cnpj":"05534729000161","placa":"SSS1234","razao":"JANIOLENE WANDERLEY DA SILVA - ME","municipio":"TAMANDARE"},
 {"cnpj":"05520108000129","placa":"SSS1234","razao":"DELICATESSEN PINHEIROS COMERCIO E SERVICOS LTDA -","municipio":"RECIFE"},
 {"cnpj":"05484068479","placa":"SSS1234","razao":"AMDREZA MAINOME PESSOA SILVA","municipio":"RECIFE"},
+{"cnpj":"05458411439","placa":"SSS1234","razao":"WILLAMS ALBERTO PORFIRIO DO NASCIMENTO","municipio":"RECIFE"},
 {"cnpj":"05448999000150","placa":"SSS1234","razao":"E M J LANCHES LTDA","municipio":"RECIFE"},
 {"cnpj":"05412658000124","placa":"SSS1234","razao":"MARIA DAS DORES CUSTODIO DA SILVA","municipio":"RECIFE"},
 {"cnpj":"05406827000113","placa":"SSS1234","razao":"JOSIER ROLIM NOBREGA - ME","municipio":"JOAO PESSOA"},
@@ -833,6 +836,7 @@ PlacasData.placas = [{"cnpj":"99850516453","placa":"SSS1234","razao":"ISRAEL FOR
 {"cnpj":"04698426000111","placa":"SSS1234","razao":"RESTAURANTE VICTORIA GRILL LTDA. - ME","municipio":"RECIFE"},
 {"cnpj":"04680239000100","placa":"SSS1234","razao":"MARINA POR DO SOL LTDA - ME","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"04679899409","placa":"SSS1234","razao":"CLAUDENICE GOMES DO NASCIMENTO","municipio":"IGARASSU"},
+{"cnpj":"04666316000178","placa":"SSS1234","razao":"MARITIMOS PESCADOS LTDA - EM RECUPERACAO JUDICIAL","municipio":"RECIFE"},
 {"cnpj":"04635974000100","placa":"SSS1234","razao":"HOTEL KEMBALI EIRELI - EPP","municipio":"IPOJUCA"},
 {"cnpj":"04606375000150","placa":"SSS1234","razao":"RESTAURANTE E CACHACARIA DIVINA GULA EIRELI - EPP","municipio":"MACEIO"},
 {"cnpj":"04566342000205","placa":"SSS1234","razao":"DJ HOTELARIA S/A","municipio":"JOAO PESSOA"},
@@ -850,6 +854,7 @@ PlacasData.placas = [{"cnpj":"99850516453","placa":"SSS1234","razao":"ISRAEL FOR
 {"cnpj":"04277864449","placa":"SSS1234","razao":"FRANCISCO MONTEIRO DA SILVA FILHO","municipio":"RECIFE"},
 {"cnpj":"04260303465","placa":"SSS1234","razao":"FERNANDO LUIZ CAVALCANTI DO NASCIMENTO","municipio":"GOIANA"},
 {"cnpj":"04248983907","placa":"SSS1234","razao":"KATYUSSIA NASCIMENTO ARAUJO","municipio":"MACEIO"},
+{"cnpj":"04228130445","placa":"SSS1234","razao":"ANDRE JOSE LOURENCO DOS SANTOS","municipio":"RECIFE"},
 {"cnpj":"04226527000190","placa":"SSS1234","razao":"FERREIRO CAFE LTDA","municipio":"RECIFE"},
 {"cnpj":"04214313000101","placa":"SSS1234","razao":"CELME REFEICOES LTDA","municipio":"RECIFE"},
 {"cnpj":"04211297430","placa":"SSS1234","razao":"ARAO ANTONIO DO NASCIMENTO","municipio":"RECIFE"},
@@ -898,6 +903,7 @@ PlacasData.placas = [{"cnpj":"99850516453","placa":"SSS1234","razao":"ISRAEL FOR
 {"cnpj":"03326640000346","placa":"SSS1234","razao":"SHOPPING CENTER COSTA DOURADA S/A","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"03299453000159","placa":"SSS1234","razao":"DOIDAO BURGUER LTDA - ME","municipio":"RECIFE"},
 {"cnpj":"03277059499","placa":"SSS1234","razao":"FELIPE DO REGO BARROS PIMENTEL","municipio":"CARUARU"},
+{"cnpj":"03272399488","placa":"SSS1234","razao":"MANOEL MATIAS MOREIRA JUNIOR","municipio":"RECIFE"},
 {"cnpj":"03261850000131","placa":"SSS1234","razao":"E. F. DA CRUZ - MERCADINHO - ME","municipio":"VITORIA DE SANTO ANTAO"},
 {"cnpj":"03200555408","placa":"SSS1234","razao":"AMARO JOAO JOSE DE SANTANA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"03191436000101","placa":"SSS1234","razao":"KALUAH COMERCIO E SERVICOS LTDA - ME","municipio":"RECIFE"},

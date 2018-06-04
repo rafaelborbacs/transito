@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":76885550,"cnpj":"24887164000140","razao":"VICTOR HUGO DE ALBUQUERQUE E MELLO 06826838419","sit":"A","arrecadacao":0.00,"entradas":137464.00,"saidas":0.00,"regime":"SIMEI","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"NAZARE DA MATA","drr":"I","igi":1,"dataie":"23/04/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":76885550,"cnpj":"24887164000140","razao":"VICTOR HUGO DE ALBUQUERQUE E MELLO 06826838419","sit":"A","arrecadacao":0.00,"entradas":137464.00,"saidas":0.00,"regime":"SIMEI","segmento":"ATACADO DE ALIMENTOS","municipio":"NAZARE DA MATA","drr":"I","igi":1,"dataie":"23/04/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"12282034000286","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":61600.00},
 {"ie":0,"cnpj":"18073771000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":75864.00}];
 SaidasData.saidas = [];

@@ -14,7 +14,7 @@ SaidasData.saidas = [{"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREM
 {"ie":44097441,"cnpj":"13611324000108","razao":"T. R. SIEDLER - EPP","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":5158.70},
 {"ie":40272800,"cnpj":"12034308000137","razao":"VAREJAO MIX ARMARINHO LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":14490.00},
 {"ie":6486800,"cnpj":"11328598000169","razao":"EDVAL G REGO & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":0,"uf":"PE","valor":7800.00},
-{"ie":38398184,"cnpj":"11071174000161","razao":"FJW EMPRESARIAL LTDA  ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":200133.00},
+{"ie":38398184,"cnpj":"11071174000161","razao":"FJW EMPRESARIAL LTDA  ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":200133.00},
 {"ie":38189348,"cnpj":"10779172000169","razao":"MERCANTIL DOIS IRMAOS DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":56527.00},
 {"ie":38041197,"cnpj":"10774425000101","razao":"COMERCIO MORENO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":20520.00},
 {"ie":36109851,"cnpj":"09281768000155","razao":"JOSE AUGUSTO SALES BORBA ESTIVAS","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":1351.50},

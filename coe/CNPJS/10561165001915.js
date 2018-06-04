@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":21005508,"cnpj":"10561165001915","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"S","arrecadacao":81423.35,"entradas":232985.10,"saidas":418911.17,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"31/03/1995","contador":"ADMILTON RODRIGUES DA SILVA"}];
-EntradasData.entradas = [{"ie":35089865,"cnpj":"08848709000153","razao":"MAX LIMPEZA LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":330.78},
-{"ie":0,"cnpj":"10529420000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":232654.32}];
+EntradasData.entradas = [{"ie":0,"cnpj":"10529420000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":232654.32},
+{"ie":35089865,"cnpj":"08848709000153","razao":"MAX LIMPEZA LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":330.78}];
 SaidasData.saidas = [{"ie":1832026,"cnpj":"10561165000196","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":659.44},
 {"ie":0,"cnpj":"10529420000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":418152.11},
 {"ie":55413870,"cnpj":"08902392000196","razao":"STAR CONFECCOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PB","valor":99.62}];
@@ -86,7 +86,7 @@ SociosData.socios = [{"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":
 {"cpf":"04639030487","nome":"JOSE CARLOS CAVALCANTI GONCALVES","ie":1832026,"cnpj":"10561165000196","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"41974460001331","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"IGARASSU"},
-{"cnpj":"41974460001250","tel":"8133226111","razao":"FLAG CONFECÇÕES LTDA","municipio":"Olinda"},
+{"cnpj":"41974460001250","tel":"8133226111","razao":"FLAG CONFECCOES LTDA BR0011666","municipio":"OLINDA"},
 {"cnpj":"41974460001170","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"TERESINA"},
 {"cnpj":"41974460000955","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"PAULISTA"},
 {"cnpj":"41974460000874","tel":"8133226111","razao":"FLAG CONFECCOES LTDA","municipio":"CARUARU"},
@@ -108,14 +108,14 @@ TelsData.tels = [{"cnpj":"41974460001331","tel":"8133226111","razao":"FLAG CONFE
 {"cnpj":"08306191001106","tel":"8133226111","razao":"CHAVES & GONCALVES LTDA","municipio":"VITORIA DE SANTO ANTAO"},
 {"cnpj":"08306191001017","tel":"8133226111","razao":"CHAVES E GONCALVES LTDA","municipio":"LIMOEIRO"},
 {"cnpj":"08306191000800","tel":"8133226111","razao":"CHAVES E GONCALVES LTDA","municipio":"SAO LOURENCO DA MATA"},
-{"cnpj":"08306191000711","tel":"8133226111","razao":"CHAVES E GONCALVES LTDA","municipio":"CABO DE SANTO AGOSTINHO"},
+{"cnpj":"08306191000711","tel":"8133226111","razao":"CHAVES & GONCALVES LTDA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"08306191000630","tel":"8133226111","razao":"CHAVES & GONCALVES LTDA","municipio":"PETROLINA"},
 {"cnpj":"08306191000550","tel":"8133226111","razao":"CHAVES E GONCALVES LTDA","municipio":"GARANHUNS"},
 {"cnpj":"08306191000479","tel":"8133226111","razao":"CHAVES & GONCALVES LTDA","municipio":"CAMARAGIBE"},
-{"cnpj":"08306191000398","tel":"8133226111","razao":"CHAVES & GONCALVES LTDA","municipio":"ABREU E LIMA"},
+{"cnpj":"08306191000398","tel":"8133226111","razao":"CHAVES E GONCALVES LTDA","municipio":"ABREU E LIMA"},
 {"cnpj":"08306191000207","tel":"8133226111","razao":"CHAVES E GONCALVES LTDA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"08306191000126","tel":"8133226111","razao":"CHAVES E GONCALVES LTDA","municipio":"RECIFE"},
-{"cnpj":"07783011000134","tel":"8133226111","razao":"EVRON CONSULTORIA EM ADM E FINANCAS LTDA","municipio":"Recife"},
+{"cnpj":"07783011000134","tel":"8133226111","razao":"EVRON CONSULTORIA EM ADM E FIN LTDA","municipio":"RECIFE"},
 {"cnpj":"06265283000180","tel":"8133226111","razao":"TOMAZ & CARVALHO LTDA","municipio":"GUARABIRA"},
 {"cnpj":"06253448000101","tel":"8133226111","razao":"CT CONFECCOES LTDA","municipio":"PATOS"},
 {"cnpj":"06183209000971","tel":"8133226111","razao":"DB CONFECCOES S/A","municipio":"JOAO PESSOA"},

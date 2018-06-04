@@ -6,7 +6,7 @@ EntradasData.entradas = [{"ie":0,"cnpj":"03481212000126","razao":"","sit":"","re
 SaidasData.saidas = [{"ie":71285768,"cnpj":"27382546000100","razao":"RBS ALIMENTOS - EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":80186.60},
 {"ie":68956975,"cnpj":"26171039000165","razao":"E PEREIRA DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":103230.49},
 {"ie":73410756,"cnpj":"24967227000250","razao":"WJLM ESPERANCA DISTRIBUIDORA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":14020.00},
-{"ie":65170997,"cnpj":"23714035000198","razao":"MONTEIRO & AMARO COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":44585.61},
+{"ie":65170997,"cnpj":"23714035000198","razao":"MONTEIRO & AMARO COMERCIO DE ALIMENTOS LTDA EPP","sit":"S","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":44585.61},
 {"ie":63692945,"cnpj":"23094631000112","razao":"MERCANTIL PRAZERES DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":420.00},
 {"ie":62617958,"cnpj":"22566221000164","razao":"COMERCIO E INDUSTRIA DE ALIMENTOS CANDEIAS LTDA ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":737.94},
 {"ie":0,"cnpj":"20895762000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":60500.00},

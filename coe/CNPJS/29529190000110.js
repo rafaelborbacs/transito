@@ -1,12 +1,12 @@
 EstabelecimentoData.estabelecimento = [{"ie":75544199,"cnpj":"29529190000110","razao":"JOSE SELSON CABRAL PACHECO DA SILVA","sit":"C","arrecadacao":0.00,"entradas":787918.33,"saidas":715707.50,"regime":"NORMAL","segmento":"VAREJO","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"25/01/2018","contador":""}];
 EntradasData.entradas = [{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":152664.27},
-{"ie":75431742,"cnpj":"29471348000149","razao":"LUCLECIO CARLOS SILVA DE LIMA","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":1.00},
 {"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":50735.00},
-{"ie":0,"cnpj":"08021677000541","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":115794.26},
-{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":157775.18},
+{"ie":75431742,"cnpj":"29471348000149","razao":"LUCLECIO CARLOS SILVA DE LIMA","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":1.00},
 {"ie":8108510,"cnpj":"08021677000118","razao":"DISTRIBUIDORA RECIFE IMPORTACAO E EXPORTACAO S/A","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":26600.00},
+{"ie":0,"cnpj":"08021677000541","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":115794.26},
+{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":42657.02},
 {"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":241691.60},
-{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":42657.02}];
+{"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":157775.18}];
 SaidasData.saidas = [{"ie":0,"cnpj":"71831721000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6350.00},
 {"ie":17053935,"cnpj":"35593706000199","razao":"UNIPAUTA FORMULARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":52800.00},
 {"ie":0,"cnpj":"34705582000204","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1500.00},

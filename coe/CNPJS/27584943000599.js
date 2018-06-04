@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":76080803,"cnpj":"27584943000599","razao":"FLAVIO FRANCISCO DOS SANTOS LEITE EPP","sit":"S","arrecadacao":0.00,"entradas":115543.68,"saidas":348300.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"05/03/2018","contador":""}];
-EntradasData.entradas = [{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":64183.68},
-{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":51360.00}];
+EntradasData.entradas = [{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":51360.00},
+{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":64183.68}];
 SaidasData.saidas = [{"ie":0,"cnpj":"86600990368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2564.30},
 {"ie":0,"cnpj":"79351484220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":358.00},
 {"ie":0,"cnpj":"71519947291","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2501.80},

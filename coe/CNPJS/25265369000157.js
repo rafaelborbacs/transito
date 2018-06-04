@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":68285230,"cnpj":"25265369000157","razao":"JULIANA EMILIA PEREIRA BARBOSA 09946877457","sit":"A","arrecadacao":2307.63,"entradas":100720.52,"saidas":93548.01,"regime":"SIMEI","segmento":"VAREJO","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"25/07/2016","contador":""}];
-EntradasData.entradas = [{"ie":39682781,"cnpj":"05607657000305","razao":"SCANSOURCE BRASIL DISTRIBUIDORA DE TECNOLOGIAS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":29468.52},
-{"ie":0,"cnpj":"00445335000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":71252.00}];
+EntradasData.entradas = [{"ie":0,"cnpj":"00445335000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":71252.00},
+{"ie":39682781,"cnpj":"05607657000305","razao":"SCANSOURCE BRASIL DISTRIBUIDORA DE TECNOLOGIAS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":29468.52}];
 SaidasData.saidas = [{"ie":19618026,"cnpj":"70213475000141","razao":"ROGERIO LOPES DE QUEIROZ ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":650.00},
 {"ie":19935340,"cnpj":"70210273000146","razao":"LUCIANA GOMES SANTANA CONFECCOES EPP","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":650.00},
 {"ie":20121970,"cnpj":"70064969000101","razao":"EDIMILSON LOURENCO DE LIMA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":650.00},

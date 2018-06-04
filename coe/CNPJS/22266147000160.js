@@ -1,9 +1,11 @@
-EstabelecimentoData.estabelecimento = [{"ie":62088190,"cnpj":"22266147000160","razao":"ACIONE SANTOS DE OLIVEIRA ARAUJO 69786860500","sit":"A","arrecadacao":0.00,"entradas":242604.76,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"JATOBA","drr":"III","igi":1,"dataie":"24/04/2015","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":62088190,"cnpj":"22266147000160","razao":"ACIONE SANTOS DE OLIVEIRA ARAUJO 69786860500","sit":"A","arrecadacao":0.00,"entradas":242674.76,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"JATOBA","drr":"III","igi":1,"dataie":"24/04/2015","contador":""}];
 EntradasData.entradas = [{"ie":53213106,"cnpj":"16701716003686","razao":"FCA FIAT CHRYSLER AUTOMOVEIS BRASIL LTDA.","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":82700.95},
-{"ie":28432932,"cnpj":"04591114000104","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":159903.81}];
+{"ie":28432932,"cnpj":"04591114000104","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":159903.81},
+{"ie":0,"cnpj":"24174593000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":70.00}];
 SaidasData.saidas = [];
 SociosData.socios = [];
 EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","razao":"RAIMUNDO CESAR DE OLIVEIRA LIMA","municipio":"RIACHAO DO JACUIPE"},
+{"cnpj":"98602330472","email":"cliente@durancho.com.br","razao":"IVO DE SIQUEIRA CAVALCANTI","municipio":"PESQUEIRA"},
 {"cnpj":"97847577453","email":"cliente@durancho.com.br","razao":"EDNALDO SALES DE CARVALHO","municipio":"SOLEDADE"},
 {"cnpj":"97681512420","email":"cliente@durancho.com.br","razao":"ALEXANDRO ALVES DA SILVA","municipio":"PESQUEIRA"},
 {"cnpj":"96804372000140","email":"cliente@durancho.com.br","razao":"ORGANIZACAO HOTELEIRA JOMATEL LTDA - EPP","municipio":"PAULO AFONSO"},
@@ -36,6 +38,7 @@ EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","ra
 {"cnpj":"83048375449","email":"cliente@durancho.com.br","razao":"ADRIANO BARBOZA DE LIMA","municipio":"ARCOVERDE"},
 {"cnpj":"82604940434","email":"cliente@durancho.com.br","razao":"ELEXANDRE PEREIRA PITA","municipio":"GARANHUNS"},
 {"cnpj":"82592144404","email":"cliente@durancho.com.br","razao":"LEVI TENORIO VAZ FILHO","municipio":"PEDRA"},
+{"cnpj":"82525048415","email":"cliente@durancho.com.br","razao":"TOBIAS LIMA BRITO","municipio":"ARCOVERDE"},
 {"cnpj":"82048789404","email":"cliente@durancho.com.br","razao":"JOSE ARMANDO VIEIRA MARANHAO","municipio":"VENTUROSA"},
 {"cnpj":"81137249404","email":"cliente@durancho.com.br","razao":"HELMO LUCIO ALBUQUERQUE FILHO","municipio":"BODOCO"},
 {"cnpj":"79823246491","email":"cliente@durancho.com.br","razao":"JOSE IURY CLESSE E SILVA","municipio":"PUXINANA"},
@@ -80,7 +83,9 @@ EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","ra
 {"cnpj":"66627184400","email":"cliente@durancho.com.br","razao":"UBIRAJARA FELIPE DA SILVA","municipio":"RECIFE"},
 {"cnpj":"65924908453","email":"cliente@durancho.com.br","razao":"CARLOS BOA VIAGEM RABELLO","municipio":"RECIFE"},
 {"cnpj":"65792041415","email":"cliente@durancho.com.br","razao":"CELIO ROBERTO PEREIRA DA SILVA","municipio":"ALAGOINHA"},
+{"cnpj":"65748530449","email":"cliente@durancho.com.br","razao":"FRANCISCO MARIANO DA CRUZ","municipio":"SAO JOSE DO BELMONTE"},
 {"cnpj":"65729510497","email":"cliente@durancho.com.br","razao":"CLAUDIO ADRIANO MENDES RAMOS","municipio":"SAO CAITANO"},
+{"cnpj":"65096240444","email":"cliente@durancho.com.br","razao":"CICERO MURILO MACENA","municipio":"PESQUEIRA"},
 {"cnpj":"64498840453","email":"cliente@durancho.com.br","razao":"TELMA TENORIO ALMEIDA DE ANDRADE","municipio":"IGREJA NOVA"},
 {"cnpj":"64369439434","email":"cliente@durancho.com.br","razao":"JOSE SOARES PAES","municipio":"PEDRA"},
 {"cnpj":"64336034400","email":"cliente@durancho.com.br","razao":"TACIO DE FREITAS LEITE","municipio":"SANHARO"},
@@ -582,6 +587,7 @@ EmailsData.emails = [{"cnpj":"99069474549","email":"cliente@durancho.com.br","ra
 {"cnpj":"06056727416","email":"cliente@durancho.com.br","razao":"JOSE RONALDO DA SILVA","municipio":"CAMPINA GRANDE"},
 {"cnpj":"06030482000109","email":"cliente@durancho.com.br","razao":"AGROPECUARIA FEITOSA LTDA","municipio":"OURICURI"},
 {"cnpj":"05985107450","email":"cliente@durancho.com.br","razao":"MARIA RYONE HENRIQUE PEREIRA","municipio":"EXU"},
+{"cnpj":"05918034455","email":"cliente@durancho.com.br","razao":"ANA ISABEL LACERDA DE LUNA","municipio":"GRANITO"},
 {"cnpj":"05853552000166","email":"cliente@durancho.com.br","razao":"F LIBERATO DE OLIVEIRA - ME","municipio":"NATAL"},
 {"cnpj":"05773807000180","email":"cliente@durancho.com.br","razao":"COMERCIAL AVELINO DE ALMEIDA LTDA","municipio":"SANHARO"},
 {"cnpj":"05764135427","email":"cliente@durancho.com.br","razao":"MARCONDES MANZALO DANTAS DE MEDEIROS","municipio":"SAO JOSE DO SERIDO"},
