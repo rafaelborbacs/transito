@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":75385295,"cnpj":"29410459000145","razao":"JAILSON CLEMENTINO DOS SANTOS FILHO 70540287407","sit":"C","arrecadacao":0.00,"entradas":82102.72,"saidas":364365.50,"regime":"SIMEI","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"16/01/2018","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":20847.89},
-{"ie":0,"cnpj":"11768152000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":61254.83}];
+EntradasData.entradas = [{"ie":0,"cnpj":"11768152000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":61254.83},
+{"ie":0,"cnpj":"18067083000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":20847.89}];
 SaidasData.saidas = [{"ie":0,"cnpj":"98414470459","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2000.00},
 {"ie":0,"cnpj":"90718577434","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":10000.00},
 {"ie":0,"cnpj":"85981419172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":2508.00},

@@ -1,10 +1,43 @@
-EstabelecimentoData.estabelecimento = [{"ie":56292090,"cnpj":"19618034000172","razao":"NOALDO VIDAL EUFRAUSINO CONFECCOES ME","sit":"C","arrecadacao":6688.66,"entradas":1337519.29,"saidas":6825.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"31/01/2014","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"12193881000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":59718.71},
-{"ie":49968360,"cnpj":"07428876000425","razao":"KTRFIOS IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":513449.10},
-{"ie":0,"cnpj":"96209382000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2672.12},
-{"ie":0,"cnpj":"01208098000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":761679.36}];
-SaidasData.saidas = [{"ie":0,"cnpj":"25117447000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3525.00},
-{"ie":0,"cnpj":"05972851000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":3300.00}];
+EstabelecimentoData.estabelecimento = [{"ie":56292090,"cnpj":"19618034000172","razao":"NOALDO VIDAL EUFRAUSINO CONFECCOES ME","sit":"C","arrecadacao":14149.01,"entradas":5959394.65,"saidas":156796.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"31/01/2014","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"96209382000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2672.12},
+{"ie":0,"cnpj":"12193881000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":59718.71},
+{"ie":23491329,"cnpj":"01800067000173","razao":"PAULISTEX INDUSTRIAL LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":331273.80},
+{"ie":49968360,"cnpj":"07428876000425","razao":"KTRFIOS IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2687258.98},
+{"ie":0,"cnpj":"03652452000146","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1516595.54},
+{"ie":0,"cnpj":"09093785000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":6930.95},
+{"ie":0,"cnpj":"01208098000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1354944.55}];
+SaidasData.saidas = [{"ie":0,"cnpj":"69250314000149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},
+{"ie":0,"cnpj":"67227900000147","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},
+{"ie":0,"cnpj":"33881301006595","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":47316.50},
+{"ie":0,"cnpj":"26108821000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1568.00},
+{"ie":0,"cnpj":"25237613000178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},
+{"ie":0,"cnpj":"25117447000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":6025.00},
+{"ie":0,"cnpj":"24436930000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":7499.00},
+{"ie":0,"cnpj":"23484697000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},
+{"ie":0,"cnpj":"23307299000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},
+{"ie":0,"cnpj":"21942561000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2000.00},
+{"ie":0,"cnpj":"21575082000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":8860.00},
+{"ie":0,"cnpj":"20920581000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1000.00},
+{"ie":0,"cnpj":"19964884000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1000.00},
+{"ie":0,"cnpj":"19798724000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1575.00},
+{"ie":0,"cnpj":"19727181000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":7259.00},
+{"ie":0,"cnpj":"19508776000145","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":7000.00},
+{"ie":0,"cnpj":"19300545000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6830.00},
+{"ie":0,"cnpj":"13335235000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":2400.00},
+{"ie":0,"cnpj":"12582855000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":10950.00},
+{"ie":0,"cnpj":"10239384000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2000.00},
+{"ie":0,"cnpj":"08979860000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},
+{"ie":0,"cnpj":"08037165000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},
+{"ie":0,"cnpj":"07744814000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},
+{"ie":0,"cnpj":"07205690000164","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},
+{"ie":0,"cnpj":"06256649000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1000.00},
+{"ie":0,"cnpj":"05972851000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":3300.00},
+{"ie":0,"cnpj":"04813806000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},
+{"ie":0,"cnpj":"04315340000910","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":3200.00},
+{"ie":0,"cnpj":"03970387000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":22554.00},
+{"ie":0,"cnpj":"03748536000269","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},
+{"ie":0,"cnpj":"03748536000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},
+{"ie":0,"cnpj":"03560108000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":2460.00}];
 SociosData.socios = [{"cpf":"03866705441","nome":"NOALDO VIDAL EUFRAUSINO","ie":56292090,"cnpj":"19618034000172","razao":"NOALDO VIDAL EUFRAUSINO CONFECCOES ME","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];

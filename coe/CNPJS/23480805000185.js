@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":64595609,"cnpj":"23480805000185","razao":"ERIVALDO OLIVEIRA DE ARAUJO EMBALAGENS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"PESQUEIRA","drr":"II","igi":1,"dataie":"16/10/2015","contador":""}];
-EntradasData.entradas = [];
+EstabelecimentoData.estabelecimento = [{"ie":64595609,"cnpj":"23480805000185","razao":"ERIVALDO OLIVEIRA DE ARAUJO EMBALAGENS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":370060.25,"saidas":0.00,"regime":"NORMAL","segmento":"ATACADO","municipio":"PESQUEIRA","drr":"II","igi":1,"dataie":"16/10/2015","contador":""}];
+EntradasData.entradas = [{"ie":55942270,"cnpj":"16538975000108","razao":"MULTI DISTRIBUIDORA COSTA & DONARA LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":370060.25}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"78311225400","nome":"ERIVALDO OLIVEIRA DE ARAUJO","ie":69054550,"cnpj":"26225248000144","razao":"COMERCIAL CAPIM NOVO LTDA EPP","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1},
 {"cpf":"78311225400","nome":"ERIVALDO OLIVEIRA DE ARAUJO","ie":64595609,"cnpj":"23480805000185","razao":"ERIVALDO OLIVEIRA DE ARAUJO EMBALAGENS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"PESQUEIRA","igi":1},

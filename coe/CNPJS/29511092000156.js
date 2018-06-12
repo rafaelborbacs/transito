@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":75588560,"cnpj":"29511092000156","razao":"DANIEL ALVES NASCIMENTO 06880747310","sit":"A","arrecadacao":0.00,"entradas":59163.36,"saidas":0.00,"regime":"SIMEI","segmento":"BEBIDAS","municipio":"EXU","drr":"III","igi":1,"dataie":"29/01/2018","contador":""}];
-EntradasData.entradas = [{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":1905.00},
-{"ie":36321990,"cnpj":"09369684000178","razao":"ATACADAO DE ALIMENTOS SANTANA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":57258.36}];
+EntradasData.entradas = [{"ie":36321990,"cnpj":"09369684000178","razao":"ATACADAO DE ALIMENTOS SANTANA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":57258.36},
+{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":1905.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06880747310","nome":"DANIEL ALVES NASCIMENTO","ie":75588560,"cnpj":"29511092000156","razao":"DANIEL ALVES NASCIMENTO 06880747310","sit":"A","regime":"SIMEI","municipio":"EXU","igi":1}];
 EmailsData.emails = [];
@@ -16,6 +16,7 @@ TelsData.tels = [{"cnpj":"29997743000160","tel":"8799744862","razao":"JOSE ROBER
 {"cnpj":"29174847000174","tel":"8799744862","razao":"ROZEILDO VERAS 06004248479","municipio":"TABIRA"},
 {"cnpj":"29174686000119","tel":"8799744862","razao":"JOSE ELTON BARROS DINIZ 06833726450","municipio":"SERTANIA"},
 {"cnpj":"28857098000117","tel":"8799744862","razao":"GEOVANY VASCONCELOS DE ARAUJO 02831","municipio":"SAO JOSE DO EGITO"},
+{"cnpj":"28481614000151","tel":"8799744862","razao":"JAILSON RODRIGUES FERREIRA","municipio":"MOREILANDIA"},
 {"cnpj":"27755133000124","tel":"8799744862","razao":"GERALDO JOSE GOMES 51139898353","municipio":"POMBAL"},
 {"cnpj":"26964671000166","tel":"8799744862","razao":"FRANCISCO ANDRE SILVA COELHO 02261849354","municipio":"SAO BENTO"}];
 PlacasData.placas = [];

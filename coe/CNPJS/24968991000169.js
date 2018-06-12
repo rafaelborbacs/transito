@@ -1,6 +1,8 @@
-EstabelecimentoData.estabelecimento = [{"ie":67769659,"cnpj":"24968991000169","razao":"CLAUDIO F DA CRUZ MERCADOS ME","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"RIACHO DAS ALMAS","drr":"II","igi":1,"dataie":"16/06/2016","contador":""}];
-EntradasData.entradas = [];
-SaidasData.saidas = [];
+EstabelecimentoData.estabelecimento = [{"ie":67769659,"cnpj":"24968991000169","razao":"CLAUDIO F DA CRUZ MERCADOS ME","sit":"B","arrecadacao":0.00,"entradas":632636.72,"saidas":98606.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"RIACHO DAS ALMAS","drr":"II","igi":1,"dataie":"16/06/2016","contador":""}];
+EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":632636.72}];
+SaidasData.saidas = [{"ie":49135406,"cnpj":"15624575000152","razao":"LEMOS MERCANTIL DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":28107.00},
+{"ie":33349100,"cnpj":"07746755000189","razao":"J P DE LEMOS & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":25336.00},
+{"ie":25656090,"cnpj":"02990020000182","razao":"LEMOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":45163.00}];
 SociosData.socios = [{"cpf":"06100185822","nome":"CLAUDIO FERREIRA DA CRUZ","ie":73395854,"cnpj":"28482298000132","razao":"MERCADOS BODOCO ALIMENTOS LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"BODOCO","igi":0},
 {"cpf":"06100185822","nome":"CLAUDIO FERREIRA DA CRUZ","ie":73286567,"cnpj":"28428521000163","razao":"COMERCIAL ITAMARACA ALIMENTOS LTDA ME","sit":"C","regime":"NORMAL","municipio":"ILHA DE ITAMARACA","igi":1},
 {"cpf":"06100185822","nome":"CLAUDIO FERREIRA DA CRUZ","ie":73195090,"cnpj":"28367815000122","razao":"COMERCIAL VENTUROSA MERCADOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"VENTUROSA","igi":1},

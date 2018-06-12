@@ -1,7 +1,7 @@
-EstabelecimentoData.estabelecimento = [{"ie":77100468,"cnpj":"30378766000175","razao":"MANOEL F. DE SOUZA JUNIOR EIRELI","sit":"S","arrecadacao":0.00,"entradas":481595.04,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ALIANCA","drr":"I","igi":1,"dataie":"07/05/2018","contador":"SANDRA APARECIDA SOARES DA SILVA"}];
+EstabelecimentoData.estabelecimento = [{"ie":77100468,"cnpj":"30378766000175","razao":"MANOEL F. DE SOUZA JUNIOR EIRELI","sit":"C","arrecadacao":0.00,"entradas":481595.04,"saidas":0.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ALIANCA","drr":"I","igi":1,"dataie":"07/05/2018","contador":"SANDRA APARECIDA SOARES DA SILVA"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":481595.04}];
 SaidasData.saidas = [];
-SociosData.socios = [{"cpf":"09901446406","nome":"MANOEL FERREIRA DE SOUZA JUNIOR","ie":77100468,"cnpj":"30378766000175","razao":"MANOEL F. DE SOUZA JUNIOR EIRELI","sit":"S","regime":"NORMAL","municipio":"ALIANCA","igi":1},
+SociosData.socios = [{"cpf":"09901446406","nome":"MANOEL FERREIRA DE SOUZA JUNIOR","ie":77100468,"cnpj":"30378766000175","razao":"MANOEL F. DE SOUZA JUNIOR EIRELI","sit":"C","regime":"NORMAL","municipio":"ALIANCA","igi":1},
 {"cpf":"09901446406","nome":"MANOEL FERREIRA DE SOUZA JUNIOR","ie":75431076,"cnpj":"29470775000102","razao":"M. F. DE SOUZA JUNIOR EPP","sit":"C","regime":"NORMAL","municipio":"ANGELIM","igi":1}];
 EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"MARCOS CANDIDO DE LIMA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"94849781420","email":"marcos@gmail.com","razao":"MARCOS ALEXANDRE DA SILVA","municipio":"RECIFE"},
@@ -23,6 +23,7 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"10977541460","email":"marcos@gmail.com","razao":"MARCOS ANTONIO DA SILVEIRA","municipio":"RECIFE"},
 {"cnpj":"10561580421","email":"marcos@gmail.com","razao":"MARCONES CAVALCANTE","municipio":"PETROLINA"},
 {"cnpj":"08072308000154","email":"marcos@gmail.com","razao":"J A D ARAUJO & CIA LTDA","municipio":"POCAO"},
+{"cnpj":"06944662710","email":"marcos@gmail.com","razao":"MARCOS EDINARD PALMIERI DO ESPIRITO SANTO","municipio":"RECIFE"},
 {"cnpj":"06596934454","email":"marcos@gmail.com","razao":"MARCOS ROBERTO SANTOS DA SILVA (126008)","municipio":"CARUARU"},
 {"cnpj":"06397533450","email":"marcos@gmail.com","razao":"MARCOS AURELIO LINS","municipio":"RECIFE"},
 {"cnpj":"04264071488","email":"marcos@gmail.com","razao":"MARCOS ANTONIO CORDEIRO CAVALCANTI (125075)","municipio":"PESQUEIRA"},

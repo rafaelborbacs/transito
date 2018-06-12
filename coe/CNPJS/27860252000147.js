@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":72217707,"cnpj":"27860252000147","razao":"COMERCIAL AGUAS BELAS VIEIRA LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":534277.93,"saidas":1845243.44,"regime":"NORMAL","segmento":"ATACADO","municipio":"AGUAS BELAS","drr":"II","igi":1,"dataie":"05/06/2017","contador":""}];
 EntradasData.entradas = [{"ie":58196870,"cnpj":"20520556000116","razao":"RELUANA CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":516964.33},
-{"ie":53544552,"cnpj":"18440282000103","razao":"V. C. DE SOUSA FRIOS - EIRELI  ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":6963.60},
-{"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10350.00}];
+{"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10350.00},
+{"ie":53544552,"cnpj":"18440282000103","razao":"V. C. DE SOUSA FRIOS - EIRELI  ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":1,"uf":"PE","valor":6963.60}];
 SaidasData.saidas = [{"ie":66688108,"cnpj":"24429732000160","razao":"FTP COMERCIO DE ALIMENTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3853.21},
 {"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":35168.00},
 {"ie":60974052,"cnpj":"21785257000176","razao":"SUPERMERCADO SUPREMO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13941.75},
@@ -9,7 +9,7 @@ SaidasData.saidas = [{"ie":66688108,"cnpj":"24429732000160","razao":"FTP COMERCI
 {"ie":58196870,"cnpj":"20520556000116","razao":"RELUANA CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":516964.33},
 {"ie":66812046,"cnpj":"20306701000160","razao":"IDEAL COMERCIO E COLETA DE COMBUSTIVEIS E RESIDUOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":241052.34},
 {"ie":56287925,"cnpj":"19621824000107","razao":"AVENIDA SUPERMERCADO LTDA","sit":"B","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":26176.50},
-{"ie":53544552,"cnpj":"18440282000103","razao":"V. C. DE SOUSA FRIOS - EIRELI  ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":6963.60},
+{"ie":53544552,"cnpj":"18440282000103","razao":"V. C. DE SOUSA FRIOS - EIRELI  ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":1,"uf":"PE","valor":6963.60},
 {"ie":49769324,"cnpj":"16683395000104","razao":"COMERCIAL MASSANGANA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":7778.50},
 {"ie":48097772,"cnpj":"15253723000170","razao":"A. C. SOUZA COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5892.68},
 {"ie":50785630,"cnpj":"14166965000163","razao":"MERCANTIL COSTA DOURADA LTDA","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":4282.60},

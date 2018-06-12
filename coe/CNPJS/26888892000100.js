@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":70366713,"cnpj":"26888892000100","razao":"SEBASTIAO I P DA SILVA CONFECCOES ME","sit":"C","arrecadacao":0.00,"entradas":548227.80,"saidas":448315.19,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"19/01/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"08080487000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":225976.98},
-{"ie":0,"cnpj":"03442526000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":304764.80},
 {"ie":0,"cnpj":"03567855000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7658.52},
+{"ie":0,"cnpj":"03442526000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":304764.80},
 {"ie":0,"cnpj":"03479097000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":2000.00},
 {"ie":0,"cnpj":"00141965000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":7827.50}];
 SaidasData.saidas = [{"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4295.00},

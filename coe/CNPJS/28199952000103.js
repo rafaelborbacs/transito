@@ -27,7 +27,7 @@ SaidasData.saidas = [{"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H
 {"ie":36733679,"cnpj":"09638485000118","razao":"MERCANTIL DE ALIMENTOS AMORIM LTDA  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":71302.91},
 {"ie":44610610,"cnpj":"09457781000112","razao":"TAVARES PADARIA E MERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":65183.87},
 {"ie":36152358,"cnpj":"09308170000102","razao":"MERCADINHO LEITE E AMORIM LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":95140.00},
-{"ie":35253843,"cnpj":"08851612000108","razao":"FILIZZOLA COMERCIO E IMPORTACAO DE ALIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":142793.40},
+{"ie":35253843,"cnpj":"08851612000108","razao":"FILIZZOLA COMERCIO E IMPORTACAO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":142793.40},
 {"ie":54861144,"cnpj":"08435684000247","razao":"EMBREPAR AUTOMOTIVA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":180.00},
 {"ie":34128220,"cnpj":"08217881000109","razao":"SELEMAR COMERCIO DE PRODUTOS FARMACEUTICOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":629.64},
 {"ie":51944588,"cnpj":"08098154000170","razao":"RODRIGUES DA SILVA PADARIA E MERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":65268.27},

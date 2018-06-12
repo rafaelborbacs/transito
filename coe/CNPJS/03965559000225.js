@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":29389526,"cnpj":"03965559000225","razao":"FEMEA MODAS LTDA - EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"30/08/2002","contador":"CARLOMANO GOMES DA SILVA JUNIOR"}];
-EntradasData.entradas = [];
+EstabelecimentoData.estabelecimento = [{"ie":29389526,"cnpj":"03965559000225","razao":"FEMEA MODAS LTDA - EPP","sit":"C","arrecadacao":675.90,"entradas":25038.70,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CAMARAGIBE","drr":"I","igi":1,"dataie":"30/08/2002","contador":"CARLOMANO GOMES DA SILVA JUNIOR"}];
+EntradasData.entradas = [{"ie":27371751,"cnpj":"03965559000144","razao":"FEMEA MODAS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":25038.70}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"74439375472","nome":"MARCELO PERES DA SILVA","ie":47621184,"cnpj":"03965559000578","razao":"FEMEA MODAS LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"74439375472","nome":"MARCELO PERES DA SILVA","ie":47395907,"cnpj":"03965559000497","razao":"FEMEA MODAS LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},

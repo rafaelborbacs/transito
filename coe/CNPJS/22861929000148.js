@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":63308517,"cnpj":"22861929000148","razao":"RAFAEL DE CARVALHO SILVA 06737045480","sit":"C","arrecadacao":14.06,"entradas":0.00,"saidas":181110.50,"regime":"NORMAL","segmento":"VAREJO","municipio":"QUIPAPA","drr":"II","igi":1,"dataie":"21/07/2015","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":63308517,"cnpj":"22861929000148","razao":"RAFAEL DE CARVALHO SILVA 06737045480","sit":"C","arrecadacao":26.21,"entradas":0.00,"saidas":181110.50,"regime":"NORMAL","segmento":"VAREJO","municipio":"QUIPAPA","drr":"II","igi":1,"dataie":"21/07/2015","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"96450479949","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1120.00},
 {"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2500.00},

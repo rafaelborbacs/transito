@@ -21,9 +21,9 @@ SaidasData.saidas = [{"ie":17053935,"cnpj":"35593706000199","razao":"UNIPAUTA FO
 {"ie":34773207,"cnpj":"08655947000142","razao":"MARIA AMALIA SILVA DO EGITO ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":6199.20},
 {"ie":33800502,"cnpj":"07998882000175","razao":"TACYANA SALOME SANTOS DE SANTANA - ME.","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1380.00},
 {"ie":33058563,"cnpj":"07601691000128","razao":"K E DA SILVA RODRIGUES PADARIA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4750.00},
-{"ie":31938884,"cnpj":"07114263000170","razao":"COMERCIAL DE ALIMENTOS PONTE DOS CARVALHOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1446.24},
+{"ie":31938884,"cnpj":"07114263000170","razao":"COMERCIAL DE ALIMENTOS PONTE DOS CARVALHOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1446.24},
 {"ie":31943454,"cnpj":"07114256000179","razao":"DIAMANTE COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":1653.76},
-{"ie":31943373,"cnpj":"07114222000184","razao":"COMERCIAL NORDESTINO DE ALIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1100.58},
+{"ie":31943373,"cnpj":"07114222000184","razao":"COMERCIAL NORDESTINO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1100.58},
 {"ie":31526349,"cnpj":"06893441000146","razao":"R G ALBUQUERQUE PASSIRA","sit":"A","regime":"NORMAL","municipio":"PASSIRA","igi":0,"uf":"PE","valor":5435.00},
 {"ie":31026613,"cnpj":"06139697000162","razao":"INFORME MERCANTIL LIMITADA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":274197.84},
 {"ie":41400798,"cnpj":"06032732000220","razao":"MERCANTIL NORDESTINO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1618.62},
@@ -32,8 +32,8 @@ SaidasData.saidas = [{"ie":17053935,"cnpj":"35593706000199","razao":"UNIPAUTA FO
 {"ie":30085683,"cnpj":"05603563000198","razao":"E.C. MORAIS COMBUSTIVEIS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13.00},
 {"ie":43289495,"cnpj":"05151403000236","razao":"VAREJAO BRASILEIRO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":632.28},
 {"ie":29299535,"cnpj":"05151403000155","razao":"VAREJAO BRASILEIRO LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":2996.20},
-{"ie":29738806,"cnpj":"04549339000283","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1492.10},
-{"ie":28465784,"cnpj":"04549339000100","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1194.70}];
+{"ie":29738806,"cnpj":"04549339000283","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1492.10},
+{"ie":28465784,"cnpj":"04549339000100","razao":"LAJEDO COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1194.70}];
 SociosData.socios = [{"cpf":"99535009400","nome":"LUCIANA ANDREA DO NASCIMENTO","ie":44419317,"cnpj":"13778858000123","razao":"SAFIRA DISTRIBUIDORA DE ARTIGOS DESCARTAVEIS EIRELI","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1},
 {"cpf":"83552596453","nome":"CARLOS LIRA DA SILVA","ie":44419317,"cnpj":"13778858000123","razao":"SAFIRA DISTRIBUIDORA DE ARTIGOS DESCARTAVEIS EIRELI","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1}];
 EmailsData.emails = [];

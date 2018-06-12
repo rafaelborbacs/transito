@@ -100,7 +100,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99698358234","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"01103987186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":477.00},
 {"ie":0,"cnpj":"00808023543","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":360.00},
 {"ie":0,"cnpj":"00509768261","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":330.00}];
-SociosData.socios = [{"cpf":"07173099404","nome":"WELBSON HONNALTY RODRIGUES DA MOTA","ie":76937887,"cnpj":"30245657000180","razao":"WELBSON HONNALTY RODRIGUES DA MOTA 07173099404","sit":"A","regime":"SIMEI","municipio":"CAMARAGIBE","igi":0},
+SociosData.socios = [{"cpf":"07173099404","nome":"WELBSON HONNALTY RODRIGUES DA MOTA","ie":76937887,"cnpj":"30245657000180","razao":"WELBSON HONNALTY RODRIGUES DA MOTA 07173099404","sit":"A","regime":"SIMEI","municipio":"CAMARAGIBE","igi":1},
 {"cpf":"07173099404","nome":"WELBSON HONNALTY RODRIGUES DA MOTA","ie":76386988,"cnpj":"29943341000182","razao":"WELBSON HONNALTY RODRIGUES DA MOTA 07173099404","sit":"B","regime":"NORMAL","municipio":"CAMARAGIBE","igi":1},
 {"cpf":"07173099404","nome":"WELBSON HONNALTY RODRIGUES DA MOTA","ie":75909200,"cnpj":"29684698000193","razao":"WELBSON HONNALTY RODRIGUES DA MOTA 07173099404","sit":"B","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0},
 {"cpf":"07173099404","nome":"WELBSON HONNALTY RODRIGUES DA MOTA","ie":74029614,"cnpj":"28766068000103","razao":"WELBSON HONNALTY RODRIGUES DA MOTA 07173099404","sit":"B","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0},

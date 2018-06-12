@@ -1,5 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":68684797,"cnpj":"26025322000189","razao":"SANTA TEREZINHA ALIMENTOS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":919940.40,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"TEREZINHA","drr":"II","igi":1,"dataie":"26/08/2016","contador":""}];
-EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":919940.40}];
+EstabelecimentoData.estabelecimento = [{"ie":68684797,"cnpj":"26025322000189","razao":"SANTA TEREZINHA ALIMENTOS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":984534.31,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"TEREZINHA","drr":"II","igi":1,"dataie":"26/08/2016","contador":""}];
+EntradasData.entradas = [{"ie":10575880,"cnpj":"09038712000174","razao":"IGAL-INDUSTRIA GRAFICA ANDRADE LTDA","sit":"A","regime":"SIMPLES","municipio":"BEZERROS","igi":0,"uf":"PE","valor":80.00},
+{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":984454.31}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"12367030499","nome":"ARTHUR FERREIRA DA CRUZ","ie":68684797,"cnpj":"26025322000189","razao":"SANTA TEREZINHA ALIMENTOS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"TEREZINHA","igi":1},
 {"cpf":"12367030499","nome":"ARTHUR FERREIRA DA CRUZ","ie":67769730,"cnpj":"24969092000180","razao":"ARTHUR F DA CRUZ MERCADINHO ME","sit":"B","regime":"SIMPLES","municipio":"RIACHO DAS ALMAS","igi":0},

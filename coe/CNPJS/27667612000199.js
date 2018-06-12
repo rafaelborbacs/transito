@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":71880720,"cnpj":"27667612000199","razao":"DIANNA ALMEIDA DE MELO DE ANDRADE LIMA 01015735452","sit":"A","arrecadacao":12.01,"entradas":91330.00,"saidas":0.00,"regime":"SIMEI","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"08/05/2017","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":71880720,"cnpj":"27667612000199","razao":"DIANNA ALMEIDA DE MELO DE ANDRADE LIMA 01015735452","sit":"A","arrecadacao":13.01,"entradas":91330.00,"saidas":0.00,"regime":"SIMEI","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"08/05/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"15222453000210","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":35.00},
 {"ie":22677720,"cnpj":"01192333000122","razao":"HONDA AUTOMOVEIS DO BRASIL LTDA","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SUMARE","igi":0,"uf":"SP","valor":91295.00}];
 SaidasData.saidas = [];

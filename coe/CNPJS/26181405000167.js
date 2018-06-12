@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":68964722,"cnpj":"26181405000167","razao":"GOMES E FILHOS TECIDOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"16/09/2016","contador":""}];
-EntradasData.entradas = [];
+EstabelecimentoData.estabelecimento = [{"ie":68964722,"cnpj":"26181405000167","razao":"GOMES E FILHOS TECIDOS EIRELI EPP","sit":"C","arrecadacao":6.18,"entradas":50.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"16/09/2016","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":50.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06522737426","nome":"DAYVISON CHAGAS GOMES","ie":68964722,"cnpj":"26181405000167","razao":"GOMES E FILHOS TECIDOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"06522737426","nome":"DAYVISON CHAGAS GOMES","ie":56841531,"cnpj":"19869894000189","razao":"TOP IMPORT CARUARU LTDA","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0},

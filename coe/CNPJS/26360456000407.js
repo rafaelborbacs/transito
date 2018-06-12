@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":76080986,"cnpj":"26360456000407","razao":"KLETIA WILANE FARIAS","sit":"S","arrecadacao":0.00,"entradas":31429.49,"saidas":622972.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"05/03/2018","contador":""}];
-EntradasData.entradas = [{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":30745.49},
-{"ie":34937412,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":684.00},
-{"ie":35375442,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":684.00}];
+EntradasData.entradas = [{"ie":34937412,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":684.00},
+{"ie":35375442,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":684.00},
+{"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":30745.49}];
 SaidasData.saidas = [{"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7050.00},
 {"ie":0,"cnpj":"92739135000272","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":280.00},
 {"ie":0,"cnpj":"92739135000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":280.00},

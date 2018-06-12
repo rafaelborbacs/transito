@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":74710419,"cnpj":"29109479000180","razao":"RINALDO RODRIGUES DE MELO ME","sit":"C","arrecadacao":0.00,"entradas":718195.50,"saidas":1294015.07,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"ANGELIM","drr":"II","igi":1,"dataie":"21/11/2017","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":587310.00},
-{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":41309.00},
+{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":41309.00},
 {"ie":0,"cnpj":"28685332000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":63000.00},
 {"ie":0,"cnpj":"11516329000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":26576.50}];
 SaidasData.saidas = [{"ie":73283622,"cnpj":"28406143000117","razao":"MIRLENE LUCKWU DA SILVA 03062803452","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":1400.00},
-{"ie":71904921,"cnpj":"27728209000122","razao":"MONTEIRO & ARRUDA COMERCIO DE ALIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":300.00},
+{"ie":71904921,"cnpj":"27728209000122","razao":"MONTEIRO & ARRUDA COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":300.00},
 {"ie":66425867,"cnpj":"24332484000134","razao":"V M DA CRUZ SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":230.00},
 {"ie":65573765,"cnpj":"23917802000166","razao":"OLIVEIRA E SANTOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":1080.40},
 {"ie":65260554,"cnpj":"23778043000106","razao":"FAMILIA CONCEICAO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":168.00},

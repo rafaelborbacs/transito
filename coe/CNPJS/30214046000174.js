@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":76852970,"cnpj":"30214046000174","razao":"C P ROBERTO","sit":"A","arrecadacao":300.00,"entradas":276917.78,"saidas":671747.02,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"17/04/2018","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"28427895000164","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3900.00},
-{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":219952.78},
-{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":53065.00}];
+EntradasData.entradas = [{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":53065.00},
+{"ie":0,"cnpj":"28427895000164","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3900.00},
+{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":219952.78}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97548852000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1047.92},
 {"ie":0,"cnpj":"84659986000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":26400.00},
 {"ie":0,"cnpj":"84033075000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":600.00},

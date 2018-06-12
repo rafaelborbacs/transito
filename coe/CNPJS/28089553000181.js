@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":72691700,"cnpj":"28089553000181","razao":"MARIA DE JESUS ARRAES 10035737468","sit":"A","arrecadacao":1524.60,"entradas":227015.29,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"ARARIPINA","drr":"III","igi":1,"dataie":"11/07/2017","contador":""}];
-EntradasData.entradas = [{"ie":48654647,"cnpj":"40881070000897","razao":"PALMARES PRODUTOS RURAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":21286.36},
-{"ie":28432932,"cnpj":"04591114000104","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":156639.04},
-{"ie":70152160,"cnpj":"26787806000165","razao":"CDM PE COMERCIO E SERVICOS DE DISTRIBUICAO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3338.24},
-{"ie":0,"cnpj":"89844922000199","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":7467.35},
+EntradasData.entradas = [{"ie":13535943,"cnpj":"12798443000159","razao":"RANCHO ALEGRE PRODUTOS AGROPECUARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":3430.41},
+{"ie":48654647,"cnpj":"40881070000897","razao":"PALMARES PRODUTOS RURAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":21286.36},
 {"ie":30323533,"cnpj":"17359233000188","razao":"TECIDOS E ARMARINHOS MIGUEL BARTOLOMEU S/A","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"CONTAGEM","igi":0,"uf":"MG","valor":14393.83},
 {"ie":70830410,"cnpj":"12798443000825","razao":"RANCHO ALEGRE PRODUTOS AGROPECUARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":20460.06},
-{"ie":13535943,"cnpj":"12798443000159","razao":"RANCHO ALEGRE PRODUTOS AGROPECUARIOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":3430.41}];
+{"ie":0,"cnpj":"89844922000199","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":7467.35},
+{"ie":70152160,"cnpj":"26787806000165","razao":"CDM PE COMERCIO E SERVICOS DE DISTRIBUICAO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3338.24},
+{"ie":28432932,"cnpj":"04591114000104","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":156639.04}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10035737468","nome":"MARIA DE JESUS ARRAES","ie":72691700,"cnpj":"28089553000181","razao":"MARIA DE JESUS ARRAES 10035737468","sit":"A","regime":"SIMEI","municipio":"ARARIPINA","igi":1}];
 EmailsData.emails = [{"cnpj":"29543929000149","email":"wandersonagronomo@hotmail.com","razao":"WANDERSON DA SILVA SOUSA 02653964333","municipio":"ARARIPINA"},
@@ -44,6 +44,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"69899367000195","placa":"PDR4399","razao":"GERALDO N TORRES EPP","municipio":"MIRANDIBA"},
 {"cnpj":"66737770444","placa":"PCP2781","razao":"RIZALVA DE ARRUDA FONTE","municipio":"CUMARU"},
 {"cnpj":"63042029468","placa":"PDR4399","razao":"JOAO FERREIRA DA SILVA","municipio":"SAO JOSE DO BELMONTE"},
+{"cnpj":"62945602415","placa":"PDR4399","razao":"ROGERIO BARBOZA CAVALCANTE","municipio":"CUSTODIA"},
 {"cnpj":"62945602415","placa":"PCP2781","razao":"ROGERIO BARBOZA CAVALCANTE","municipio":"CUSTODIA"},
 {"cnpj":"60324974370","placa":"PCP7991","razao":"CARLENE FRANCA DA SILVA","municipio":"PRESIDENTE DUTRA"},
 {"cnpj":"59906170468","placa":"PDR4399","razao":"JOSE ARINALDO LEONIDAS PARENTE","municipio":"SALGUEIRO"},
@@ -97,6 +98,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"24900320463","placa":"PCP2781","razao":"NAIUSA BEZERRA FERREIRA DA SILVA","municipio":"SERRA TALHADA"},
 {"cnpj":"24836745420","placa":"PDR4399","razao":"MANOEL TORQUATO DE SOUZA","municipio":"VENTUROSA"},
 {"cnpj":"24750888000148","placa":"PCP7991","razao":"WANDERSON DA SILVA SOUSA 02653964333","municipio":"ARARIPINA"},
+{"cnpj":"24598047844","placa":"PDR4399","razao":"OSVALDO ALEXANDRE SIQUEIRA","municipio":"SERTANIA"},
 {"cnpj":"24598047844","placa":"PCP2781","razao":"OSVALDO ALEXANDRE SIQUEIRA","municipio":"SERTANIA"},
 {"cnpj":"24480647000126","placa":"PDR4399","razao":"ANGELA CRISTINA DOS SANTOS MACHADO 04357113423","municipio":"SERRA TALHADA"},
 {"cnpj":"24477412000185","placa":"PDR4399","razao":"MARIA DO SOCORRO MODESTO VALOES","municipio":"MIRANDIBA"},
@@ -107,6 +109,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"23456469000135","placa":"PDR4399","razao":"CICERO ROMAO BATISTA DA SILVA - ME","municipio":"SERTANIA"},
 {"cnpj":"23421468000155","placa":"PCP7991","razao":"G. VIEIRA DE BRITO - ME","municipio":"BACABAL"},
 {"cnpj":"23370508000187","placa":"PDR4399","razao":"JOAO CARDOSO DE LIMA NETO ME","municipio":"SUME"},
+{"cnpj":"23359479000152","placa":"PCP7991","razao":"HILARIO PEREIRA DE SA NETO - ME","municipio":"PARAIBANO"},
 {"cnpj":"23130138000100","placa":"PCP7991","razao":"FERNANDO ANTONIO PINHEIRO SOARES JUNIOR 04047905348","municipio":"SAO RAIMUNDO NONATO"},
 {"cnpj":"23123296000133","placa":"PDR4399","razao":"JOSE AFONSO SOUSA LIMA","municipio":"ARARIPINA"},
 {"cnpj":"23123296000133","placa":"PCP7991","razao":"JOSE AFONSO SOUSA LIMA","municipio":"ARARIPINA"},
@@ -133,6 +136,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"17928195000137","placa":"PCP7991","razao":"WELLYTON EDER DE CARVALHO PESSOA ME","municipio":"SANTA FILOMENA"},
 {"cnpj":"17928195000137","placa":"PCP2781","razao":"WELLYTON EDER DE CARVALHO PESSOA ME","municipio":"SANTA FILOMENA"},
 {"cnpj":"17790415000109","placa":"PCP2781","razao":"FRANCISCO GILBEMAR ALVES 26111055453","municipio":"TIBAU"},
+{"cnpj":"17774964000190","placa":"PDR4399","razao":"MARCIA COELHO RODRIGUES ME","municipio":"DORMENTES"},
 {"cnpj":"17774964000190","placa":"PCP7991","razao":"MARCIA COELHO RODRIGUES ME","municipio":"DORMENTES"},
 {"cnpj":"17774964000190","placa":"PCP2781","razao":"MARCIA COELHO RODRIGUES ME","municipio":"DORMENTES"},
 {"cnpj":"16869281572","placa":"PDR4399","razao":"ELIZALDO BARROS BRANDAO","municipio":"CANAPI"},
@@ -149,6 +153,7 @@ PlacasData.placas = [{"cnpj":"97847577453","placa":"PCP2781","razao":"EDNALDO SA
 {"cnpj":"11996265000108","placa":"PDR4399","razao":"ANASTACIO HENRIQUES DA SILVA","municipio":"PRINCESA ISABEL"},
 {"cnpj":"11994740000107","placa":"PDR4399","razao":"AMELSON ALVES ARAUJO","municipio":"BODOCO"},
 {"cnpj":"11994740000107","placa":"PCP2781","razao":"AMELSON ALVES ARAUJO","municipio":"BODOCO"},
+{"cnpj":"11492636444","placa":"PDR4399","razao":"FRANCICLECIO TEIXEIRA DE SOUZA","municipio":"SANTA CRUZ"},
 {"cnpj":"11492636444","placa":"PCP7991","razao":"FRANCICLECIO TEIXEIRA DE SOUZA","municipio":"SANTA CRUZ"},
 {"cnpj":"11492636444","placa":"PCP2781","razao":"FRANCICLECIO TEIXEIRA DE SOUZA","municipio":"SANTA CRUZ"},
 {"cnpj":"11418375000273","placa":"PCP2781","razao":"AGROCAMPO PRODUTOS AGROPECUARIOS LTDA EPP","municipio":"PICOS"},

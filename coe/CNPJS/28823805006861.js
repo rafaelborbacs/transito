@@ -1,14 +1,17 @@
-EstabelecimentoData.estabelecimento = [{"ie":38091100,"cnpj":"28823805006861","razao":"CREACOES OPCAO LTDA","sit":"A","arrecadacao":124846.95,"entradas":1187178.65,"saidas":1261913.58,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"19/06/2009","contador":"ALEX SANDRO JORGE DE BARROS"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"28823805006780","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1066411.04},
+EstabelecimentoData.estabelecimento = [{"ie":38091100,"cnpj":"28823805006861","razao":"CREACOES OPCAO LTDA","sit":"A","arrecadacao":345307.01,"entradas":2410796.83,"saidas":1364032.31,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"19/06/2009","contador":"ALEX SANDRO JORGE DE BARROS"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"28823805000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2800.00},
+{"ie":0,"cnpj":"28823805006780","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2116048.61},
 {"ie":37062735,"cnpj":"28823805005970","razao":"CREACOES OPCAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":118007.61},
-{"ie":0,"cnpj":"28823805000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2760.00}];
+{"ie":0,"cnpj":"28823805005628","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":173940.61}];
 SaidasData.saidas = [{"ie":0,"cnpj":"28823805009453","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":38922.91},
 {"ie":0,"cnpj":"28823805007671","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":100622.40},
 {"ie":0,"cnpj":"28823805007167","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":46926.67},
 {"ie":0,"cnpj":"28823805006942","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":179657.67},
-{"ie":0,"cnpj":"28823805006780","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":660340.43},
+{"ie":0,"cnpj":"28823805006780","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":661584.09},
+{"ie":0,"cnpj":"28823805005385","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"DF","valor":852.73},
 {"ie":0,"cnpj":"28823805002793","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":201148.50},
-{"ie":0,"cnpj":"28823805000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":34295.00}];
+{"ie":0,"cnpj":"28823805000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":34295.00},
+{"ie":0,"cnpj":"08765268000207","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":100022.34}];
 SociosData.socios = [{"cpf":"83624112791","nome":"ANA MADALENA FERREIRA MOHAMMAD","ie":49785010,"cnpj":"28823805009372","razao":"CREACOES OPCAO LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"83624112791","nome":"ANA MADALENA FERREIRA MOHAMMAD","ie":38091100,"cnpj":"28823805006861","razao":"CREACOES OPCAO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1},
 {"cpf":"83624112791","nome":"ANA MADALENA FERREIRA MOHAMMAD","ie":37062735,"cnpj":"28823805005970","razao":"CREACOES OPCAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},

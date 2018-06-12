@@ -1,6 +1,8 @@
-EstabelecimentoData.estabelecimento = [{"ie":65172345,"cnpj":"23732643000125","razao":"COMERCIAL LAGOA DO OURO ALIMENTOS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"LAGOA DO OURO","drr":"II","igi":1,"dataie":"27/11/2015","contador":""}];
-EntradasData.entradas = [];
-SaidasData.saidas = [];
+EstabelecimentoData.estabelecimento = [{"ie":65172345,"cnpj":"23732643000125","razao":"COMERCIAL LAGOA DO OURO ALIMENTOS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":792466.39,"saidas":144529.80,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"LAGOA DO OURO","drr":"II","igi":1,"dataie":"27/11/2015","contador":""}];
+EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":792466.39}];
+SaidasData.saidas = [{"ie":49135406,"cnpj":"15624575000152","razao":"LEMOS MERCANTIL DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":36524.00},
+{"ie":33349100,"cnpj":"07746755000189","razao":"J P DE LEMOS & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":43544.80},
+{"ie":25656090,"cnpj":"02990020000182","razao":"LEMOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":64461.00}];
 SociosData.socios = [{"cpf":"05935152428","nome":"GEOVANO JORGE DE LIMA","ie":73623075,"cnpj":"28580248000198","razao":"COMERCIAL BELMONTE MERCADOS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"SAO JOSE DO BELMONTE","igi":0},
 {"cpf":"05935152428","nome":"GEOVANO JORGE DE LIMA","ie":73286486,"cnpj":"28428507000160","razao":"COMERCIAL MIRANDIBA ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"MIRANDIBA","igi":1},
 {"cpf":"05935152428","nome":"GEOVANO JORGE DE LIMA","ie":70601224,"cnpj":"26850281000165","razao":"ARCOVERDE ALIMENTOS LTDA EPP","sit":"B","regime":"NORMAL","municipio":"ARCOVERDE","igi":0},

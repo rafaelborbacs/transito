@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":70069182,"cnpj":"26734480000108","razao":"G M DA SILVA CONFECCAO ME","sit":"C","arrecadacao":25108.90,"entradas":831072.80,"saidas":91656.30,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"26/12/2016","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"00490926000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":49675.22},
-{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3400.00},
-{"ie":0,"cnpj":"38875449000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":19664.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"08755180000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":656689.57},
 {"ie":0,"cnpj":"03446617000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":30877.80},
-{"ie":0,"cnpj":"08755180000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":656689.57},
 {"ie":0,"cnpj":"56966682001460","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":4690.84},
+{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3400.00},
 {"ie":0,"cnpj":"03080418000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":24304.42},
+{"ie":0,"cnpj":"38875449000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":19664.00},
+{"ie":0,"cnpj":"00490926000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":49675.22},
 {"ie":0,"cnpj":"03442526000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":41770.95}];
 SaidasData.saidas = [{"ie":0,"cnpj":"74187402000264","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":368.00},
 {"ie":0,"cnpj":"27739316000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":700.00},

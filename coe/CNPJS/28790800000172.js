@@ -178,7 +178,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97749842772","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"19579020000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1000.00},
 {"ie":0,"cnpj":"19544172000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":6150.00},
 {"ie":0,"cnpj":"19514791000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":750.00},
-{"ie":55959164,"cnpj":"19452476000191","razao":"RIVANIA D DE SOUZA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2000.00},
+{"ie":55959164,"cnpj":"19452476000191","razao":"RIVANIA D DE SOUZA SILVA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2000.00},
 {"ie":0,"cnpj":"19439161000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":5500.00},
 {"ie":0,"cnpj":"19363645000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2390.00},
 {"ie":0,"cnpj":"19252724000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1000.00},

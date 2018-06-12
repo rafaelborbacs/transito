@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":76627349,"cnpj":"29727080000325","razao":"DAYVID ANTONY ALVES DA SILVA","sit":"A","arrecadacao":0.00,"entradas":175109.79,"saidas":385912.40,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"03/04/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"01425066000510","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":44.00},
-{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":91573.15},
+{"ie":70366985,"cnpj":"26881225000198","razao":"N G TECIDOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":31324.58},
 {"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":52168.06},
-{"ie":70366985,"cnpj":"26881225000198","razao":"N G TECIDOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":31324.58}];
+{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":91573.15}];
 SaidasData.saidas = [{"ie":0,"cnpj":"89691943000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":720.00},
 {"ie":0,"cnpj":"86541216000260","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":200.00},
 {"ie":0,"cnpj":"86541216000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":200.00},

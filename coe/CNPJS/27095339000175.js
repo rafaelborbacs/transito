@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":70720312,"cnpj":"27095339000175","razao":"COMERCIAL QUIPAPA EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":1373595.80,"saidas":2130270.66,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"QUIPAPA","drr":"II","igi":1,"dataie":"13/02/2017","contador":""}];
-EntradasData.entradas = [{"ie":44646801,"cnpj":"13819887000196","razao":"F RAFAELA OLIVEIRA BEZERRA COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EIRELI","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":25902.10},
-{"ie":0,"cnpj":"05358507000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":65083.50},
-{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":25831.00},
-{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":27315.20},
+EntradasData.entradas = [{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":33000.00},
 {"ie":69053588,"cnpj":"26221943000138","razao":"COMERCIAL BARAO DE PETROPOLIS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"ARACOIABA","igi":1,"uf":"PE","valor":683334.00},
+{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":27315.20},
+{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":25831.00},
 {"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":513130.00},
-{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":33000.00}];
+{"ie":0,"cnpj":"05358507000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":65083.50},
+{"ie":44646801,"cnpj":"13819887000196","razao":"F RAFAELA OLIVEIRA BEZERRA COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EIRELI","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":25902.10}];
 SaidasData.saidas = [{"ie":19683359,"cnpj":"73857823000101","razao":"MARCILIO SILVA BARROS","sit":"B","regime":"SIMPLES","municipio":"FERNANDO DE NORONHA","igi":0,"uf":"PE","valor":2219.70},
 {"ie":17018943,"cnpj":"35611219000101","razao":"JOSE GILBERTO DO NASCIMENTO","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":16250.00},
 {"ie":69039089,"cnpj":"26201164000170","razao":"BARBOSA & BRITO SUPERMERCADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":459.00},
@@ -45,7 +45,7 @@ SaidasData.saidas = [{"ie":19683359,"cnpj":"73857823000101","razao":"MARCILIO SI
 {"ie":36975176,"cnpj":"10277744000101","razao":"ANA MEIRILANE DE FRANCA ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":920.00},
 {"ie":39890465,"cnpj":"09039064000170","razao":"MARLECILDA DE MELO ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1168.00},
 {"ie":35417382,"cnpj":"08975742000144","razao":"MERCADINHO MAXIMO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3160.00},
-{"ie":35253843,"cnpj":"08851612000108","razao":"FILIZZOLA COMERCIO E IMPORTACAO DE ALIMENTOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":290849.90},
+{"ie":35253843,"cnpj":"08851612000108","razao":"FILIZZOLA COMERCIO E IMPORTACAO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":290849.90},
 {"ie":34383174,"cnpj":"08386671000144","razao":"LUCIA MENDES ALIMENTOS EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":46200.00},
 {"ie":34359389,"cnpj":"08337907000152","razao":"MAGAZINE SAO GABRIEL LTDA ME","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":3846.00},
 {"ie":34504494,"cnpj":"07715769000135","razao":"AKI CARNES COMERCIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":36954.98},

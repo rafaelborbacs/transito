@@ -1,14 +1,25 @@
-EstabelecimentoData.estabelecimento = [{"ie":33620350,"cnpj":"06183209000548","razao":"DB CONFECCOES S.A.","sit":"S","arrecadacao":27808.05,"entradas":48612.31,"saidas":230358.04,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"28/03/2006","contador":"ADMILTON RODRIGUES DA SILVA"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"10529420000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":33698.20},
-{"ie":37458728,"cnpj":"01838723016201","razao":"BRF S.A.","sit":"S","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":113.80},
-{"ie":32544707,"cnpj":"06183209000467","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":0.00},
-{"ie":32352891,"cnpj":"06183209000386","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":0.00},
+EstabelecimentoData.estabelecimento = [{"ie":33620350,"cnpj":"06183209000548","razao":"DB CONFECCOES S.A.","sit":"S","arrecadacao":101105.84,"entradas":493999.34,"saidas":529807.23,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"28/03/2006","contador":"ADMILTON RODRIGUES DA SILVA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"41974460000521","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":4297.91},
+{"ie":28513690,"cnpj":"04406988000144","razao":"BR PAPEIS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":235.10},
+{"ie":1832026,"cnpj":"10561165000196","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":234.29},
+{"ie":37458728,"cnpj":"01838723016201","razao":"BRF S.A.","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":227.60},
 {"ie":0,"cnpj":"04943560000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":2640.84},
-{"ie":0,"cnpj":"06183209000700","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":12159.47}];
+{"ie":0,"cnpj":"02924521000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":10360.00},
+{"ie":0,"cnpj":"10529420000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":271142.57},
+{"ie":21628149,"cnpj":"00815532000187","razao":"JAGUAR MATERIAIS ELETRICOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1200.96},
+{"ie":32352891,"cnpj":"06183209000386","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":122805.00},
+{"ie":0,"cnpj":"04376684000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":5564.91},
+{"ie":32544707,"cnpj":"06183209000467","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":60731.13},
+{"ie":0,"cnpj":"06183209000700","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":12159.47},
+{"ie":21005508,"cnpj":"10561165001915","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":299.56},
+{"ie":41395425,"cnpj":"12492158000105","razao":"EVERTON DIEGO PINTO GOMES ME","sit":"A","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":2100.00}];
 SaidasData.saidas = [{"ie":26988542,"cnpj":"41974460000874","razao":"FLAG CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":3855.25},
+{"ie":21005508,"cnpj":"10561165001915","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":3167.50},
+{"ie":0,"cnpj":"10529420000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":31133.89},
+{"ie":0,"cnpj":"06183209000971","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":49881.13},
 {"ie":0,"cnpj":"06183209000700","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":107173.14},
-{"ie":32544707,"cnpj":"06183209000467","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":66068.30},
-{"ie":32352891,"cnpj":"06183209000386","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":53261.35}];
+{"ie":32544707,"cnpj":"06183209000467","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":68238.40},
+{"ie":32352891,"cnpj":"06183209000386","razao":"DB CONFECCOES S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":266357.92}];
 SociosData.socios = [{"cpf":"52901343449","nome":"SILVANA CHAVES GONCALVES ASSIS","ie":76983803,"cnpj":"41974460001331","razao":"FLAG CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0},
 {"cpf":"52901343449","nome":"SILVANA CHAVES GONCALVES ASSIS","ie":75656906,"cnpj":"41974460001250","razao":"FLAG CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0},
 {"cpf":"52901343449","nome":"SILVANA CHAVES GONCALVES ASSIS","ie":64483568,"cnpj":"41974460000955","razao":"FLAG CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0},
@@ -111,7 +122,7 @@ SociosData.socios = [{"cpf":"52901343449","nome":"SILVANA CHAVES GONCALVES ASSIS
 {"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":22651683,"cnpj":"10561165002482","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":22264728,"cnpj":"10561165002300","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":22211950,"cnpj":"41974460000440","razao":"FLAG CONFECCOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
-{"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":21005508,"cnpj":"10561165001915","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},
+{"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":21005508,"cnpj":"10561165001915","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":18010237,"cnpj":"40881054000128","razao":"GIOCONDA DESING COMERCIO E DECORACOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":14056089,"cnpj":"10561165001834","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"10398163472","nome":"SIMONE CHAVES GONCALVES","ie":9825800,"cnpj":"10561165000862","razao":"CAVALCANTI GONCALVES & CIA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},

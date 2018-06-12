@@ -23,6 +23,7 @@ EmailsData.emails = [{"cnpj":"98982966404","email":"marcos@gmail.com","razao":"M
 {"cnpj":"10977541460","email":"marcos@gmail.com","razao":"MARCOS ANTONIO DA SILVEIRA","municipio":"RECIFE"},
 {"cnpj":"10561580421","email":"marcos@gmail.com","razao":"MARCONES CAVALCANTE","municipio":"PETROLINA"},
 {"cnpj":"08072308000154","email":"marcos@gmail.com","razao":"J A D ARAUJO & CIA LTDA","municipio":"POCAO"},
+{"cnpj":"06944662710","email":"marcos@gmail.com","razao":"MARCOS EDINARD PALMIERI DO ESPIRITO SANTO","municipio":"RECIFE"},
 {"cnpj":"06596934454","email":"marcos@gmail.com","razao":"MARCOS ROBERTO SANTOS DA SILVA (126008)","municipio":"CARUARU"},
 {"cnpj":"06397533450","email":"marcos@gmail.com","razao":"MARCOS AURELIO LINS","municipio":"RECIFE"},
 {"cnpj":"04264071488","email":"marcos@gmail.com","razao":"MARCOS ANTONIO CORDEIRO CAVALCANTI (125075)","municipio":"PESQUEIRA"},

@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":77281829,"cnpj":"30431213000139","razao":"JAILTON FRANCISCO DOS SANTOS 10091044464","sit":"A","arrecadacao":0.00,"entradas":39259.63,"saidas":111255.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"14/05/2018","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4650.00},
+EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":14602.52},
 {"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":20007.11},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":14602.52}];
+{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4650.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"83313643000112","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6630.00},
 {"ie":0,"cnpj":"81772777587","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1320.00},
 {"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2300.00},

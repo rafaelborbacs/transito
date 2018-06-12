@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":58301259,"cnpj":"20549272000152","razao":"SILVANA MARIA MARTINS NOBREGA 66493234468","sit":"A","arrecadacao":16.28,"entradas":0.00,"saidas":0.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"07/07/2014","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":58301259,"cnpj":"20549272000152","razao":"SILVANA MARIA MARTINS NOBREGA 66493234468","sit":"A","arrecadacao":28.31,"entradas":0.00,"saidas":0.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"07/07/2014","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"66493234468","nome":"SILVANA MARIA MARTINS NOBREGA","ie":58301259,"cnpj":"20549272000152","razao":"SILVANA MARIA MARTINS NOBREGA 66493234468","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1},

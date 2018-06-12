@@ -50,7 +50,7 @@ SaidasData.saidas = [{"ie":15776700,"cnpj":"35333939000152","razao":"MARIA NEVES
 {"ie":35352400,"cnpj":"08893129000188","razao":"SUPERMERCADO IMPERIAL LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":2386.48},
 {"ie":33856397,"cnpj":"08017479000180","razao":"CRIPTON DISTRIBUIDORA DE PRODUTOS DE HIGIENE E LIMPEZA LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":20950.00},
 {"ie":33481725,"cnpj":"07807806000135","razao":"J E DA CRUZ SUPERMERCADO","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":12150.00},
-{"ie":31938884,"cnpj":"07114263000170","razao":"COMERCIAL DE ALIMENTOS PONTE DOS CARVALHOS LTDA","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1141.70},
+{"ie":31938884,"cnpj":"07114263000170","razao":"COMERCIAL DE ALIMENTOS PONTE DOS CARVALHOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1141.70},
 {"ie":31526349,"cnpj":"06893441000146","razao":"R G ALBUQUERQUE PASSIRA","sit":"A","regime":"NORMAL","municipio":"PASSIRA","igi":0,"uf":"PE","valor":6000.00},
 {"ie":30950376,"cnpj":"06082872000122","razao":"GOMES OLIVEIRA MERCADINHO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":230.00},
 {"ie":46948996,"cnpj":"05275604000245","razao":"WALTER LOPES ENGENHARIA LTDA","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":60010.00},

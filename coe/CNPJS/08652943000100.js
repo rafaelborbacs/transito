@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":9301135,"cnpj":"08652943000100","razao":"LUNA FERRAGENS LTDA","sit":"C","arrecadacao":10222.69,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"MATERIAL DE CONSTRUCAO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"20/05/1983","contador":"ALBA ROSA NUNES ANANIAS"}];
-EntradasData.entradas = [];
+EstabelecimentoData.estabelecimento = [{"ie":9301135,"cnpj":"08652943000100","razao":"LUNA FERRAGENS LTDA","sit":"C","arrecadacao":16732.33,"entradas":380.00,"saidas":0.00,"regime":"NORMAL","segmento":"MATERIAL DE CONSTRUCAO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"20/05/1983","contador":"ALBA ROSA NUNES ANANIAS"}];
+EntradasData.entradas = [{"ie":68420897,"cnpj":"11825802000157","razao":"INSTITUTO FENACON","sit":"A","regime":"EC 87/2015","municipio":"BRASILIA","igi":0,"uf":"DF","valor":380.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"17823900491","nome":"IRANDY BARBOSA DE LUNA","ie":47698306,"cnpj":"09515628000609","razao":"ATACADO DOS PRESENTES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"17823900491","nome":"IRANDY BARBOSA DE LUNA","ie":33463239,"cnpj":"09515628000528","razao":"ATACADO DOS PRESENTES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},

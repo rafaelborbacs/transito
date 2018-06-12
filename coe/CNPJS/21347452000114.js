@@ -1,6 +1,10 @@
-EstabelecimentoData.estabelecimento = [{"ie":59998121,"cnpj":"21347452000114","razao":"CARUARU MINERACAO LTDA","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"CARUARU","drr":"II","igi":1,"dataie":"11/11/2014","contador":"JOBSON MYKAEL RODRIGUES BATISTA"}];
-EntradasData.entradas = [];
-SaidasData.saidas = [];
+EstabelecimentoData.estabelecimento = [{"ie":59998121,"cnpj":"21347452000114","razao":"CARUARU MINERACAO LTDA","sit":"S","arrecadacao":0.00,"entradas":11471.20,"saidas":10755.60,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"CARUARU","drr":"II","igi":1,"dataie":"11/11/2014","contador":"JOBSON MYKAEL RODRIGUES BATISTA"}];
+EntradasData.entradas = [{"ie":54135591,"cnpj":"04608635001360","razao":"TEXSA DO BRASIL LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":2888.00},
+{"ie":29654025,"cnpj":"05366688000141","razao":"IMPOLUZ COMERCIO IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":8583.20}];
+SaidasData.saidas = [{"ie":65510330,"cnpj":"20316425000111","razao":"CONSERV EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"BEZERROS","igi":0,"uf":"PE","valor":650.00},
+{"ie":0,"cnpj":"10485021000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":650.00},
+{"ie":0,"cnpj":"05375983000164","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":3210.00},
+{"ie":0,"cnpj":"01113456000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":6245.60}];
 SociosData.socios = [{"cpf":"98505351487","nome":"JOELMA MORAES NUNES SILVA","ie":59998121,"cnpj":"21347452000114","razao":"CARUARU MINERACAO LTDA","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"98505351487","nome":"JOELMA MORAES NUNES SILVA","ie":39037029,"cnpj":"10586255000131","razao":"REZENDE LOCACAO DE VEICULOS LTDA","sit":"B","regime":"NORMAL","municipio":"GARANHUNS","igi":0},
 {"cpf":"98505351487","nome":"JOELMA MORAES NUNES","ie":27927105,"cnpj":"04277443000185","razao":"BETEL DISTRIBUIDORA LTDA","sit":"B","regime":"NORMAL","municipio":"GARANHUNS","igi":0},

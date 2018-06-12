@@ -1,9 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":76885550,"cnpj":"24887164000140","razao":"VICTOR HUGO DE ALBUQUERQUE E MELLO 06826838419","sit":"A","arrecadacao":0.00,"entradas":137464.00,"saidas":0.00,"regime":"SIMEI","segmento":"ATACADO DE ALIMENTOS","municipio":"NAZARE DA MATA","drr":"I","igi":1,"dataie":"23/04/2018","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"12282034000286","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":61600.00},
-{"ie":0,"cnpj":"18073771000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":75864.00}];
+EntradasData.entradas = [{"ie":0,"cnpj":"18073771000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":75864.00},
+{"ie":0,"cnpj":"12282034000286","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":61600.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"06826838419","nome":"VICTOR HUGO DE ALBUQUERQUE E MELLO","ie":76885550,"cnpj":"24887164000140","razao":"VICTOR HUGO DE ALBUQUERQUE E MELLO 06826838419","sit":"A","regime":"SIMEI","municipio":"NAZARE DA MATA","igi":1}];
 EmailsData.emails = [{"cnpj":"30296539000109","email":"financeiro@charquedosertao.com.br","razao":"CESAR AUGUSTO PARADISO","municipio":"PETROLINA"},
+{"cnpj":"28966108000152","email":"finan.bandeirantesalimentos@gmail.com","razao":"ZORAIDE PEREIRA DA SILVA EIRELI ME","municipio":"ALIANÇA"},
 {"cnpj":"28856365000131","email":"financeiro@charquedosertao.com.br","razao":"COMERCIAL JENNIFFER DE ALIMENTOS EIRELI ME","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"28615668000162","email":"finan.bandeirantesalimentos@gmail.com","razao":"GETULIO SANTOS DA SILVA","municipio":"SALVADOR"},
 {"cnpj":"27103898000180","email":"financeiro@charquedosertao.com.br","razao":"E.R. DE ALBUQUERQUE COMERCIO","municipio":"SAO CAETANO DE ODIVELAS"},
@@ -18,8 +19,12 @@ EmailsData.emails = [{"cnpj":"30296539000109","email":"financeiro@charquedoserta
 {"cnpj":"07732587000172","email":"finan.bandeirantesalimentos@gmail.com","razao":"OBJETIVA DISTRIBUIDORA LTDA","municipio":"MACEIO"},
 {"cnpj":"06859411000113","email":"finan.bandeirantesalimentos@gmail.com","razao":"DISTRIBUIDORA UNIAO LTDA","municipio":"RECIFE"},
 {"cnpj":"06045805000138","email":"financeiro@charquedosertao.com.br","razao":"PAULISTA DISTRIBUIDORA DE ALIMENTOS LTDA","municipio":"MACEIO"},
-{"cnpj":"02501998000133","email":"financeiro@charquedosertao.com.br","razao":"J G S DISTRIBUIDORA DE ALIMENTOS LTDA","municipio":"SAO LOURENCO DA MATA"}];
+{"cnpj":"02501998000133","email":"financeiro@charquedosertao.com.br","razao":"J G S DISTRIBUIDORA DE ALIMENTOS LTDA","municipio":"SAO LOURENCO DA MATA"},
+{"cnpj":"02501998000133","email":"finan.bandeirantesalimentos@gmail.com","razao":"J G S DISTRIBUIDORA DE ALIMENTOS LTDA","municipio":"SAO LOURENCO DA MATA"}];
 TelsData.tels = [{"cnpj":"29086937000103","tel":"8182250584","razao":"JOSE JUVENCIL DA SILVA","municipio":"OURICURI"},
 {"cnpj":"28968889000114","tel":"8182250584","razao":"JESIVALDO FRANCISCO DA SILVA 02149025442","municipio":"VITORIA DE SANTO ANTAO"}];
 PlacasData.placas = [{"cnpj":"30296539000109","placa":"IAL2248","razao":"CESAR AUGUSTO PARADISO","municipio":"PETROLINA"},
-{"cnpj":"29086937000103","placa":"IAO1743","razao":"JOSE JUVENCIL DA SILVA 17774551468","municipio":"OURICURI"}];
+{"cnpj":"29086937000103","placa":"IAO1743","razao":"JOSE JUVENCIL DA SILVA 17774551468","municipio":"OURICURI"},
+{"cnpj":"29030182000125","placa":"NMG7500","razao":"JORGE FERREIRA DE LIMA 44060530425","municipio":"PETROLINA"},
+{"cnpj":"26026659000100","placa":"NMG7500","razao":"ELIEL ELIAS DOS SANTOS","municipio":"CABO DE SANTO AGOSTINHO"},
+{"cnpj":"26026086000115","placa":"NMG7500","razao":"JOSE RENATO DOS SANTOS 09547471430","municipio":"CARUARU"}];

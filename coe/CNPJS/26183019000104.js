@@ -1,5 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":68969449,"cnpj":"26183019000104","razao":"COMERCIAL MERCADOS ALIMENTOS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":2387563.02,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"19/09/2016","contador":""}];
-EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":2387563.02}];
+EstabelecimentoData.estabelecimento = [{"ie":68969449,"cnpj":"26183019000104","razao":"COMERCIAL MERCADOS ALIMENTOS LTDA EPP","sit":"C","arrecadacao":0.00,"entradas":3218871.10,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"19/09/2016","contador":""}];
+EntradasData.entradas = [{"ie":10575880,"cnpj":"09038712000174","razao":"IGAL-INDUSTRIA GRAFICA ANDRADE LTDA","sit":"A","regime":"SIMPLES","municipio":"BEZERROS","igi":0,"uf":"PE","valor":80.00},
+{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":3218791.10}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08449626439","nome":"TIAGO CLEYTON DE SOUZA SILVA","ie":73720003,"cnpj":"28678607000144","razao":"COMERCIAL CAJUEIRO LTDA ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"08449626439","nome":"TIAGO CLEYTON DE SOUZA SILVA","ie":73698245,"cnpj":"28630183000148","razao":"MERCADOS ALIMENTAR EIRELI ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},

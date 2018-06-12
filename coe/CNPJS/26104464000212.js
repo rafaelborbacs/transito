@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":73200867,"cnpj":"26104464000212","razao":"JOSE EDUARDO DOS SANTOS SILVA VAREJISTA DE TECIDOS","sit":"S","arrecadacao":0.00,"entradas":428953.02,"saidas":655059.59,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"15/08/2017","contador":""}];
-EntradasData.entradas = [{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":105661.50},
-{"ie":71288198,"cnpj":"27376196000170","razao":"JOSEANE CRISTINA DE LEMOS","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1.00},
+EntradasData.entradas = [{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":54532.58},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":66859.53},
 {"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":201898.41},
-{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":54532.58},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":66859.53}];
+{"ie":71288198,"cnpj":"27376196000170","razao":"JOSEANE CRISTINA DE LEMOS","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1.00},
+{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":105661.50}];
 SaidasData.saidas = [{"ie":0,"cnpj":"92051421315","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2018.00},
 {"ie":0,"cnpj":"84593857287","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":3027.20},
 {"ie":0,"cnpj":"83464816320","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2127.00},

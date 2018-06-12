@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":72607092,"cnpj":"27016125000247","razao":"AMANDA KELLY DO NASCIMENTO SILVA","sit":"C","arrecadacao":0.00,"entradas":613517.09,"saidas":759059.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"07/07/2017","contador":""}];
-EntradasData.entradas = [{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":52674.38},
-{"ie":0,"cnpj":"20719576000200","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":118351.33},
+EntradasData.entradas = [{"ie":0,"cnpj":"20719576000200","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":118351.33},
 {"ie":0,"cnpj":"01663834000301","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":180877.81},
 {"ie":0,"cnpj":"11462290000292","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":126174.02},
+{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":52674.38},
 {"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":30003.27},
 {"ie":0,"cnpj":"10355361000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":105436.28}];
 SaidasData.saidas = [{"ie":0,"cnpj":"90727681672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5369.00},

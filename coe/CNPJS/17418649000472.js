@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":73192821,"cnpj":"17418649000472","razao":"GIALISON PEREIRA DOS SANTOS","sit":"S","arrecadacao":0.00,"entradas":724870.66,"saidas":108966.95,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"14/08/2017","contador":""}];
 EntradasData.entradas = [{"ie":25534734,"cnpj":"02932830000182","razao":"KATIA CILENE DE LIMA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":66983.50},
 {"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":35251.63},
-{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":361849.42},
 {"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":13761.70},
-{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":43601.88},
 {"ie":70358109,"cnpj":"26852295000118","razao":"CLEIDIANA C DE APRIGIO SILVA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":11543.28},
+{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":43601.88},
+{"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":361849.42},
 {"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":40937.28},
 {"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":150941.97}];
 SaidasData.saidas = [{"ie":0,"cnpj":"56430549000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6605.50},

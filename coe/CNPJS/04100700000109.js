@@ -1,5 +1,5 @@
-EstabelecimentoData.estabelecimento = [{"ie":27627810,"cnpj":"04100700000109","razao":"EASYNET INDUSTRIA E COMERCIO DE ETIQUETAS LTDA - EPP","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"21/11/2000","contador":""}];
-EntradasData.entradas = [];
+EstabelecimentoData.estabelecimento = [{"ie":27627810,"cnpj":"04100700000109","razao":"EASYNET INDUSTRIA E COMERCIO DE ETIQUETAS LTDA - EPP","sit":"S","arrecadacao":0.00,"entradas":518.76,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"21/11/2000","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"10237375000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":518.76}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"74626353487","nome":"LUCIANE CORREIA RIBEIRO","ie":27627810,"cnpj":"04100700000109","razao":"EASYNET INDUSTRIA E COMERCIO DE ETIQUETAS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"19585209420","nome":"RICARDO JORGE REZENDE DE MELLO","ie":27627810,"cnpj":"04100700000109","razao":"EASYNET INDUSTRIA E COMERCIO DE ETIQUETAS LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},

@@ -19,4 +19,5 @@ PlacasData.placas = [{"cnpj":"29395748000112","placa":"PGF4327","razao":"JANICLE
 {"cnpj":"29395748000112","placa":"KKC1251","razao":"JANICLEA DOS SANTOS ALVES 06620313426","municipio":"SAO JOSE DO EGITO"},
 {"cnpj":"11773745441","placa":"PFA7798","razao":"ESPEDITO ANTONIO DE OLIVEIRA JUNIOR","municipio":"SALGUEIRO"},
 {"cnpj":"11773745441","placa":"PEG3097","razao":"ESPEDITO ANTONIO DE OLIVEIRA JUNIOR","municipio":"SALGUEIRO"},
-{"cnpj":"11773745441","placa":"KLE0282","razao":"ESPEDITO ANTONIO DE OLIVEIRA JUNIOR","municipio":"SALGUEIRO"}];
+{"cnpj":"11773745441","placa":"KLE0282","razao":"ESPEDITO ANTONIO DE OLIVEIRA JUNIOR","municipio":"SALGUEIRO"},
+{"cnpj":"11773745441","placa":"KKC1251","razao":"ESPEDITO ANTONIO DE OLIVEIRA JUNIOR","municipio":"SALGUEIRO"}];

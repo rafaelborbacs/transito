@@ -1,6 +1,6 @@
-EstabelecimentoData.estabelecimento = [{"ie":43220886,"cnpj":"19884626001299","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"IPOJUCA","drr":"I","igi":1,"dataie":"07/02/2011","contador":"GERSON MOURA FONSECA"}];
+EstabelecimentoData.estabelecimento = [{"ie":43220886,"cnpj":"19884626001299","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","arrecadacao":565.80,"entradas":0.00,"saidas":6306703.28,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"IPOJUCA","drr":"I","igi":1,"dataie":"07/02/2011","contador":"GERSON MOURA FONSECA"}];
 EntradasData.entradas = [];
-SaidasData.saidas = [];
+SaidasData.saidas = [{"ie":61430838,"cnpj":"21471093000374","razao":"OENGENHARIA LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":6306703.28}];
 SociosData.socios = [{"cpf":"96838841649","nome":"RODRIGO NELSON DE SENNA SOUSA LIMA","ie":43220886,"cnpj":"19884626001299","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","regime":"NORMAL","municipio":"IPOJUCA","igi":1},
 {"cpf":"96838841649","nome":"RODRIGO NELSON DE SENNA SOUSA LIMA","ie":37841262,"cnpj":"19884626001108","razao":"ORTENG EQUIPAMENTOS E SISTEMAS S.A.","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"62706322691","nome":"ADEL CESARIO HAMDAN","ie":61430838,"cnpj":"21471093000374","razao":"OENGENHARIA LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0},

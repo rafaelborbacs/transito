@@ -1,6 +1,34 @@
-EstabelecimentoData.estabelecimento = [{"ie":53199510,"cnpj":"14732476000121","razao":"NUTRALLE INDUSTRIA E COMERCIO LTDA ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"04/06/2013","contador":"ANDREA CAVALCANTE DOS SANTOS"}];
-EntradasData.entradas = [];
-SaidasData.saidas = [];
+EstabelecimentoData.estabelecimento = [{"ie":53199510,"cnpj":"14732476000121","razao":"NUTRALLE INDUSTRIA E COMERCIO LTDA ME","sit":"C","arrecadacao":0.00,"entradas":57588.10,"saidas":64194.70,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"04/06/2013","contador":"ANDREA CAVALCANTE DOS SANTOS"}];
+EntradasData.entradas = [{"ie":62696726,"cnpj":"74581091000728","razao":"DAXIA DOCE AROMA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3180.00},
+{"ie":60859709,"cnpj":"17995346000331","razao":"ADVANCE DISTRIBUIDORA DE ALIMENTOS S.A.","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":33.10},
+{"ie":47147849,"cnpj":"14837787000155","razao":"A.Q. FERREIRA-ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":14783.25},
+{"ie":0,"cnpj":"05772091000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":2850.00},
+{"ie":36072591,"cnpj":"09257659000100","razao":"CONTINENTAL COMERCIO E INDUSTRIA DE INGREDIENTES ALIMENTICIOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":36741.75}];
+SaidasData.saidas = [{"ie":0,"cnpj":"23751622000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":980.00},
+{"ie":0,"cnpj":"21216555000145","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1870.00},
+{"ie":0,"cnpj":"20269647000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4320.00},
+{"ie":51934949,"cnpj":"16849001000145","razao":"A F PAIXAO DE LIMA ME","sit":"A","regime":"NORMAL","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":2240.00},
+{"ie":0,"cnpj":"15513886000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":5150.00},
+{"ie":0,"cnpj":"12133450000131","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2950.00},
+{"ie":37153706,"cnpj":"10405817000101","razao":"PETROTRIGOS DISTRIBUIDORA DE PRODUTOS DE PADARIA LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":1516.00},
+{"ie":35555696,"cnpj":"09017023000183","razao":"PANIFICADORA BARBOSA E RODRIGUES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CARPINA","igi":0,"uf":"PE","valor":1500.00},
+{"ie":0,"cnpj":"07576200000136","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":880.00},
+{"ie":0,"cnpj":"07258332000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2432.00},
+{"ie":31951635,"cnpj":"07096289000133","razao":"OBJETIVA COMERCIO E SERVICOS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":5005.60},
+{"ie":63457512,"cnpj":"06987472000247","razao":"ARAUJO & SILVA LTDA","sit":"A","regime":"NORMAL","municipio":"TIMBAUBA","igi":0,"uf":"PE","valor":1380.00},
+{"ie":31872689,"cnpj":"06987472000166","razao":"ARAUJO & SILVA LTDA","sit":"A","regime":"NORMAL","municipio":"ITAMBE","igi":0,"uf":"PE","valor":6760.00},
+{"ie":30621801,"cnpj":"05917580000108","razao":"GILBERTO CARLOS CHAVES","sit":"A","regime":"NORMAL","municipio":"BELO JARDIM","igi":0,"uf":"PE","valor":2008.00},
+{"ie":0,"cnpj":"05772091000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":2850.00},
+{"ie":49900803,"cnpj":"05585201000200","razao":"RUBIANE CARDOSO TAVARES E CIA LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":3800.00},
+{"ie":30066468,"cnpj":"05585201000111","razao":"RUBIANE CARDOSO TAVARES E CIA LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":1900.00},
+{"ie":0,"cnpj":"05051164000161","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":875.00},
+{"ie":0,"cnpj":"04737585000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":2936.00},
+{"ie":0,"cnpj":"04626591000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2200.00},
+{"ie":0,"cnpj":"04515596000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1175.70},
+{"ie":34248048,"cnpj":"04023381000185","razao":"FR EMPRESA DE PRODUTOS ALIMENTICIOS E COMERCIO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2018.40},
+{"ie":0,"cnpj":"02816105415","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":918.00},
+{"ie":0,"cnpj":"00823109000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":3300.00},
+{"ie":0,"cnpj":"00701558000285","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3230.00}];
 SociosData.socios = [{"cpf":"16061535449","nome":"ALEXANDRE MAGNO COUTINHO DE OLIVEIRA","ie":53199510,"cnpj":"14732476000121","razao":"NUTRALLE INDUSTRIA E COMERCIO LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"16061535449","nome":"ALEXANDRE MAGNO COUTINHO DE OLIVEIRA","ie":13187210,"cnpj":"10682573000287","razao":"KITAPAN INDUSTRIA COMERCIO E REPRESENTACOES LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"16061535449","nome":"ALEXANDRE MAGNO COUTINHO DE OLIVEIRA","ie":11878649,"cnpj":"10682573000104","razao":"KITAPAN INDUSTRIA COMERCIO E REPRESENTACOES LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},

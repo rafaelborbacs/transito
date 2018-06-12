@@ -1,11 +1,12 @@
-EstabelecimentoData.estabelecimento = [{"ie":63441195,"cnpj":"22927269000150","razao":"JOSINEIDE LEANDRO DE FARIAS 01926265742","sit":"A","arrecadacao":92.93,"entradas":511219.18,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"CABO DE SANTO AGOSTINHO","drr":"I","igi":1,"dataie":"28/07/2015","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":63441195,"cnpj":"22927269000150","razao":"JOSINEIDE LEANDRO DE FARIAS 01926265742","sit":"A","arrecadacao":92.93,"entradas":745054.05,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"CABO DE SANTO AGOSTINHO","drr":"I","igi":1,"dataie":"28/07/2015","contador":""}];
 EntradasData.entradas = [{"ie":74723316,"cnpj":"18631739002100","razao":"NEOVIA NUTRICAO E SAUDE ANIMAL LTDA.","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":48876.76},
-{"ie":49133969,"cnpj":"07489678001877","razao":"SUL MINEIRA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":19409.59},
 {"ie":0,"cnpj":"50753094000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":21450.76},
-{"ie":63780569,"cnpj":"08471163001136","razao":"FVO BRASILIA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":72605.45},
-{"ie":73935719,"cnpj":"04591114000457","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":40530.25},
+{"ie":33892199,"cnpj":"03887324000262","razao":"ADIMAX - INDUSTRIA E COMERCIO DE ALIMENTOS LTDA.","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":434548.49},
 {"ie":52818144,"cnpj":"05253499000324","razao":"DCL - DISTRIBUIDORA CARDEAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":76783.16},
-{"ie":33892199,"cnpj":"03887324000262","razao":"ADIMAX - INDUSTRIA E COMERCIO DE ALIMENTOS LTDA.","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":231563.21}];
+{"ie":73935719,"cnpj":"04591114000457","razao":"NUTRANE NUTRICAO ANIMAL LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":40530.25},
+{"ie":49133969,"cnpj":"07489678001877","razao":"SUL MINEIRA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":19409.59},
+{"ie":63780569,"cnpj":"08471163001136","razao":"FVO BRASILIA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":86059.54},
+{"ie":0,"cnpj":"05132476000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":17395.50}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"01926265742","nome":"JOSINEIDE LEANDRO DE FARIAS","ie":63441195,"cnpj":"22927269000150","razao":"JOSINEIDE LEANDRO DE FARIAS 01926265742","sit":"A","regime":"SIMEI","municipio":"CABO DE SANTO AGOSTINHO","igi":1}];
 EmailsData.emails = [];
@@ -25,6 +26,7 @@ PlacasData.placas = [{"cnpj":"28189768000174","placa":"KGS2371","razao":"FLAVIA 
 {"cnpj":"10292371000148","placa":"PFM8474","razao":"JEANE RODRIGUES DA SILVA","municipio":"BONITO"},
 {"cnpj":"08951358000101","placa":"PFM8474","razao":"GENILDO PEDRO DA SILVA","municipio":"SAO LOURENCO DA MATA"},
 {"cnpj":"08951358000101","placa":"KGS2371","razao":"GENILDO PEDRO DA SILVA","municipio":"SAO LOURENCO DA MATA"},
+{"cnpj":"08795825000151","placa":"KGA2683","razao":"FARMACIA VETERINARIA LEAL LTDA","municipio":"SURUBIM"},
 {"cnpj":"08325840000136","placa":"PFM8474","razao":"J M DE LIMA RACOES","municipio":"SAIRE"},
 {"cnpj":"07880207000147","placa":"PFM8474","razao":"MUNIZ E MUNIZ SERVICOS HOSPITALARES LTDA","municipio":"RECIFE"},
 {"cnpj":"03192161442","placa":"PFM8474","razao":"JOSE MARCONI MIRANDA BARBOSA","municipio":"PASSIRA"},

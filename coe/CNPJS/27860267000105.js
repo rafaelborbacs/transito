@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":72220848,"cnpj":"27860267000105","razao":"COMERCIAL FERNANDA CLAUDIA EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":817042.92,"saidas":1256879.45,"regime":"NORMAL","segmento":"ATACADO","municipio":"JOAQUIM NABUCO","drr":"I","igi":1,"dataie":"05/06/2017","contador":""}];
 EntradasData.entradas = [{"ie":54846340,"cnpj":"06699644000287","razao":"DISTRIBUIDORA DE ALIMENTOS SANTO EXPEDITO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":139868.00},
-{"ie":6486800,"cnpj":"11328598000169","razao":"EDVAL G REGO & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":0,"uf":"PE","valor":431984.00},
-{"ie":58196870,"cnpj":"20520556000116","razao":"RELUANA CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":245190.92}];
+{"ie":58196870,"cnpj":"20520556000116","razao":"RELUANA CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":245190.92},
+{"ie":6486800,"cnpj":"11328598000169","razao":"EDVAL G REGO & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":0,"uf":"PE","valor":431984.00}];
 SaidasData.saidas = [{"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":25471.00},
 {"ie":60974052,"cnpj":"21785257000176","razao":"SUPERMERCADO SUPREMO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":15591.50},
 {"ie":59988401,"cnpj":"21363706000198","razao":"GENILSON DE OLIVEIRA - EMPREENDIMENTOS ALIMENTICIOS, COMERCIAIS E SERVICOS ME","sit":"C","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":1,"uf":"PE","valor":301012.50},

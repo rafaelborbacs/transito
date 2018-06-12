@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":71686592,"cnpj":"22675183000188","razao":"EDILSON JUSTINO GONCALVES JUNIOR 07292277403","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":152380.33,"regime":"SIMEI","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"25/04/2017","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":71686592,"cnpj":"22675183000188","razao":"EDILSON JUSTINO GONCALVES JUNIOR 07292277403","sit":"B","arrecadacao":0.00,"entradas":0.00,"saidas":152380.33,"regime":"SIMEI","segmento":"MEDICAMENTOS","municipio":"JOAO PESSOA","drr":"I","igi":1,"dataie":"25/04/2017","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"35490200000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2350.00},
 {"ie":0,"cnpj":"24072355000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1649.50},
@@ -14,7 +14,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"35490200000154","razao":"","sit":"","regime
 {"ie":0,"cnpj":"01886518000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":9000.00},
 {"ie":0,"cnpj":"01559193000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":8208.00},
 {"ie":0,"cnpj":"00853492000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":75436.33}];
-SociosData.socios = [{"cpf":"07292277403","nome":"EDILSON JUSTINO GONCALVES JUNIOR","ie":71686592,"cnpj":"22675183000188","razao":"EDILSON JUSTINO GONCALVES JUNIOR 07292277403","sit":"A","regime":"SIMEI","municipio":"RECIFE","igi":1}];
+SociosData.socios = [{"cpf":"07292277403","nome":"EDILSON JUSTINO GONCALVES JUNIOR","ie":71686592,"cnpj":"22675183000188","razao":"EDILSON JUSTINO GONCALVES JUNIOR 07292277403","sit":"B","regime":"SIMEI","municipio":"JOAO PESSOA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

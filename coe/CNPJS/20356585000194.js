@@ -1,12 +1,14 @@
-EstabelecimentoData.estabelecimento = [{"ie":57944989,"cnpj":"20356585000194","razao":"JANAINA GONCALVES FREIRE 04339821446","sit":"S","arrecadacao":8470.31,"entradas":221098.43,"saidas":0.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"03/06/2014","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07807234000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":14799.29},
-{"ie":70719063,"cnpj":"84429737000114","razao":"MALWEE MALHAS LTDA","sit":"A","regime":"EC 87/2015","municipio":"JARAGUA DO SUL","igi":0,"uf":"SC","valor":201701.71},
-{"ie":65502400,"cnpj":"06066832000197","razao":"NET+PHONE TELECOMUNICACOES LTDA","sit":"A","regime":"EC 87/2015","municipio":"SAO PAULO","igi":0,"uf":"SP","valor":838.80},
+EstabelecimentoData.estabelecimento = [{"ie":57944989,"cnpj":"20356585000194","razao":"JANAINA GONCALVES FREIRE 04339821446","sit":"S","arrecadacao":9114.07,"entradas":317259.60,"saidas":0.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"03/06/2014","contador":""}];
+EntradasData.entradas = [{"ie":65502400,"cnpj":"06066832000197","razao":"NET+PHONE TELECOMUNICACOES LTDA","sit":"A","regime":"EC 87/2015","municipio":"SAO PAULO","igi":0,"uf":"SP","valor":838.80},
+{"ie":0,"cnpj":"83108712000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":12177.37},
+{"ie":0,"cnpj":"07807234000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":14799.29},
+{"ie":70719063,"cnpj":"84429737000114","razao":"MALWEE MALHAS LTDA","sit":"A","regime":"EC 87/2015","municipio":"JARAGUA DO SUL","igi":0,"uf":"SC","valor":285685.51},
 {"ie":65687698,"cnpj":"78855830000198","razao":"KYLY INDUSTRIA TEXTIL LTDA","sit":"A","regime":"EC 87/2015","municipio":"POMERODE","igi":0,"uf":"SC","valor":3758.63}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"04339821446","nome":"JANAINA GONCALVES FREIRE","ie":57944989,"cnpj":"20356585000194","razao":"JANAINA GONCALVES FREIRE 04339821446","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [{"cnpj":"04339821446","email":"janaina-g@hotmail.com","razao":"JANAINA GONCALVES FREIRE","municipio":"RECIFE"}];
-TelsData.tels = [{"cnpj":"04060060402","tel":"8134439863","razao":"deyse augusta gouveia","municipio":"RECIFE"}];
+TelsData.tels = [{"cnpj":"04780095425","tel":"8134439863","razao":"SUERDER GONCALVES","municipio":"RECIFE"},
+{"cnpj":"04060060402","tel":"8134439863","razao":"deyse augusta gouveia","municipio":"RECIFE"}];
 PlacasData.placas = [{"cnpj":"40842593000158","placa":"LXJ4608","razao":"VITORIA CENTER MODAS LTDA(0001028187)","municipio":"VITORIA DE SANTO ANTAO"},
 {"cnpj":"27059404000107","placa":"LXJ4608","razao":"ALIANE ADJARA VITER BARBOSA SANSON(0001067840)","municipio":"RECIFE"},
 {"cnpj":"27059404000107","placa":"EFO3893","razao":"ALIANE ADJARA VITER BARBOSA SANSON(0001067840)","municipio":"RECIFE"},

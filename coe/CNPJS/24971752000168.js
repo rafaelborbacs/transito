@@ -1,6 +1,45 @@
-EstabelecimentoData.estabelecimento = [{"ie":67674941,"cnpj":"24971752000168","razao":"COMERCIAL PONTE VELHA EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"09/06/2016","contador":""}];
-EntradasData.entradas = [];
-SaidasData.saidas = [];
+EstabelecimentoData.estabelecimento = [{"ie":67674941,"cnpj":"24971752000168","razao":"COMERCIAL PONTE VELHA EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":2600816.83,"saidas":2637262.60,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"09/06/2016","contador":""}];
+EntradasData.entradas = [{"ie":49160699,"cnpj":"15777224000181","razao":"A.L. LEMOS DE FIGUEIREDO - ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":11980.50},
+{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":286259.72},
+{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":178400.00},
+{"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":99964.26},
+{"ie":41843436,"cnpj":"09165988000113","razao":"F ARRUDA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1797606.22},
+{"ie":49976621,"cnpj":"10633811000264","razao":"GRUPO TOTAL BRASIL INDUSTRIA DE DESCARTAVEIS LTDA","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":43939.20},
+{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":182666.93}];
+SaidasData.saidas = [{"ie":66125200,"cnpj":"24205220000110","razao":"SUPERMERCADO PORTO DO MAR LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":105074.94},
+{"ie":65877985,"cnpj":"24059497000181","razao":"SUPERMERCADO ESCADENSE LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":79918.61},
+{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":22397.00},
+{"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":49866.16},
+{"ie":60974052,"cnpj":"21785257000176","razao":"SUPERMERCADO SUPREMO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":22748.89},
+{"ie":0,"cnpj":"21522808000613","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":23814.00},
+{"ie":59988401,"cnpj":"21363706000198","razao":"GENILSON DE OLIVEIRA - EMPREENDIMENTOS ALIMENTICIOS, COMERCIAIS E SERVICOS ME","sit":"C","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":1,"uf":"PE","valor":162560.00},
+{"ie":56287925,"cnpj":"19621824000107","razao":"AVENIDA SUPERMERCADO LTDA","sit":"B","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":82639.97},
+{"ie":49901290,"cnpj":"16781701000145","razao":"REDE UNIAO COMERCIO DE ALIMENTOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":35157.80},
+{"ie":49769324,"cnpj":"16683395000104","razao":"COMERCIAL MASSANGANA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10035.00},
+{"ie":0,"cnpj":"16644245000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":29030.00},
+{"ie":57261741,"cnpj":"15595792000242","razao":"MARCELA E BRAZ ALIMENTOS LTDA - ME","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":49420.90},
+{"ie":48760676,"cnpj":"15595792000161","razao":"MARCELA E BRAZ ALIMENTOS LTDA ME","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":11771.00},
+{"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":47700.00},
+{"ie":44097441,"cnpj":"13611324000108","razao":"T. R. SIEDLER - EPP","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":4733.65},
+{"ie":42494370,"cnpj":"12991068000169","razao":"MERCADINHO CAMPEAO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":60345.59},
+{"ie":0,"cnpj":"12090769000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":49114.25},
+{"ie":40272800,"cnpj":"12034308000137","razao":"VAREJAO MIX ARMARINHO LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":45124.84},
+{"ie":7906218,"cnpj":"11701000000135","razao":"INDUSTRIA & COMERCIO CAFE OURO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":43545.00},
+{"ie":38452812,"cnpj":"11022710000139","razao":"KARLA FLORENCIO CAVALCANTI EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":65062.16},
+{"ie":38129523,"cnpj":"10891287000140","razao":"C. V. A. - COMERCIO VAREJISTA DE ALIMENTOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":50115.89},
+{"ie":36321990,"cnpj":"09369684000178","razao":"ATACADAO DE ALIMENTOS SANTANA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":33217.62},
+{"ie":38523779,"cnpj":"09334092000110","razao":"CANHOTINHO ALIMENTOS COMERCIO VAREJISTA LTDA ME","sit":"A","regime":"NORMAL","municipio":"CANHOTINHO","igi":0,"uf":"PE","valor":1704.76},
+{"ie":47325534,"cnpj":"08208391000146","razao":"UNIDOS HORTIFRUTIGRANJEIROS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":182966.20},
+{"ie":34477403,"cnpj":"07694626000194","razao":"CASA DE FARINHA S.A.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":533207.27},
+{"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":81061.46},
+{"ie":30767504,"cnpj":"05938234000106","razao":"N PAES DE MELO JUNIOR COMERCIO EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":95040.64},
+{"ie":30144957,"cnpj":"05651747000123","razao":"ARMARINHO COMERCIO E VAREJOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":158003.17},
+{"ie":28707036,"cnpj":"04771599000118","razao":"ARCOVERDE PAGUE MENOS SUPERMERCADOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":31208.98},
+{"ie":26681730,"cnpj":"03571373000100","razao":"NECTAR TOP LTDA","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":357199.78},
+{"ie":25761633,"cnpj":"03047105000194","razao":"MELZUM INDUSTRIA & COMERCIO EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":40600.00},
+{"ie":0,"cnpj":"03002943000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":23814.00},
+{"ie":25083465,"cnpj":"02712671000100","razao":"G N TORRES","sit":"A","regime":"SIMPLES","municipio":"MIRANDIBA","igi":0,"uf":"PE","valor":30237.77},
+{"ie":21645400,"cnpj":"00743071000184","razao":"ALIMENTACAO PERFEITA NORDESTE LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":18825.30}];
 SociosData.socios = [{"cpf":"07091535464","nome":"CASSIANA PATRICIA DOS SANTOS","ie":67674941,"cnpj":"24971752000168","razao":"COMERCIAL PONTE VELHA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"07091535464","nome":"CASSIANA PATRICIA DOS SANTOS","ie":34307907,"cnpj":"08342474000123","razao":"LUARA DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];

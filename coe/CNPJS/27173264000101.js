@@ -7,7 +7,7 @@ SaidasData.saidas = [{"ie":70119031,"cnpj":"26773410000169","razao":"COMERCIAL D
 {"ie":66129117,"cnpj":"24186949000196","razao":"P A SUPERMERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":1324.00},
 {"ie":65573765,"cnpj":"23917802000166","razao":"OLIVEIRA E SANTOS SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":980.00},
 {"ie":65167341,"cnpj":"23730212000120","razao":"BORBA & PEIXOTO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5220.00},
-{"ie":65170997,"cnpj":"23714035000198","razao":"MONTEIRO & AMARO COMERCIO DE ALIMENTOS LTDA EPP","sit":"S","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":1322.00},
+{"ie":65170997,"cnpj":"23714035000198","razao":"MONTEIRO & AMARO COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":1322.00},
 {"ie":64383180,"cnpj":"23373397000162","razao":"E K P SILVA ANDRADE SUPERMERCADO ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":302.00},
 {"ie":63810735,"cnpj":"23157578000151","razao":"JOSE N NUNES JUNIOR ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":26671.00},
 {"ie":63242311,"cnpj":"22851022000106","razao":"SUPERMERCADO DELICIAS DA CASA LTDA  ME","sit":"B","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":195.00},

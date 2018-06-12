@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":76214931,"cnpj":"29845144000120","razao":"TIAGO JOSE DA SILVA 05366261465","sit":"C","arrecadacao":300.00,"entradas":515042.40,"saidas":2124226.41,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"12/03/2018","contador":""}];
-EntradasData.entradas = [{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":7300.00},
+EntradasData.entradas = [{"ie":71899740,"cnpj":"24332700000222","razao":"WAND & MAX CONFECCOES LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":351185.44},
 {"ie":16261836,"cnpj":"35605732000190","razao":"JADIAEL LIMA BEZERRA EIRELI ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":156556.96},
-{"ie":71899740,"cnpj":"24332700000222","razao":"WAND & MAX CONFECCOES LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":351185.44}];
+{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":7300.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99852705334","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1900.00},
 {"ie":0,"cnpj":"97548852000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1550.00},
 {"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":4900.00},

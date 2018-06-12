@@ -1,6 +1,14 @@
-EstabelecimentoData.estabelecimento = [{"ie":24348902,"cnpj":"01898061000180","razao":"COTONFIL LTDA","sit":"A","arrecadacao":1255.24,"entradas":5671.13,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"27/01/1998","contador":"SEBASTIAO LIMA PIMENTEL"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"40500043000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1251.00},
-{"ie":0,"cnpj":"12185022000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4420.13}];
+EstabelecimentoData.estabelecimento = [{"ie":24348902,"cnpj":"01898061000180","razao":"COTONFIL LTDA","sit":"A","arrecadacao":4211.00,"entradas":21476.00,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"27/01/1998","contador":"SEBASTIAO LIMA PIMENTEL"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"51490126000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2363.19},
+{"ie":10683771,"cnpj":"10777548000104","razao":"INFA-INSTITUTO FARMACEUTICO PERFECT LTDA","sit":"B","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":1760.00},
+{"ie":66731984,"cnpj":"02216104000163","razao":"INDUSTRIAS BECKER LTDA","sit":"A","regime":"EC 87/2015","municipio":"SAO JOSE DE MIPIBU","igi":0,"uf":"RN","valor":1438.35},
+{"ie":0,"cnpj":"40500043000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1251.00},
+{"ie":736287,"cnpj":"10777548000104","razao":"INFA-INSTITUTO FARMACEUTICO PERFECT LTDA","sit":"A","regime":"SIMPLES","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":1760.00},
+{"ie":38843765,"cnpj":"02748323000193","razao":"OLINDA INDUSTRIA E COMERCIO DE COLCHOES LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1007.99},
+{"ie":0,"cnpj":"12185022000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8720.04},
+{"ie":0,"cnpj":"00573283000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2041.33},
+{"ie":21628149,"cnpj":"00815532000187","razao":"JAGUAR MATERIAIS ELETRICOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":191.40},
+{"ie":0,"cnpj":"04196584000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2702.70}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"88218732420","nome":"JANNE FREITAS DE CARVALHO","ie":31412840,"cnpj":"01898061000342","razao":"COTONFIL LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"88218732420","nome":"JANNE FREITAS DE CARVALHO","ie":28114566,"cnpj":"01898061000261","razao":"COTONFIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},

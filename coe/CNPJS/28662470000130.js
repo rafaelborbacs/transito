@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":73838004,"cnpj":"28662470000130","razao":"JOSENI DE LIMA SOUSA 05594315462","sit":"C","arrecadacao":0.00,"entradas":137906.25,"saidas":389895.24,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"25/09/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"03442526000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":40132.00},
-{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":49884.40},
-{"ie":27397980,"cnpj":"03853964000170","razao":"VIA TEXTIL JORDAO MORAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":19037.85},
-{"ie":41889347,"cnpj":"12729332000190","razao":"R & J SCHAEFER COMERCIO ATACADISTA DE TECIDOS, IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":28852.00}];
+EntradasData.entradas = [{"ie":27397980,"cnpj":"03853964000170","razao":"VIA TEXTIL JORDAO MORAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":19037.85},
+{"ie":41889347,"cnpj":"12729332000190","razao":"R & J SCHAEFER COMERCIO ATACADISTA DE TECIDOS, IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":28852.00},
+{"ie":0,"cnpj":"03442526000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":40132.00},
+{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":49884.40}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97548852000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2010.00},
 {"ie":0,"cnpj":"96414740306","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1870.00},
 {"ie":0,"cnpj":"84454156000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":7000.00},

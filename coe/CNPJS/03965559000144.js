@@ -1,9 +1,18 @@
-EstabelecimentoData.estabelecimento = [{"ie":27371751,"cnpj":"03965559000144","razao":"FEMEA MODAS LTDA - EPP","sit":"S","arrecadacao":0.00,"entradas":16935.05,"saidas":0.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"30/08/2000","contador":"CARLOMANO GOMES DA SILVA JUNIOR"}];
-EntradasData.entradas = [{"ie":51273195,"cnpj":"03413165000426","razao":"R. MARINHO MALHAS - EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5035.98},
-{"ie":0,"cnpj":"04103987000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1653.00},
-{"ie":31701957,"cnpj":"04917296000594","razao":"AVIL TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6865.66},
-{"ie":32272863,"cnpj":"04917296000837","razao":"AVIL TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3380.41}];
-SaidasData.saidas = [];
+EstabelecimentoData.estabelecimento = [{"ie":27371751,"cnpj":"03965559000144","razao":"FEMEA MODAS LTDA - EPP","sit":"S","arrecadacao":937.47,"entradas":163670.85,"saidas":72695.88,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"30/08/2000","contador":"CARLOMANO GOMES DA SILVA JUNIOR"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"17166401000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1838.00},
+{"ie":17239796,"cnpj":"35707538000115","razao":"NILA LUCIA RIBEIRO EIRELI","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":6032.63},
+{"ie":51273195,"cnpj":"03413165000426","razao":"R. MARINHO MALHAS - EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":27036.07},
+{"ie":65171888,"cnpj":"23731736000135","razao":"ARTMAX BOBINAS E ETIQUETAS LTDA","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":174.00},
+{"ie":31701957,"cnpj":"04917296000594","razao":"AVIL TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":86027.99},
+{"ie":0,"cnpj":"04103987000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2113.80},
+{"ie":28725360,"cnpj":"04740554000186","razao":"3A TECNOLOGIA LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":908.00},
+{"ie":28330005,"cnpj":"04081862000147","razao":"INTERAMINENSE PLASTICOS LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":7237.20},
+{"ie":32272863,"cnpj":"04917296000837","razao":"AVIL TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":32181.16},
+{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":122.00}];
+SaidasData.saidas = [{"ie":32999887,"cnpj":"07577120000103","razao":"ERMIDA INDUSTRIA E COMERCIO LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":11860.00},
+{"ie":47395907,"cnpj":"03965559000497","razao":"FEMEA MODAS LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":17429.47},
+{"ie":40231100,"cnpj":"03965559000306","razao":"FEMEA MODAS LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":18367.71},
+{"ie":29389526,"cnpj":"03965559000225","razao":"FEMEA MODAS LTDA - EPP","sit":"C","regime":"NORMAL","municipio":"CAMARAGIBE","igi":1,"uf":"PE","valor":25038.70}];
 SociosData.socios = [{"cpf":"74439375472","nome":"MARCELO PERES DA SILVA","ie":47621184,"cnpj":"03965559000578","razao":"FEMEA MODAS LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"74439375472","nome":"MARCELO PERES DA SILVA","ie":47395907,"cnpj":"03965559000497","razao":"FEMEA MODAS LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"74439375472","nome":"MARCELO PERES DA SILVA","ie":40231100,"cnpj":"03965559000306","razao":"FEMEA MODAS LTDA - EPP","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},

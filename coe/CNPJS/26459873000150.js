@@ -1,8 +1,8 @@
-EstabelecimentoData.estabelecimento = [{"ie":69550026,"cnpj":"26459873000150","razao":"PAULO ALTEMIR ALMEIDA VICTOR EIRELI ME","sit":"C","arrecadacao":34606.93,"entradas":959132.00,"saidas":152093.94,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"ARCOVERDE","drr":"II","igi":1,"dataie":"01/11/2016","contador":"RODRIGO BEZERRA DE BARROS"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"61120309000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":109110.00},
-{"ie":26110407,"cnpj":"03297662000163","razao":"GIRLEY CARNEIRO SANTOS ME","sit":"A","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":2970.00},
-{"ie":0,"cnpj":"08824097000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":179830.00},
-{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":667222.00}];
+EstabelecimentoData.estabelecimento = [{"ie":69550026,"cnpj":"26459873000150","razao":"PAULO ALTEMIR ALMEIDA VICTOR EIRELI ME","sit":"C","arrecadacao":39751.96,"entradas":1140672.00,"saidas":152093.94,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"ARCOVERDE","drr":"II","igi":1,"dataie":"01/11/2016","contador":"RODRIGO BEZERRA DE BARROS"}];
+EntradasData.entradas = [{"ie":26110407,"cnpj":"03297662000163","razao":"GIRLEY CARNEIRO SANTOS ME","sit":"A","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":2970.00},
+{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":716272.00},
+{"ie":0,"cnpj":"61120309000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":241600.00},
+{"ie":0,"cnpj":"08824097000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":179830.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"61120309000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":24832.00},
 {"ie":70364699,"cnpj":"26895577000100","razao":"CELINA CRISTINA VIDAL DA COSTA ME","sit":"A","regime":"SIMPLES","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":2700.00},
 {"ie":58127631,"cnpj":"20402447000102","razao":"ELVYS M. DOS SANTOS MERGULHAO ME","sit":"A","regime":"NORMAL","municipio":"PEDRA","igi":0,"uf":"PE","valor":1120.00},

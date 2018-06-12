@@ -1,6 +1,8 @@
-EstabelecimentoData.estabelecimento = [{"ie":43018203,"cnpj":"11755987000170","razao":"IMPACTO INDUSTRIA DE PAPEL E DISTRIBUIDORA DE CERAMICAS LTDA - ME","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":0.00,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"20/01/2011","contador":"FERNANDO LUIZ DE ARAUJO BARBOSA"}];
-EntradasData.entradas = [];
-SaidasData.saidas = [];
+EstabelecimentoData.estabelecimento = [{"ie":43018203,"cnpj":"11755987000170","razao":"IMPACTO INDUSTRIA DE PAPEL E DISTRIBUIDORA DE CERAMICAS LTDA - ME","sit":"C","arrecadacao":0.00,"entradas":95040.00,"saidas":481023.36,"regime":"NORMAL","segmento":"INDUSTRIA","municipio":"VITORIA DE SANTO ANTAO","drr":"II","igi":1,"dataie":"20/01/2011","contador":"FERNANDO LUIZ DE ARAUJO BARBOSA"}];
+EntradasData.entradas = [{"ie":0,"cnpj":"70224654001156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":95040.00}];
+SaidasData.saidas = [{"ie":0,"cnpj":"15513587000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":124104.96},
+{"ie":70257507,"cnpj":"15444419000100","razao":"UNIKCENTER ACESSORIOS E PECAS AUTOMOTIVOS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":201709.44},
+{"ie":69218684,"cnpj":"15442400000124","razao":"COPACABANA PISOS E REVESTIMENTOS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":155208.96}];
 SociosData.socios = [{"cpf":"55492525468","nome":"ARTHUR GUIMARAES REGO","ie":43018203,"cnpj":"11755987000170","razao":"IMPACTO INDUSTRIA DE PAPEL E DISTRIBUIDORA DE CERAMICAS LTDA - ME","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1},
 {"cpf":"55492525468","nome":"ARTHUR GUIMARAES REGO","ie":35836946,"cnpj":"01898201000382","razao":"NOTEBOOK NEWS COMERCIO E IMPORTACAO DE ELETROELETRONICOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"55492525468","nome":"ARTHUR GUIMARAES REGO","ie":35792981,"cnpj":"01898201000200","razao":"NOTEBOOK NEWS COMERCIO E IMPORTACAO DE ELETROELETRONICOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
