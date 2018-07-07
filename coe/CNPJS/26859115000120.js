@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":70337101,"cnpj":"26859115000120","razao":"JOSE ROBERTO NUNES DE LIMA 18766518814","sit":"A","arrecadacao":13.00,"entradas":54115.09,"saidas":106042.10,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"16/01/2017","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":70337101,"cnpj":"26859115000120","razao":"JOSE ROBERTO NUNES DE LIMA 18766518814","sit":"A","arrecadacao":13.00,"entradas":54115.09,"saidas":106042.10,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"16/01/2017","contador":"SANDRA ROGERIA CESARIO DA SILVA"}];
 EntradasData.entradas = [{"ie":23689510,"cnpj":"01912239000109","razao":"SUPERFIOS TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":53915.09},
 {"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":200.00}];
 SaidasData.saidas = [{"ie":19127715,"cnpj":"41115080000108","razao":"LAJ COMERCIO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":40262.80},
@@ -13,7 +13,7 @@ SaidasData.saidas = [{"ie":19127715,"cnpj":"41115080000108","razao":"LAJ COMERCI
 {"ie":67293808,"cnpj":"24790994000155","razao":"S C DA SILVA COMERCIO EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1225.00},
 {"ie":66006899,"cnpj":"23413083000146","razao":"G & B MINIMERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":689.00},
 {"ie":63657104,"cnpj":"23030585000198","razao":"CASTRO E SILVA DISTRIBUIDORA DE MATERIAL DE LIMPEZA EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":4900.00},
-{"ie":59146630,"cnpj":"20972823000196","razao":"CLLS COMERCIO DE PRODUTOS DE LIMPEZA LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":476.00},
+{"ie":59146630,"cnpj":"20972823000196","razao":"CLLS COMERCIO DE PRODUTOS DE LIMPEZA LTDA ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":476.00},
 {"ie":58432515,"cnpj":"20676670000130","razao":"L R CORREIA DE MELO CAVALCANTI VARIEDADES","sit":"A","regime":"SIMPLES","municipio":"PAULISTA","igi":0,"uf":"PE","valor":255.00},
 {"ie":58255559,"cnpj":"20555176000117","razao":"SUPERMERCADO BEMDEZ LTDA ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":945.00},
 {"ie":55940811,"cnpj":"19457137000106","razao":"BRAVI CONSUMIVEIS DE HIGIENE E DESCARTAVEIS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1690.00},

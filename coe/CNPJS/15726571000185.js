@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":49212320,"cnpj":"15726571000185","razao":"RITA DE CASSIA DA SILVA","sit":"C","arrecadacao":23.58,"entradas":25265.81,"saidas":160820.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"GRAVATA","drr":"II","igi":1,"dataie":"10/07/2012","contador":""}];
-EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":2653.57},
-{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":4550.00},
-{"ie":66718457,"cnpj":"11695541000521","razao":"DISTRIBUIDORA E IMPORTADORA DE TECIDOS LUCENA LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":18062.24}];
+EntradasData.entradas = [{"ie":66718457,"cnpj":"11695541000521","razao":"DISTRIBUIDORA E IMPORTADORA DE TECIDOS LUCENA LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":18062.24},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":2653.57},
+{"ie":25862901,"cnpj":"03096316000117","razao":"EDINALDO CARLINDO DE ARAUJO EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":4550.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"73597732453","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1800.00},
 {"ie":0,"cnpj":"29148638889","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1080.00},
 {"ie":0,"cnpj":"26890503000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":8850.00},

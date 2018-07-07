@@ -6,7 +6,7 @@ EntradasData.entradas = [{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCI
 {"ie":0,"cnpj":"79114450023700","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":46362.00},
 {"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1194535.00}];
 SaidasData.saidas = [{"ie":67093892,"cnpj":"24682412000117","razao":"J LEITE DE ARAUJO MERCADINHO ME","sit":"A","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":205814.37},
-{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":128392.00},
+{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":128392.00},
 {"ie":60609788,"cnpj":"21601238000142","razao":"D PEREIRA CAMPOS ESTIVAS E CEREAIS EPP","sit":"B","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":30797.00},
 {"ie":54856574,"cnpj":"19042702000166","razao":"GERCINA FERREIRA SANTOS SUPERMERCADOS","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":3060.00},
 {"ie":52187640,"cnpj":"17752108000133","razao":"RENATO C RIBEIRO MINE-MERCADO SAO PEDRO - ME","sit":"A","regime":"NORMAL","municipio":"SANHARO","igi":0,"uf":"PE","valor":4800.00},

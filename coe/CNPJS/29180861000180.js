@@ -12,7 +12,7 @@ SaidasData.saidas = [{"ie":71720952,"cnpj":"27611872000142","razao":"SEMPRE VIVA
 {"ie":34673504,"cnpj":"08362335000161","razao":"DM COMBUSTIVEIS LTDA","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":330.00},
 {"ie":34345833,"cnpj":"08202753000191","razao":"LUCIMARIO SILVA DE OLIVEIRA","sit":"S","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":39000.00},
 {"ie":30866820,"cnpj":"06034420000175","razao":"MERCADINHO RIO CLARO LTDA.","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":800.00},
-{"ie":39963799,"cnpj":"03714422000117","razao":"GLOBAL COMERCIO DE CARNES LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":640.00},
+{"ie":39963799,"cnpj":"03714422000117","razao":"GLOBAL COMERCIO DE CARNES LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":640.00},
 {"ie":25800981,"cnpj":"02998548000106","razao":"SIVINI PETROLEO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":330.00}];
 SociosData.socios = [{"cpf":"70193457431","nome":"CLEYDSON GOMES DA SILVA","ie":75097079,"cnpj":"29316047000140","razao":"C.R REPRESENTACOES E COMERCIO DE ALIMENTOS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"JUREMA","igi":1},
 {"cpf":"70193457431","nome":"CLEYDSON GOMES DA SILVA","ie":74827871,"cnpj":"29180861000180","razao":"CLEYDSON GOMES DA SILVA EPP","sit":"C","regime":"NORMAL","municipio":"BREJAO","igi":1},

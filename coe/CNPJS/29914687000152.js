@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":76346099,"cnpj":"29914687000152","razao":"WYLLYEVERTON DE SOUZA SILVA 11362542423","sit":"B","arrecadacao":0.00,"entradas":60793.43,"saidas":180909.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"BOQUEIRAO","drr":"I","igi":1,"dataie":"19/03/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":76346099,"cnpj":"29914687000152","razao":"WYLLYEVERTON DE SOUZA SILVA 11362542423","sit":"B","arrecadacao":0.00,"entradas":60793.43,"saidas":202451.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"BOQUEIRAO","drr":"I","igi":1,"dataie":"19/03/2018","contador":""}];
 EntradasData.entradas = [{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":50000.18},
 {"ie":0,"cnpj":"68146810000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":10793.25}];
 SaidasData.saidas = [{"ie":0,"cnpj":"74939661504","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":750.00},
@@ -20,15 +20,18 @@ SaidasData.saidas = [{"ie":0,"cnpj":"74939661504","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"27737505000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":8000.00},
 {"ie":0,"cnpj":"27079775000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1936.00},
 {"ie":0,"cnpj":"26326580000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":800.00},
+{"ie":0,"cnpj":"26287835000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3800.00},
 {"ie":0,"cnpj":"26210512000257","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1350.00},
 {"ie":0,"cnpj":"26099097000125","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":700.00},
 {"ie":0,"cnpj":"25034171000162","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1440.00},
 {"ie":0,"cnpj":"24794171000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7130.00},
 {"ie":0,"cnpj":"24408887000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1500.00},
 {"ie":0,"cnpj":"24028841000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3538.00},
+{"ie":0,"cnpj":"23972798000139","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":7872.00},
 {"ie":0,"cnpj":"23719018000143","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1400.00},
 {"ie":0,"cnpj":"23659028000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1500.00},
 {"ie":0,"cnpj":"22463238000196","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1500.00},
+{"ie":0,"cnpj":"21915494000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":3500.00},
 {"ie":0,"cnpj":"21164444000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2100.00},
 {"ie":0,"cnpj":"20276563000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1200.00},
 {"ie":0,"cnpj":"20268103000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2660.00},
@@ -41,12 +44,14 @@ SaidasData.saidas = [{"ie":0,"cnpj":"74939661504","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"14095032000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1000.00},
 {"ie":0,"cnpj":"13557051000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4700.00},
 {"ie":0,"cnpj":"12924060702","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1400.00},
+{"ie":0,"cnpj":"12723101000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3520.00},
 {"ie":0,"cnpj":"12660343748","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":600.00},
 {"ie":0,"cnpj":"12586659000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3080.00},
 {"ie":0,"cnpj":"12003971424","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2000.00},
 {"ie":0,"cnpj":"11448485630","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":300.00},
 {"ie":0,"cnpj":"10603647944","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1400.00},
 {"ie":0,"cnpj":"09073957000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":5220.00},
+{"ie":0,"cnpj":"08501119784","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":805.00},
 {"ie":0,"cnpj":"07259240000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4950.00},
 {"ie":0,"cnpj":"06545342339","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1200.00},
 {"ie":0,"cnpj":"06121095423","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":8000.00},
@@ -59,6 +64,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"74939661504","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"02314084047","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":600.00},
 {"ie":0,"cnpj":"01852819000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2500.00},
 {"ie":0,"cnpj":"01434879000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":8200.00},
+{"ie":0,"cnpj":"01078460477","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2045.00},
 {"ie":0,"cnpj":"00121098192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":170.00}];
 SociosData.socios = [{"cpf":"11362542423","nome":"WYLLYEVERTON DE SOUZA SILVA","ie":76346099,"cnpj":"29914687000152","razao":"WYLLYEVERTON DE SOUZA SILVA 11362542423","sit":"B","regime":"SIMEI","municipio":"BOQUEIRAO","igi":1}];
 EmailsData.emails = [];

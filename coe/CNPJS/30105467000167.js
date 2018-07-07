@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":76634809,"cnpj":"30105467000167","razao":"INACIO RODRIGUES DE FREITAS FILHO","sit":"S","arrecadacao":0.00,"entradas":0.00,"saidas":26824.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CUSTODIA","drr":"II","igi":1,"dataie":"05/04/2018","contador":"WALLACE CRISTINO BISPO"}];
+EstabelecimentoData.estabelecimento = [{"ie":76634809,"cnpj":"30105467000167","razao":"INACIO RODRIGUES DE FREITAS FILHO","sit":"C","arrecadacao":78.83,"entradas":0.00,"saidas":26824.00,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CUSTODIA","drr":"II","igi":1,"dataie":"05/04/2018","contador":"WALLACE CRISTINO BISPO"}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":44862938,"cnpj":"97529952000139","razao":"NASCIMENTO & REIS SUPERMERCADOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":1045.00},
 {"ie":20169744,"cnpj":"70068283000199","razao":"BETANIA MARIA FERREIRA ARAUJO DANTAS","sit":"A","regime":"NORMAL","municipio":"SERTANIA","igi":0,"uf":"PE","valor":475.00},
@@ -14,7 +14,7 @@ SaidasData.saidas = [{"ie":44862938,"cnpj":"97529952000139","razao":"NASCIMENTO 
 {"ie":30803829,"cnpj":"06016266000109","razao":"PEDRO VIEIRA CAMPOS","sit":"A","regime":"SIMPLES","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":350.00},
 {"ie":74152300,"cnpj":"05553541000241","razao":"SUPERMERCADO O GRANDE RIO DE CUSTODIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":1459.00},
 {"ie":30022843,"cnpj":"05553541000160","razao":"SUPERMERCADO O GRANDE RIO DE CUSTODIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":855.00}];
-SociosData.socios = [{"cpf":"09008288460","nome":"INACIO RODRIGUES DE FREITAS FILHO","ie":76634809,"cnpj":"30105467000167","razao":"INACIO RODRIGUES DE FREITAS FILHO","sit":"S","regime":"NORMAL","municipio":"CUSTODIA","igi":1}];
+SociosData.socios = [{"cpf":"09008288460","nome":"INACIO RODRIGUES DE FREITAS FILHO","ie":76634809,"cnpj":"30105467000167","razao":"INACIO RODRIGUES DE FREITAS FILHO","sit":"C","regime":"NORMAL","municipio":"CUSTODIA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

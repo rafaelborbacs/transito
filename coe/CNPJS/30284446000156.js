@@ -1,9 +1,10 @@
-EstabelecimentoData.estabelecimento = [{"ie":76976190,"cnpj":"30284446000156","razao":"GENILSON ARAUJO DA SILVA","sit":"A","arrecadacao":0.00,"entradas":215668.48,"saidas":3460763.71,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"DORMENTES","drr":"III","igi":1,"dataie":"24/04/2018","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"05359982000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2122.50},
-{"ie":0,"cnpj":"24777125000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":1684.80},
-{"ie":0,"cnpj":"13230246000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":201547.68},
+EstabelecimentoData.estabelecimento = [{"ie":76976190,"cnpj":"30284446000156","razao":"GENILSON ARAUJO DA SILVA","sit":"C","arrecadacao":0.00,"entradas":224068.68,"saidas":3460763.71,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"DORMENTES","drr":"III","igi":1,"dataie":"24/04/2018","contador":""}];
+EntradasData.entradas = [{"ie":0,"cnpj":"24777125000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":10084.80},
+{"ie":75787687,"cnpj":"29640900000185","razao":"REAL FESTAS E DESCARTAVEIS COMERCIO VAREJISTA LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":0.20},
 {"ie":0,"cnpj":"06142621000196","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":413.50},
-{"ie":35945648,"cnpj":"09175609000176","razao":"SOMAR COMERCIO E TRANSPORTES DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":9900.00}];
+{"ie":35945648,"cnpj":"09175609000176","razao":"SOMAR COMERCIO E TRANSPORTES DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":9900.00},
+{"ie":0,"cnpj":"13230246000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":201547.68},
+{"ie":0,"cnpj":"05359982000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2122.50}];
 SaidasData.saidas = [{"ie":20181876,"cnpj":"70174511000105","razao":"PADELLE DISTRIBUIDORA DE UTENSILIOS DOMESTICOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":43088.50},
 {"ie":74622471,"cnpj":"29074231000121","razao":"A NEVES DE QUEIROZ EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"OROBO","igi":0,"uf":"PE","valor":37140.00},
 {"ie":69972010,"cnpj":"26727035000110","razao":"ATACAREJO NOVA ALDEIA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":312696.07},
@@ -30,14 +31,15 @@ SaidasData.saidas = [{"ie":20181876,"cnpj":"70174511000105","razao":"PADELLE DIS
 {"ie":29336759,"cnpj":"04955676000190","razao":"J R ESTRELA ATACADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":9855.00},
 {"ie":28393180,"cnpj":"04545623000109","razao":"S MANOEL SOUZA MERCADINHO","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":22637.37},
 {"ie":22767126,"cnpj":"01329442000149","razao":"MINERACAO PAULISTA LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTE DO LERIO","igi":0,"uf":"PE","valor":5405.00}];
-SociosData.socios = [{"cpf":"01540086488","nome":"GENILSON ARAUJO DA SILVA","ie":76976190,"cnpj":"30284446000156","razao":"GENILSON ARAUJO DA SILVA","sit":"A","regime":"NORMAL","municipio":"DORMENTES","igi":1},
+SociosData.socios = [{"cpf":"01540086488","nome":"GENILSON ARAUJO DA SILVA","ie":76976190,"cnpj":"30284446000156","razao":"GENILSON ARAUJO DA SILVA","sit":"C","regime":"NORMAL","municipio":"DORMENTES","igi":1},
 {"cpf":"01540086488","nome":"GENILSON ARAUJO DA SILVA","ie":67293638,"cnpj":"24790914000161","razao":"COMERCIAL PEGA LEVE EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":1},
 {"cpf":"01540086488","nome":"GENILSON ARAUJO DA SILVA","ie":36646270,"cnpj":"09571918000165","razao":"C G ALIMENTOS E FRIOS LTDA","sit":"B","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"29480327000190","tel":"8132220000","razao":"THIAGO SANTOS DE LIMA COMERCIO","municipio":"PEDRA"},
+TelsData.tels = [{"cnpj":"30722891000150","tel":"8132220000","razao":"JOSE CARLOS DA SILVA BISNETO COMERCIO DE ALIMENTOS","municipio":"TUPARETAMA"},
+{"cnpj":"29480327000190","tel":"8132220000","razao":"THIAGO SANTOS DE LIMA COMERCIO","municipio":"PEDRA"},
 {"cnpj":"28901196000104","tel":"8132220000","razao":"FJ ACESSORIOS PARA CELULAR LTDA","municipio":"RECIFE"},
 {"cnpj":"28548962000107","tel":"8132220000","razao":"PETRONIO PINTO DE CAMPOS ME","municipio":"RECIFE"},
-{"cnpj":"26158586000100","tel":"8132220000","razao":"COMERCIAL NOVA CRUZ EIRELI ME","municipio":"OLINDA"},
+{"cnpj":"26158586000100","tel":"8132220000","razao":"COMERCIAL NOVA CRUZ EIRELI - ME","municipio":"OLINDA"},
 {"cnpj":"22566221000164","tel":"8132220000","razao":"COMÉRCIO E INDÚSTRIA DE ALIMENTOS CANDEIAS LTDA -","municipio":"Jaboatão dos Guararapes"},
 {"cnpj":"17991863000170","tel":"8132220000","razao":"R MARIA DE ANDRADE EPP","municipio":"OLINDA"}];
 PlacasData.placas = [];

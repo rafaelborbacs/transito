@@ -1,0 +1,40 @@
+EstabelecimentoData.estabelecimento = [{"ie":55852955,"cnpj":"19257602000157","razao":"EDILANGELO E IZOA COMERCIO LTDA - ME","sit":"C","arrecadacao":2506.96,"entradas":8794.00,"saidas":269510.32,"regime":"SIMPLES","segmento":"SUPERMERCADOS","municipio":"PALMARES","drr":"I","igi":1,"dataie":"17/12/2013","contador":"ALEX KARRAN MARQUES RAMOS PEREIRA"}];
+EntradasData.entradas = [{"ie":26124610,"cnpj":"03264619000100","razao":"MARIA DAS NEVES SANTOS DE ANDRADE-ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":450.00},
+{"ie":48482099,"cnpj":"15393030000182","razao":"MARCINEIDE MARIA DA SILVA RODRIGUES","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3209.00},
+{"ie":55706207,"cnpj":"19353238000129","razao":"P COSME DA SILVA JUNIOR ME","sit":"A","regime":"NORMAL","municipio":"QUIPAPA","igi":0,"uf":"PE","valor":969.00},
+{"ie":30143713,"cnpj":"05635573000105","razao":"J ARIMATEIA SANTOS DE ANDRADE ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":3235.00},
+{"ie":65885309,"cnpj":"24070705000143","razao":"ATACADAO DE ALIMENTOS TRIUNFO LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":931.00}];
+SaidasData.saidas = [{"ie":18828132,"cnpj":"69898468000141","razao":"M L SILVA FILHO-RIBEIRAO","sit":"A","regime":"NORMAL","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":5486.30},
+{"ie":17130352,"cnpj":"35702547000113","razao":"A RODRIGUES FILHO","sit":"A","regime":"SIMPLES","municipio":"MARAIAL","igi":0,"uf":"PE","valor":1673.70},
+{"ie":69217106,"cnpj":"26287131000195","razao":"E A LINS MERCADINHO EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"TAMANDARE","igi":0,"uf":"PE","valor":2241.90},
+{"ie":65885309,"cnpj":"24070705000143","razao":"ATACADAO DE ALIMENTOS TRIUNFO LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":31884.60},
+{"ie":65877632,"cnpj":"24059093000198","razao":"MELHOR PRECO SUPERMERCADO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CATENDE","igi":0,"uf":"PE","valor":1184.00},
+{"ie":57583943,"cnpj":"20221525000164","razao":"MERCANTIL GAMELEIRA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":505.00},
+{"ie":55706207,"cnpj":"19353238000129","razao":"P COSME DA SILVA JUNIOR ME","sit":"A","regime":"NORMAL","municipio":"QUIPAPA","igi":0,"uf":"PE","valor":9470.00},
+{"ie":53956907,"cnpj":"18614902000183","razao":"EZEQUIAS B DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"TAMANDARE","igi":0,"uf":"PE","valor":322.00},
+{"ie":52823903,"cnpj":"18066796000140","razao":"N M DE OLIVEIRA EIRELI - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":582.00},
+{"ie":50203282,"cnpj":"16958009000140","razao":"I V MERCEARIA, COMERCIO DE PRODUTOS ALIMENTICIOS LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":1519.00},
+{"ie":46172904,"cnpj":"14344094000120","razao":"IVANIL R DE ARRUDA - ME","sit":"A","regime":"NORMAL","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":9189.00},
+{"ie":44259603,"cnpj":"13645558000176","razao":"JOSE C SOARES MERCADINHO LTDA","sit":"B","regime":"NORMAL","municipio":"SIRINHAEM","igi":0,"uf":"PE","valor":440.00},
+{"ie":42343089,"cnpj":"12833270000162","razao":"A DE B SILVA SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"BARREIROS","igi":0,"uf":"PE","valor":732.00},
+{"ie":42841194,"cnpj":"12603693000196","razao":"J CAMPOS ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"GAMELEIRA","igi":0,"uf":"PE","valor":466.90},
+{"ie":38998882,"cnpj":"11350192000263","razao":"QUEIROZ SUPERMERCADOS LTDA","sit":"A","regime":"NORMAL","municipio":"AMARAJI","igi":0,"uf":"PE","valor":10630.10},
+{"ie":38873320,"cnpj":"11335169000119","razao":"SUPERMERCADO CHA GRANDE LTDA","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":49628.80},
+{"ie":73825530,"cnpj":"08473685000286","razao":"SOUZA & MELO COMERCIO VAREJISTA DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"QUIPAPA","igi":0,"uf":"PE","valor":7710.42},
+{"ie":38397102,"cnpj":"05128987000300","razao":"LUIS AMARO SILVA NETO ME","sit":"S","regime":"NORMAL","municipio":"QUIPAPA","igi":0,"uf":"PE","valor":7042.00},
+{"ie":29250102,"cnpj":"05128987000148","razao":"LUIS AMARO SILVA NETO ME","sit":"S","regime":"NORMAL","municipio":"QUIPAPA","igi":0,"uf":"PE","valor":20164.50},
+{"ie":28606515,"cnpj":"04491448000106","razao":"M.M.SILVA RIBEIRAO EPP","sit":"A","regime":"NORMAL","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":6414.00},
+{"ie":51530694,"cnpj":"04127762000376","razao":"SUPERMERCADO LEALDADE LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":51443.00},
+{"ie":27593908,"cnpj":"04127762000104","razao":"SUPERMERCADO LEALDADE LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":917.00},
+{"ie":27444570,"cnpj":"04006833000110","razao":"E. FRANCISCO DA SILVA RIBEIRAO","sit":"S","regime":"SIMPLES","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":295.00},
+{"ie":25573713,"cnpj":"02942406000119","razao":"RIVALDO SOARES & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"XEXEU","igi":0,"uf":"PE","valor":3967.22},
+{"ie":54617740,"cnpj":"02534585000236","razao":"SUPERMERCADO QUEIROZ LTDA","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":27266.98},
+{"ie":24728721,"cnpj":"02505332000153","razao":"EDVALDO PAULO LIRA MERCADINHO","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":3976.80},
+{"ie":24398080,"cnpj":"02309894000121","razao":"MARIA LOURDES SILVA SANTOS","sit":"A","regime":"NORMAL","municipio":"SAO BENEDITO DO SUL","igi":0,"uf":"PE","valor":9343.00},
+{"ie":24243396,"cnpj":"01892524000105","razao":"LINDINALVA M DA SILVA ME","sit":"A","regime":"NORMAL","municipio":"SIRINHAEM","igi":0,"uf":"PE","valor":5015.10}];
+SociosData.socios = [{"cpf":"01378493460","nome":"IZOA IRIS PIMENTEL MIRANDA DE CARVALHO","ie":55852955,"cnpj":"19257602000157","razao":"EDILANGELO E IZOA COMERCIO LTDA - ME","sit":"C","regime":"SIMPLES","municipio":"PALMARES","igi":1},
+{"cpf":"01091092443","nome":"EDILANGELO DA SILVA MIRANDA DE CARVALHO","ie":69055360,"cnpj":"26226007000110","razao":"EDILANGELO DA SILVA MIRANDA DE CARVALHO","sit":"C","regime":"NORMAL","municipio":"PALMARES","igi":1},
+{"cpf":"01091092443","nome":"EDILANGELO DA SILVA MIRANDA DE CARVALHO","ie":55852955,"cnpj":"19257602000157","razao":"EDILANGELO E IZOA COMERCIO LTDA - ME","sit":"C","regime":"SIMPLES","municipio":"PALMARES","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];
+PlacasData.placas = [];

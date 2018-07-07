@@ -1,9 +1,9 @@
-EstabelecimentoData.estabelecimento = [{"ie":76995224,"cnpj":"30329366000170","razao":"ALEX DE SOUZA TORRES","sit":"A","arrecadacao":0.00,"entradas":334760.40,"saidas":1594608.90,"regime":"NORMAL","segmento":"TECIDOS","municipio":"FREI MIGUELINHO","drr":"II","igi":1,"dataie":"30/04/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":76995224,"cnpj":"30329366000170","razao":"ALEX DE SOUZA TORRES","sit":"C","arrecadacao":0.00,"entradas":334760.40,"saidas":1594608.90,"regime":"NORMAL","segmento":"TECIDOS","municipio":"FREI MIGUELINHO","drr":"II","igi":1,"dataie":"30/04/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":45950.00},
 {"ie":58739670,"cnpj":"20827856000142","razao":"JAN TEXTIL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":82000.00},
+{"ie":0,"cnpj":"08080487000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":144600.00},
 {"ie":0,"cnpj":"14344779000258","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":60710.40},
-{"ie":36564893,"cnpj":"09548160000144","razao":"MARIA ADENILZA DA S SOUZA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1500.00},
-{"ie":0,"cnpj":"08080487000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":144600.00}];
+{"ie":36564893,"cnpj":"09548160000144","razao":"MARIA ADENILZA DA S SOUZA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1500.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"92561896668","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7023.00},
 {"ie":0,"cnpj":"90727681672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7163.00},
 {"ie":0,"cnpj":"90449649687","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":6990.00},
@@ -152,8 +152,8 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92561896668","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"20207746000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":734.00},
 {"ie":0,"cnpj":"19999758000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3036.00},
 {"ie":0,"cnpj":"19995575000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":2896.00},
-{"ie":71886419,"cnpj":"19779564000364","razao":"ANDERSON QUIRINO SILVA COMERCIO ME","sit":"S","regime":"SIMPLES","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":5095.00},
-{"ie":65870034,"cnpj":"19779564000283","razao":"ANDERSON QUIRINO SILVA COMERCIO ME","sit":"S","regime":"SIMPLES","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":5165.00},
+{"ie":71886419,"cnpj":"19779564000364","razao":"ANDERSON QUIRINO SILVA COMERCIO ME","sit":"A","regime":"SIMPLES","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":5095.00},
+{"ie":65870034,"cnpj":"19779564000283","razao":"ANDERSON QUIRINO SILVA COMERCIO ME","sit":"A","regime":"SIMPLES","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":5165.00},
 {"ie":56668139,"cnpj":"19779564000100","razao":"ANDERSON QUIRINO SILVA COMERCIO ME","sit":"S","regime":"SIMPLES","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":5310.00},
 {"ie":0,"cnpj":"19671717000274","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":1805.00},
 {"ie":0,"cnpj":"19415346000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":720.00},
@@ -333,7 +333,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92561896668","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00378673000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":799.00},
 {"ie":0,"cnpj":"00318000000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1000.00},
 {"ie":0,"cnpj":"00172889000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":1010.00}];
-SociosData.socios = [{"cpf":"13237180440","nome":"ALEX DE SOUZA TORRES","ie":76995224,"cnpj":"30329366000170","razao":"ALEX DE SOUZA TORRES","sit":"A","regime":"NORMAL","municipio":"FREI MIGUELINHO","igi":1}];
+SociosData.socios = [{"cpf":"13237180440","nome":"ALEX DE SOUZA TORRES","ie":76995224,"cnpj":"30329366000170","razao":"ALEX DE SOUZA TORRES","sit":"C","regime":"NORMAL","municipio":"FREI MIGUELINHO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

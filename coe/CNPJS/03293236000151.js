@@ -1,8 +1,8 @@
-EstabelecimentoData.estabelecimento = [{"ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","arrecadacao":13796.74,"entradas":2176420.05,"saidas":759309.23,"regime":"NORMAL","segmento":"TECIDOS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"28/07/1999","contador":"VANILSON ROBERTO OLIVEIRA VILELA"}];
+EstabelecimentoData.estabelecimento = [{"ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","arrecadacao":13796.72,"entradas":2177000.10,"saidas":759309.23,"regime":"NORMAL","segmento":"TECIDOS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"28/07/1999","contador":"VANILSON ROBERTO OLIVEIRA VILELA"}];
 EntradasData.entradas = [{"ie":26893401,"cnpj":"03083850000270","razao":"FIABESA GUARARAPES S/A","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":298758.29},
 {"ie":0,"cnpj":"05242345000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":27000.00},
 {"ie":0,"cnpj":"85217404000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":9154.70},
-{"ie":0,"cnpj":"09000527000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1841507.06}];
+{"ie":0,"cnpj":"09000527000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1842087.11}];
 SaidasData.saidas = [{"ie":20109920,"cnpj":"70175161000100","razao":"ARMAZEM 4 CANTOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":9255.54},
 {"ie":0,"cnpj":"54405351015","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":14174.09},
 {"ie":0,"cnpj":"35450790000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":7986.00},

@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":72409029,"cnpj":"27974144000103","razao":"COMERCIAL JANIRE DO CARMO MEDINO EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":91800.68,"saidas":2220573.52,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"CATENDE","drr":"I","igi":1,"dataie":"16/06/2017","contador":""}];
-EntradasData.entradas = [{"ie":52237680,"cnpj":"17765451000112","razao":"EBOM ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":460.00},
-{"ie":29748003,"cnpj":"40884595000290","razao":"COMERCIAL OESTE LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":91338.02},
+EntradasData.entradas = [{"ie":29748003,"cnpj":"40884595000290","razao":"COMERCIAL OESTE LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":91338.02},
+{"ie":52237680,"cnpj":"17765451000112","razao":"EBOM ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":460.00},
 {"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUSTO DE QUEIROZ BATISTA","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":2.66}];
 SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUSTO DE QUEIROZ BATISTA","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":817.80},
 {"ie":48220809,"cnpj":"70175336000170","razao":"BONANCA PRODUTOS ALIMENTICIOS E CESTAS BASICAS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":11950.45},
@@ -8,7 +8,7 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":70357560,"cnpj":"26877468000152","razao":"A&C COMERCIO VAREJISTA LTDA","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":101292.50},
 {"ie":70120803,"cnpj":"26768875000121","razao":"AVISTAO AUTOSERVICO LTDA.","sit":"A","regime":"NORMAL","municipio":"SERTANIA","igi":0,"uf":"PE","valor":8404.00},
 {"ie":69323984,"cnpj":"26354966000110","razao":"I.B. DE OLIVEIRA EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":15134.00},
-{"ie":68214804,"cnpj":"25265821000180","razao":"J.L. LEITE JUNIOR MERCADINHO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":8000.00},
+{"ie":68214804,"cnpj":"25265821000180","razao":"J.L. LEITE JUNIOR MERCADINHO EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":8000.00},
 {"ie":67014348,"cnpj":"24638487000109","razao":"DOIS RIOS COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":63331.10},
 {"ie":66692806,"cnpj":"24446209000141","razao":"DOIS RIOS VAREJAO ESTRELA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6710.00},
 {"ie":66688108,"cnpj":"24429732000160","razao":"FTP COMERCIO DE ALIMENTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":787.10},
@@ -22,7 +22,7 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":60756659,"cnpj":"21669235000140","razao":"G&G COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":104361.10},
 {"ie":59965037,"cnpj":"21332750000130","razao":"V S COMERCIO ATACADISTA DE HORTIFRUTEGRANJEIROS E TRANSPORTES EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":306000.00},
 {"ie":58245081,"cnpj":"20534381000104","razao":"SUPERMERCADO NOVA ERA EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":10058.00},
-{"ie":58049738,"cnpj":"20430358000161","razao":"PFR ALIMENTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":263.65},
+{"ie":58049738,"cnpj":"20430358000161","razao":"PFR ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":263.65},
 {"ie":56287925,"cnpj":"19621824000107","razao":"AVENIDA SUPERMERCADO LTDA","sit":"B","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":47538.93},
 {"ie":55867472,"cnpj":"19431948000120","razao":"G. R. VAREJAO ECONOMICO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":43624.60},
 {"ie":54856574,"cnpj":"19042702000166","razao":"GERCINA FERREIRA SANTOS SUPERMERCADOS","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":668.40},

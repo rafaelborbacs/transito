@@ -19,7 +19,7 @@ SaidasData.saidas = [{"ie":18837395,"cnpj":"40833907000156","razao":"JOSE N NUNE
 {"ie":55318100,"cnpj":"19207337000100","razao":"SUPERMERCADO MEGACOMPRAS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2710.80},
 {"ie":54828953,"cnpj":"19017918000171","razao":"MERCADINHO MB  - EIRELI - EPP","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":7413.45},
 {"ie":54421764,"cnpj":"18784605000186","razao":"ERIBELTON PEREIRA DA SILVA ME","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"uf":"PE","valor":72.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3915.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3915.00},
 {"ie":0,"cnpj":"17740538000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":26479.13},
 {"ie":49109901,"cnpj":"15702371000192","razao":"MARIA ERBENIA M. AMORIM ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5460.00},
 {"ie":49135406,"cnpj":"15624575000152","razao":"LEMOS MERCANTIL DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":670.00},

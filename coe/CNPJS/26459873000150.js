@@ -1,5 +1,5 @@
 EstabelecimentoData.estabelecimento = [{"ie":69550026,"cnpj":"26459873000150","razao":"PAULO ALTEMIR ALMEIDA VICTOR EIRELI ME","sit":"C","arrecadacao":39751.96,"entradas":1140672.00,"saidas":152093.94,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"ARCOVERDE","drr":"II","igi":1,"dataie":"01/11/2016","contador":"RODRIGO BEZERRA DE BARROS"}];
-EntradasData.entradas = [{"ie":26110407,"cnpj":"03297662000163","razao":"GIRLEY CARNEIRO SANTOS ME","sit":"A","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":2970.00},
+EntradasData.entradas = [{"ie":26110407,"cnpj":"03297662000163","razao":"GIRLEY CARNEIRO SANTOS ME","sit":"S","regime":"SIMPLES","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":2970.00},
 {"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":716272.00},
 {"ie":0,"cnpj":"61120309000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":241600.00},
 {"ie":0,"cnpj":"08824097000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":179830.00}];

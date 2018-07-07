@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":19213123,"cnpj":"69923860000101","razao":"MIRANDA TECIDOS LTDA","sit":"A","arrecadacao":1214.33,"entradas":2429.00,"saidas":44503.51,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"24/08/1993","contador":"WANDEMBERGUE DE ANDRADE COSTA"}];
+EstabelecimentoData.estabelecimento = [{"ie":19213123,"cnpj":"69923860000101","razao":"MIRANDA TECIDOS LTDA","sit":"A","arrecadacao":1248.11,"entradas":2429.00,"saidas":44503.51,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"24/08/1993","contador":"WANDEMBERGUE DE ANDRADE COSTA"}];
 EntradasData.entradas = [{"ie":35326905,"cnpj":"07626697000230","razao":"VIP INFORMATICA LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":1780.00},
 {"ie":0,"cnpj":"00445335000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":649.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"38875449000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":40978.31},

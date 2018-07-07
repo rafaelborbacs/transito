@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":72861045,"cnpj":"28199952000103","razao":"COMERCIAL LUIZ PAULO DA SILVA EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":47633.57,"saidas":3115329.01,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"LAGOA DO ITAENGA","drr":"I","igi":1,"dataie":"18/07/2017","contador":""}];
-EntradasData.entradas = [{"ie":54954231,"cnpj":"19069853000108","razao":"AGRESTEMIL INDUSTRIA E COMERCIO DE ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":9920.00},
+EntradasData.entradas = [{"ie":54954231,"cnpj":"19069853000108","razao":"AGRESTEMIL INDUSTRIA E COMERCIO DE ALIMENTOS EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":9920.00},
 {"ie":29748003,"cnpj":"40884595000290","razao":"COMERCIAL OESTE LTDA","sit":"A","regime":"NORMAL","municipio":"PETROLANDIA","igi":0,"uf":"PE","valor":37713.57}];
 SaidasData.saidas = [{"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H DA COSTA MERCEARIA ME","sit":"A","regime":"NORMAL","municipio":"CHA DE ALEGRIA","igi":0,"uf":"PE","valor":60318.67},
 {"ie":16909305,"cnpj":"35600691000149","razao":"EMANUELI CRISTINI SILVA PINHEIRO INTERAMINENSE SUPERMERCADOS EPP","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":440.00},
 {"ie":71274308,"cnpj":"27351215000103","razao":"MERCADINHO SANTA MARIA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA MARIA DO CAMBUCA","igi":0,"uf":"PE","valor":21589.00},
-{"ie":68214804,"cnpj":"25265821000180","razao":"J.L. LEITE JUNIOR MERCADINHO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":49687.50},
+{"ie":68214804,"cnpj":"25265821000180","razao":"J.L. LEITE JUNIOR MERCADINHO EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":49687.50},
 {"ie":66692806,"cnpj":"24446209000141","razao":"DOIS RIOS VAREJAO ESTRELA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":30261.67},
 {"ie":65662270,"cnpj":"23951314000175","razao":"M.M. DE OLIVEIRA MINIMERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":930.00},
 {"ie":64876535,"cnpj":"23612972000132","razao":"A. C. DE AMORIM SOUZA COMERCIO DE ALIMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2458.50},
@@ -12,7 +12,7 @@ SaidasData.saidas = [{"ie":18971105,"cnpj":"41235649000179","razao":"CLAUDIO E H
 {"ie":60756659,"cnpj":"21669235000140","razao":"G&G COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":88883.58},
 {"ie":59965037,"cnpj":"21332750000130","razao":"V S COMERCIO ATACADISTA DE HORTIFRUTEGRANJEIROS E TRANSPORTES EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":84000.00},
 {"ie":58196870,"cnpj":"20520556000116","razao":"RELUANA CONFECCOES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":922570.00},
-{"ie":58049738,"cnpj":"20430358000161","razao":"PFR ALIMENTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1707.62},
+{"ie":58049738,"cnpj":"20430358000161","razao":"PFR ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1707.62},
 {"ie":56287925,"cnpj":"19621824000107","razao":"AVENIDA SUPERMERCADO LTDA","sit":"B","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":90649.75},
 {"ie":54326184,"cnpj":"18710324000340","razao":"SUPERMERCADOS IBS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":10260.00},
 {"ie":54326001,"cnpj":"18710324000260","razao":"SUPERMERCADOS IBS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":4204.00},

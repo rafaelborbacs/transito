@@ -1,12 +1,12 @@
 EstabelecimentoData.estabelecimento = [{"ie":75182939,"cnpj":"29389396000192","razao":"SAO LUIS ALIMENTOS LTDA","sit":"C","arrecadacao":3218.80,"entradas":786464.40,"saidas":368097.85,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"GOIANA","drr":"I","igi":1,"dataie":"09/01/2018","contador":"JOSE ANTONIO BARBOSA JUNIOR"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"03376307000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":47850.00},
-{"ie":0,"cnpj":"07764918000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":74145.00},
-{"ie":0,"cnpj":"01513995000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":25350.00},
-{"ie":0,"cnpj":"15126453000136","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":20105.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"01513995000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":25350.00},
+{"ie":0,"cnpj":"07764918000237","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":438760.00},
 {"ie":0,"cnpj":"03860617000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":34110.50},
+{"ie":0,"cnpj":"07764918000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":74145.00},
+{"ie":0,"cnpj":"03376307000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":47850.00},
 {"ie":0,"cnpj":"07817316000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":134115.80},
 {"ie":0,"cnpj":"04985298000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":12028.10},
-{"ie":0,"cnpj":"07764918000237","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":438760.00}];
+{"ie":0,"cnpj":"15126453000136","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":20105.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"45182210876","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":20.00},
 {"ie":16996100,"cnpj":"35609866000189","razao":"VAREJAO MOINHO OLIVEIRA LTDA ME","sit":"A","regime":"NORMAL","municipio":"MACAPARANA","igi":0,"uf":"PE","valor":1245.00},
 {"ie":0,"cnpj":"29093652000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":75835.00},

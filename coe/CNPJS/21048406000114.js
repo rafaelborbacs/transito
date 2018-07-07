@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":59347880,"cnpj":"21048406000114","razao":"ARNALDO RODRIGUES BEZERRA 13476149404","sit":"A","arrecadacao":28.07,"entradas":9824.48,"saidas":242393.84,"regime":"SIMEI","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"24/09/2014","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":59347880,"cnpj":"21048406000114","razao":"ARNALDO RODRIGUES BEZERRA 13476149404","sit":"A","arrecadacao":29.07,"entradas":9824.48,"saidas":242393.84,"regime":"SIMEI","segmento":"INDUSTRIA","municipio":"RECIFE","drr":"I","igi":1,"dataie":"24/09/2014","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"25276804000149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1367.37},
 {"ie":30640695,"cnpj":"05932542000116","razao":"OLINDAFER-FERROS E ACO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6327.06},
 {"ie":0,"cnpj":"18181313000159","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2130.05}];

@@ -1,0 +1,43 @@
+EstabelecimentoData.estabelecimento = [{"ie":62408798,"cnpj":"22414852000168","razao":"GERALDO A LIRA NETO ME","sit":"A","arrecadacao":2.24,"entradas":267266.81,"saidas":0.00,"regime":"SIMPLES","segmento":"BEBIDAS","municipio":"TAMANDARE","drr":"I","igi":1,"dataie":"18/05/2015","contador":""}];
+EntradasData.entradas = [{"ie":63544830,"cnpj":"22974502000156","razao":"NOVO ENGENHO COMERCIO DE BEBIDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":835.20},
+{"ie":28824857,"cnpj":"02678694000227","razao":"RECIFE DOCES E CARAMELOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5118.62},
+{"ie":35684402,"cnpj":"05390477000225","razao":"INGA DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2216.10},
+{"ie":38212935,"cnpj":"93209765033392","razao":"WMS SUPERMERCADOS DO BRASIL LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":15315.38},
+{"ie":20876181,"cnpj":"00395333000167","razao":"COBEPAL COMERCIAL BEBIDAS DE PALMARES EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":26780.04},
+{"ie":57227993,"cnpj":"16622166000937","razao":"CERVEJARIA PETROPOLIS DE PERNAMBUCO LTDA.","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":152884.22},
+{"ie":36907847,"cnpj":"93209765031420","razao":"WMS SUPERMERCADOS DO BRASIL LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":23529.65},
+{"ie":23175400,"cnpj":"01682695000100","razao":"NOTARO ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"BELO JARDIM","igi":0,"uf":"PE","valor":2040.00},
+{"ie":29400945,"cnpj":"05087553000147","razao":"CAVALCANTI BEBIDAS LTDA","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":6578.62},
+{"ie":20126344,"cnpj":"70089974000179","razao":"COMERCIAL VITA NORTE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":17538.93},
+{"ie":33083916,"cnpj":"07620045000108","razao":"HB ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":129.15},
+{"ie":93343,"cnpj":"33009911005440","razao":"SOUZA CRUZ LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":7987.89},
+{"ie":29793904,"cnpj":"05429222000148","razao":"DISTRIBUIDORA E LOGISTICA DE PERNAMBUCO IMPORTACAO E EXPORTACAO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6313.01}];
+SaidasData.saidas = [];
+SociosData.socios = [{"cpf":"10126046409","nome":"GERALDO ARAUJO LIRA NETO","ie":62408798,"cnpj":"22414852000168","razao":"GERALDO A LIRA NETO ME","sit":"A","regime":"SIMPLES","municipio":"TAMANDARE","igi":1}];
+EmailsData.emails = [{"cnpj":"10126046409","email":"geraldonetoana@hotmail.com","razao":"Geraldo  Araújo Lira Neto","municipio":"Tamandaré"}];
+TelsData.tels = [];
+PlacasData.placas = [{"cnpj":"35702547000113","placa":"PGX4802","razao":"A RODRIGUES FILHO","municipio":"MARAIAL"},
+{"cnpj":"29665153000130","placa":"PFO8290","razao":"ALEJANDRA ODETTE HENRIQUEZ BAEZ 08182187117","municipio":"FERNANDO DE NORONHA"},
+{"cnpj":"26640545000156","placa":"PFO8290","razao":"ALBERTINO ALUINO DOS REIS 04483939483","municipio":"IPOJUCA"},
+{"cnpj":"24925587000108","placa":"PGX4802","razao":"ANDRE LUIS WANDERLEY RODRIGUES","municipio":"MARAIAL"},
+{"cnpj":"22840991000153","placa":"PFO8290","razao":"GALO PADEIRO PANIFICADORA LTDA ME","municipio":"RECIFE"},
+{"cnpj":"22434887449","placa":"PFO8290","razao":"CLEIDE LIMA","municipio":"RECIFE"},
+{"cnpj":"20607356000103","placa":"KHB5820","razao":"JORDAO COMERCIO DE ALIMENTOS LTDA - 21156","municipio":"RECIFE"},
+{"cnpj":"20607356000103","placa":"JFQ4046","razao":"JORDAO COMERCIO DE ALIMENTOS LTDA - 21156","municipio":"RECIFE"},
+{"cnpj":"20607356000103","placa":"AGC1482","razao":"JORDAO COMERCIO DE ALIMENTOS LTDA - 21156","municipio":"RECIFE"},
+{"cnpj":"20344336000260","placa":"MPY9637","razao":"NATRIELLI RESTAURANTE E DELIVERY LTDA ME - 23819","municipio":"CABO DE SANTO AGOSTINHO"},
+{"cnpj":"19275134000143","placa":"PFO8290","razao":"MEIRYSTELA PEREIRA GOMES 37551787453","municipio":"IPOJUCA"},
+{"cnpj":"15128282000184","placa":"MPY9637","razao":"COMERCIAL DE ALIMENTOS JABOATAO LTDA - 14186","municipio":"JABOATAO DOS GUARARAPES"},
+{"cnpj":"15128282000184","placa":"AGC1482","razao":"COMERCIAL DE ALIMENTOS JABOATAO LTDA - 14186","municipio":"JABOATAO DOS GUARARAPES"},
+{"cnpj":"14219606000127","placa":"PFO8290","razao":"DOMINGOS SAVIO DA SILVA JUNIOR MERCADINHO ME","municipio":"RECIFE"},
+{"cnpj":"13932679000360","placa":"PFO8290","razao":"BOA VIAGEM HORTIFRUTI LTDA","municipio":"RECIFE"},
+{"cnpj":"13229032000105","placa":"PFO8290","razao":"ROSILDA MARIA DA SILVA 07112398436","municipio":"IPOJUCA"},
+{"cnpj":"12751746000116","placa":"PFO8290","razao":"CARMITA MARIA DA SILVA","municipio":"CABO DE SANTO AGOSTINHO"},
+{"cnpj":"10375642000129","placa":"PGX4802","razao":"ROSALVO FAGNER DE VASCONCELOS MEIRA ME","municipio":"PALMARES"},
+{"cnpj":"08659022000170","placa":"PFO8290","razao":"S D DAS MERCES ME","municipio":"RECIFE"},
+{"cnpj":"08302542000120","placa":"PFO8290","razao":"ELIETE M DA SILVA ME","municipio":"IPOJUCA"},
+{"cnpj":"06112810000116","placa":"PGX4802","razao":"JOSE LUIZ COUTOSIM","municipio":"SAO JOSE DA COROA GRANDE"},
+{"cnpj":"06112810000116","placa":"PFO8290","razao":"JOSE LUIZ COUTOSIM","municipio":"SAO JOSE DA COROA GRANDE"},
+{"cnpj":"05748376000100","placa":"PFO8290","razao":"MARIA LUCIA LOURENCO ME","municipio":"OLINDA"},
+{"cnpj":"05390477000306","placa":"PFO8290","razao":"INGA DISTRIBUIDORA LTDA","municipio":"RECIFE"},
+{"cnpj":"03864176441","placa":"PGX4802","razao":"KLEITON PRETESTATO LIRA DE SANTANA","municipio":"PALMARES"}];

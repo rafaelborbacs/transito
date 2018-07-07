@@ -6,7 +6,9 @@ SociosData.socios = [{"cpf":"09901446406","nome":"MANOEL FERREIRA DE SOUZA JUNIO
 EmailsData.emails = [{"cnpj":"29528522000142","email":"diretoria@gmail.com","razao":"V JUNIOR DE S SILVA","municipio":"CASINHAS"},
 {"cnpj":"28385828000124","email":"diretoria@gmail.com","razao":"MERCADINHO DMAIS EIRELI ME","municipio":"PAULISTA"}];
 TelsData.tels = [];
-PlacasData.placas = [{"cnpj":"30378766000175","placa":"MUL6929","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
+PlacasData.placas = [{"cnpj":"30646743000102","placa":"MUI3891","razao":"EDVALDO JOSE DA SILVA EIRELI","municipio":"CANHOTINHO"},
+{"cnpj":"30640959000152","placa":"CYI5945","razao":"J JOAO DA SILVA BEBIDAS","municipio":"BUIQUE"},
+{"cnpj":"30378766000175","placa":"MUL6929","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30378766000175","placa":"MUI3891","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30378766000175","placa":"IAG8559","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},
 {"cnpj":"30378766000175","placa":"CYI5945","razao":"MANOEL F DE SOUZA JUNIOR EIRELI","municipio":"ALIANCA"},

@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":72101083,"cnpj":"27794705000184","razao":"J E SILVA DE LIMA REPRESENTACAO DE ALIMENTOS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":462953.51,"saidas":1819212.71,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"23/05/2017","contador":""}];
 EntradasData.entradas = [{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":100690.16},
-{"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL CENTRAL DE GENEROS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":21570.00},
 {"ie":53544552,"cnpj":"18440282000103","razao":"V. C. DE SOUSA FRIOS - EIRELI  ME","sit":"S","regime":"NORMAL","municipio":"PAULISTA","igi":1,"uf":"PE","valor":207760.00},
-{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":132933.35}];
+{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":132933.35},
+{"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL CENTRAL DE GENEROS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":21570.00}];
 SaidasData.saidas = [{"ie":19327137,"cnpj":"41106188000134","razao":"GENERAL GOODS LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":36981.20},
 {"ie":70812608,"cnpj":"27111130000158","razao":"MERCANTIL NOVA OLINDA EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1,"uf":"PE","valor":93326.17},
 {"ie":70357560,"cnpj":"26877468000152","razao":"A&C COMERCIO VAREJISTA LTDA","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":32504.57},
@@ -11,7 +11,7 @@ SaidasData.saidas = [{"ie":19327137,"cnpj":"41106188000134","razao":"GENERAL GOO
 {"ie":69039089,"cnpj":"26201164000170","razao":"BARBOSA & BRITO SUPERMERCADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6014.50},
 {"ie":68966180,"cnpj":"26183564000109","razao":"COMPRE AKI PROMOCOES DE VENDAS EIRELI","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":1325.00},
 {"ie":68769946,"cnpj":"26062057000109","razao":"NUNES FRIOS E LATICINIOS LTDA EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":14950.00},
-{"ie":68214804,"cnpj":"25265821000180","razao":"J.L. LEITE JUNIOR MERCADINHO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":30391.84},
+{"ie":68214804,"cnpj":"25265821000180","razao":"J.L. LEITE JUNIOR MERCADINHO EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":30391.84},
 {"ie":67672221,"cnpj":"24967227000179","razao":"WJLM ESPERANCA DISTRIBUIDORA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":14950.00},
 {"ie":67503896,"cnpj":"24893313000184","razao":"MB DISTRIBUIDORA DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":12289.55},
 {"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL CENTRAL DE GENEROS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":173770.00},

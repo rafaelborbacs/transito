@@ -1,10 +1,10 @@
-EstabelecimentoData.estabelecimento = [{"ie":30556805,"cnpj":"05901165000158","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"S","arrecadacao":98.48,"entradas":162991.30,"saidas":663400.45,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"06/10/2003","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"79233672000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":172.60},
+EstabelecimentoData.estabelecimento = [{"ie":30556805,"cnpj":"05901165000158","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"C","arrecadacao":98.48,"entradas":162991.30,"saidas":663400.45,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"06/10/2003","contador":""}];
+EntradasData.entradas = [{"ie":19425813,"cnpj":"69963932000136","razao":"COMERCIAL FERREIRA TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":18648.92},
 {"ie":0,"cnpj":"03823685000164","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2199.20},
-{"ie":13911783,"cnpj":"12905758000158","razao":"DEPOSITO DE MALHAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":90774.37},
-{"ie":19425813,"cnpj":"69963932000136","razao":"COMERCIAL FERREIRA TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":18648.92},
-{"ie":33363528,"cnpj":"07749738000103","razao":"RC VIDROS AUTOMOTIVOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":110.00},
 {"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":13140.10},
+{"ie":0,"cnpj":"79233672000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":172.60},
+{"ie":13911783,"cnpj":"12905758000158","razao":"DEPOSITO DE MALHAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":90774.37},
+{"ie":33363528,"cnpj":"07749738000103","razao":"RC VIDROS AUTOMOTIVOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":110.00},
 {"ie":48330078,"cnpj":"15382001000115","razao":"N S DA SILVA TECIDOS ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":37946.11}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97388896000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":2849.25},
 {"ie":0,"cnpj":"96827456000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1351.30},
@@ -52,7 +52,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97388896000160","razao":"","sit":"","regime
 {"ie":0,"cnpj":"23333480000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":3494.05},
 {"ie":0,"cnpj":"23211129000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":10827.36},
 {"ie":0,"cnpj":"23179169000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2295.68},
-{"ie":63660075,"cnpj":"23033098000189","razao":"CLEYCIANA MARTINS DE SOUZA ME","sit":"S","regime":"SIMPLES","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":2206.20},
+{"ie":63660075,"cnpj":"23033098000189","razao":"CLEYCIANA MARTINS DE SOUZA ME","sit":"A","regime":"SIMPLES","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":2206.20},
 {"ie":0,"cnpj":"22966949000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":950.00},
 {"ie":0,"cnpj":"22606471000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":3773.00},
 {"ie":0,"cnpj":"22496017000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":2410.92},
@@ -102,7 +102,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97388896000160","razao":"","sit":"","regime
 {"ie":0,"cnpj":"14057590000870","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":23478.70},
 {"ie":0,"cnpj":"13809522000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":1376.82},
 {"ie":0,"cnpj":"13656429000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1721.10},
-{"ie":44204388,"cnpj":"13655182000180","razao":"LIMOEIRO VEST MODA LTDA ME","sit":"S","regime":"SIMPLES","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":906.00},
+{"ie":44204388,"cnpj":"13655182000180","razao":"LIMOEIRO VEST MODA LTDA ME","sit":"A","regime":"SIMPLES","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":906.00},
 {"ie":44030614,"cnpj":"13583416000121","razao":"ESPACO DA MODA TEXTIL LTDA-ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":906.00},
 {"ie":0,"cnpj":"13219167000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":688.41},
 {"ie":0,"cnpj":"13115283000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1998.70},
@@ -240,10 +240,10 @@ SociosData.socios = [{"cpf":"71727485491","nome":"JOSE HUMBERTO DA SILVA","ie":5
 {"cpf":"71727485491","nome":"JOSE HUMBERTO DA SILVA","ie":37231359,"cnpj":"10375834000135","razao":"ROUPAGEM INDUSTRIA DE CONFECCOES LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"71727485491","nome":"JOSE HUMBERTO DA SILVA","ie":36464163,"cnpj":"05901165000310","razao":"KELLY CLEMENTE ALVES CASANOVA ME","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"71727485491","nome":"JOSE HUMBERTO DA SILVA","ie":31475094,"cnpj":"05901165000239","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
-{"cpf":"71727485491","nome":"JOSE HUMBERTO DA SILVA","ie":30556805,"cnpj":"05901165000158","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1},
+{"cpf":"71727485491","nome":"JOSE HUMBERTO DA SILVA","ie":30556805,"cnpj":"05901165000158","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"C","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1},
 {"cpf":"01142306410","nome":"KELLY CLEMENTE ALVES CASANOVA","ie":36464163,"cnpj":"05901165000310","razao":"KELLY CLEMENTE ALVES CASANOVA ME","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0},
 {"cpf":"01142306410","nome":"KELLY CLEMENTE ALVES CASANOVA","ie":31475094,"cnpj":"05901165000239","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
-{"cpf":"01142306410","nome":"KELLY CLEMENTE ALVES CASANOVA","ie":30556805,"cnpj":"05901165000158","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1}];
+{"cpf":"01142306410","nome":"KELLY CLEMENTE ALVES CASANOVA","ie":30556805,"cnpj":"05901165000158","razao":"BICHO RADIKAL INDUSTRIA DE CONFECCOES LTDA ME","sit":"C","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

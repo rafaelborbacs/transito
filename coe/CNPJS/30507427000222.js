@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":77548507,"cnpj":"30507427000222","razao":"JOSE NATANAEL AQUINO DA SILVA","sit":"A","arrecadacao":0.00,"entradas":221786.48,"saidas":33057.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"31/05/2018","contador":""}];
-EntradasData.entradas = [{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":13926.01},
-{"ie":34990496,"cnpj":"08795153000184","razao":"JOSELANE BARBOSA DE LIMA EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":150744.50},
-{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":57115.97}];
+EntradasData.entradas = [{"ie":34990496,"cnpj":"08795153000184","razao":"JOSELANE BARBOSA DE LIMA EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":150744.50},
+{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":57115.97},
+{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":13926.01}];
 SaidasData.saidas = [{"ie":0,"cnpj":"83583690000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1005.00},
 {"ie":0,"cnpj":"34705723000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":1275.00},
 {"ie":0,"cnpj":"34705608000133","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":1125.00},

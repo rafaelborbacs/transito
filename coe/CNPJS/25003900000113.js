@@ -1,30 +1,28 @@
-EstabelecimentoData.estabelecimento = [{"ie":67820352,"cnpj":"25003900000113","razao":"FERNANDA BRUNNELLY ALVES DE OLIVEIRA 07677799400","sit":"A","arrecadacao":7.08,"entradas":418078.59,"saidas":0.00,"regime":"SIMEI","segmento":"SUPERMERCADOS","municipio":"PALMARES","drr":"I","igi":1,"dataie":"21/06/2016","contador":""}];
-EntradasData.entradas = [{"ie":37458728,"cnpj":"01838723016201","razao":"BRF S.A.","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":16887.83},
-{"ie":42328608,"cnpj":"88447032001403","razao":"MOINHOS DE TRIGO INDIGENA S A MOTRISA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1930.20},
+EstabelecimentoData.estabelecimento = [{"ie":67820352,"cnpj":"25003900000113","razao":"FERNANDA BRUNNELLY ALVES DE OLIVEIRA 07677799400","sit":"A","arrecadacao":22.28,"entradas":418078.59,"saidas":0.00,"regime":"SIMEI","segmento":"SUPERMERCADOS","municipio":"PALMARES","drr":"I","igi":1,"dataie":"21/06/2016","contador":""}];
+EntradasData.entradas = [{"ie":7906218,"cnpj":"11701000000135","razao":"INDUSTRIA & COMERCIO CAFE OURO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":18030.50},
 {"ie":18149405,"cnpj":"22924203000379","razao":"EBD NORDESTE COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":23115.34},
-{"ie":27773396,"cnpj":"02914460009298","razao":"SEARA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":37423.39},
 {"ie":61207764,"cnpj":"66471517001734","razao":"DPC DISTRIBUIDOR ATACADISTA S/A","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":1122.02},
-{"ie":7906218,"cnpj":"11701000000135","razao":"INDUSTRIA & COMERCIO CAFE OURO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":18030.50},
-{"ie":26519801,"cnpj":"03504437000150","razao":"FRINSCAL - DISTRIBUIDORA E IMPORTADORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":21501.39},
+{"ie":35945648,"cnpj":"09175609000176","razao":"SOMAR COMERCIO E TRANSPORTES DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":46373.86},
+{"ie":37458728,"cnpj":"01838723016201","razao":"BRF S.A.","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":16887.83},
+{"ie":42328608,"cnpj":"88447032001403","razao":"MOINHOS DE TRIGO INDIGENA S A MOTRISA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1930.20},
+{"ie":53834470,"cnpj":"07526557002072","razao":"AMBEV S.A.","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":40294.92},
+{"ie":36554588,"cnpj":"02485475000574","razao":"COOPERATIVA AGROPECUARIA DO CARIRI LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":102.00},
 {"ie":33069689,"cnpj":"07534303000133","razao":"COMAL - COMERCIO ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":11811.69},
-{"ie":25736604,"cnpj":"03041022000198","razao":"INDUSTRIA E COMERCIO DE ALIMENTOS XIQUE XIQUE EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"ANGELIM","igi":0,"uf":"PE","valor":2250.00},
+{"ie":27773396,"cnpj":"02914460009298","razao":"SEARA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":37423.39},
 {"ie":34504494,"cnpj":"07715769000135","razao":"AKI CARNES COMERCIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":7420.32},
 {"ie":20876181,"cnpj":"00395333000167","razao":"COBEPAL COMERCIAL BEBIDAS DE PALMARES EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":188151.52},
 {"ie":36372803,"cnpj":"09436688000121","razao":"LIDER DISTRIBUIDORA DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1663.61},
-{"ie":36554588,"cnpj":"02485475000574","razao":"COOPERATIVA AGROPECUARIA DO CARIRI LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":102.00},
-{"ie":53834470,"cnpj":"07526557002072","razao":"AMBEV S.A.","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":40294.92},
-{"ie":35945648,"cnpj":"09175609000176","razao":"SOMAR COMERCIO E TRANSPORTES DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":46373.86}];
+{"ie":25736604,"cnpj":"03041022000198","razao":"INDUSTRIA E COMERCIO DE ALIMENTOS XIQUE XIQUE EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"ANGELIM","igi":0,"uf":"PE","valor":2250.00},
+{"ie":26519801,"cnpj":"03504437000150","razao":"FRINSCAL - DISTRIBUIDORA E IMPORTADORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":21501.39}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07677799400","nome":"FERNANDA BRUNNELLY ALVES DE OLIVEIRA","ie":67820352,"cnpj":"25003900000113","razao":"FERNANDA BRUNNELLY ALVES DE OLIVEIRA 07677799400","sit":"A","regime":"SIMEI","municipio":"PALMARES","igi":1}];
-EmailsData.emails = [{"cnpj":"10375642000129","email":"fagner_meira@hotmail.com","razao":"20587 - ROSALVO FAGNER DE VASCONCELOS MEIRA ME","municipio":"PALMARES"},
+EmailsData.emails = [{"cnpj":"10375642000129","email":"fagner_meira@hotmail.com","razao":"ROSALVO FAGNER VASCONCELOS MEIRA ME","municipio":"PALMARES"},
 {"cnpj":"05303854493","email":"fagner_meira@hotmail.com","razao":"FAGNER MEIRA","municipio":"Palmares"}];
 TelsData.tels = [{"cnpj":"15167068000137","tel":"8136612034","razao":"WYLMA GABRIELE DE MORAES SILVA ME","municipio":"AGUA PRETA"},
-{"cnpj":"10375642000129","tel":"81988152185","razao":"ROSALVO FAGNER DE VASCONC MEIRA ME","municipio":"PALMARES"},
+{"cnpj":"10375642000129","tel":"81988152185","razao":"ROSALVO FAGNER DE VASCONCELOS MEIRA ME","municipio":"PALMARES"},
 {"cnpj":"07677799400","tel":"81988152185","razao":"FERNANDA BRUNELE","municipio":"PALMARES"}];
 PlacasData.placas = [{"cnpj":"27878820000137","placa":"KLN7868","razao":"ADELLY MACARIO DE MEDEIROS","municipio":"RECIFE"},
 {"cnpj":"27878820000137","placa":"KJS3892","razao":"ADELLY MACARIO DE MEDEIROS","municipio":"RECIFE"},
-{"cnpj":"27270646000145","placa":"KLN7868","razao":"MADSON GONCALVES DA SILVA","municipio":"JABOATAO DOS GUARARAPES"},
-{"cnpj":"27270646000145","placa":"KJS3892","razao":"MADSON GONCALVES DA SILVA","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"21824163000169","placa":"KIM7767","razao":"MARCEL DIAS DE OLIVEIRA","municipio":"IGARASSU"},
 {"cnpj":"21055905000139","placa":"KIM7767","razao":"RESTAURANTE PITANGA SABORES DA TERRA EIRELI ME","municipio":"IPOJUCA"},
 {"cnpj":"20607356000103","placa":"PFK9137","razao":"JORDAO COMERCIO DE ALIMENTOS LTDA","municipio":"RECIFE"},
@@ -35,6 +33,7 @@ PlacasData.placas = [{"cnpj":"27878820000137","placa":"KLN7868","razao":"ADELLY 
 {"cnpj":"19712468000137","placa":"PCD7222","razao":"UR4 COMERCIO DE ALIMENTOS LTDA ME","municipio":"RECIFE"},
 {"cnpj":"19712468000137","placa":"KLN7868","razao":"UR4 COMERCIO DE ALIMENTOS LTDA ME","municipio":"RECIFE"},
 {"cnpj":"19712468000137","placa":"KJS3892","razao":"UR4 COMERCIO DE ALIMENTOS LTDA ME","municipio":"RECIFE"},
+{"cnpj":"17229271000116","placa":"KIM7767","razao":"MARIA DA CONCEICAO CARNEIRO PEREIRA","municipio":"CAMARAGIBE"},
 {"cnpj":"15128282000184","placa":"KLN7868","razao":"COMERCIAL DE ALIMENTOS JABOATAO LTDA","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"15128282000184","placa":"KJS3892","razao":"COMERCIAL DE ALIMENTOS JABOATAO LTDA","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"15128282000184","placa":"KIM7767","razao":"COMERCIAL DE ALIMENTOS JABOATAO LTDA","municipio":"JABOATAO DOS GUARARAPES"},
@@ -43,5 +42,6 @@ PlacasData.placas = [{"cnpj":"27878820000137","placa":"KLN7868","razao":"ADELLY 
 {"cnpj":"10375642000129","placa":"PCD7222","razao":"ROSALVO FAGNER DE VASCONCELOS MEIRA ME","municipio":"PALMARES"},
 {"cnpj":"10375642000129","placa":"PCD7092","razao":"ROSALVO FAGNER DE VASCONCELOS MEIRA ME","municipio":"PALMARES"},
 {"cnpj":"10375642000129","placa":"KLN7868","razao":"ROSALVO FAGNER DE VASCONCELOS MEIRA ME","municipio":"PALMARES"},
+{"cnpj":"10375642000129","placa":"KHN8964","razao":"ROSALVO FAGNER DE VASCONCELOS MEIRA ME","municipio":"PALMARES"},
 {"cnpj":"08107430000119","placa":"KLN7868","razao":"ERIVONE MARIA DE ANDRADE","municipio":"CARUARU"},
 {"cnpj":"08107430000119","placa":"KIM7767","razao":"ERIVONE MARIA DE ANDRADE","municipio":"CARUARU"}];

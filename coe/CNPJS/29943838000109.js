@@ -304,7 +304,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99291568104","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00181029000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":8900.00},
 {"ie":0,"cnpj":"00057209154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":350.00},
 {"ie":0,"cnpj":"00043187064","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":200.00}];
-SociosData.socios = [{"cpf":"12897293446","nome":"THIAGO LUIS SOBRAL DOS SANTOS","ie":76936139,"cnpj":"30244656000110","razao":"THIAGO LUIS SOBRAL DOS SANTOS 12897293446","sit":"A","regime":"SIMEI","municipio":"IBIRAJUBA","igi":0},
+SociosData.socios = [{"cpf":"12897293446","nome":"THIAGO LUIS SOBRAL DOS SANTOS","ie":76936139,"cnpj":"30244656000110","razao":"THIAGO LUIS SOBRAL DOS SANTOS 12897293446","sit":"A","regime":"SIMEI","municipio":"IBIRAJUBA","igi":1},
 {"cpf":"12897293446","nome":"THIAGO LUIS SOBRAL DOS SANTOS","ie":76388506,"cnpj":"29943838000109","razao":"THIAGO LUIS SOBRAL DOS SANTOS 12897293446","sit":"B","regime":"NORMAL","municipio":"IBIRAJUBA","igi":1},
 {"cpf":"12897293446","nome":"THIAGO LUIS SOBRAL DOS SANTOS","ie":75734648,"cnpj":"29585137000137","razao":"THIAGO LUIS SOBRAL DOS SANTOS 12897293446","sit":"B","regime":"NORMAL","municipio":"IBIRAJUBA","igi":0},
 {"cpf":"12897293446","nome":"THIAGO LUIS SOBRAL DOS SANTOS","ie":74988611,"cnpj":"29239339000127","razao":"THIAGO LUIS SOBRAL DOS SANTOS 12897293446","sit":"B","regime":"NORMAL","municipio":"IBIRAJUBA","igi":0},

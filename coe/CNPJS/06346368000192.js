@@ -17,7 +17,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"21636846000273","razao":"","sit":"","regime
 {"ie":0,"cnpj":"08144326000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3306.00},
 {"ie":0,"cnpj":"03473223001489","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":12575.00},
 {"ie":0,"cnpj":"00181029000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3350.00}];
-SociosData.socios = [{"cpf":"02715607466","nome":"BRUNO ROBERTO PINTO DE SENA","ie":45370508,"cnpj":"14116625000128","razao":"B & L'S INDUSTRIA DE CONFECCOES LTDA ME","sit":"S","regime":"NORMAL","municipio":"SURUBIM","igi":1},
+SociosData.socios = [{"cpf":"02715607466","nome":"BRUNO ROBERTO PINTO DE SENA","ie":45370508,"cnpj":"14116625000128","razao":"B & L'S INDUSTRIA DE CONFECCOES LTDA ME","sit":"C","regime":"NORMAL","municipio":"SURUBIM","igi":1},
 {"cpf":"02715607466","nome":"BRUNO ROBERTO PINTO DE SENA","ie":34313982,"cnpj":"06346368000354","razao":"BRUNO ROBERTO PINTO DE SENA ME","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"02715607466","nome":"BRUNO ROBERTO PINTO DE SENA","ie":32881371,"cnpj":"06346368000273","razao":"BRUNO ROBERTO PINTO DE SENA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"02715607466","nome":"BRUNO ROBERTO PINTO DE SENA","ie":31358969,"cnpj":"06346368000192","razao":"BRUNO ROBERTO PINTO DE SENA ME","sit":"S","regime":"NORMAL","municipio":"SURUBIM","igi":1}];

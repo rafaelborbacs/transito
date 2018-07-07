@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":68573375,"cnpj":"25526729000127","razao":"LUCIANA GOMES DA SILVA 07656529438","sit":"S","arrecadacao":17.12,"entradas":240050.08,"saidas":0.00,"regime":"SIMPLES","segmento":"VAREJO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"15/08/2016","contador":""}];
 EntradasData.entradas = [{"ie":33892199,"cnpj":"03887324000262","razao":"ADIMAX - INDUSTRIA E COMERCIO DE ALIMENTOS LTDA.","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":101547.10},
-{"ie":12192350,"cnpj":"10672608000116","razao":"NUTRIVALE NUTRIMENTOS DO VALE DO SAO FRANCISCO LTDA","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":691.96},
+{"ie":29398274,"cnpj":"05157816000147","razao":"E.B.A DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":7947.62},
 {"ie":48654647,"cnpj":"40881070000897","razao":"PALMARES PRODUTOS RURAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":41601.16},
 {"ie":26676303,"cnpj":"03552876000139","razao":"PISCICULTURA PE DE COELHO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":10391.28},
 {"ie":48515108,"cnpj":"15034616000150","razao":"GL INTERZOO INDUSTRIA E COMERCIO EXPORTACAO E IMPORTACAO LTDA","sit":"S","regime":"SIMPLES","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":57.60},
 {"ie":19045310,"cnpj":"35700038000151","razao":"TARASIO ESCOBAR VIEIRA JUNIOR EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":5259.41},
 {"ie":69215073,"cnpj":"26285533000150","razao":"EVORA COMERCIO ATACADISTA DE MEDICAMENTOS E DROGAS DE USO VETERINARIO EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1673.31},
-{"ie":63780569,"cnpj":"08471163001136","razao":"FVO BRASILIA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":61661.39},
+{"ie":12192350,"cnpj":"10672608000116","razao":"NUTRIVALE NUTRIMENTOS DO VALE DO SAO FRANCISCO LTDA","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":691.96},
 {"ie":64487989,"cnpj":"23426301000187","razao":"NEWPET DISTRIBUIDORA DE RACOES EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":265.45},
-{"ie":38392496,"cnpj":"10960053000108","razao":"FOCUS DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":8953.80},
-{"ie":29398274,"cnpj":"05157816000147","razao":"E.B.A DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":7947.62}];
+{"ie":63780569,"cnpj":"08471163001136","razao":"FVO BRASILIA INDUSTRIA E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":61661.39},
+{"ie":38392496,"cnpj":"10960053000108","razao":"FOCUS DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":8953.80}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"07656529438","nome":"LUCIANA GOMES DA SILVA","ie":68573375,"cnpj":"25526729000127","razao":"LUCIANA GOMES DA SILVA 07656529438","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [{"cnpj":"03545161404","email":"kleberguilhermino1980@hotmail.com","razao":"KLEBER GUILHERMINO SAMPAIO","municipio":"RECIFE"}];
@@ -21,6 +21,7 @@ PlacasData.placas = [{"cnpj":"70235486000122","placa":"PFP5181","razao":"JOAO IN
 {"cnpj":"69921716000128","placa":"PFP5181","razao":"GRANJA VIRGEM CONCEICAO LTDA","municipio":"RECIFE"},
 {"cnpj":"35536978000157","placa":"PFP5181","razao":"YARA COMERCIO AGROPECUARIO LTDA","municipio":"IGARASSU"},
 {"cnpj":"34604707472","placa":"PFP5181","razao":"EVERALDO LOPES DE MELO","municipio":"OLINDA"},
+{"cnpj":"29665153000130","placa":"KIY8648","razao":"ALEJANDRA ODETTE HENRIQUEZ BAEZ","municipio":"FERNANDO DE NORONHA"},
 {"cnpj":"29533663000153","placa":"KIY8648","razao":"MAY ANNE ARRAES COSTA","municipio":"ARARIPINA"},
 {"cnpj":"28623297000160","placa":"PFP5181","razao":"CLEBSON JERONIMO NORONHA","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"27971047000159","placa":"PFP5181","razao":"LEANDRO SOUZA DE ANDRADE","municipio":"CABO DE SANTO AGOSTINHO"},
@@ -42,6 +43,8 @@ PlacasData.placas = [{"cnpj":"70235486000122","placa":"PFP5181","razao":"JOAO IN
 {"cnpj":"23061290000189","placa":"KIH3164","razao":"JOANA MARIA DE ANDRADE","municipio":"IGARASSU"},
 {"cnpj":"22740032000166","placa":"PFP5181","razao":"PANIFICADORA JS LTDA ME","municipio":"RECIFE"},
 {"cnpj":"22442385000180","placa":"PFP5181","razao":"ALBERTINO FERNANDO DE SOUZA","municipio":"RECIFE"},
+{"cnpj":"22389620000105","placa":"PFF3940","razao":"MARCELINO SOUZA DA SILVA","municipio":"RECIFE"},
+{"cnpj":"22389620000105","placa":"KLL3799","razao":"MARCELINO SOUZA DA SILVA","municipio":"RECIFE"},
 {"cnpj":"22312475000156","placa":"PFP5181","razao":"FLAVIO FORTUNATO DE ARAUJO","municipio":"CABO DE SANTO AGOSTINHO"},
 {"cnpj":"21900892000157","placa":"PFP5181","razao":"JEFFERSON SILVA DE FRANCA 04831892432","municipio":"CAMARAGIBE"},
 {"cnpj":"21803492000123","placa":"PFP5181","razao":"AMS COMERCIO DE ALIMENTOS LTDA ME","municipio":"RECIFE"},

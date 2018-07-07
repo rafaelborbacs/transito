@@ -1,14 +1,14 @@
-EstabelecimentoData.estabelecimento = [{"ie":46596275,"cnpj":"14610655000196","razao":"ALEXANDRE CESAR MOTA FLORENCIO ME","sit":"A","arrecadacao":181374.79,"entradas":4788998.45,"saidas":138489.78,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"21/11/2011","contador":"ROSANGELA MARTHA FERREIRA DE ALCANTARA"}];
+EstabelecimentoData.estabelecimento = [{"ie":46596275,"cnpj":"14610655000196","razao":"ALEXANDRE CESAR MOTA FLORENCIO ME","sit":"A","arrecadacao":200616.18,"entradas":4843574.95,"saidas":138489.78,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"21/11/2011","contador":"ROSANGELA MARTHA FERREIRA DE ALCANTARA"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"96368816000222","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":145452.98},
 {"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":50.00},
-{"ie":53044827,"cnpj":"05423963002670","razao":"OI MOVEL S/A","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SAO PAULO","igi":0,"uf":"SP","valor":1.00},
+{"ie":0,"cnpj":"07203904000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":56613.79},
 {"ie":0,"cnpj":"75284224000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2348773.58},
 {"ie":0,"cnpj":"01024606000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4371.30},
-{"ie":0,"cnpj":"07203904000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":56613.79},
-{"ie":0,"cnpj":"81672099000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1839320.68},
+{"ie":53044827,"cnpj":"05423963002670","razao":"OI MOVEL S/A","sit":"A","regime":"CONTRIBUINTE SUBSTITUTO","municipio":"SAO PAULO","igi":0,"uf":"SP","valor":1.00},
+{"ie":0,"cnpj":"81672099000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":1893897.18},
 {"ie":0,"cnpj":"17934576000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":13790.03},
-{"ie":0,"cnpj":"13016585000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":6320.00},
-{"ie":0,"cnpj":"15102098000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":374305.09}];
+{"ie":0,"cnpj":"15102098000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":374305.09},
+{"ie":0,"cnpj":"13016585000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":6320.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"70579987400","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":4000.06},
 {"ie":0,"cnpj":"70264974484","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":5000.05},
 {"ie":0,"cnpj":"56072040497","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":4061.06},

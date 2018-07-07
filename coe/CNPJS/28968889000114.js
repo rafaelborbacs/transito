@@ -8,6 +8,8 @@ SociosData.socios = [{"cpf":"02149025442","nome":"JESIVALDO FRANCISCO DA SILVA",
 EmailsData.emails = [{"cnpj":"26026659000100","email":"luzineide26026@gmail.com","razao":"ELIEL ELIAS DOS SANTOS 08174265406","municipio":"CABO DE SANTO AGOSTINHO"}];
 TelsData.tels = [{"cnpj":"29086937000103","tel":"8182250584","razao":"JOSE JUVENCIL DA SILVA","municipio":"OURICURI"},
 {"cnpj":"24887164000140","tel":"8182250584","razao":"VICTOR HUGO DE ALBUQUERQUE E MELLO","municipio":"NAZARÉ DA MATA"}];
-PlacasData.placas = [{"cnpj":"29086937000103","placa":"QKN9960","razao":"JOSE JUVENCIL DA SILVA 17774551468","municipio":"OURICURI"},
+PlacasData.placas = [{"cnpj":"30704312000147","placa":"HZJ0692","razao":"MARIVALDO FELIX DA SILVA","municipio":"PETROLINA"},
+{"cnpj":"30704312000147","placa":"CSK7016","razao":"MARIVALDO FELIX DA SILVA","municipio":"PETROLINA"},
+{"cnpj":"29086937000103","placa":"QKN9960","razao":"JOSE JUVENCIL DA SILVA 17774551468","municipio":"OURICURI"},
 {"cnpj":"29086937000103","placa":"OVI1941","razao":"JOSE JUVENCIL DA SILVA 17774551468","municipio":"OURICURI"},
 {"cnpj":"29086937000103","placa":"OHB6378","razao":"JOSE JUVENCIL DA SILVA 17774551468","municipio":"OURICURI"}];

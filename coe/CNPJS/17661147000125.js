@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":51998599,"cnpj":"17661147000125","razao":"JOELCIO LOPES DA SILVA 02549363426","sit":"A","arrecadacao":0.00,"entradas":9004.10,"saidas":195441.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"04/03/2013","contador":""}];
-EntradasData.entradas = [{"ie":19148631,"cnpj":"41241266000103","razao":"ETICAL ETIQUETAS CARUARU LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":407.15},
-{"ie":66718457,"cnpj":"11695541000521","razao":"DISTRIBUIDORA E IMPORTADORA DE TECIDOS LUCENA LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":8596.95}];
+EntradasData.entradas = [{"ie":66718457,"cnpj":"11695541000521","razao":"DISTRIBUIDORA E IMPORTADORA DE TECIDOS LUCENA LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":8596.95},
+{"ie":19148631,"cnpj":"41241266000103","razao":"ETICAL ETIQUETAS CARUARU LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":407.15}];
 SaidasData.saidas = [{"ie":0,"cnpj":"98110020453","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":100.00},
 {"ie":0,"cnpj":"94430292272","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":192.00},
 {"ie":0,"cnpj":"91841992291","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":390.00},

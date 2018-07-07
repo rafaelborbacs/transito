@@ -1,16 +1,16 @@
 EstabelecimentoData.estabelecimento = [{"ie":73703931,"cnpj":"28638964000189","razao":"MARIA DAS DORES DA SILVA COMERCIO ME","sit":"C","arrecadacao":0.00,"entradas":903156.54,"saidas":304088.64,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"POMBOS","drr":"II","igi":1,"dataie":"15/09/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"04577125000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":31200.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"26137587000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":67100.00},
+{"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":50250.00},
+{"ie":0,"cnpj":"06308045000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":21500.00},
+{"ie":0,"cnpj":"23673660000139","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":36400.00},
+{"ie":0,"cnpj":"04577125000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":31200.00},
+{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":255420.00},
 {"ie":66121990,"cnpj":"24197705000109","razao":"M C ATACAREJO EIRELI  ME","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":12078.00},
 {"ie":33233586,"cnpj":"07680389000102","razao":"MASTER TRADING IMPORTACAO E EXPORTACAO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":196000.00},
-{"ie":0,"cnpj":"23673660000139","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":36400.00},
-{"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":50250.00},
 {"ie":0,"cnpj":"22663806000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":45500.00},
 {"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13444.54},
-{"ie":0,"cnpj":"26137587000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":67100.00},
 {"ie":0,"cnpj":"14172362000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":75000.00},
-{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":255420.00},
-{"ie":0,"cnpj":"07565496000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":99264.00},
-{"ie":0,"cnpj":"06308045000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":21500.00}];
+{"ie":0,"cnpj":"07565496000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":99264.00}];
 SaidasData.saidas = [{"ie":15941256,"cnpj":"35353929000189","razao":"BEIJA-FLOR AVIAMENTOS LTDA","sit":"A","regime":"SIMPLES","municipio":"ARARIPINA","igi":0,"uf":"PE","valor":10000.00},
 {"ie":52837793,"cnpj":"18073013000156","razao":"L N DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":1697.00},
 {"ie":13693182,"cnpj":"12854766000112","razao":"MOTA BONJARDINENSE LTDA","sit":"A","regime":"NORMAL","municipio":"BOM JARDIM","igi":0,"uf":"PE","valor":3848.00},

@@ -3,12 +3,23 @@ EntradasData.entradas = [{"ie":25416375,"cnpj":"02814573000427","razao":"PAJEU N
 {"ie":54812607,"cnpj":"18984560000193","razao":"VITORIA ATACAREJO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"DORMENTES","igi":0,"uf":"PE","valor":81646.68},
 {"ie":72521619,"cnpj":"28052460000182","razao":"JODIBE DISTRIBUIDORA DE BEBIDAS DO SERTAO LTDA","sit":"A","regime":"NORMAL","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":29276.02},
 {"ie":45613923,"cnpj":"02814573001903","razao":"PAJEU NORDESTE LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":1450.11},
+{"ie":31237231,"cnpj":"06191994000157","razao":"VITORIA ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"DORMENTES","igi":0,"uf":"PE","valor":59454.71},
 {"ie":54067227,"cnpj":"16622166000422","razao":"CERVEJARIA PETROPOLIS DE PERNAMBUCO LTDA.","sit":"A","regime":"NORMAL","municipio":"PETROLINA","igi":0,"uf":"PE","valor":36543.45},
-{"ie":9872124,"cnpj":"08807703000138","razao":"ADERSON ALVES FRANCA","sit":"S","regime":"NORMAL","municipio":"OURICURI","igi":0,"uf":"PE","valor":14689.92},
-{"ie":31237231,"cnpj":"06191994000157","razao":"VITORIA ATACADISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"DORMENTES","igi":0,"uf":"PE","valor":59454.71}];
+{"ie":9872124,"cnpj":"08807703000138","razao":"ADERSON ALVES FRANCA","sit":"S","regime":"NORMAL","municipio":"OURICURI","igi":0,"uf":"PE","valor":14689.92}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"12686666617","nome":"JOSE ELIAS SOUZA NETO","ie":73154067,"cnpj":"28338378000119","razao":"JOSE ELIAS SOUZA NETO 12686666617","sit":"B","regime":"NORMAL","municipio":"IPUBI","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [{"cnpj":"30147984000107","tel":"87981185514","razao":"DHONE SALVIANODA SILVA 13678669441","municipio":"IPUBI"},
-{"cnpj":"08329563413","tel":"87981185514","razao":"PAULO SALVIANO DE SOUZA","municipio":"IPUBI"}];
-PlacasData.placas = [];
+{"cnpj":"08329563413","tel":"87981185514","razao":"PAULO SALVIANO DE SOUZA","municipio":"SERROLANDIA"}];
+PlacasData.placas = [{"cnpj":"31941974449","placa":"KKH0550","razao":"MANOEL FERREIRA DA CRUZ","municipio":"CAPOEIRAS"},
+{"cnpj":"29324032000124","placa":"KKH0550","razao":"FABRICIO LEITE DA SILVA ME","municipio":"BETANIA"},
+{"cnpj":"28646708000133","placa":"PFJ2289","razao":"JAMIESON DE SOUSA LUNA 02883400431","municipio":"TRINDADE"},
+{"cnpj":"27235531000110","placa":"PFD5899","razao":"WEDSON DE SOUZA SILVA 10147295483","municipio":"PARNAMIRIM"},
+{"cnpj":"23096000000132","placa":"PFD5899","razao":"ADNA JEANE LEITE DE SIQUEIRA","municipio":"AFOGADOS DA INGAZEIRA"},
+{"cnpj":"23096000000132","placa":"KKH0550","razao":"ADNA JEANE LEITE DE SIQUEIRA","municipio":"AFOGADOS DA INGAZEIRA"},
+{"cnpj":"21046564000135","placa":"PFJ2289","razao":"ACOUGUE E PADARIA 3 IRMAOS EIRELI ME","municipio":"IPUBI"},
+{"cnpj":"21046564000135","placa":"PFD5899","razao":"ACOUGUE E PADARIA 3 IRMAOS EIRELI ME","municipio":"IPUBI"},
+{"cnpj":"21046564000135","placa":"KKH0550","razao":"ACOUGUE E PADARIA 3 IRMAOS EIRELI ME","municipio":"IPUBI"},
+{"cnpj":"19035254000173","placa":"KKH0550","razao":"G ANGELIM BATISTA ME","municipio":"TERRA NOVA"},
+{"cnpj":"12305300000168","placa":"PFJ2289","razao":"MERCADO TORRES DE OLIVEIRA E CIA LTDA ME","municipio":"TACARATU"},
+{"cnpj":"12305300000168","placa":"KKH0550","razao":"MERCADO TORRES DE OLIVEIRA E CIA LTDA ME","municipio":"TACARATU"}];

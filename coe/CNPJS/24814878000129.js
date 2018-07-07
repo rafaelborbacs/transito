@@ -15,7 +15,7 @@ SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PROD
 {"ie":48862673,"cnpj":"15255984000129","razao":"MINAS PLASTICOS INDUSTRIA E COMERCIO LTDA ME","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":20000.00},
 {"ie":0,"cnpj":"12468482000198","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":255.00},
 {"ie":2238756,"cnpj":"11146610000114","razao":"GRAFICA A UNICA LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2674981.82},
-{"ie":37725513,"cnpj":"10648787000156","razao":"CAVALCANTE DISTRIBUIDORA LTDA ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":257766.00},
+{"ie":37725513,"cnpj":"10648787000156","razao":"CAVALCANTE DISTRIBUIDORA LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":257766.00},
 {"ie":0,"cnpj":"09192486000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":228200.00},
 {"ie":35945648,"cnpj":"09175609000176","razao":"SOMAR COMERCIO E TRANSPORTES DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":8500.00},
 {"ie":0,"cnpj":"07046041000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4400.00},

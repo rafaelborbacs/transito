@@ -3,6 +3,6 @@ EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","re
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"71096814404","nome":"TALES JOSEMAR ALMEIDA DA SILVA","ie":77095600,"cnpj":"30364209000103","razao":"T. J. A. DA SILVA","sit":"S","regime":"NORMAL","municipio":"CORRENTES","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"07790356000115","tel":"8737721160","razao":"FABIANA QUEIROZ DE DEUS MONTEIRO","municipio":"CORRENTES"},
+TelsData.tels = [{"cnpj":"07790356000115","tel":"8737721160","razao":"FABIANA QUEIROZ DE DEUS MONTEIRO - ME","municipio":"CORRENTES"},
 {"cnpj":"03458608451","tel":"8737721160","razao":"fabiana queiroz","municipio":"CORRENTES"}];
 PlacasData.placas = [];

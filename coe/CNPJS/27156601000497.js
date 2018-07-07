@@ -2,8 +2,8 @@ EstabelecimentoData.estabelecimento = [{"ie":73414662,"cnpj":"27156601000497","r
 EntradasData.entradas = [{"ie":73414743,"cnpj":"28388463000272","razao":"ANDRE FRANCISCO DA SILVA CONFECCOES","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":1.00},
 {"ie":69129312,"cnpj":"26246081000106","razao":"CARLOS E. DE OLIVEIRA TECIDOS EPP","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":31515.00},
 {"ie":30292808,"cnpj":"05747999000150","razao":"EVILAZIO JOSE DA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":64652.48},
-{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":60012.18},
-{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":225775.98}];
+{"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":225775.98},
+{"ie":32658036,"cnpj":"07381124000103","razao":"CARLOS RUTEMBERG BARBOSA CAMELO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":60012.18}];
 SaidasData.saidas = [{"ie":0,"cnpj":"71355143000164","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":854.00},
 {"ie":0,"cnpj":"65359762000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":854.00},
 {"ie":0,"cnpj":"59980290200","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":600.00},

@@ -2,8 +2,8 @@ EstabelecimentoData.estabelecimento = [{"ie":71465901,"cnpj":"27473200000118","r
 EntradasData.entradas = [{"ie":70819106,"cnpj":"27100914000180","razao":"COMERCIAL LUNA & BORGES LTDA EPP","sit":"C","regime":"NORMAL","municipio":"NAZARE DA MATA","igi":1,"uf":"PE","valor":75934.50},
 {"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":460750.00},
 {"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":470400.65},
-{"ie":41843436,"cnpj":"09165988000113","razao":"F ARRUDA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":377744.00},
-{"ie":7906218,"cnpj":"11701000000135","razao":"INDUSTRIA & COMERCIO CAFE OURO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":31690.00}];
+{"ie":7906218,"cnpj":"11701000000135","razao":"INDUSTRIA & COMERCIO CAFE OURO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":31690.00},
+{"ie":41843436,"cnpj":"09165988000113","razao":"F ARRUDA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":377744.00}];
 SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUSTO DE QUEIROZ BATISTA","sit":"A","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":358.80},
 {"ie":44862938,"cnpj":"97529952000139","razao":"NASCIMENTO & REIS SUPERMERCADOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":519.60},
 {"ie":20181876,"cnpj":"70174511000105","razao":"PADELLE DISTRIBUIDORA DE UTENSILIOS DOMESTICOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":33202.84},
@@ -14,7 +14,7 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":70264040,"cnpj":"26775956000159","razao":"MERCADAO Q-BOM DE CUSTODIA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":287.76},
 {"ie":69323984,"cnpj":"26354966000110","razao":"I.B. DE OLIVEIRA EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":11374.40},
 {"ie":69039089,"cnpj":"26201164000170","razao":"BARBOSA & BRITO SUPERMERCADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":20302.84},
-{"ie":68214804,"cnpj":"25265821000180","razao":"J.L. LEITE JUNIOR MERCADINHO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10396.30},
+{"ie":68214804,"cnpj":"25265821000180","razao":"J.L. LEITE JUNIOR MERCADINHO EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10396.30},
 {"ie":67503896,"cnpj":"24893313000184","razao":"MB DISTRIBUIDORA DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":18228.60},
 {"ie":67014348,"cnpj":"24638487000109","razao":"DOIS RIOS COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":15002.20},
 {"ie":66920604,"cnpj":"24593166000127","razao":"COMERCIAL CENTRAL DE GENEROS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":55975.00},
@@ -38,7 +38,7 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":52237680,"cnpj":"17765451000112","razao":"EBOM ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":11472.87},
 {"ie":49901290,"cnpj":"16781701000145","razao":"REDE UNIAO COMERCIO DE ALIMENTOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":16096.00},
 {"ie":49769324,"cnpj":"16683395000104","razao":"COMERCIAL MASSANGANA DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51600.25},
-{"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":79200.50},
+{"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":79200.50},
 {"ie":67380107,"cnpj":"15262412000258","razao":"SUPERMERCADO VILA ALDEIA LTDA","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":30064.00},
 {"ie":48097772,"cnpj":"15253723000170","razao":"A. C. SOUZA COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6549.76},
 {"ie":47311401,"cnpj":"14871515000171","razao":"PRONTO PRODUTOS E SERVICOS LTDA ME","sit":"S","regime":"NORMAL","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":6000.00},

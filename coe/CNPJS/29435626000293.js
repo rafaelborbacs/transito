@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":77178572,"cnpj":"29435626000293","razao":"VALERIA APARECIDA DA SILVA","sit":"A","arrecadacao":0.00,"entradas":104785.41,"saidas":1600.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"08/05/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":77178572,"cnpj":"29435626000293","razao":"VALERIA APARECIDA DA SILVA","sit":"C","arrecadacao":0.00,"entradas":104785.41,"saidas":1600.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"08/05/2018","contador":""}];
 EntradasData.entradas = [{"ie":70366985,"cnpj":"26881225000198","razao":"N G TECIDOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":27192.55},
 {"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":12026.74},
 {"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":65566.12}];

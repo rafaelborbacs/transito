@@ -10,7 +10,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73041188000351","razao":"","sit":"","regime
 {"ie":0,"cnpj":"14073764000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":12000.00},
 {"ie":0,"cnpj":"12727145000178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":44608.00},
 {"ie":0,"cnpj":"11988102000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":15750.00},
-{"ie":39297012,"cnpj":"11322624000141","razao":"LOGAN REMOVEDORA DE RESIDUOS DE OLEO LTDA ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":14250.00},
+{"ie":39297012,"cnpj":"11322624000141","razao":"LOGAN REMOVEDORA DE RESIDUOS DE OLEO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":14250.00},
 {"ie":0,"cnpj":"10625535000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1500.00},
 {"ie":37339982,"cnpj":"10280306000100","razao":"INDUSTRIAS DE BEBIDAS GARANHUNS LTDA","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":18378.32},
 {"ie":0,"cnpj":"09092563000121","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":39000.00},

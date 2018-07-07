@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":63066912,"cnpj":"22786817000170","razao":"A BARROS DA SILVA DESCARTAVEIS EIRELI ME","sit":"C","arrecadacao":37.00,"entradas":9040.72,"saidas":4978276.59,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"06/07/2015","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"03915936000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":218.64},
-{"ie":33349100,"cnpj":"07746755000189","razao":"J P DE LEMOS & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":140.00},
-{"ie":55435769,"cnpj":"19257437000133","razao":"BARRETTO & SILVA COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3290.00},
 {"ie":0,"cnpj":"10220478000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":4902.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":490.08}];
+{"ie":55435769,"cnpj":"19257437000133","razao":"BARRETTO & SILVA COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3290.00},
+{"ie":33349100,"cnpj":"07746755000189","razao":"J P DE LEMOS & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":140.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":490.08}];
 SaidasData.saidas = [{"ie":19552092,"cnpj":"70206750000108","razao":"MERCADINHO PAFIL LTDA ME","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":2838.80},
 {"ie":18504078,"cnpj":"41017963000185","razao":"MERCADINHO KUMAMOTO LTDA ME","sit":"A","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":0,"uf":"PE","valor":27010.00},
 {"ie":18227724,"cnpj":"40878332000198","razao":"ANTONIO JAIME RIBEIRO LUCENA-MERCEARIA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2150.00},
@@ -11,7 +11,7 @@ SaidasData.saidas = [{"ie":19552092,"cnpj":"70206750000108","razao":"MERCADINHO 
 {"ie":35444355,"cnpj":"35459767000168","razao":"PEDRO PAULO DE ALBUQUERQUE-ME","sit":"A","regime":"NORMAL","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":873.60},
 {"ie":16564146,"cnpj":"35459767000168","razao":"PEDRO PAULO DE ALBUQUERQUE-ME","sit":"B","regime":"NORMAL","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":873.60},
 {"ie":14950979,"cnpj":"24400111000153","razao":"ANN MARY BARBOSA LEAL","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":710.64},
-{"ie":14426439,"cnpj":"24357873000114","razao":"POTENCIAL DISTRIBUIDORA DE ALIMENTOS E SERVICOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":2820.00},
+{"ie":14426439,"cnpj":"24357873000114","razao":"POTENCIAL DISTRIBUIDORA DE ALIMENTOS E SERVICOS LTDA EPP","sit":"S","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":2820.00},
 {"ie":66129117,"cnpj":"24186949000196","razao":"P A SUPERMERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":4320.00},
 {"ie":0,"cnpj":"23949060000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":9850.00},
 {"ie":65260554,"cnpj":"23778043000106","razao":"FAMILIA CONCEICAO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":1196.00},
@@ -32,11 +32,11 @@ SaidasData.saidas = [{"ie":19552092,"cnpj":"70206750000108","razao":"MERCADINHO 
 {"ie":54257271,"cnpj":"18757191000104","razao":"COMERCIAL DE ALIMENTOS O BARATO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":14116.16},
 {"ie":53942442,"cnpj":"18597247000100","razao":"R RAYZA DA SILVA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":8215.00},
 {"ie":53856520,"cnpj":"18578788000183","razao":"INDUSTRIA DE BEBIDAS IMPERIO LTDA","sit":"S","regime":"SIMPLES","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":10776.00},
-{"ie":60004100,"cnpj":"18554293000114","razao":"SALVIANO CORREIA DE MELO ME","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":140400.00},
+{"ie":60004100,"cnpj":"18554293000114","razao":"SALVIANO CORREIA DE MELO ME","sit":"S","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":140400.00},
 {"ie":53039238,"cnpj":"18200892000130","razao":"L P BARBOSA  MERCADINHO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"AGUA PRETA","igi":0,"uf":"PE","valor":1865.00},
 {"ie":52939952,"cnpj":"18147644000172","razao":"JAILSON FERNANDES DE OLIVEIRA EIRELI - ME","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3150.00},
 {"ie":52837793,"cnpj":"18073013000156","razao":"L N DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":53450.00},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4058.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4058.00},
 {"ie":52136221,"cnpj":"17755933000191","razao":"RELLEKSON RAFAEL DE ARAUJO COSTA MERCADINHO EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":5335.00},
 {"ie":51845687,"cnpj":"17633752000192","razao":"I.P.L SUPERMERCADO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":1946.50},
 {"ie":51925443,"cnpj":"17616595000107","razao":"LDVANIA P SOUZA NOGUEIRA LIMA EPP","sit":"B","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":3340.00},
@@ -144,7 +144,7 @@ SaidasData.saidas = [{"ie":19552092,"cnpj":"70206750000108","razao":"MERCADINHO 
 {"ie":29081157,"cnpj":"04837516000146","razao":"SUPERMERCADO SANTA TEREZA LTDA ME","sit":"A","regime":"NORMAL","municipio":"OROBO","igi":0,"uf":"PE","valor":1771.10},
 {"ie":28707036,"cnpj":"04771599000118","razao":"ARCOVERDE PAGUE MENOS SUPERMERCADOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":1297.50},
 {"ie":28393180,"cnpj":"04545623000109","razao":"S MANOEL SOUZA MERCADINHO","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":6387.00},
-{"ie":28250400,"cnpj":"04485411000175","razao":"COMERCIAL ALIMENTOS PAULINO NETO LTDA","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":34830.00},
+{"ie":28250400,"cnpj":"04485411000175","razao":"COMERCIAL ALIMENTOS PAULINO NETO LTDA","sit":"S","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":34830.00},
 {"ie":28040937,"cnpj":"04352992000177","razao":"VAREJAO GOIANENSE LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":451.50},
 {"ie":27771776,"cnpj":"04219316000120","razao":"MERCANTIL SANTANA LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":692.00},
 {"ie":28418000,"cnpj":"04080070000158","razao":"DISTRIBUIDORA CEASA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":590.00},
@@ -161,8 +161,8 @@ SaidasData.saidas = [{"ie":19552092,"cnpj":"70206750000108","razao":"MERCADINHO 
 {"ie":24728721,"cnpj":"02505332000153","razao":"EDVALDO PAULO LIRA MERCADINHO","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":66.00},
 {"ie":24076805,"cnpj":"02161340000120","razao":"CAVALCANTE & COSTA SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"SAO CAETANO","igi":0,"uf":"PE","valor":250.00},
 {"ie":22586849,"cnpj":"01345027000189","razao":"BRAZ GOMES SILVA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5744.00},
-{"ie":23980362,"cnpj":"00517909000111","razao":"MAX PAN LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":192.00},
 {"ie":21271216,"cnpj":"00517909000111","razao":"MAX PAN LTDA ME","sit":"B","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":192.00},
+{"ie":23980362,"cnpj":"00517909000111","razao":"MAX PAN LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":192.00},
 {"ie":28214277,"cnpj":"00439642000191","razao":"CLAUDINO RODRIGUES DOS SANTOS ME","sit":"A","regime":"NORMAL","municipio":"ITAMBE","igi":0,"uf":"PE","valor":996.00},
 {"ie":21037027,"cnpj":"00439642000191","razao":"CLAUDINO RODRIGUES DOS SANTOS ME","sit":"B","regime":"NORMAL","municipio":"ITAMBE","igi":0,"uf":"PE","valor":996.00},
 {"ie":20517378,"cnpj":"00221551000185","razao":"J TARCISIO CIA LTDA","sit":"A","regime":"NORMAL","municipio":"AMARAJI","igi":0,"uf":"PE","valor":416.00},
@@ -170,7 +170,7 @@ SaidasData.saidas = [{"ie":19552092,"cnpj":"70206750000108","razao":"MERCADINHO 
 {"ie":20395752,"cnpj":"00180383000127","razao":"MERCADINHO MACKSON LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":75731.30}];
 SociosData.socios = [{"cpf":"03622941430","nome":"ALBINO BARROS DA SILVA","ie":63066912,"cnpj":"22786817000170","razao":"A BARROS DA SILVA DESCARTAVEIS EIRELI ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"03622941430","nome":"ALBINO BARROS DA SILVA","ie":61082104,"cnpj":"21812153000103","razao":"ALBINO BARROS DE LIMA  PAPELARIA EPP","sit":"C","regime":"NORMAL","municipio":"PAUDALHO","igi":0},
-{"cpf":"03622941430","nome":"ALBINO BARROS DA SILVA","ie":58607250,"cnpj":"20737372000102","razao":"SERTEX TERCEIRIZACAO E TRANSPORTES DE CARGAS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1},
+{"cpf":"03622941430","nome":"ALBINO BARROS DA SILVA","ie":58607250,"cnpj":"20737372000102","razao":"SERTEX TERCEIRIZACAO E TRANSPORTES DE CARGAS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"03622941430","nome":"ALBINO BARROS DA SILVA","ie":54427029,"cnpj":"18817845000130","razao":"TERSERV TERCEIRIZACAO E TRANSPORTES DE CARGAS LTDA","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0}];
 EmailsData.emails = [];
 TelsData.tels = [];

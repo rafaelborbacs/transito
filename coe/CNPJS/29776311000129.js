@@ -10,6 +10,7 @@ EmailsData.emails = [{"cnpj":"91979269491","email":"eduardo@hotmail.com","razao"
 {"cnpj":"64241882404","email":"eduardo@hotmail.com","razao":"EDUARDO DELMIRO DOS SANTOS - Cod. 0153525","municipio":"SAO LOURENCO DA MATA"},
 {"cnpj":"58228896468","email":"eduardo@hotmail.com","razao":"EDUARDO SIDNEY CARVALHO DE SOUZA - Cod. 0021089","municipio":"PETROLINA"},
 {"cnpj":"45887829400","email":"eduardo@hotmail.com","razao":"FLAVIO EDUARDO DE ALMEIDA VIANA","municipio":"Olinda"},
+{"cnpj":"43558550900","email":"eduardo@hotmail.com","razao":"EDUARDO LUIZ BALLA VECCHIA","municipio":"SOBRADINHO"},
 {"cnpj":"25718038830","email":"eduardo@hotmail.com","razao":"EDUARDO CARDOSO BARBOSA DIAS","municipio":"JABOATAO DOS GUARARA"},
 {"cnpj":"24195167000113","email":"eduardo@hotmail.com","razao":"RAPIDOTRANSUAPE TRANSPORTES E LOCACOES EIRELI - EPP","municipio":"JABOATAO DOS GUARARAPES"},
 {"cnpj":"20531614000107","email":"eduardo@hotmail.com","razao":"E DE MELO SANTANA - ME","municipio":"PRIMAVERA"},

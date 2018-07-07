@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":77148827,"cnpj":"30357799000139","razao":"MARIA ROSANGELA DE SOUZA FREITAS 70256819467","sit":"A","arrecadacao":0.00,"entradas":0.00,"saidas":531378.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"07/05/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":77148827,"cnpj":"30357799000139","razao":"MARIA ROSANGELA DE SOUZA FREITAS 70256819467","sit":"C","arrecadacao":0.00,"entradas":0.00,"saidas":531378.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"07/05/2018","contador":""}];
 EntradasData.entradas = [];
 SaidasData.saidas = [{"ie":0,"cnpj":"92184790591","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2020.00},
 {"ie":0,"cnpj":"79014178549","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":9700.00},
@@ -167,7 +167,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92184790591","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00532779614","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":10180.00},
 {"ie":0,"cnpj":"00388773502","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1050.00},
 {"ie":0,"cnpj":"00132556570","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":10408.00}];
-SociosData.socios = [{"cpf":"70256819467","nome":"MARIA ROSANGELA DE SOUZA FREITAS","ie":77148827,"cnpj":"30357799000139","razao":"MARIA ROSANGELA DE SOUZA FREITAS 70256819467","sit":"A","regime":"SIMEI","municipio":"SURUBIM","igi":1}];
+SociosData.socios = [{"cpf":"70256819467","nome":"MARIA ROSANGELA DE SOUZA FREITAS","ie":77148827,"cnpj":"30357799000139","razao":"MARIA ROSANGELA DE SOUZA FREITAS 70256819467","sit":"C","regime":"SIMEI","municipio":"SURUBIM","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

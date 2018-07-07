@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":63678950,"cnpj":"23074358000164","razao":"LEANDRO OLIVIO DA CRUZ EPP","sit":"B","arrecadacao":0.00,"entradas":1265602.80,"saidas":532371.12,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"CAMUTANGA","drr":"I","igi":1,"dataie":"17/08/2015","contador":""}];
-EntradasData.entradas = [{"ie":51925443,"cnpj":"17616595000107","razao":"LDVANIA P SOUZA NOGUEIRA LIMA EPP","sit":"B","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":652.80},
+EntradasData.entradas = [{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":431950.00},
 {"ie":30388660,"cnpj":"03861512001021","razao":"INDUSTRIAS ALIMENTICIAS MARATA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":833000.00},
-{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":431950.00}];
+{"ie":51925443,"cnpj":"17616595000107","razao":"LDVANIA P SOUZA NOGUEIRA LIMA EPP","sit":"B","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":652.80}];
 SaidasData.saidas = [{"ie":20288166,"cnpj":"70077086000136","razao":"COMERCIAL ITAIBA LTDA","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":0,"uf":"PE","valor":166.00},
 {"ie":19591071,"cnpj":"41255118000148","razao":"JOELSON F FERRAZ BETANIA","sit":"A","regime":"NORMAL","municipio":"BETANIA","igi":0,"uf":"PE","valor":1440.00},
 {"ie":18504078,"cnpj":"41017963000185","razao":"MERCADINHO KUMAMOTO LTDA ME","sit":"A","regime":"NORMAL","municipio":"LAGOA DO CARRO","igi":0,"uf":"PE","valor":9158.00},
@@ -25,7 +25,7 @@ SaidasData.saidas = [{"ie":20288166,"cnpj":"70077086000136","razao":"COMERCIAL I
 {"ie":53617452,"cnpj":"18452514000143","razao":"H. J. DE SOUZA MINIMERCADO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":11885.00},
 {"ie":53394569,"cnpj":"18342061000100","razao":"RC ALIMENTOS MATA NORTE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"NAZARE DA MATA","igi":0,"uf":"PE","valor":352.20},
 {"ie":53387279,"cnpj":"18325729000101","razao":"NE INDUSTRIAL EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12328.77},
-{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2560.00},
+{"ie":52386503,"cnpj":"17890397000137","razao":"DISTRIBUIDORA DE ALIMENTOS J ANDRADE LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2560.00},
 {"ie":52237680,"cnpj":"17765451000112","razao":"EBOM ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"SERRA TALHADA","igi":0,"uf":"PE","valor":450.00},
 {"ie":51925443,"cnpj":"17616595000107","razao":"LDVANIA P SOUZA NOGUEIRA LIMA EPP","sit":"B","regime":"NORMAL","municipio":"SAO JOSE DO EGITO","igi":0,"uf":"PE","valor":1305.60},
 {"ie":50193708,"cnpj":"16842324000107","razao":"H M DA SILVA MERCADINHO - EPP","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":5986.00},

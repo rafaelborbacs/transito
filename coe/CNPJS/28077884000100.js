@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":72528036,"cnpj":"28077884000100","razao":"M. J. MEDINO COMERCIO EPP","sit":"C","arrecadacao":0.00,"entradas":560989.87,"saidas":883218.90,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"SAO JOSE DO EGITO","drr":"II","igi":1,"dataie":"30/06/2017","contador":""}];
-EntradasData.entradas = [{"ie":52118754,"cnpj":"17733830000120","razao":"QUALLYHORTI COMERCIO & IMPORTACAO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12060.00},
+EntradasData.entradas = [{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":20688.02},
 {"ie":62482505,"cnpj":"12990403000104","razao":"SAMAR COMERCIAL DE ALIMENTOS - EIRELI","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2100.00},
-{"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":20688.02},
-{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":341377.37},
-{"ie":50934066,"cnpj":"09478907000305","razao":"SUPERMERCADO AVISTAO EIRELI","sit":"A","regime":"NORMAL","municipio":"IGUARACI","igi":0,"uf":"PE","valor":117.48},
+{"ie":52118754,"cnpj":"17733830000120","razao":"QUALLYHORTI COMERCIO & IMPORTACAO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12060.00},
 {"ie":8958300,"cnpj":"08188229000103","razao":"SAO PAULO ATACADO DE ALIMENTOS LTDA","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":1,"uf":"PE","valor":174225.00},
-{"ie":10657428,"cnpj":"09058504000137","razao":"ARMAZEM DO GRAO COMERCIO DE ALIMENTOS E EMBALAGENS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10422.00}];
+{"ie":10657428,"cnpj":"09058504000137","razao":"ARMAZEM DO GRAO COMERCIO DE ALIMENTOS E EMBALAGENS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":10422.00},
+{"ie":50934066,"cnpj":"09478907000305","razao":"SUPERMERCADO AVISTAO EIRELI","sit":"A","regime":"NORMAL","municipio":"IGUARACI","igi":0,"uf":"PE","valor":117.48},
+{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":341377.37}];
 SaidasData.saidas = [{"ie":67503896,"cnpj":"24893313000184","razao":"MB DISTRIBUIDORA DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":378.00},
 {"ie":66688108,"cnpj":"24429732000160","razao":"FTP COMERCIO DE ALIMENTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2937.30},
 {"ie":64876535,"cnpj":"23612972000132","razao":"A. C. DE AMORIM SOUZA COMERCIO DE ALIMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":8521.84},
@@ -13,7 +13,7 @@ SaidasData.saidas = [{"ie":67503896,"cnpj":"24893313000184","razao":"MB DISTRIBU
 {"ie":61174300,"cnpj":"21841833000155","razao":"L. H. MINIMERCADO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6647.81},
 {"ie":59965037,"cnpj":"21332750000130","razao":"V S COMERCIO ATACADISTA DE HORTIFRUTEGRANJEIROS E TRANSPORTES EIRELI","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":112000.00},
 {"ie":58245081,"cnpj":"20534381000104","razao":"SUPERMERCADO NOVA ERA EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":100205.55},
-{"ie":58049738,"cnpj":"20430358000161","razao":"PFR ALIMENTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2266.86},
+{"ie":58049738,"cnpj":"20430358000161","razao":"PFR ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2266.86},
 {"ie":56287925,"cnpj":"19621824000107","razao":"AVENIDA SUPERMERCADO LTDA","sit":"B","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":49999.95},
 {"ie":55867472,"cnpj":"19431948000120","razao":"G. R. VAREJAO ECONOMICO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":50073.24},
 {"ie":54138345,"cnpj":"18685984000157","razao":"A M BEZERRA PRODUTOS ALIMENTICIOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":8380.00},

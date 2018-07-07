@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":67674941,"cnpj":"24971752000168","razao":"COMERCIAL PONTE VELHA EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":2600816.83,"saidas":2637262.60,"regime":"NORMAL","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"09/06/2016","contador":""}];
-EntradasData.entradas = [{"ie":49160699,"cnpj":"15777224000181","razao":"A.L. LEMOS DE FIGUEIREDO - ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":11980.50},
+EntradasData.entradas = [{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":178400.00},
 {"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":286259.72},
-{"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":178400.00},
-{"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":99964.26},
-{"ie":41843436,"cnpj":"09165988000113","razao":"F ARRUDA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1797606.22},
+{"ie":49160699,"cnpj":"15777224000181","razao":"A.L. LEMOS DE FIGUEIREDO - ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":11980.50},
+{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":182666.93},
 {"ie":49976621,"cnpj":"10633811000264","razao":"GRUPO TOTAL BRASIL INDUSTRIA DE DESCARTAVEIS LTDA","sit":"A","regime":"NORMAL","municipio":"GLORIA DO GOITA","igi":0,"uf":"PE","valor":43939.20},
-{"ie":29933412,"cnpj":"05522145000176","razao":"LETHA INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":182666.93}];
+{"ie":41843436,"cnpj":"09165988000113","razao":"F ARRUDA ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1797606.22},
+{"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":99964.26}];
 SaidasData.saidas = [{"ie":66125200,"cnpj":"24205220000110","razao":"SUPERMERCADO PORTO DO MAR LTDA","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":105074.94},
 {"ie":65877985,"cnpj":"24059497000181","razao":"SUPERMERCADO ESCADENSE LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":79918.61},
 {"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":22397.00},
@@ -19,7 +19,7 @@ SaidasData.saidas = [{"ie":66125200,"cnpj":"24205220000110","razao":"SUPERMERCAD
 {"ie":0,"cnpj":"16644245000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":29030.00},
 {"ie":57261741,"cnpj":"15595792000242","razao":"MARCELA E BRAZ ALIMENTOS LTDA - ME","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":49420.90},
 {"ie":48760676,"cnpj":"15595792000161","razao":"MARCELA E BRAZ ALIMENTOS LTDA ME","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":11771.00},
-{"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":47700.00},
+{"ie":48742260,"cnpj":"15555282000160","razao":"BULTRIOL IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":47700.00},
 {"ie":44097441,"cnpj":"13611324000108","razao":"T. R. SIEDLER - EPP","sit":"A","regime":"NORMAL","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":4733.65},
 {"ie":42494370,"cnpj":"12991068000169","razao":"MERCADINHO CAMPEAO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":60345.59},
 {"ie":0,"cnpj":"12090769000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":49114.25},

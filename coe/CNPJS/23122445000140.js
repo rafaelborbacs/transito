@@ -6,5 +6,5 @@ EntradasData.entradas = [{"ie":1500619,"cnpj":"00048785001810","razao":"INDAIA B
 SaidasData.saidas = [];
 SociosData.socios = [];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"71717978487","tel":"81987958504","razao":"EMANOEL FRANCA SILVA EMANOEL SILVA","municipio":"JABOATAO DOS GUARARAPES"}];
+TelsData.tels = [{"cnpj":"71717978487","tel":"81987958504","razao":"EMANOEL FRANCA SILVA","municipio":"JABOATAO DOS GUARARAPES"}];
 PlacasData.placas = [];

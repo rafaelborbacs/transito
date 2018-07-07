@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":76947416,"cnpj":"30252994000102","razao":"JOSE DO EGITO CRUZ DE BRITO 14713697494","sit":"A","arrecadacao":0.00,"entradas":23564.67,"saidas":577879.49,"regime":"SIMEI","segmento":"VAREJO","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"23/04/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":76947416,"cnpj":"30252994000102","razao":"JOSE DO EGITO CRUZ DE BRITO 14713697494","sit":"B","arrecadacao":0.00,"entradas":23564.67,"saidas":577879.49,"regime":"NORMAL","segmento":"VAREJO","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"23/04/2018","contador":""}];
 EntradasData.entradas = [{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15064.21},
 {"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":8500.46}];
 SaidasData.saidas = [{"ie":0,"cnpj":"98690256253","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":350.00},
@@ -20,7 +20,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"98690256253","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"30027334000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":53990.00},
 {"ie":0,"cnpj":"30024189863","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2000.00},
 {"ie":0,"cnpj":"29923781000178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":601.80},
-{"ie":75701120,"cnpj":"29563840000144","razao":"JOSE DIONISIO DE AGUIAR NETO 09556066403","sit":"B","regime":"SIMEI","municipio":"TUCURUI","igi":0,"uf":"PA","valor":44297.00},
+{"ie":75701120,"cnpj":"29563840000144","razao":"JOSE DIONISIO DE AGUIAR NETO 09556066403","sit":"B","regime":"SIMPLES","municipio":"TUCURUI","igi":0,"uf":"PA","valor":44297.00},
 {"ie":0,"cnpj":"29542470000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1920.00},
 {"ie":0,"cnpj":"29416156000210","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":1000.00},
 {"ie":0,"cnpj":"29416156000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":2916.00},
@@ -177,7 +177,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"98690256253","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00319404000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":340.00},
 {"ie":0,"cnpj":"00318000000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":900.00},
 {"ie":0,"cnpj":"00106177109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":600.00}];
-SociosData.socios = [{"cpf":"14713697494","nome":"JOSE DO EGITO CRUZ DE BRITO","ie":76947416,"cnpj":"30252994000102","razao":"JOSE DO EGITO CRUZ DE BRITO 14713697494","sit":"A","regime":"SIMEI","municipio":"VERTENTES","igi":1}];
+SociosData.socios = [{"cpf":"14713697494","nome":"JOSE DO EGITO CRUZ DE BRITO","ie":76947416,"cnpj":"30252994000102","razao":"JOSE DO EGITO CRUZ DE BRITO 14713697494","sit":"B","regime":"NORMAL","municipio":"VERTENTES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

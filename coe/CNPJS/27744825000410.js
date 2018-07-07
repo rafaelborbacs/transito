@@ -33,7 +33,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92142753353","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"30727280899","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":8500.00},
 {"ie":0,"cnpj":"29709970100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":13400.00},
 {"ie":0,"cnpj":"29166381134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
-{"ie":77639561,"cnpj":"28494620000143","razao":"HELLEN CAROLYNE COSTA PIRES","sit":"A","regime":"NORMAL","municipio":"ARARIPINA","igi":0,"uf":"PI","valor":4980.00},
+{"ie":77639561,"cnpj":"28494620000143","razao":"HELLEN CAROLYNE COSTA PIRES","sit":"S","regime":"NORMAL","municipio":"ARARIPINA","igi":0,"uf":"PI","valor":4980.00},
 {"ie":0,"cnpj":"28265772000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4950.00},
 {"ie":0,"cnpj":"28178893000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":1556.00},
 {"ie":0,"cnpj":"28165020153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5200.00},

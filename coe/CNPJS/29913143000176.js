@@ -1,14 +1,46 @@
-EstabelecimentoData.estabelecimento = [{"ie":76342859,"cnpj":"29913143000176","razao":"SERGIO TEOFILO MANOEL 26128961800","sit":"B","arrecadacao":0.00,"entradas":322736.09,"saidas":0.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"ALCANTIL","drr":"I","igi":1,"dataie":"19/03/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":76342859,"cnpj":"29913143000176","razao":"SERGIO TEOFILO MANOEL 26128961800","sit":"B","arrecadacao":0.00,"entradas":322736.09,"saidas":124922.40,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"ALCANTIL","drr":"I","igi":1,"dataie":"19/03/2018","contador":""}];
 EntradasData.entradas = [{"ie":0,"cnpj":"01136386000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":9600.00},
-{"ie":0,"cnpj":"49601255000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":29750.00},
-{"ie":0,"cnpj":"17490825000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":35785.00},
-{"ie":0,"cnpj":"08307549000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":149000.00},
 {"ie":0,"cnpj":"82725607000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":15580.00},
-{"ie":0,"cnpj":"18323421000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":22540.00},
 {"ie":0,"cnpj":"05629653000310","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":54409.09},
-{"ie":0,"cnpj":"24546766000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6072.00}];
-SaidasData.saidas = [];
-SociosData.socios = [{"cpf":"26128961800","nome":"SERGIO TEOFILO MANOEL","ie":76342859,"cnpj":"29913143000176","razao":"SERGIO TEOFILO MANOEL 26128961800","sit":"B","regime":"SIMEI","municipio":"ALCANTIL","igi":1}];
+{"ie":0,"cnpj":"24546766000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6072.00},
+{"ie":0,"cnpj":"49601255000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":29750.00},
+{"ie":0,"cnpj":"08307549000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":149000.00},
+{"ie":0,"cnpj":"18323421000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":22540.00},
+{"ie":0,"cnpj":"17490825000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":35785.00}];
+SaidasData.saidas = [{"ie":0,"cnpj":"68822998000143","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":2628.00},
+{"ie":0,"cnpj":"68138403000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":19200.00},
+{"ie":0,"cnpj":"43906906809","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2500.00},
+{"ie":0,"cnpj":"39061937809","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1050.00},
+{"ie":0,"cnpj":"37986917890","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3740.00},
+{"ie":0,"cnpj":"31915991854","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5000.00},
+{"ie":0,"cnpj":"31425593291","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1232.00},
+{"ie":77210565,"cnpj":"30385517000107","razao":"PAULO BORGES FERREIRA JUNIOR 09871601417","sit":"B","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":75.00},
+{"ie":0,"cnpj":"29529857000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4905.00},
+{"ie":0,"cnpj":"29048098000139","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2250.00},
+{"ie":0,"cnpj":"28802698000188","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":6000.00},
+{"ie":0,"cnpj":"28452408000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4545.00},
+{"ie":0,"cnpj":"27737505000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":3000.00},
+{"ie":0,"cnpj":"27244316852","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2000.00},
+{"ie":0,"cnpj":"24661422000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3512.00},
+{"ie":0,"cnpj":"21048779000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2100.00},
+{"ie":0,"cnpj":"20662969000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1540.00},
+{"ie":0,"cnpj":"20268103000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2800.00},
+{"ie":0,"cnpj":"19942042000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5400.00},
+{"ie":0,"cnpj":"19777984000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4810.00},
+{"ie":0,"cnpj":"17771124000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},
+{"ie":0,"cnpj":"12505602000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2550.00},
+{"ie":0,"cnpj":"07697858000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6000.00},
+{"ie":0,"cnpj":"07259240000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1576.00},
+{"ie":0,"cnpj":"07060277000159","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":8340.00},
+{"ie":0,"cnpj":"07031029740","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":879.40},
+{"ie":0,"cnpj":"05023753000136","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":14400.00},
+{"ie":0,"cnpj":"03269244932","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":5450.00},
+{"ie":0,"cnpj":"03217681000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":780.00},
+{"ie":0,"cnpj":"03019893038","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":480.00},
+{"ie":0,"cnpj":"02948083028","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":1200.00},
+{"ie":0,"cnpj":"02288648000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1000.00},
+{"ie":0,"cnpj":"01655838784","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2480.00}];
+SociosData.socios = [{"cpf":"26128961800","nome":"SERGIO TEOFILO MANOEL","ie":76342859,"cnpj":"29913143000176","razao":"SERGIO TEOFILO MANOEL 26128961800","sit":"B","regime":"SIMPLES","municipio":"ALCANTIL","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

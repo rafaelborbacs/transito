@@ -1,0 +1,42 @@
+EstabelecimentoData.estabelecimento = [{"ie":64146138,"cnpj":"23245067000191","razao":"JUSCELINO DA SILVA ASSUNCAO COMERCIO DE ALIMENTOS E BEBIDAS","sit":"A","arrecadacao":0.00,"entradas":396812.24,"saidas":546.00,"regime":"SIMPLES","segmento":"SUPERMERCADOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"15/09/2015","contador":"RAIMUNDA NONATA NERI DOS SANTOS"}];
+EntradasData.entradas = [{"ie":53386205,"cnpj":"18234457000126","razao":"MAXLIM INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA - ME","sit":"A","regime":"NORMAL","municipio":"LAJEDO","igi":0,"uf":"PE","valor":775.20},
+{"ie":74623524,"cnpj":"29079313000169","razao":"ATACAREJO DE BISCOITO E ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":471.00},
+{"ie":39258971,"cnpj":"11630975000110","razao":"PAVEPE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5000.00},
+{"ie":62404105,"cnpj":"22466226000115","razao":"PRODUTOS SERRANO INDUSTRIA E COMERCIO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":1364.44},
+{"ie":25718460,"cnpj":"02783957000187","razao":"BISCOITOS SCKIN LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"CAETES","igi":0,"uf":"PE","valor":614.00},
+{"ie":72527226,"cnpj":"10176797000217","razao":"ML COMERCIO E IMPORTACAO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":1440.00},
+{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS DA SILVA COMERCIO ATACADISTA DE ALIMENTOS - EPP","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":355200.00},
+{"ie":22370080,"cnpj":"01220556000156","razao":"INDUSTRIA E COMERCIO VELAS SANTA CLARA LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":1435.00},
+{"ie":0,"cnpj":"06829427000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":11175.00},
+{"ie":982300,"cnpj":"10018117000156","razao":"ARMAZEM LACERDA LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":4025.00},
+{"ie":34313125,"cnpj":"08190634000166","razao":"C.IRMAOS INDUSTRIA DE BEBIDAS LTDA.","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":11857.00},
+{"ie":37370472,"cnpj":"10535064000140","razao":"MAX ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"uf":"PE","valor":3245.60},
+{"ie":36109851,"cnpj":"09281768000155","razao":"JOSE AUGUSTO SALES BORBA ESTIVAS","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":210.00}];
+SaidasData.saidas = [{"ie":28329171,"cnpj":"04542682000115","razao":"ADELMO ALEXANDRINO DE FREITAS","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":546.00}];
+SociosData.socios = [{"cpf":"68045387491","nome":"JUSCELINO DA SILVA ASSUNCAO","ie":64146138,"cnpj":"23245067000191","razao":"JUSCELINO DA SILVA ASSUNCAO COMERCIO DE ALIMENTOS E BEBIDAS","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":1},
+{"cpf":"68045387491","nome":"JUSCELINO DA SILVA ASSUNCAO","ie":33943109,"cnpj":"08100135000130","razao":"JUSCELINO DA SILVA ASSUNCAO MERCEARIAS","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0}];
+EmailsData.emails = [{"cnpj":"44071329491","email":"jluciano@ig.com.br","razao":"JOSE ROBERTO DA SILVA ASSUNCAO","municipio":"CARUARU"},
+{"cnpj":"13452866000185","email":"jluciano@ig.com.br","razao":"PARAISO COMERCIO DE PRODUTOS ALIMENTICIO","municipio":"CARUARU"},
+{"cnpj":"11605720000369","email":"jluciano@ig.com.br","razao":"M. EDILMA TEIXEIRA DE MORAIS SUPERMERCADO - EPP","municipio":"CARUARU"},
+{"cnpj":"11605720000288","email":"jluciano@ig.com.br","razao":"M. EDILMA TEIXEIRA DE MORAIS SUPERMERCADO","municipio":"CARUARU"},
+{"cnpj":"11605720000105","email":"jluciano@ig.com.br","razao":"M. EDILMA TEIXEIRA DE MORAIS SUPERMERCADO - EPP","municipio":"CARUARU"},
+{"cnpj":"10230840000102","email":"jluciano@ig.com.br","razao":"ERIKA BRAGA GOMES PADARIA","municipio":"CARUARU"},
+{"cnpj":"09223866000136","email":"jluciano@ig.com.br","razao":"J EDILSON SILVA ALIMENTOS ME","municipio":"CARUARU"}];
+TelsData.tels = [{"cnpj":"50655205420","tel":"8137211194","razao":"JOSIMERE APARECIDA DA SILVA ASSUNCAO","municipio":"CARUARU"},
+{"cnpj":"44071329491","tel":"8131361082","razao":"JOSE ROBERTO DA SILVA ASSUNCAO","municipio":"CARUARU"},
+{"cnpj":"27066285000110","tel":"8131361082","razao":"LUCICLEIDE JACINTO CINTRA MONTEIRO INDUSTRIA COMER","municipio":"CARUARU"},
+{"cnpj":"13120190000122","tel":"8131361082","razao":"SIM SUPERMERCADOS LTDA","municipio":"SERTANIA"},
+{"cnpj":"12541698000131","tel":"8131361082","razao":"SIQUEIRA DANTAS COMERCIO ALIMENTICIOS LTDA - ME","municipio":"SERTANIA"},
+{"cnpj":"09223866000136","tel":"8137211194","razao":"J EDILSON SILVA ALIMENTOS ME","municipio":"CARUARU"},
+{"cnpj":"09223866000136","tel":"8131361082","razao":"J EDILSON SILVA ALIMENTOS ME","municipio":"CARUARU"},
+{"cnpj":"08928733000283","tel":"8131361082","razao":"FEITOSA SUPERMERCADO LTDA ME","municipio":"Buique"},
+{"cnpj":"08928733000100","tel":"8131361082","razao":"FEITOSA SUPERMERCADOS LTDA","municipio":"Buique"},
+{"cnpj":"05558626000131","tel":"8131361082","razao":"G R A RAMOS DA SILVA CAMPOS ME","municipio":"Pocao"},
+{"cnpj":"02495223000100","tel":"8131361082","razao":"PAULO ROBERTO DE OLIVEIRA","municipio":"Sertania"}];
+PlacasData.placas = [{"cnpj":"44071329491","placa":"PGK8452","razao":"JOSE ROBERTO DA SILVA ASSUNCAO","municipio":"CARUARU"},
+{"cnpj":"44071329491","placa":"KFI0292","razao":"JOSE ROBERTO DA SILVA ASSUNCAO","municipio":"CARUARU"},
+{"cnpj":"09223866000136","placa":"PGK8452","razao":"J EDILSON SILVA ALIMENTOS ME","municipio":"CARUARU"},
+{"cnpj":"09223866000136","placa":"PGK8072","razao":"J EDILSON SILVA ALIMENTOS ME","municipio":"CARUARU"},
+{"cnpj":"09223866000136","placa":"PFU8722","razao":"J EDILSON SILVA ALIMENTOS ME","municipio":"CARUARU"},
+{"cnpj":"09223866000136","placa":"KIS2290","razao":"J EDILSON SILVA ALIMENTOS ME","municipio":"CARUARU"},
+{"cnpj":"09223866000136","placa":"KFI0292","razao":"J EDILSON SILVA ALIMENTOS ME","municipio":"CARUARU"}];

@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":76323471,"cnpj":"29969453000102","razao":"EDNALDO A DA SILVA","sit":"A","arrecadacao":0.00,"entradas":104843.75,"saidas":2726285.35,"regime":"NORMAL","segmento":"TECIDOS","municipio":"JATAUBA","drr":"II","igi":1,"dataie":"19/03/2018","contador":""}];
-EntradasData.entradas = [{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15832.50},
+EntradasData.entradas = [{"ie":0,"cnpj":"25265845000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2951.15},
 {"ie":0,"cnpj":"03698629000145","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":17888.00},
-{"ie":0,"cnpj":"13791722000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":15277.50},
-{"ie":0,"cnpj":"25265845000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2951.15},
-{"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":12714.90},
 {"ie":0,"cnpj":"14067869000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6888.00},
+{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15832.50},
 {"ie":0,"cnpj":"15762789000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":26397.70},
+{"ie":0,"cnpj":"08583993000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":12714.90},
+{"ie":0,"cnpj":"13791722000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":15277.50},
 {"ie":0,"cnpj":"13751129000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6894.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7050.00},
 {"ie":0,"cnpj":"92561896668","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7030.00},

@@ -1,12 +1,12 @@
 EstabelecimentoData.estabelecimento = [{"ie":73712922,"cnpj":"28664202000157","razao":"COMERCIAL CATENDE DO SUL EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":46725.00,"saidas":465545.48,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"AMARAJI","drr":"I","igi":1,"dataie":"19/09/2017","contador":""}];
-EntradasData.entradas = [{"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":19500.00},
-{"ie":0,"cnpj":"09094632000217","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":27225.00}];
+EntradasData.entradas = [{"ie":0,"cnpj":"09094632000217","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":27225.00},
+{"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":19500.00}];
 SaidasData.saidas = [{"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL VILA POPULAR EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"FLORES","igi":1,"uf":"PE","valor":59692.46},
 {"ie":72412917,"cnpj":"27972739000111","razao":"VITOR NOGUEIRA SILVA ALIMENTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"uf":"PE","valor":19500.00},
 {"ie":0,"cnpj":"25263943000138","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":261930.00},
 {"ie":67396950,"cnpj":"24842017000154","razao":"COMERCIAL DE ALIMENTOS ROSENDO EIRELI","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1447.20},
 {"ie":67385400,"cnpj":"24822335000153","razao":"ECONOMICO COMERCIO DE ALIMENTOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":8777.64},
-{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":29000.00},
+{"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":29000.00},
 {"ie":65169204,"cnpj":"23740677000161","razao":"A.F.D.ALVES DE PAULA CARVALHO FRIGORIFICO ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1854.44},
 {"ie":62503430,"cnpj":"22505841000193","razao":"DISTRIBUIDORA DE ALIMENTOS AGUA FRIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1440.00},
 {"ie":60756659,"cnpj":"21669235000140","razao":"G&G COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1960.12},

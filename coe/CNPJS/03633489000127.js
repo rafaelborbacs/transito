@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":26776448,"cnpj":"03633489000127","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","arrecadacao":1244.33,"entradas":523627.97,"saidas":2533668.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"17/02/2000","contador":"INACIO JOSE DA SILVA"}];
-EntradasData.entradas = [{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":11370.00},
+EntradasData.entradas = [{"ie":61869473,"cnpj":"22161232000164","razao":"ANNA LUIZA A. DE PAIVA","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":8723.91},
+{"ie":54856302,"cnpj":"03633489000208","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":462829.61},
+{"ie":53849825,"cnpj":"06070166000160","razao":"JOSE ELIZIO GONCALVES BATISTA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":10290.00},
+{"ie":53675576,"cnpj":"18529447000118","razao":"MANASSEIS V TAVARES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3998.00},
 {"ie":24291102,"cnpj":"02233622001248","razao":"GOTEMBURGO VEICULOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":565.00},
 {"ie":35531088,"cnpj":"05432353000184","razao":"MARIA MARLI DA CONCEICAO SILVA","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":6160.00},
-{"ie":61869473,"cnpj":"22161232000164","razao":"ANNA LUIZA A. DE PAIVA","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":8723.91},
-{"ie":54856302,"cnpj":"03633489000208","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":462829.61},
-{"ie":35578394,"cnpj":"08956711000146","razao":"J. ISAAC DA SILVA BEZERRA LAVANDERIA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":16833.00},
-{"ie":53675576,"cnpj":"18529447000118","razao":"MANASSEIS V TAVARES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3998.00},
+{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":11370.00},
 {"ie":0,"cnpj":"02233622000276","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2858.45},
-{"ie":53849825,"cnpj":"06070166000160","razao":"JOSE ELIZIO GONCALVES BATISTA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":10290.00}];
+{"ie":35578394,"cnpj":"08956711000146","razao":"J. ISAAC DA SILVA BEZERRA LAVANDERIA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":16833.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97553825000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":600.00},
 {"ie":0,"cnpj":"83313643000112","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2100.00},
 {"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":20143.00},

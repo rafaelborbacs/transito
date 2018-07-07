@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":63955032,"cnpj":"23156352000136","razao":"DJANCA DE ANDRADE SANTIAGO 02961761336","sit":"A","arrecadacao":0.00,"entradas":437203.43,"saidas":0.00,"regime":"SIMEI","segmento":"VAREJO","municipio":"TAMANDARE","drr":"I","igi":1,"dataie":"01/09/2015","contador":""}];
-EntradasData.entradas = [{"ie":28567277,"cnpj":"04666316000178","razao":"MARITIMOS PESCADOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":35943.14},
-{"ie":69321698,"cnpj":"14145272000437","razao":"FRIGORIFICO ITIBAN INDUSTRIA, COMERCIO, IMPORTADORA E EXPORTADORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":401260.29}];
+EntradasData.entradas = [{"ie":69321698,"cnpj":"14145272000437","razao":"FRIGORIFICO ITIBAN INDUSTRIA, COMERCIO, IMPORTADORA E EXPORTADORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":401260.29},
+{"ie":28567277,"cnpj":"04666316000178","razao":"MARITIMOS PESCADOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":35943.14}];
 SaidasData.saidas = [];
 SociosData.socios = [];
 EmailsData.emails = [];

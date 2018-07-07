@@ -49,7 +49,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99366380182","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"29953875000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":838.00},
 {"ie":0,"cnpj":"29747115000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":1750.00},
 {"ie":0,"cnpj":"29638656000116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":4000.00},
-{"ie":75701120,"cnpj":"29563840000144","razao":"JOSE DIONISIO DE AGUIAR NETO 09556066403","sit":"B","regime":"SIMEI","municipio":"TUCURUI","igi":0,"uf":"PA","valor":11574.00},
+{"ie":75701120,"cnpj":"29563840000144","razao":"JOSE DIONISIO DE AGUIAR NETO 09556066403","sit":"B","regime":"SIMPLES","municipio":"TUCURUI","igi":0,"uf":"PA","valor":11574.00},
 {"ie":0,"cnpj":"29479414000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":500.00},
 {"ie":0,"cnpj":"29396339000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":700.20},
 {"ie":0,"cnpj":"29333575000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3972.00},

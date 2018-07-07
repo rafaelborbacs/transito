@@ -1,14 +1,14 @@
-EstabelecimentoData.estabelecimento = [{"ie":69468010,"cnpj":"26429268000137","razao":"KM COMERCIO E TRANSPORTE LTDA ME","sit":"C","arrecadacao":10526.52,"entradas":180790.46,"saidas":6953484.93,"regime":"NORMAL","segmento":"VAREJO","municipio":"PETROLINA","drr":"III","igi":1,"dataie":"27/10/2016","contador":"GUSTAVO RAFAEL DE BARROS SANTOS"}];
+EstabelecimentoData.estabelecimento = [{"ie":69468010,"cnpj":"26429268000137","razao":"KM COMERCIO E TRANSPORTE LTDA ME","sit":"C","arrecadacao":10526.52,"entradas":181518.76,"saidas":7127747.93,"regime":"NORMAL","segmento":"VAREJO","municipio":"PETROLINA","drr":"III","igi":1,"dataie":"27/10/2016","contador":"GUSTAVO RAFAEL DE BARROS SANTOS"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":122.00},
-{"ie":0,"cnpj":"25247658000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1935.01},
-{"ie":49637096,"cnpj":"16651758000120","razao":"ILUMINA COSMETICOS EIRELI  EPP","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":3664.50},
+{"ie":69468010,"cnpj":"26429268000137","razao":"KM COMERCIO E TRANSPORTE LTDA ME","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1,"uf":"PE","valor":1740.00},
+{"ie":35449152,"cnpj":"07714698000156","razao":"KITEMPERA INDUSTRIA DE VIDROS TEMPERADOS LTDA  ME","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":2980.00},
 {"ie":0,"cnpj":"27877149000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1500.00},
 {"ie":0,"cnpj":"20625458000143","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":2750.00},
+{"ie":0,"cnpj":"11596442003427","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":150827.25},
+{"ie":0,"cnpj":"25247658000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1935.01},
 {"ie":34709118,"cnpj":"08508914000170","razao":"S. J. GESSO LTDA","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":3000.00},
 {"ie":0,"cnpj":"20531139000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":13000.00},
-{"ie":0,"cnpj":"11596442003427","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":150098.95},
-{"ie":69468010,"cnpj":"26429268000137","razao":"KM COMERCIO E TRANSPORTE LTDA ME","sit":"C","regime":"NORMAL","municipio":"PETROLINA","igi":1,"uf":"PE","valor":1740.00},
-{"ie":35449152,"cnpj":"07714698000156","razao":"KITEMPERA INDUSTRIA DE VIDROS TEMPERADOS LTDA  ME","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":2980.00}];
+{"ie":49637096,"cnpj":"16651758000120","razao":"ILUMINA COSMETICOS EIRELI  EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":3664.50}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99930846387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":3010.00},
 {"ie":0,"cnpj":"99716852568","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":2450.00},
 {"ie":0,"cnpj":"99285550444","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":2280.00},
@@ -169,7 +169,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99930846387","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"11823083412","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":2000.00},
 {"ie":0,"cnpj":"11784165697","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1200.00},
 {"ie":0,"cnpj":"11726845000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":12110.00},
-{"ie":0,"cnpj":"11596442003427","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":5682916.50},
+{"ie":0,"cnpj":"11596442003427","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":5857179.50},
 {"ie":0,"cnpj":"10937672000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":4200.00},
 {"ie":0,"cnpj":"10836563417","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"DF","valor":700.00},
 {"ie":0,"cnpj":"10666018000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":750.00},

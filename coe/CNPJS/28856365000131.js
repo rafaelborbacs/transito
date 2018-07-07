@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":74150448,"cnpj":"28856365000131","razao":"COMERCIAL JENNIFFER DE ALIMENTOS EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":1798987.00,"saidas":1526281.30,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"JABOATAO DOS GUARARAPES","drr":"I","igi":1,"dataie":"16/10/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":999310.00},
-{"ie":0,"cnpj":"02348861000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":29295.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"14172362000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":105800.00},
+{"ie":0,"cnpj":"02859452000230","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":84270.00},
 {"ie":0,"cnpj":"18073771000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":248367.00},
+{"ie":0,"cnpj":"12217246000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":52000.00},
+{"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":17700.00},
 {"ie":0,"cnpj":"11131875000149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":215445.00},
 {"ie":28350707,"cnpj":"03794600000248","razao":"ZIHUATANEJO DO BRASIL ACUCAR E ALCOOL S/A - EM RECUPERACAO JUDICIAL","sit":"A","regime":"NORMAL","municipio":"RIO FORMOSO","igi":0,"uf":"PE","valor":46800.00},
-{"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":17700.00},
-{"ie":0,"cnpj":"02859452000230","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":84270.00},
-{"ie":0,"cnpj":"14172362000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":105800.00},
-{"ie":0,"cnpj":"12217246000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":52000.00}];
+{"ie":0,"cnpj":"07042642000364","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":999310.00},
+{"ie":0,"cnpj":"02348861000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":29295.00}];
 SaidasData.saidas = [{"ie":16909305,"cnpj":"35600691000149","razao":"EMANUELI CRISTINI SILVA PINHEIRO INTERAMINENSE SUPERMERCADOS EPP","sit":"A","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":0,"uf":"PE","valor":6600.00},
 {"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COMERCIAL DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":52585.25},
 {"ie":74151258,"cnpj":"28858208000165","razao":"COMERCIAL IRMAOS ARRUDA EIRELI ME","sit":"C","regime":"NORMAL","municipio":"SAO BENEDITO DO SUL","igi":1,"uf":"PE","valor":6200.00},
@@ -48,7 +48,7 @@ SaidasData.saidas = [{"ie":16909305,"cnpj":"35600691000149","razao":"EMANUELI CR
 {"ie":33626715,"cnpj":"07904747000113","razao":"NAIR DE BARROS MONTEIRO ME","sit":"A","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":2150.00},
 {"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":284527.29},
 {"ie":30065909,"cnpj":"05578864000109","razao":"JOSE WASHINGTON E CIA LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3150.00},
-{"ie":28567277,"cnpj":"04666316000178","razao":"MARITIMOS PESCADOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":164775.00},
+{"ie":28567277,"cnpj":"04666316000178","razao":"MARITIMOS PESCADOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":164775.00},
 {"ie":26901790,"cnpj":"03704969000131","razao":"VALQUIRIA GOUVEIA URBANO DA SILVA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":10800.00},
 {"ie":26592550,"cnpj":"03474398000196","razao":"COMERCIAL F K LTDA","sit":"A","regime":"NORMAL","municipio":"RIO FORMOSO","igi":0,"uf":"PE","valor":8159.50},
 {"ie":24478431,"cnpj":"02331754000150","razao":"A ALVES DA SILVA - PANIFICADORA ME","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":2200.00},

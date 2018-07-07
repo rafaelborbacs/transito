@@ -1,4 +1,4 @@
-EstabelecimentoData.estabelecimento = [{"ie":77252993,"cnpj":"30414001000143","razao":"JOSE HILTON RODRIGUES DA SILVA 02231437406","sit":"A","arrecadacao":0.00,"entradas":34114.11,"saidas":788610.85,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"14/05/2018","contador":""}];
+EstabelecimentoData.estabelecimento = [{"ie":77252993,"cnpj":"30414001000143","razao":"JOSE HILTON RODRIGUES DA SILVA 02231437406","sit":"C","arrecadacao":0.00,"entradas":34114.11,"saidas":788610.85,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"14/05/2018","contador":""}];
 EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":30308.97},
 {"ie":69045216,"cnpj":"26204881000156","razao":"ERICLYS CRISTIANO BEZERRA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":3805.14}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99125757091","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":420.00},
@@ -27,7 +27,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99125757091","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"29969234000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":10300.00},
 {"ie":0,"cnpj":"29696096000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":5000.00},
 {"ie":0,"cnpj":"29666940000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4040.00},
-{"ie":75701120,"cnpj":"29563840000144","razao":"JOSE DIONISIO DE AGUIAR NETO 09556066403","sit":"B","regime":"SIMEI","municipio":"TUCURUI","igi":0,"uf":"PA","valor":64430.00},
+{"ie":75701120,"cnpj":"29563840000144","razao":"JOSE DIONISIO DE AGUIAR NETO 09556066403","sit":"B","regime":"SIMPLES","municipio":"TUCURUI","igi":0,"uf":"PA","valor":64430.00},
 {"ie":0,"cnpj":"29396339000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":756.00},
 {"ie":0,"cnpj":"29327693000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":6160.00},
 {"ie":0,"cnpj":"29232498000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2013.00},

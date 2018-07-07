@@ -6,5 +6,4 @@ SociosData.socios = [{"cpf":"44060530425","nome":"JORGE FERREIRA DE LIMA","ie":7
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [{"cnpj":"26026659000100","placa":"NMG7500","razao":"ELIEL ELIAS DOS SANTOS","municipio":"CABO DE SANTO AGOSTINHO"},
-{"cnpj":"26026086000115","placa":"NMG7500","razao":"JOSE RENATO DOS SANTOS 09547471430","municipio":"CARUARU"},
-{"cnpj":"24887164000140","placa":"NMG7500","razao":"VICTOR HUGO DE ALBUQUERQUE E MELLO 06826838419","municipio":"NAZARE DA MATA"}];
+{"cnpj":"26026086000115","placa":"NMG7500","razao":"JOSE RENATO DOS SANTOS 09547471430","municipio":"CARUARU"}];

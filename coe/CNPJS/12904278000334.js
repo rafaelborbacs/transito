@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":57255423,"cnpj":"12904278000334","razao":"HW COMERCIO IMPORTACAO E EXPORTACAO LTDA ME","sit":"S","arrecadacao":8932.39,"entradas":2938668.35,"saidas":2716484.37,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"15/04/2014","contador":"LEONARDO MARQUES DE MATOS"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"14842663000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":515.00},
 {"ie":56090625,"cnpj":"19525913000150","razao":"DIRECT COMERCIAL IMPORTADORA E CONSULTORIA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":780936.60},
-{"ie":0,"cnpj":"10926471000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":291.60},
-{"ie":0,"cnpj":"12904278000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":2156925.15}];
+{"ie":0,"cnpj":"12904278000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":2156925.15},
+{"ie":0,"cnpj":"10926471000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":291.60}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":27831.00},
 {"ie":0,"cnpj":"35653757000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":2220.60},
 {"ie":71807055,"cnpj":"27637653000132","razao":"QIUFANG LIN PRESENTES ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1955.16},
@@ -41,7 +41,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime
 {"ie":0,"cnpj":"20702314000143","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":468.60},
 {"ie":0,"cnpj":"20607680000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":16662.00},
 {"ie":57853592,"cnpj":"20330432000178","razao":"H YANCHOU COMERCIO DE PRESENTES - ME","sit":"S","regime":"SIMPLES","municipio":"PAULISTA","igi":0,"uf":"PE","valor":2246.40},
-{"ie":57778108,"cnpj":"20304737000105","razao":"HENRY PRESENTE LTDA ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":2668.08},
+{"ie":57778108,"cnpj":"20304737000105","razao":"HENRY PRESENTE LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":2668.08},
 {"ie":57191271,"cnpj":"20008235000137","razao":"DALMIR DAVID FEITOSA CARDOSO VARIEDADES","sit":"A","regime":"SIMPLES","municipio":"TRINDADE","igi":0,"uf":"PE","valor":762.00},
 {"ie":0,"cnpj":"19740674000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SE","valor":20082.60},
 {"ie":56263074,"cnpj":"19584860000148","razao":"PAULO CEZAR SILVA DE SOUSA 76468348404","sit":"A","regime":"SIMEI","municipio":"BARREIROS","igi":0,"uf":"PE","valor":299.40},
@@ -126,8 +126,8 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime
 {"ie":36564893,"cnpj":"09548160000144","razao":"MARIA ADENILZA DA S SOUZA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":10620.00},
 {"ie":0,"cnpj":"09490742000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":5038.50},
 {"ie":0,"cnpj":"09027007000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":2100.00},
-{"ie":23028297,"cnpj":"08875429000134","razao":"GILCELIA FERREIRA PONTES MAGAZINE - ME","sit":"B","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":213.20},
 {"ie":33698384,"cnpj":"08875429000134","razao":"GILCELIA FERREIRA PONTES MAGAZINE - ME","sit":"A","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":213.20},
+{"ie":23028297,"cnpj":"08875429000134","razao":"GILCELIA FERREIRA PONTES MAGAZINE - ME","sit":"B","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":213.20},
 {"ie":10142185,"cnpj":"08875429000134","razao":"GILCELIA FERREIRA PONTES MAGAZINE - ME","sit":"B","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":213.20},
 {"ie":0,"cnpj":"08343365000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":6925.20},
 {"ie":0,"cnpj":"07850271000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1514.02},
@@ -141,7 +141,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime
 {"ie":0,"cnpj":"06540583000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3024.00},
 {"ie":0,"cnpj":"06538299000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":381.36},
 {"ie":0,"cnpj":"06309597000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":5616.00},
-{"ie":31301002,"cnpj":"06201670000152","razao":"AURINO PALMEIRA DA SILVA FILHO - ARMARINHO","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":123.00},
+{"ie":31301002,"cnpj":"06201670000152","razao":"AURINO PALMEIRA DA SILVA FILHO - ARMARINHO","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":123.00},
 {"ie":0,"cnpj":"05631210000282","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1318.00},
 {"ie":29481848,"cnpj":"05234477000155","razao":"LOPES & FONSECA CIA LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1165.51},
 {"ie":0,"cnpj":"03708115000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":5364.00},

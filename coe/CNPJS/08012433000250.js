@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":42342600,"cnpj":"08012433000250","razao":"SOBRAL TECIDOS EIRELI","sit":"A","arrecadacao":191764.83,"entradas":993956.64,"saidas":6973920.09,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"24/11/2010","contador":"ELISANGELA MEDEIROS DA SILVA"}];
-EntradasData.entradas = [{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":980109.36},
-{"ie":42342600,"cnpj":"08012433000250","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":1,"uf":"PE","valor":13847.28}];
+EntradasData.entradas = [{"ie":42342600,"cnpj":"08012433000250","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":1,"uf":"PE","valor":13847.28},
+{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":980109.36}];
 SaidasData.saidas = [{"ie":33818894,"cnpj":"08012433000179","razao":"SOBRAL TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":6960072.81}];
 SociosData.socios = [{"cpf":"86940805400","nome":"ADIELSON SOBRAL","ie":69750890,"cnpj":"26459694000202","razao":"SO TEXTIL TECIDOS LTDA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"86940805400","nome":"ADIELSON SOBRAL","ie":69552231,"cnpj":"26459694000113","razao":"SO TEXTIL TECIDOS LTDA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
