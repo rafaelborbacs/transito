@@ -4,10 +4,10 @@ SaidasData.saidas = [{"ie":71471200,"cnpj":"27475885000131","razao":"GIOVANNI F 
 {"ie":63359502,"cnpj":"22931508000146","razao":"SN COMERCIO DE ALIMENTOS E ESPECIARIAS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":368656.46},
 {"ie":68221428,"cnpj":"15777224000262","razao":"A.L. LEMOS DE FIGUEIREDO - ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":338589.42},
 {"ie":49160699,"cnpj":"15777224000181","razao":"A.L. LEMOS DE FIGUEIREDO - ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":289004.10}];
-SociosData.socios = [{"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":77738896,"cnpj":"30701183000133","razao":"COMERCIAL DE ALIMENTOS BREJO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"MACAPARANA","igi":1},
-{"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":77541081,"cnpj":"30577635000117","razao":"J A LIMA LOURENCO COMERCIO DE ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"POCAO","igi":1},
+SociosData.socios = [{"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":77738896,"cnpj":"30701183000133","razao":"COMERCIAL DE ALIMENTOS BREJO VERDE LTDA","sit":"C","regime":"NORMAL","municipio":"MACAPARANA","igi":1},
+{"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":77541081,"cnpj":"30577635000117","razao":"J A LIMA LOURENCO COMERCIO DE ALIMENTOS","sit":"C","regime":"NORMAL","municipio":"POCAO","igi":1},
 {"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":73077216,"cnpj":"28322237000108","razao":"COMERCIAL JOSE ALBERTO LIMA LOURENCO EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"POCAO","igi":1},
-{"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":77738896,"cnpj":"30701183000133","razao":"COMERCIAL DE ALIMENTOS BREJO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"MACAPARANA","igi":1},
+{"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":77738896,"cnpj":"30701183000133","razao":"COMERCIAL DE ALIMENTOS BREJO VERDE LTDA","sit":"C","regime":"NORMAL","municipio":"MACAPARANA","igi":1},
 {"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":73070807,"cnpj":"28301960000100","razao":"MARCELO FRANCISCO PEREIRA ME","sit":"C","regime":"NORMAL","municipio":"RIACHO DAS ALMAS","igi":1},
 {"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":71721509,"cnpj":"27609814000184","razao":"COMERCIAL BREJAO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"LAJEDO","igi":1}];
 EmailsData.emails = [];

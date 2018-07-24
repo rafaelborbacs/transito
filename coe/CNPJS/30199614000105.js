@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":76874354,"cnpj":"30199614000105","razao":"IRAN DO NASCIMENTO SANTANA 13132299464","sit":"C","arrecadacao":0.00,"entradas":62984.38,"saidas":769178.52,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"23/04/2018","contador":""}];
-EntradasData.entradas = [{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15120.18},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":19270.49},
-{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":28593.71}];
+EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":19270.49},
+{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":28593.71},
+{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15120.18}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97473030272","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":300.00},
 {"ie":0,"cnpj":"96925027168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":150.00},
 {"ie":0,"cnpj":"96321156515","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},

@@ -3,5 +3,5 @@ EntradasData.entradas = [{"ie":54058236,"cnpj":"18627253000155","razao":"FARIAS 
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"74792130425","nome":"FELIZARDA RODRIGUES BEZERRA","ie":75653800,"cnpj":"29548241000151","razao":"FELIZARDA RODRIGUES BEZERRA 74792130425","sit":"C","regime":"SIMEI","municipio":"OLINDA","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"15213935400","tel":"8135211322","razao":"EURIDES LIRA DE SOUZA","municipio":"CABO DE SANTO AGOSTINHO"}];
+TelsData.tels = [];
 PlacasData.placas = [];

@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":57255423,"cnpj":"12904278000334","razao":"HW COMERCIO IMPORTACAO E EXPORTACAO LTDA ME","sit":"S","arrecadacao":8932.39,"entradas":2938668.35,"saidas":2716484.37,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"15/04/2014","contador":"LEONARDO MARQUES DE MATOS"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"14842663000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":515.00},
 {"ie":56090625,"cnpj":"19525913000150","razao":"DIRECT COMERCIAL IMPORTADORA E CONSULTORIA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":780936.60},
-{"ie":0,"cnpj":"12904278000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":2156925.15},
-{"ie":0,"cnpj":"10926471000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":291.60}];
+{"ie":0,"cnpj":"10926471000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":291.60},
+{"ie":0,"cnpj":"12904278000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":2156925.15}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":27831.00},
 {"ie":0,"cnpj":"35653757000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":2220.60},
 {"ie":71807055,"cnpj":"27637653000132","razao":"QIUFANG LIN PRESENTES ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1955.16},
@@ -90,7 +90,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime
 {"ie":0,"cnpj":"13814358000108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":153064.80},
 {"ie":0,"cnpj":"13695939000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":2563.50},
 {"ie":0,"cnpj":"13568460000162","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":9711.60},
-{"ie":44026005,"cnpj":"13562946000193","razao":"MARIA R P PEREIRA ARMARINHO","sit":"A","regime":"SIMPLES","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":55.82},
+{"ie":44026005,"cnpj":"13562946000193","razao":"MARIA R P PEREIRA ARMARINHO","sit":"S","regime":"SIMPLES","municipio":"LIMOEIRO","igi":0,"uf":"PE","valor":55.82},
 {"ie":0,"cnpj":"13508226000220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":4037.70},
 {"ie":0,"cnpj":"13248070000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6096.00},
 {"ie":0,"cnpj":"13025611000136","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":5951.00},
@@ -111,7 +111,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime
 {"ie":0,"cnpj":"11774834000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":13506.00},
 {"ie":39248313,"cnpj":"11673973000108","razao":"FABIANA CRISTINE DA SILVA NASCIMENTO - ME","sit":"A","regime":"SIMPLES","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":1578.19},
 {"ie":0,"cnpj":"11565081000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":5746.68},
-{"ie":52225160,"cnpj":"11397047000157","razao":"ANA PAULA DE O LUNA CONFECCOES - ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":385.20},
+{"ie":52225160,"cnpj":"11397047000157","razao":"ANA PAULA DE O LUNA CONFECCOES - ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":385.20},
 {"ie":0,"cnpj":"11165202000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":8391.00},
 {"ie":0,"cnpj":"11163164000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":155297.40},
 {"ie":0,"cnpj":"11160497000202","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":3810.00},
@@ -126,8 +126,8 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97528877000191","razao":"","sit":"","regime
 {"ie":36564893,"cnpj":"09548160000144","razao":"MARIA ADENILZA DA S SOUZA","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":10620.00},
 {"ie":0,"cnpj":"09490742000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":5038.50},
 {"ie":0,"cnpj":"09027007000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":2100.00},
-{"ie":33698384,"cnpj":"08875429000134","razao":"GILCELIA FERREIRA PONTES MAGAZINE - ME","sit":"A","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":213.20},
 {"ie":23028297,"cnpj":"08875429000134","razao":"GILCELIA FERREIRA PONTES MAGAZINE - ME","sit":"B","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":213.20},
+{"ie":33698384,"cnpj":"08875429000134","razao":"GILCELIA FERREIRA PONTES MAGAZINE - ME","sit":"A","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":213.20},
 {"ie":10142185,"cnpj":"08875429000134","razao":"GILCELIA FERREIRA PONTES MAGAZINE - ME","sit":"B","regime":"SIMPLES","municipio":"ESCADA","igi":0,"uf":"PE","valor":213.20},
 {"ie":0,"cnpj":"08343365000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":6925.20},
 {"ie":0,"cnpj":"07850271000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":1514.02},

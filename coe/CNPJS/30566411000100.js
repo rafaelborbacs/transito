@@ -71,7 +71,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99164892034","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"25163301000167","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":1800.00},
 {"ie":0,"cnpj":"25105231000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":600.00},
 {"ie":0,"cnpj":"25073747000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2240.00},
-{"ie":67729860,"cnpj":"24966620000148","razao":"T S DE SOUZA JUNIOR","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4000.00},
+{"ie":67729860,"cnpj":"24966620000148","razao":"T S DE SOUZA JUNIOR","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4000.00},
 {"ie":0,"cnpj":"24794171000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5000.00},
 {"ie":0,"cnpj":"24791767000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":900.00},
 {"ie":0,"cnpj":"24661422000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":990.00},

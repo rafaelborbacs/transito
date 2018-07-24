@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":76918742,"cnpj":"30226957000111","razao":"JOSE EDILSON DA SILVA 60028769449","sit":"A","arrecadacao":0.00,"entradas":31056.00,"saidas":317643.55,"regime":"SIMEI","segmento":"VAREJO","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"23/04/2018","contador":""}];
-EntradasData.entradas = [{"ie":72767960,"cnpj":"28141817000107","razao":"DOUGLAS DA S DE LIMA TECIDOS E CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15756.00},
-{"ie":45973628,"cnpj":"14270296000175","razao":"D V DA SILVA ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":15300.00}];
+EntradasData.entradas = [{"ie":72767960,"cnpj":"28141817000107","razao":"DOUGLAS DA S DE LIMA TECIDOS E CONFECCOES ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15756.00},
+{"ie":45973628,"cnpj":"14270296000175","razao":"D V DA SILVA ME","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":1,"uf":"PE","valor":15300.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"83583690000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":8075.00},
 {"ie":0,"cnpj":"79014178549","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":16065.00},
 {"ie":0,"cnpj":"63865273000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4008.00},

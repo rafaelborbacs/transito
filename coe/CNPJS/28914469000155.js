@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":74239341,"cnpj":"28914469000155","razao":"A F AMORIM DE ALMEIDA FILHO ME","sit":"C","arrecadacao":0.00,"entradas":174773.19,"saidas":2524659.99,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"POMBOS","drr":"II","igi":1,"dataie":"23/10/2017","contador":""}];
 EntradasData.entradas = [{"ie":28568249,"cnpj":"04643758000107","razao":"USIVALE INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":23600.00},
-{"ie":36226734,"cnpj":"09346402000117","razao":"COMERCIO DE ALIMENTOS REAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1823.19},
 {"ie":0,"cnpj":"27555426000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":14350.00},
-{"ie":0,"cnpj":"86439494000201","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":135000.00}];
+{"ie":0,"cnpj":"86439494000201","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":135000.00},
+{"ie":36226734,"cnpj":"09346402000117","razao":"COMERCIO DE ALIMENTOS REAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1823.19}];
 SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COMERCIAL DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":79262.62},
 {"ie":73283622,"cnpj":"28406143000117","razao":"MIRLENE LUCKWU DA SILVA 03062803452","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":920.00},
 {"ie":71904921,"cnpj":"27728209000122","razao":"MONTEIRO & ARRUDA COMERCIO DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":300.00},
@@ -32,7 +32,7 @@ SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COME
 {"ie":52303497,"cnpj":"14019721000239","razao":"M & G COMERCIO DE COSMETICOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":792.00},
 {"ie":44996896,"cnpj":"14019721000158","razao":"M & G COMERCIO DE COSMETICOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2640.00},
 {"ie":43588565,"cnpj":"13336186000104","razao":"R. J. DE LIMA ALIMENTOS","sit":"A","regime":"SIMPLES","municipio":"GRAVATA","igi":0,"uf":"PE","valor":867.50},
-{"ie":43271367,"cnpj":"12997775000162","razao":"PALMACOCO INDUSTRIA DE CONSERVAS EIRELI","sit":"A","regime":"NORMAL","municipio":"IGARASSU","igi":0,"uf":"PE","valor":100625.00},
+{"ie":43271367,"cnpj":"12997775000162","razao":"PALMACOCO INDUSTRIA DE CONSERVAS EIRELI","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":100625.00},
 {"ie":42833094,"cnpj":"12977440000182","razao":"MERCADINHO POUPE MAIS LTDA ME","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":5582.10},
 {"ie":42354790,"cnpj":"12835371000172","razao":"R J ATACADO DE PRODUTOS ALIMENTICIOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":58990.00},
 {"ie":40971309,"cnpj":"12380907000102","razao":"SUPERMERCADO XAVANTE LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":6948.00},
@@ -43,7 +43,7 @@ SaidasData.saidas = [{"ie":74237136,"cnpj":"28902825000110","razao":"JATOBA COME
 {"ie":36226734,"cnpj":"09346402000117","razao":"COMERCIO DE ALIMENTOS REAL LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1823.19},
 {"ie":9794573,"cnpj":"08831331000185","razao":"CASA ANDRADE LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":3734.83},
 {"ie":69055289,"cnpj":"08735889000329","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":254.80},
-{"ie":68424299,"cnpj":"08735889000248","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":254.80},
+{"ie":68424299,"cnpj":"08735889000248","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":254.80},
 {"ie":34911618,"cnpj":"08735889000167","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":509.60},
 {"ie":34824561,"cnpj":"08663834000199","razao":"PAULO JORGE FEITOSA BATISTA","sit":"A","regime":"SIMPLES","municipio":"TUPARETAMA","igi":0,"uf":"PE","valor":4500.00},
 {"ie":34713905,"cnpj":"08605911000154","razao":"BALAIO SUPERMERCADO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":3300.00},

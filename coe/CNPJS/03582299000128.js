@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":26734524,"cnpj":"03582299000128","razao":"M JUCEMAR PEREIRA SILVA","sit":"B","arrecadacao":1067.96,"entradas":187582.00,"saidas":268554.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"SANTA CRUZ DO CAPIBARIBE","drr":"II","igi":1,"dataie":"03/02/2000","contador":"ALDRIN RIBEIRO"}];
 EntradasData.entradas = [{"ie":21352488,"cnpj":"00690196000193","razao":"ANTONIO BERNARDO SILVA-CONFECCOES","sit":"B","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":183930.00},
-{"ie":43596401,"cnpj":"13359481000178","razao":"JOSE F S DE ALBUQUERQUE CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":3652.00}];
+{"ie":43596401,"cnpj":"13359481000178","razao":"JOSE F S DE ALBUQUERQUE CONFECCOES ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":3652.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"96764386000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":3728.00},
 {"ie":0,"cnpj":"86964699000125","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1790.00},
 {"ie":0,"cnpj":"84788275104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2000.00},

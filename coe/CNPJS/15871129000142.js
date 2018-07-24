@@ -11,7 +11,7 @@ SaidasData.saidas = [{"ie":18837395,"cnpj":"40833907000156","razao":"JOSE N NUNE
 {"ie":64180743,"cnpj":"23285712000108","razao":"XANDE MOTOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":40.00},
 {"ie":63810735,"cnpj":"23157578000151","razao":"JOSE N NUNES JUNIOR ME","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":38092.50},
 {"ie":63242311,"cnpj":"22851022000106","razao":"SUPERMERCADO DELICIAS DA CASA LTDA  ME","sit":"B","regime":"NORMAL","municipio":"GRAVATA","igi":0,"uf":"PE","valor":232.00},
-{"ie":63060043,"cnpj":"22748805000150","razao":"TORSTEN E SANDRA SUPERMERCADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"BONITO","igi":0,"uf":"PE","valor":264.00},
+{"ie":63060043,"cnpj":"22748805000150","razao":"TORSTEN E SANDRA SUPERMERCADO LTDA EPP","sit":"S","regime":"NORMAL","municipio":"BONITO","igi":0,"uf":"PE","valor":264.00},
 {"ie":59293349,"cnpj":"21026027000123","razao":"DAESKINA SUPERMERCADO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"BEZERROS","igi":0,"uf":"PE","valor":336.00},
 {"ie":57147370,"cnpj":"20022320000150","razao":"A. ALEXANDRE DA SILVA - COMERCIO ME","sit":"S","regime":"NORMAL","municipio":"POMBOS","igi":0,"uf":"PE","valor":825.00},
 {"ie":56184522,"cnpj":"19558116000179","razao":"CANASTRA COMERCIO DE PRODUTOS ALIMENTICIOS LTDA NO","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1405.00},

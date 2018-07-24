@@ -11,19 +11,7 @@ SaidasData.saidas = [{"ie":74622471,"cnpj":"29074231000121","razao":"A NEVES DE 
 {"ie":35558873,"cnpj":"08999776000179","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3790.00},
 {"ie":29207274,"cnpj":"05032501000173","razao":"COMERCIAL SIRINHAEM LTDA","sit":"A","regime":"NORMAL","municipio":"SIRINHAEM","igi":0,"uf":"PE","valor":223022.14},
 {"ie":26684160,"cnpj":"03446513000119","razao":"UNIVERSO EMPREENDIMENTOS EIRELI","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":14480.00}];
-SociosData.socios = [{"cpf":"11171757409","nome":"JOSE CARLOS DA SILVA BISNETO","ie":77744276,"cnpj":"30722891000150","razao":"JOSE CARLOS DA SILVA BISNETO COMERCIO DE ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"TUPARETAMA","igi":1}];
+SociosData.socios = [{"cpf":"11171757409","nome":"JOSE CARLOS DA SILVA BISNETO","ie":77744276,"cnpj":"30722891000150","razao":"JOSE CARLOS DA SILVA BISNETO COMERCIO DE ALIMENTOS","sit":"S","regime":"NORMAL","municipio":"TUPARETAMA","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"30284446000156","tel":"8132220000","razao":"GENILSON ARAUJO DA SILVA-00280","municipio":"DORMENTES"},
-{"cnpj":"29640900000185","tel":"8134245223","razao":"036037-REAL FESTAS E DESCARTAVEIS COMERCIO VAREJISTA LTDA","municipio":"RECIFE"},
-{"cnpj":"29480327000190","tel":"8132220000","razao":"THIAGO SANTOS DE LIMA COMERCIO","municipio":"PEDRA"},
-{"cnpj":"28901196000104","tel":"8132220000","razao":"FJ ACESSORIOS PARA CELULAR LTDA","municipio":"RECIFE"},
-{"cnpj":"28548962000107","tel":"8132220000","razao":"PETRONIO PINTO DE CAMPOS ME","municipio":"RECIFE"},
-{"cnpj":"28038720000165","tel":"8134245223","razao":"A C SERVICOS E VENDAS DE PRODUTOS EM GERAL LTDA ME","municipio":"RECIFE"},
-{"cnpj":"26158586000100","tel":"8134245223","razao":"COMERCIAL NOVA CRUZ EIRELI - ME","municipio":"OLINDA"},
-{"cnpj":"26158586000100","tel":"8132220000","razao":"COMERCIAL NOVA CRUZ EIRELI - ME","municipio":"OLINDA"},
-{"cnpj":"22566221000164","tel":"8132220000","razao":"COMÉRCIO E INDÚSTRIA DE ALIMENTOS CANDEIAS LTDA -","municipio":"Jaboatão dos Guararapes"},
-{"cnpj":"20737372000102","tel":"8134245223","razao":"SERTEX TERCEIRIZACAO E TRANSPORTES DE CARGAS LTDA","municipio":"RECIFE"},
-{"cnpj":"17991863000170","tel":"8132220000","razao":"R MARIA DE ANDRADE EPP","municipio":"OLINDA"},
-{"cnpj":"07907882419","tel":"8134245223","razao":"RODRIGO LUIZ LUNA NUNES","municipio":"RECIFE"},
-{"cnpj":"03156498000174","tel":"8134245223","razao":"MERCANTIL PERNAMBUCANO LTDA(10179)","municipio":"VITORIA DE SANTO ANTAO"}];
+TelsData.tels = [];
 PlacasData.placas = [];

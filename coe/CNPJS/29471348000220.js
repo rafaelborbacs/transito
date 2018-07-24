@@ -1,16 +1,16 @@
 EstabelecimentoData.estabelecimento = [{"ie":76453928,"cnpj":"29471348000220","razao":"LUCLECIO CARLOS SILVA DE LIMA","sit":"C","arrecadacao":0.00,"entradas":1055070.51,"saidas":3696482.35,"regime":"NORMAL","segmento":"VAREJO","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"26/03/2018","contador":""}];
-EntradasData.entradas = [{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2400.00},
-{"ie":25534734,"cnpj":"02932830000182","razao":"KATIA CILENE DE LIMA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":20602.05},
-{"ie":46599967,"cnpj":"14639786000104","razao":"SO FORROS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":26189.49},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":119516.42},
-{"ie":76980111,"cnpj":"29842460000300","razao":"GEOVANO BENTO ALVES","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":120.00},
-{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":43950.80},
-{"ie":70358109,"cnpj":"26852295000118","razao":"CLEIDIANA C DE APRIGIO SILVA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":56487.20},
-{"ie":43240640,"cnpj":"13188456000179","razao":"ARAUJO & AUGUSTO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1440.00},
+EntradasData.entradas = [{"ie":70358109,"cnpj":"26852295000118","razao":"CLEIDIANA C DE APRIGIO SILVA EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":56487.20},
 {"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":77364.32},
+{"ie":43240640,"cnpj":"13188456000179","razao":"ARAUJO & AUGUSTO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1440.00},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":119516.42},
+{"ie":25534734,"cnpj":"02932830000182","razao":"KATIA CILENE DE LIMA SILVA EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":20602.05},
+{"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":180315.97},
+{"ie":60277505,"cnpj":"21457263000102","razao":"MONICA LOPES DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2400.00},
+{"ie":76980111,"cnpj":"29842460000300","razao":"GEOVANO BENTO ALVES","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1,"uf":"PE","valor":120.00},
 {"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":193778.74},
 {"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":298324.26},
-{"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":180315.97},
+{"ie":46599967,"cnpj":"14639786000104","razao":"SO FORROS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":26189.49},
+{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":43950.80},
 {"ie":11667001,"cnpj":"10615292000120","razao":"GUTEMBERGUE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":34581.26}];
 SaidasData.saidas = [{"ie":0,"cnpj":"84608926000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":463.00},
 {"ie":0,"cnpj":"84481761000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":800.00},
@@ -66,7 +66,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84608926000154","razao":"","sit":"","regime
 {"ie":0,"cnpj":"13929292000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":700.00},
 {"ie":0,"cnpj":"13918760000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1800.00},
 {"ie":43240640,"cnpj":"13188456000179","razao":"ARAUJO & AUGUSTO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":1440.00},
-{"ie":54232520,"cnpj":"13007957000292","razao":"BLUE COMEX IMPORTACOES E EXPORTACOES EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":6500.00},
+{"ie":54232520,"cnpj":"13007957000292","razao":"BLUE COMEX IMPORTACOES E EXPORTACOES EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":6500.00},
 {"ie":40557480,"cnpj":"12224894000182","razao":"GRAFICA E EDITORA CANAA LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2640038.10},
 {"ie":0,"cnpj":"11589646000172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":1050.00},
 {"ie":0,"cnpj":"11442439000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1740.00},
@@ -90,5 +90,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84608926000154","razao":"","sit":"","regime
 {"ie":0,"cnpj":"00816927000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":1380.00}];
 SociosData.socios = [];
 EmailsData.emails = [];
-TelsData.tels = [];
+TelsData.tels = [{"cnpj":"29471348000149","tel":"LUCLECIO CARLOS SILVA DE LIMA","razao":"BREJO DA MADRE DE DEUS","municipio":"8100000000"}];
 PlacasData.placas = [];

@@ -51,10 +51,10 @@ SociosData.socios = [{"cpf":"17823900491","nome":"IRANDY BARBOSA DE LUNA","ie":4
 {"cpf":"13475940434","nome":"IRANILDO BARBOSA DE LUNA","ie":6272754,"cnpj":"11430576000105","razao":"COMERCIAL LUNA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"13475940434","nome":"IRANILDO BARBOSA DE LUNA","ie":1454757,"cnpj":"09941485000192","razao":"BIJOUTERIA ALVES LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"13475940434","nome":"IRANILDO BARBOSA DE LUNA","ie":64408,"cnpj":"10873495000117","razao":"BIJOUTERIAS RECIFE LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0},
-{"cpf":"04266654499","nome":"DIEGO TORREAO DE LUNA","ie":52834778,"cnpj":"18083020000139","razao":"COMERCIAL DA ELETRICIDADE LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0},
+{"cpf":"04266654499","nome":"DIEGO TORREAO DE LUNA","ie":52834778,"cnpj":"18083020000139","razao":"COMERCIAL DA ELETRICIDADE LTDA - ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0},
 {"cpf":"04266654499","nome":"DIEGO TORREAO DE LUNA","ie":13903250,"cnpj":"08652943000291","razao":"LUNA FERRAGENS LTDA","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"04266654499","nome":"DIEGO TORREAO DE LUNA","ie":9301135,"cnpj":"08652943000100","razao":"LUNA FERRAGENS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
-{"cpf":"00891993401","nome":"DIOGO TORREAO DE LUNA","ie":52834778,"cnpj":"18083020000139","razao":"COMERCIAL DA ELETRICIDADE LTDA - ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0},
+{"cpf":"00891993401","nome":"DIOGO TORREAO DE LUNA","ie":52834778,"cnpj":"18083020000139","razao":"COMERCIAL DA ELETRICIDADE LTDA - ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0},
 {"cpf":"00891993401","nome":"DIOGO TORREAO DE LUNA","ie":13903250,"cnpj":"08652943000291","razao":"LUNA FERRAGENS LTDA","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"00891993401","nome":"DIOGO TORREAO DE LUNA","ie":9301135,"cnpj":"08652943000100","razao":"LUNA FERRAGENS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];

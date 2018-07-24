@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":58607250,"cnpj":"20737372000102","razao":"SERTEX TERCEIRIZACAO E TRANSPORTES DE CARGAS LTDA","sit":"C","arrecadacao":0.00,"entradas":50416.56,"saidas":1611166.25,"regime":"NORMAL","segmento":"TRANSPORTE","municipio":"RECIFE","drr":"I","igi":1,"dataie":"30/07/2014","contador":"NELSON CRISTOVAO DE LIMA"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"09400210000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":8694.24},
-{"ie":25975943,"cnpj":"03156498000174","razao":"MERCANTIL PERNAMBUCANO LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":35605.00},
+EntradasData.entradas = [{"ie":25975943,"cnpj":"03156498000174","razao":"MERCANTIL PERNAMBUCANO LTDA ME","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":35605.00},
 {"ie":39220494,"cnpj":"11620528000180","razao":"JAE DESCARTAVEIS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":757.20},
 {"ie":36729566,"cnpj":"09655502000125","razao":"IMPERIO IMPORTACAO E EXPORTACAO ARTIGOS DE INFORMATICA LTDA ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3542.60},
+{"ie":0,"cnpj":"09400210000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":8694.24},
 {"ie":48835781,"cnpj":"15556514000103","razao":"REAL IMPORTACAO COMERCIO DE UTILIDADES DOMESTICOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1817.52}];
 SaidasData.saidas = [{"ie":20181876,"cnpj":"70174511000105","razao":"PADELLE DISTRIBUIDORA DE UTENSILIOS DOMESTICOS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":191999.85},
 {"ie":61179299,"cnpj":"21851788000110","razao":"ALDEIA MASSAS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":89666.40},
@@ -18,18 +18,5 @@ SociosData.socios = [{"cpf":"37748394415","nome":"MARCOS JOSE LAURENTINO","ie":5
 {"cpf":"03622941430","nome":"ALBINO BARROS DA SILVA","ie":58607250,"cnpj":"20737372000102","razao":"SERTEX TERCEIRIZACAO E TRANSPORTES DE CARGAS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"03622941430","nome":"ALBINO BARROS DA SILVA","ie":54427029,"cnpj":"18817845000130","razao":"TERSERV TERCEIRIZACAO E TRANSPORTES DE CARGAS LTDA","sit":"C","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"30722891000150","tel":"8134245223","razao":"JOSE CARLOS DA SILVA BISNETO COMERCIO DE ALIMENTOS","municipio":"TUPARETAMA"},
-{"cnpj":"29640900000185","tel":"8134245223","razao":"036037-REAL FESTAS E DESCARTAVEIS COMERCIO VAREJISTA LTDA","municipio":"RECIFE"},
-{"cnpj":"29553098000196","tel":"8132310000","razao":"MUNDO DAS FESTAS EIRELLI","municipio":"RECIFE"},
-{"cnpj":"29378097000152","tel":"8132310000","razao":"RSS BOZI EPP","municipio":"LAGOA DOS GATOS"},
-{"cnpj":"29298765000131","tel":"8132310000","razao":"ISABELA FRANCISCA AMORIM DE ALMEIDA ME","municipio":"FLORES"},
-{"cnpj":"28038720000165","tel":"8134245223","razao":"A C SERVICOS E VENDAS DE PRODUTOS EM GERAL LTDA ME","municipio":"RECIFE"},
-{"cnpj":"27666894000100","tel":"8132310000","razao":"SUPERMERCADO LITORIAL NORTE LTDA ME","municipio":"PAULISTA"},
-{"cnpj":"26313193000124","tel":"8132310000","razao":"ULTRA CONFECCOES INDUSTRIA E COMERCIO EIRELI ( 622728 )","municipio":"RECIFE"},
-{"cnpj":"26158586000100","tel":"8134245223","razao":"COMERCIAL NOVA CRUZ EIRELI - ME","municipio":"OLINDA"},
-{"cnpj":"19742476000126","tel":"8132310000","razao":"COMERCIAL SERRA DAS FLORES EIRELI","municipio":"BEZERROS"},
-{"cnpj":"07907882419","tel":"8134245223","razao":"RODRIGO LUIZ LUNA NUNES","municipio":"RECIFE"},
-{"cnpj":"06110915000136","tel":"8132310000","razao":"ELLA SUL DISTRIBUIDORA LTDA","municipio":"RECIFE"},
-{"cnpj":"03156498000174","tel":"8134245223","razao":"MERCANTIL PERNAMBUCANO LTDA(10179)","municipio":"VITORIA DE SANTO ANTAO"},
-{"cnpj":"01312810114","tel":"8132310000","razao":"DANIELA CRISTINA DE CASTRO MARQUES","municipio":"RECIFE"}];
+TelsData.tels = [];
 PlacasData.placas = [];

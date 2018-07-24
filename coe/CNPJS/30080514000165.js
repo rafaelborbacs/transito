@@ -9,7 +9,7 @@ SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PROD
 {"ie":30931231,"cnpj":"06015530000190","razao":"AGROINDUSTRIAL FRUTNAA LTDA","sit":"A","regime":"NORMAL","municipio":"GOIANA","igi":0,"uf":"PE","valor":1098426.00},
 {"ie":30676703,"cnpj":"04480244000170","razao":"M C DISTRIBUIDORADA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":24903.56},
 {"ie":0,"cnpj":"01324941000143","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1743.44}];
-SociosData.socios = [{"cpf":"11021037486","nome":"SILAS LEONAN FARIAS DA COSTA","ie":76562204,"cnpj":"30080514000165","razao":"S L F DA COSTA EIRELI","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
+SociosData.socios = [{"cpf":"11021037486","nome":"SILAS LEONAN FARIAS DA COSTA","ie":76562204,"cnpj":"30080514000165","razao":"S L F DA COSTA EIRELI","sit":"C","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

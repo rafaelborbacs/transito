@@ -4,5 +4,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","regime
 SociosData.socios = [{"cpf":"06056478440","nome":"RAFAEL MARTINS DE OLIVEIRA E SILVA","ie":76627268,"cnpj":"30093779000106","razao":"R.M. DE O. E SILVA COMERCIO DE BEBIDAS EIRELI","sit":"C","regime":"NORMAL","municipio":"VERTENTES","igi":1},
 {"cpf":"06056478440","nome":"RAFAEL MARTINS DE OLIVEIRA E SILVA","ie":66767822,"cnpj":"24486751000128","razao":"R.M. DE OLIVEIRA E SILVA ME","sit":"S","regime":"SIMPLES","municipio":"BONITO","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"30363466000112","tel":"8137370710","razao":"G L RODRIGUES DA SILVA","municipio":"BONITO"}];
+TelsData.tels = [];
 PlacasData.placas = [];

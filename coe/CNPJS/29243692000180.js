@@ -32,7 +32,7 @@ SaidasData.saidas = [{"ie":16442202,"cnpj":"35469352000175","razao":"SEVERINO FE
 {"ie":34364382,"cnpj":"08306646000103","razao":"LETHA EXPORTACAO E COMERCIO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":163200.00},
 {"ie":33856397,"cnpj":"08017479000180","razao":"CRIPTON DISTRIBUIDORA DE PRODUTOS DE HIGIENE E LIMPEZA LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":30476.00},
 {"ie":33184356,"cnpj":"07653117000113","razao":"VALE COMERCIO DE ALIMENTOS EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51000.00},
-{"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":224052.10},
+{"ie":31896430,"cnpj":"07093036000106","razao":"MOACYR RIBEIRO DE LIRA NETO - DISTRIBUIDOR DE ALIMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":224052.10},
 {"ie":30950376,"cnpj":"06082872000122","razao":"GOMES OLIVEIRA MERCADINHO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":138.00},
 {"ie":30569290,"cnpj":"05902212000188","razao":"MAGAZINE DO CABELO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2099.62},
 {"ie":26592550,"cnpj":"03474398000196","razao":"COMERCIAL F K LTDA","sit":"A","regime":"NORMAL","municipio":"RIO FORMOSO","igi":0,"uf":"PE","valor":1050.00},

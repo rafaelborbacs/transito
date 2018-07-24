@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":73516902,"cnpj":"27428877000134","razao":"R N DA SILVA CORREA ME","sit":"C","arrecadacao":0.00,"entradas":132144.64,"saidas":423795.20,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"SURUBIM","drr":"II","igi":1,"dataie":"01/09/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"14760690000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":4637.60},
-{"ie":0,"cnpj":"21656035000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":29243.40},
-{"ie":73403113,"cnpj":"28498104000197","razao":"UNI CONFECCOES E TECIDOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":88635.44},
-{"ie":0,"cnpj":"49507502000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":9628.20}];
+EntradasData.entradas = [{"ie":0,"cnpj":"21656035000153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":29243.40},
+{"ie":0,"cnpj":"14760690000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":4637.60},
+{"ie":0,"cnpj":"49507502000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":9628.20},
+{"ie":73403113,"cnpj":"28498104000197","razao":"UNI CONFECCOES E TECIDOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":88635.44}];
 SaidasData.saidas = [{"ie":0,"cnpj":"80957811349","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2617.20},
 {"ie":0,"cnpj":"65217845368","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2059.20},
 {"ie":0,"cnpj":"63874333000240","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":135.00},
@@ -30,7 +30,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"80957811349","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"26275042000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4067.20},
 {"ie":69051887,"cnpj":"26220166000107","razao":"DEBORA MODA SURF COMERCIO DE CONFECCOES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":3006.00},
 {"ie":0,"cnpj":"26025967000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":600.00},
-{"ie":68508638,"cnpj":"25453120000175","razao":"J & D SURF CONFECCOES LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3222.00},
+{"ie":68508638,"cnpj":"25453120000175","razao":"J & D SURF CONFECCOES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3222.00},
 {"ie":68508476,"cnpj":"25451552000147","razao":"D M DA CUNHA SANTANA EPP","sit":"A","regime":"SIMPLES","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":3006.00},
 {"ie":68500491,"cnpj":"25421458000145","razao":"J V A DE OLIVEIRA CONFECCOES EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3006.00},
 {"ie":68500653,"cnpj":"25421358000119","razao":"J M G A DE OLIVEIRA COMERCIO DE CONFECCOES EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3006.00},
@@ -40,7 +40,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"80957811349","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"24809586000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5077.20},
 {"ie":0,"cnpj":"24776840000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":15200.00},
 {"ie":0,"cnpj":"24286004000146","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":3016.00},
-{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3200.00},
+{"ie":65072715,"cnpj":"23701504000134","razao":"NAZARE DO SOCORRO DA SILVA ROCHA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3200.00},
 {"ie":0,"cnpj":"23068858000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":2326.00},
 {"ie":63567105,"cnpj":"23023733000147","razao":"ERIVONALDO ARAUJO DA SILVA","sit":"C","regime":"NORMAL","municipio":"VICENCIA","igi":0,"uf":"PE","valor":3108.20},
 {"ie":0,"cnpj":"22895031000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":12240.00},

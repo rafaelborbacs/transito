@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":65337360,"cnpj":"23792073000169","razao":"FABIANO GONCALVES DA SILVA 09218966464","sit":"A","arrecadacao":21129.26,"entradas":19950.00,"saidas":159525.60,"regime":"SIMPLES","segmento":"MATERIAL DE CONSTRUCAO","municipio":"ARARIPINA","drr":"III","igi":1,"dataie":"09/12/2015","contador":""}];
-EntradasData.entradas = [{"ie":35290102,"cnpj":"07142352000120","razao":"INGEARA GESSO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"ARARIPINA","igi":0,"uf":"PE","valor":2400.00},
-{"ie":61457795,"cnpj":"21858465000158","razao":"MARCIO GOMES BERNARDO GESSO ME","sit":"A","regime":"SIMPLES","municipio":"ARARIPINA","igi":0,"uf":"PE","valor":8700.00},
-{"ie":99999900,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3650.00},
+EntradasData.entradas = [{"ie":999999940,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3650.00},
 {"ie":0,"cnpj":"23705993000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":2800.00},
-{"ie":999999940,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3650.00},
+{"ie":35290102,"cnpj":"07142352000120","razao":"INGEARA GESSO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"ARARIPINA","igi":0,"uf":"PE","valor":2400.00},
+{"ie":99999900,"cnpj":"10572014000133","razao":"SECRETARIA DA FAZENDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3650.00},
+{"ie":61457795,"cnpj":"21858465000158","razao":"MARCIO GOMES BERNARDO GESSO ME","sit":"A","regime":"SIMPLES","municipio":"ARARIPINA","igi":0,"uf":"PE","valor":8700.00},
 {"ie":53232151,"cnpj":"18242929000192","razao":"FRANCISCO FERREIRA NETO SOBRINHO ME","sit":"A","regime":"SIMPLES","municipio":"ARARIPINA","igi":0,"uf":"PE","valor":2400.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"30649951620","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2864.00},
 {"ie":0,"cnpj":"26695621000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":14592.00},
@@ -26,7 +26,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"30649951620","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"07330481000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":7616.00},
 {"ie":0,"cnpj":"05682306473","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":2640.00},
 {"ie":0,"cnpj":"05421597000161","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PI","valor":1920.00},
-{"ie":23025000,"cnpj":"01595707000150","razao":"J A OLIVEIRA DE MELO ME","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":4416.00}];
+{"ie":23025000,"cnpj":"01595707000150","razao":"J A OLIVEIRA DE MELO ME","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":4416.00}];
 SociosData.socios = [{"cpf":"09218966464","nome":"FABIANO GONCALVES DA SILVA","ie":65337360,"cnpj":"23792073000169","razao":"FABIANO GONCALVES DA SILVA 09218966464","sit":"A","regime":"SIMPLES","municipio":"ARARIPINA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];

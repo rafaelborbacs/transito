@@ -24,7 +24,7 @@ SaidasData.saidas = [{"ie":73091715,"cnpj":"28352368000138","razao":"MERCANTIL V
 {"ie":39272532,"cnpj":"11626908000121","razao":"SUPERMERCADO ALEM MAR LTDA ME","sit":"A","regime":"NORMAL","municipio":"FERNANDO DE NORONHA","igi":0,"uf":"PE","valor":1975.00},
 {"ie":39131556,"cnpj":"11463766000129","razao":"MERCADINHO ELSHADAY LTDA - ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":740.00},
 {"ie":69055289,"cnpj":"08735889000329","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1824.84},
-{"ie":68424299,"cnpj":"08735889000248","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1829.28},
+{"ie":68424299,"cnpj":"08735889000248","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1829.28},
 {"ie":34911618,"cnpj":"08735889000167","razao":"A.R.COMERCIO VAREJISTA DE ALIMENTOS E HORTIFRUTIGRANJEIROS EIRELI  ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1835.20},
 {"ie":8713545,"cnpj":"08071458000143","razao":"CLEUCA B SANTOS DE BRITO ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2314.28},
 {"ie":31938884,"cnpj":"07114263000170","razao":"COMERCIAL DE ALIMENTOS PONTE DOS CARVALHOS LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1141.70},

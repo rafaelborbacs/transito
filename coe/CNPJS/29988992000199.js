@@ -4,5 +4,5 @@ SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"14674294495","nome":"EDVALDO JOSE DA SILVA","ie":77628527,"cnpj":"30646743000102","razao":"EDVALDO JOSE DA SILVA - EIRELI","sit":"S","regime":"NORMAL","municipio":"CANHOTINHO","igi":1},
 {"cpf":"14674294495","nome":"EDVALDO JOSE DA SILVA","ie":76432688,"cnpj":"29988992000199","razao":"EDVALDO J. DA SILVA - MERCADINHO","sit":"S","regime":"NORMAL","municipio":"ANGELIM","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"45236194415","tel":"8737881370","razao":"GILDA DOS SANTOS BEZERRA","municipio":"ANGELIM"}];
+TelsData.tels = [];
 PlacasData.placas = [];

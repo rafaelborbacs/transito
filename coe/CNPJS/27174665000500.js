@@ -163,5 +163,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96320354968","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00537558000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3366.00}];
 SociosData.socios = [];
 EmailsData.emails = [];
-TelsData.tels = [];
+TelsData.tels = [{"cnpj":"27174665000410","tel":"VANESSA BATISTA DE SALES","razao":"Taquaritinga do Norte","municipio":"0000000000"}];
 PlacasData.placas = [];

@@ -50,7 +50,7 @@ SaidasData.saidas = [{"ie":20288166,"cnpj":"70077086000136","razao":"COMERCIAL I
 {"ie":7741200,"cnpj":"11578077000160","razao":"LUIZ ANTONIO PEREIRA DE MORAES ME","sit":"A","regime":"NORMAL","municipio":"CARPINA","igi":0,"uf":"PE","valor":6872.16},
 {"ie":0,"cnpj":"11403094000166","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":3372.35},
 {"ie":38628872,"cnpj":"11143238000192","razao":"BGM INDUSTRIA E COMERCIO DE PANIFICACAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4835.52},
-{"ie":38389436,"cnpj":"11030605000141","razao":"NUTRINE COMERCIO DE PRODUTOS ALIMENTICIOS LTDA - ME","sit":"S","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":15552.00},
+{"ie":38389436,"cnpj":"11030605000141","razao":"NUTRINE COMERCIO DE PRODUTOS ALIMENTICIOS LTDA - ME","sit":"A","regime":"NORMAL","municipio":"SAO LOURENCO DA MATA","igi":0,"uf":"PE","valor":15552.00},
 {"ie":38849372,"cnpj":"10980629000107","razao":"MERCANTIL JABOATAO DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1240.00},
 {"ie":38189348,"cnpj":"10779172000169","razao":"MERCANTIL DOIS IRMAOS DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"MORENO","igi":0,"uf":"PE","valor":988.00},
 {"ie":37446630,"cnpj":"10560172000173","razao":"L & C PRODUTOS FARMACEUTICOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":19624.80},

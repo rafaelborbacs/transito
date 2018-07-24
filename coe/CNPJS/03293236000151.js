@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","arrecadacao":13796.72,"entradas":2177000.10,"saidas":759309.23,"regime":"NORMAL","segmento":"TECIDOS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"28/07/1999","contador":"VANILSON ROBERTO OLIVEIRA VILELA"}];
-EntradasData.entradas = [{"ie":26893401,"cnpj":"03083850000270","razao":"FIABESA GUARARAPES S/A","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":298758.29},
-{"ie":0,"cnpj":"05242345000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":27000.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"09000527000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1842087.11},
 {"ie":0,"cnpj":"85217404000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":9154.70},
-{"ie":0,"cnpj":"09000527000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":1842087.11}];
+{"ie":26893401,"cnpj":"03083850000270","razao":"FIABESA GUARARAPES S/A","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":298758.29},
+{"ie":0,"cnpj":"05242345000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":27000.00}];
 SaidasData.saidas = [{"ie":20109920,"cnpj":"70175161000100","razao":"ARMAZEM 4 CANTOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":9255.54},
 {"ie":0,"cnpj":"54405351015","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":14174.09},
 {"ie":0,"cnpj":"35450790000191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":7986.00},
@@ -59,8 +59,5 @@ SociosData.socios = [{"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PE
 {"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PEREIRA NACOR","ie":38241870,"cnpj":"10826125000129","razao":"JD NACOR COMBUSTIVEIS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JUPI","igi":0},
 {"cpf":"83632069468","nome":"MARIA DULCINALVA DE ARANDAS PEREIRA NACOR","ie":26113171,"cnpj":"03293236000151","razao":"MARIA DULCINALVA ARANDAS PEREIRA NACOR ME","sit":"A","regime":"NORMAL","municipio":"LAJEDO","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"12580684000127","tel":"08737731798","razao":"EVERALDO L SILVA LAJENDENSE - ME","municipio":"Lajedo"},
-{"cnpj":"09131493000173","tel":"08737731798","razao":"ACC SUPERMERCADO LTDA","municipio":"Lajedo"},
-{"cnpj":"08987355000128","tel":"08737731798","razao":"ADEMILTON JOSE CAVALCANTE - ME","municipio":"LAJEDO"},
-{"cnpj":"08831289000100","tel":"08737731798","razao":"FUNDO MUNICIPAL DE SAUDE DE LAJEDO","municipio":"LAJEDO"}];
+TelsData.tels = [];
 PlacasData.placas = [];

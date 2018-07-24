@@ -3,5 +3,5 @@ EntradasData.entradas = [{"ie":56947364,"cnpj":"11744898000390","razao":"ATACADA
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"18725902415","nome":"ANTONIO BEZERRA FILHO","ie":60158328,"cnpj":"21405172000115","razao":"ANTONIO BEZERRA FILHO 18725902415","sit":"A","regime":"SIMEI","municipio":"ARCOVERDE","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [];
+TelsData.tels = [{"cnpj":"42876575434","tel":"ANTONIO BEZERRA FILHO","razao":"ARARIPINA","municipio":"99999999999"}];
 PlacasData.placas = [];

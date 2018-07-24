@@ -122,7 +122,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92561896668","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"23863268000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2000.00},
 {"ie":0,"cnpj":"23783441000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2054.00},
 {"ie":0,"cnpj":"23718906000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1020.00},
-{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4200.00},
+{"ie":65072715,"cnpj":"23701504000134","razao":"NAZARE DO SOCORRO DA SILVA ROCHA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4200.00},
 {"ie":0,"cnpj":"23651991000178","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":11267.00},
 {"ie":0,"cnpj":"23409395000186","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":70.00},
 {"ie":0,"cnpj":"23195085000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1050.00},

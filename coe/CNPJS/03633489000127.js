@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":26776448,"cnpj":"03633489000127","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","arrecadacao":1244.33,"entradas":523627.97,"saidas":2533668.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"17/02/2000","contador":"INACIO JOSE DA SILVA"}];
-EntradasData.entradas = [{"ie":61869473,"cnpj":"22161232000164","razao":"ANNA LUIZA A. DE PAIVA","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":8723.91},
-{"ie":54856302,"cnpj":"03633489000208","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":462829.61},
-{"ie":53849825,"cnpj":"06070166000160","razao":"JOSE ELIZIO GONCALVES BATISTA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":10290.00},
-{"ie":53675576,"cnpj":"18529447000118","razao":"MANASSEIS V TAVARES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3998.00},
-{"ie":24291102,"cnpj":"02233622001248","razao":"GOTEMBURGO VEICULOS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":565.00},
+EntradasData.entradas = [{"ie":65072715,"cnpj":"23701504000134","razao":"NAZARE DO SOCORRO DA SILVA ROCHA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":11370.00},
 {"ie":35531088,"cnpj":"05432353000184","razao":"MARIA MARLI DA CONCEICAO SILVA","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":6160.00},
-{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":11370.00},
+{"ie":35578394,"cnpj":"08956711000146","razao":"J. ISAAC DA SILVA BEZERRA LAVANDERIA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":16833.00},
+{"ie":53675576,"cnpj":"18529447000118","razao":"MANASSEIS V TAVARES ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3998.00},
 {"ie":0,"cnpj":"02233622000276","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":2858.45},
-{"ie":35578394,"cnpj":"08956711000146","razao":"J. ISAAC DA SILVA BEZERRA LAVANDERIA ME","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":16833.00}];
+{"ie":61869473,"cnpj":"22161232000164","razao":"ANNA LUIZA A. DE PAIVA","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":8723.91},
+{"ie":24291102,"cnpj":"02233622001248","razao":"GOTEMBURGO VEICULOS LTDA","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":565.00},
+{"ie":54856302,"cnpj":"03633489000208","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":462829.61},
+{"ie":53849825,"cnpj":"06070166000160","razao":"JOSE ELIZIO GONCALVES BATISTA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":10290.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97553825000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":600.00},
 {"ie":0,"cnpj":"83313643000112","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2100.00},
 {"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":20143.00},
@@ -52,7 +52,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97553825000175","razao":"","sit":"","regime
 {"ie":0,"cnpj":"23792002000166","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":480.00},
 {"ie":0,"cnpj":"23747853000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":6848.00},
 {"ie":0,"cnpj":"23746680000192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":7100.00},
-{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":12840.00},
+{"ie":65072715,"cnpj":"23701504000134","razao":"NAZARE DO SOCORRO DA SILVA ROCHA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":12840.00},
 {"ie":64771784,"cnpj":"23528049000117","razao":"MARIA ELIENE DA SILVA CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":13125.00},
 {"ie":0,"cnpj":"23457263000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":1440.00},
 {"ie":0,"cnpj":"23403773000114","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2100.00},
@@ -251,7 +251,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97553825000175","razao":"","sit":"","regime
 {"ie":0,"cnpj":"02501824000251","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1320.00},
 {"ie":0,"cnpj":"02501824000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1620.00},
 {"ie":0,"cnpj":"02288648000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":860.00},
-{"ie":23637471,"cnpj":"01914424000124","razao":"JOSE DIOGENES MELO SIQUEIRA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":4250.00},
+{"ie":23637471,"cnpj":"01914424000124","razao":"JOSE DIOGENES MELO SIQUEIRA ME","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":4250.00},
 {"ie":0,"cnpj":"01859828000162","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4810.00},
 {"ie":0,"cnpj":"01851840000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":480.00},
 {"ie":0,"cnpj":"01750419000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":2050.00},
@@ -269,13 +269,13 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97553825000175","razao":"","sit":"","regime
 {"ie":0,"cnpj":"00319404000223","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":1280.00},
 {"ie":0,"cnpj":"00319404000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":3100.00},
 {"ie":0,"cnpj":"00318000000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":7800.00}];
-SociosData.socios = [{"cpf":"82155402449","nome":"JOSE CARLOS DE LIMA","ie":58990950,"cnpj":"20763430000172","razao":"J R TEXTIL LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":1},
+SociosData.socios = [{"cpf":"82155402449","nome":"JOSE CARLOS DE LIMA","ie":58990950,"cnpj":"20763430000172","razao":"J R TEXTIL LTDA EPP","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"82155402449","nome":"JOSE CARLOS DE LIMA","ie":54856302,"cnpj":"03633489000208","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"82155402449","nome":"JOSE CARLOS DE LIMA","ie":34127330,"cnpj":"02183733000215","razao":"JOSE C LIMA TORITAMA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
-{"cpf":"82155402449","nome":"JOSE CARLOS DE LIMA","ie":26776448,"cnpj":"03633489000127","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":1},
+{"cpf":"82155402449","nome":"JOSE CARLOS DE LIMA","ie":26776448,"cnpj":"03633489000127","razao":"CASA DOS RETALHOS LTDA EPP","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":1},
 {"cpf":"82155402449","nome":"JOSE CARLOS DE LIMA","ie":24403180,"cnpj":"02183733000134","razao":"JOSE C LIMA TORITAMA","sit":"B","regime":"NORMAL","municipio":"TORITAMA","igi":0},
 {"cpf":"01117712427","nome":"JOSELI ELIAS DE SOUZA","ie":54856302,"cnpj":"03633489000208","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0},
-{"cpf":"01117712427","nome":"JOSELI ELIAS DE SOUZA","ie":26776448,"cnpj":"03633489000127","razao":"CASA DOS RETALHOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":1}];
+{"cpf":"01117712427","nome":"JOSELI ELIAS DE SOUZA","ie":26776448,"cnpj":"03633489000127","razao":"CASA DOS RETALHOS LTDA EPP","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

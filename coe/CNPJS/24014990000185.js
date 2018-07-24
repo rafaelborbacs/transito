@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":65872240,"cnpj":"24014990000185","razao":"WASHINGTON CARLOS DOS SANTOS ESTOFADOS ME","sit":"S","arrecadacao":581.69,"entradas":38799.50,"saidas":78685.00,"regime":"SIMPLES","segmento":"VAREJO","municipio":"CARUARU","drr":"II","igi":1,"dataie":"26/01/2016","contador":"SEVERINO EVANGELISTA DE MELO"}];
 EntradasData.entradas = [{"ie":0,"cnpj":"13669907000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":7764.00},
 {"ie":55692575,"cnpj":"19349298000178","razao":"ALED APLICACOES EM LED E SOLAR LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":400.00},
-{"ie":34682082,"cnpj":"08597815000101","razao":"PRN EXTINTORES LTDA","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":320.00},
-{"ie":53225295,"cnpj":"18250812000150","razao":"GEILDO NAPOLEAO ARCOVERDE FABRICACAO DE MOVEIS ME","sit":"A","regime":"SIMPLES","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":13035.00},
+{"ie":53225295,"cnpj":"18250812000150","razao":"GEILDO NAPOLEAO ARCOVERDE FABRICACAO DE MOVEIS ME","sit":"S","regime":"SIMPLES","municipio":"PESQUEIRA","igi":0,"uf":"PE","valor":13035.00},
 {"ie":49988638,"cnpj":"16808338000104","razao":"ROSEILDA DA SILVA LIMA SANTOS ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":4332.00},
-{"ie":34503684,"cnpj":"08472990000172","razao":"PATRICIA E DOS SANTOS TENORIO & CIA LTDA ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":12948.50}];
+{"ie":34503684,"cnpj":"08472990000172","razao":"PATRICIA E DOS SANTOS TENORIO & CIA LTDA ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":12948.50},
+{"ie":34682082,"cnpj":"08597815000101","razao":"PRN EXTINTORES LTDA","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":320.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"93382537400","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2500.00},
 {"ie":0,"cnpj":"88189309404","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1400.00},
 {"ie":0,"cnpj":"84463651468","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1890.00},

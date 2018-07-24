@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":75491990,"cnpj":"29463306000166","razao":"CARLA MIRELI CALADO DA SILVA 11044913460","sit":"C","arrecadacao":0.00,"entradas":366607.68,"saidas":1528225.09,"regime":"SIMEI","segmento":"INDUSTRIA DE ALIMENTOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"23/01/2018","contador":""}];
-EntradasData.entradas = [{"ie":42347904,"cnpj":"12871997000134","razao":"J M TECIDOS E AVIAMENTOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":17583.44},
-{"ie":0,"cnpj":"97251284000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":16102.40},
-{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":13168.22},
-{"ie":0,"cnpj":"11607375000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3452.00},
-{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":7497.36},
-{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15277.81},
-{"ie":74722425,"cnpj":"29111794000142","razao":"MUNDO DO JEANS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":268911.45},
+EntradasData.entradas = [{"ie":0,"cnpj":"11607375000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3452.00},
+{"ie":75491990,"cnpj":"29463306000166","razao":"CARLA MIRELI CALADO DA SILVA 11044913460","sit":"C","regime":"SIMEI","municipio":"TORITAMA","igi":1,"uf":"PE","valor":21735.00},
 {"ie":0,"cnpj":"26327265000192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2880.00},
-{"ie":75491990,"cnpj":"29463306000166","razao":"CARLA MIRELI CALADO DA SILVA 11044913460","sit":"C","regime":"SIMEI","municipio":"TORITAMA","igi":1,"uf":"PE","valor":21735.00}];
+{"ie":42347904,"cnpj":"12871997000134","razao":"J M TECIDOS E AVIAMENTOS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":17583.44},
+{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":7497.36},
+{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":13168.22},
+{"ie":0,"cnpj":"97251284000120","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":16102.40},
+{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15277.81},
+{"ie":74722425,"cnpj":"29111794000142","razao":"MUNDO DO JEANS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":268911.45}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99867109104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":500.00},
 {"ie":0,"cnpj":"99606194191","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":700.00},
 {"ie":0,"cnpj":"99522160253","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1300.00},

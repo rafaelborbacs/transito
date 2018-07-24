@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":68051751,"cnpj":"25227427000158","razao":"G B DE FREITAS EIRELI EPP","sit":"C","arrecadacao":0.00,"entradas":2249543.24,"saidas":1703900.07,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"FLORES","drr":"II","igi":1,"dataie":"18/07/2016","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"78908266001015","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":52574.45},
-{"ie":0,"cnpj":"07969961000239","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":598860.00},
-{"ie":0,"cnpj":"02859452000230","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":282704.53},
+EntradasData.entradas = [{"ie":0,"cnpj":"07969961000239","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":598860.00},
 {"ie":30316405,"cnpj":"05559838000133","razao":"RUPLAST INDUSTRIA E COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1220199.96},
-{"ie":0,"cnpj":"02003402005134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":95204.30}];
+{"ie":0,"cnpj":"78908266001015","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":52574.45},
+{"ie":0,"cnpj":"02003402005134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":95204.30},
+{"ie":0,"cnpj":"02859452000230","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":282704.53}];
 SaidasData.saidas = [{"ie":67293557,"cnpj":"24793189000185","razao":"EDNALDO LIRA DANTAS","sit":"B","regime":"NORMAL","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":4970.00},
 {"ie":66702020,"cnpj":"24429478000108","razao":"J M C COMERCIO E REPRESENTACOES EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":1,"uf":"PE","valor":810433.50},
 {"ie":66448212,"cnpj":"24373184000101","razao":"SJS COMERCIAL DE ALIMENTOS EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":451421.12},

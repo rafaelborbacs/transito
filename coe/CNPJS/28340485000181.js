@@ -21,7 +21,7 @@ SaidasData.saidas = [{"ie":44914750,"cnpj":"97552860000170","razao":"ERICK AUGUS
 {"ie":62605607,"cnpj":"22546328000140","razao":"REDE SUPREMO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":54683.55},
 {"ie":62037609,"cnpj":"22310443000111","razao":"WF MERCADINHO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":14000.00},
 {"ie":60974052,"cnpj":"21785257000176","razao":"SUPERMERCADO SUPREMO LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":21464.34},
-{"ie":60526572,"cnpj":"21572299000129","razao":"UNIPAPEIS INDUSTRIA E COMERCIO DE ARTEFATOS DE PAPEL EIRELI EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":43796.75},
+{"ie":60526572,"cnpj":"21572299000129","razao":"UNIPAPEIS INDUSTRIA E COMERCIO DE ARTEFATOS DE PAPEL EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":43796.75},
 {"ie":60468513,"cnpj":"21557382000129","razao":"MERCANTIL ELI DE ALIMENTOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":550.00},
 {"ie":58245081,"cnpj":"20534381000104","razao":"SUPERMERCADO NOVA ERA EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2370.00},
 {"ie":57882690,"cnpj":"20374132000190","razao":"SUPERMERCADO NORDESTINO LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":2488.00},

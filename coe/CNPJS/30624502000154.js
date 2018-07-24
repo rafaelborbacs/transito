@@ -1,5 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":77667697,"cnpj":"30624502000154","razao":"NORMANDO DE SOUZA SOARES 09877009447","sit":"A","arrecadacao":0.00,"entradas":22209.48,"saidas":371541.90,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"11/06/2018","contador":""}];
-EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":22209.48}];
+EntradasData.entradas = [{"ie":0,"cnpj":"28585281000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":490.00},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":22209.48}];
 SaidasData.saidas = [{"ie":0,"cnpj":"91119324220","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":405.00},
 {"ie":0,"cnpj":"87503506172","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":225.00},
 {"ie":0,"cnpj":"84332147000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":2510.00},
@@ -17,7 +18,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"91119324220","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"30656585000163","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
 {"ie":0,"cnpj":"30521853000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":1755.00},
 {"ie":0,"cnpj":"30486505000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":1600.00},
-{"ie":77109414,"cnpj":"30332293000175","razao":"EMERSON MATIAS DE ARRUDA OLIVEIRA SANTOS 09605197421","sit":"B","regime":"SIMEI","municipio":"BELEM","igi":0,"uf":"PA","valor":29078.00},
+{"ie":77109414,"cnpj":"30332293000175","razao":"EMERSON MATIAS DE ARRUDA OLIVEIRA SANTOS 09605197421","sit":"B","regime":"SIMPLES","municipio":"BELEM","igi":0,"uf":"PA","valor":29078.00},
 {"ie":0,"cnpj":"30193539000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":6716.00},
 {"ie":0,"cnpj":"30024189863","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2000.00},
 {"ie":0,"cnpj":"29808173000112","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":1500.00},

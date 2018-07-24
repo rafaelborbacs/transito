@@ -1,7 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":77253108,"cnpj":"30414092000117","razao":"JOSE NATANAEL FERREIRA DA SILVA 10677012497","sit":"C","arrecadacao":290.00,"entradas":23038.78,"saidas":710475.11,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"14/05/2018","contador":""}];
-EntradasData.entradas = [{"ie":69045216,"cnpj":"26204881000156","razao":"ERICLYS CRISTIANO BEZERRA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":4394.78},
-{"ie":43240640,"cnpj":"13188456000179","razao":"ARAUJO & AUGUSTO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":5300.00},
-{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":13344.00}];
+EntradasData.entradas = [{"ie":43240640,"cnpj":"13188456000179","razao":"ARAUJO & AUGUSTO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":5300.00},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":13344.00},
+{"ie":69045216,"cnpj":"26204881000156","razao":"ERICLYS CRISTIANO BEZERRA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":4394.78}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97951870234","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":144.00},
 {"ie":0,"cnpj":"97543881000129","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":2000.00},
 {"ie":0,"cnpj":"95181997791","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":2064.00},

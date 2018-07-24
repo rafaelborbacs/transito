@@ -1,16 +1,16 @@
 EstabelecimentoData.estabelecimento = [{"ie":50937839,"cnpj":"17219967000161","razao":"JOSE B. DE LIMA HORTIFRUTI ME","sit":"S","arrecadacao":3982.75,"entradas":1564979.44,"saidas":8554029.90,"regime":"NORMAL","segmento":"ATACADO DE ALIMENTOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"28/11/2012","contador":"ANTONIO CORREIA NETO"}];
-EntradasData.entradas = [{"ie":22494642,"cnpj":"45543915006112","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":17065.04},
-{"ie":37867067,"cnpj":"09166344000654","razao":"IFCO SYSTEMS DO BRASIL SERVICOS DE EMBALAGEM LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":682654.00},
-{"ie":17681901,"cnpj":"24150377000357","razao":"KARNE KEIJO - LOGISTICA INTEGRADA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12596.23},
-{"ie":31545645,"cnpj":"45543915029759","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1299.20},
-{"ie":30352479,"cnpj":"03892821000259","razao":"ETIQUETAS GUARARAPES INDUSTRIA GRAFICA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":903.75},
+EntradasData.entradas = [{"ie":36819719,"cnpj":"45543915041880","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13628.75},
 {"ie":60859709,"cnpj":"17995346000331","razao":"ADVANCE DISTRIBUIDORA DE ALIMENTOS S.A.","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12.25},
-{"ie":36819719,"cnpj":"45543915041880","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13628.75},
-{"ie":0,"cnpj":"23421029000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":52250.00},
-{"ie":61749656,"cnpj":"45543915056489","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":746483.80},
-{"ie":38592231,"cnpj":"24150377000608","razao":"KARNE KEIJO - LOGISTICA INTEGRADA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3895.87},
 {"ie":34107061,"cnpj":"24150377000519","razao":"KARNE KEIJO - LOGISTICA INTEGRADA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":390.55},
-{"ie":0,"cnpj":"19827779000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":33800.00}];
+{"ie":31545645,"cnpj":"45543915029759","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1299.20},
+{"ie":37867067,"cnpj":"09166344000654","razao":"IFCO SYSTEMS DO BRASIL SERVICOS DE EMBALAGEM LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":682654.00},
+{"ie":0,"cnpj":"23421029000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":52250.00},
+{"ie":22494642,"cnpj":"45543915006112","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":17065.04},
+{"ie":30352479,"cnpj":"03892821000259","razao":"ETIQUETAS GUARARAPES INDUSTRIA GRAFICA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":903.75},
+{"ie":17681901,"cnpj":"24150377000357","razao":"KARNE KEIJO - LOGISTICA INTEGRADA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12596.23},
+{"ie":61749656,"cnpj":"45543915056489","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":746483.80},
+{"ie":0,"cnpj":"19827779000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":33800.00},
+{"ie":38592231,"cnpj":"24150377000608","razao":"KARNE KEIJO - LOGISTICA INTEGRADA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3895.87}];
 SaidasData.saidas = [{"ie":61749656,"cnpj":"45543915056489","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":7471168.30},
 {"ie":36819719,"cnpj":"45543915041880","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":176012.70},
 {"ie":31545645,"cnpj":"45543915029759","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":97918.10},
@@ -30,22 +30,5 @@ SociosData.socios = [{"cpf":"16828950410","nome":"JOSE BEZERRA DE LIMA","ie":663
 {"cpf":"16828950410","nome":"JOSE BEZERRA DE LIMA","ie":50937839,"cnpj":"17219967000161","razao":"JOSE B. DE LIMA HORTIFRUTI ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":1},
 {"cpf":"16828950410","nome":"JOSE BEZERRA DE LIMA","ie":10625224,"cnpj":"09026089000130","razao":"TOMATE PERA LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"61163543357","tel":"1212341234","razao":"DIEGO PEREIRA DA SILVA","municipio":"MARACANAU"},
-{"cnpj":"41583683000487","tel":"1212341234","razao":"ASTRO AGROCOMERCIAL IMP E EXP ALIM LTDA","municipio":"MARACANAU"},
-{"cnpj":"35385871000155","tel":"1212341234","razao":"MADSAEL BATATAS LTDA EPP","municipio":"RECIFE"},
-{"cnpj":"30196345000123","tel":"1212341234","razao":"W B DE ANDRADE HORTIFRUTIGRRANJEIROS","municipio":"RECIFE"},
-{"cnpj":"22032955000163","tel":"1212341234","razao":"ALHOS E BUGALHOS EIRELI - ME","municipio":"RECIFE"},
-{"cnpj":"21104148000146","tel":"1212341234","razao":"LUCINEIDE MARQUES DE OLIVEIRA","municipio":"TIANGUA"},
-{"cnpj":"19795292000124","tel":"1212341234","razao":"A DE ALBUQUERQUE SOUSA HORTIFRUTIGRANJEIROS ME","municipio":"RECIFE"},
-{"cnpj":"17733830000120","tel":"1212341234","razao":"QUALLYHORTI COMERCIO IMPORTACAO LTDA EPP","municipio":"RECIFE"},
-{"cnpj":"11456925000168","tel":"1212341234","razao":"VERD FRUT DO NORDESTE LTDA","municipio":"VITORIA DE SANTO ANTAO"},
-{"cnpj":"11434997000104","tel":"1212341234","razao":"NARCELIO MARTINS MACIEL ME","municipio":"MARACANAU"},
-{"cnpj":"10596443000140","tel":"1212341234","razao":"M B PEREIRA BATATAS CEBOLAS","municipio":"RECIFE"},
-{"cnpj":"09608166000160","tel":"1212341234","razao":"JOSE MARCOS BARBOSA FERREIRA ME","municipio":"GARANHUNS"},
-{"cnpj":"09058504000137","tel":"1212341234","razao":"ARMAZEM DO GRAO COM. DE ALIMENTOS E EMB. EIRELI","municipio":"RECIFE"},
-{"cnpj":"08868231000123","tel":"1212341234","razao":"VERDAO DISTRIB DE HORTIFRUTI LTDA ME","municipio":"VITORIA DE SANTO ANTAO"},
-{"cnpj":"07358761005128","tel":"1212341234","razao":"GERDAU ACOS LONGOS S A","municipio":"Recife"},
-{"cnpj":"05445773000103","tel":"1212341234","razao":"JOSE FIGUEIRA RAMOS","municipio":"RECIFE"},
-{"cnpj":"03879760000966","tel":"1212341234","razao":"ANCORA DISTRIBUIDORA LTDA","municipio":"MARACANAU"},
-{"cnpj":"01381010000187","tel":"1212341234","razao":"JOSE LUIZ FERNANDES CORREA ME","municipio":"RECIFE"}];
+TelsData.tels = [];
 PlacasData.placas = [];

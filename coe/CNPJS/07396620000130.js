@@ -1,13 +1,13 @@
 EstabelecimentoData.estabelecimento = [{"ie":32628471,"cnpj":"07396620000130","razao":"GERALDO SOUSA DO NASCIMENTO CONFECCOES","sit":"S","arrecadacao":3548.98,"entradas":65510.77,"saidas":16330.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"16/06/2005","contador":"ROMERO SALES GOMES"}];
 EntradasData.entradas = [{"ie":25306006,"cnpj":"70190079000499","razao":"MAKITAL IMPORTADORA DE MAQUINAS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":2991.35},
-{"ie":0,"cnpj":"02971159000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8251.32},
-{"ie":0,"cnpj":"07031337000296","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":13162.20},
+{"ie":27397980,"cnpj":"03853964000170","razao":"VIA TEXTIL JORDAO MORAIS LTDA","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":5597.00},
+{"ie":63794195,"cnpj":"22268210000289","razao":"CHUANSHOU ZHAN ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1185.26},
 {"ie":0,"cnpj":"96209382000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1599.40},
-{"ie":27397980,"cnpj":"03853964000170","razao":"VIA TEXTIL JORDAO MORAIS LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":5597.00},
-{"ie":63794195,"cnpj":"22268210000289","razao":"CHUANSHOU ZHAN ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1185.26},
-{"ie":0,"cnpj":"03013973000749","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":32724.24}];
+{"ie":0,"cnpj":"02971159000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8251.32},
+{"ie":0,"cnpj":"03013973000749","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":32724.24},
+{"ie":0,"cnpj":"07031337000296","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":13162.20}];
 SaidasData.saidas = [{"ie":0,"cnpj":"19508776000145","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AL","valor":8400.00},
-{"ie":45571821,"cnpj":"14122399000198","razao":"VITRAGE COMERCIO DE CONFECCOES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":390.00},
+{"ie":45571821,"cnpj":"14122399000198","razao":"VITRAGE COMERCIO DE CONFECCOES LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":390.00},
 {"ie":43895816,"cnpj":"10734803000204","razao":"LINS & MONTEIRO COMERCIO DE CONFECCOES LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":520.00},
 {"ie":37826468,"cnpj":"10734803000123","razao":"LINS & MONTEIRO COMERCIO DE CONFECCOES LTDA","sit":"A","regime":"SIMPLES","municipio":"CARPINA","igi":0,"uf":"PE","valor":650.00},
 {"ie":34360719,"cnpj":"07931010000270","razao":"E. J. P. COMERCIO DE CONFECCOES EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":520.00},

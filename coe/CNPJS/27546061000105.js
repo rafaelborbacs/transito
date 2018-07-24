@@ -42,7 +42,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime
 {"ie":0,"cnpj":"01434879000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":10250.00},
 {"ie":0,"cnpj":"01276542402","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4000.00},
 {"ie":0,"cnpj":"01057949108","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"DF","valor":1500.00}];
-SociosData.socios = [{"cpf":"03311275470","nome":"IROMAR DE SOUZA SANTOS","ie":71600892,"cnpj":"27546061000105","razao":"I DE SOUZA SANTOS CONFECCOES ME","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+SociosData.socios = [{"cpf":"03311275470","nome":"IROMAR DE SOUZA SANTOS","ie":71600892,"cnpj":"27546061000105","razao":"I DE SOUZA SANTOS CONFECCOES ME","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

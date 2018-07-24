@@ -63,7 +63,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"89691943000111","razao":"","sit":"","regime
 {"ie":0,"cnpj":"02556007559","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
 {"ie":0,"cnpj":"01803473000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":3600.00},
 {"ie":0,"cnpj":"01708482000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":4200.00}];
-SociosData.socios = [{"cpf":"10936544490","nome":"RAFAEL DAVI DE VASCONCELOS","ie":72007575,"cnpj":"27729820000175","razao":"RAFAEL DAVI DE VASCONCELOS ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
+SociosData.socios = [{"cpf":"10936544490","nome":"RAFAEL DAVI DE VASCONCELOS","ie":72007575,"cnpj":"27729820000175","razao":"RAFAEL DAVI DE VASCONCELOS ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

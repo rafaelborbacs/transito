@@ -13,7 +13,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"84033075000169","razao":"","sit":"","regime
 {"ie":0,"cnpj":"28704151000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":10025.00},
 {"ie":0,"cnpj":"27958609000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":2190.00},
 {"ie":0,"cnpj":"27823043000123","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":57475.00},
-{"ie":72100788,"cnpj":"27776081000172","razao":"LUCAS GLICERIO DE ARAUJO ME","sit":"S","regime":"SIMPLES","municipio":"SURUBIM","igi":0,"uf":"PE","valor":7240.00},
+{"ie":72100788,"cnpj":"27776081000172","razao":"LUCAS GLICERIO DE ARAUJO ME","sit":"A","regime":"SIMPLES","municipio":"SURUBIM","igi":0,"uf":"PE","valor":7240.00},
 {"ie":0,"cnpj":"27739316000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3240.00},
 {"ie":0,"cnpj":"27148273000134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":20627.80},
 {"ie":0,"cnpj":"26427967000148","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":5000.00},

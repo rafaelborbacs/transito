@@ -102,7 +102,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"98414470459","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"14095032000122","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":5450.00},
 {"ie":0,"cnpj":"13699904000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":7860.00},
 {"ie":0,"cnpj":"13601048876","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1500.00},
-{"ie":44099738,"cnpj":"13583392000100","razao":"JOSE M MACHADO DE ALBUQUERQUE CONFECCOES ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":875.00},
+{"ie":44099738,"cnpj":"13583392000100","razao":"JOSE M MACHADO DE ALBUQUERQUE CONFECCOES ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":875.00},
 {"ie":0,"cnpj":"13403612000177","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":3400.00},
 {"ie":0,"cnpj":"12806316000154","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1920.00},
 {"ie":0,"cnpj":"12793531000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":11000.00},

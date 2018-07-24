@@ -1,5 +1,5 @@
 EstabelecimentoData.estabelecimento = [{"ie":77502000,"cnpj":"30540585000101","razao":"ADRIANO JOSE DA SILVA 12207742431","sit":"A","arrecadacao":0.00,"entradas":45771.86,"saidas":636186.30,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"28/05/2018","contador":""}];
-EntradasData.entradas = [{"ie":42347904,"cnpj":"12871997000134","razao":"J M TECIDOS E AVIAMENTOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":33407.12},
+EntradasData.entradas = [{"ie":42347904,"cnpj":"12871997000134","razao":"J M TECIDOS E AVIAMENTOS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":33407.12},
 {"ie":65433912,"cnpj":"21538059000370","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":12364.74}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97731412768","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1568.00},
 {"ie":0,"cnpj":"93263147234","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":600.00},
@@ -96,7 +96,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97731412768","razao":"","sit":"","regime":"
 {"ie":58529357,"cnpj":"20719607000133","razao":"M M B LINS ARTIGOS DO VESTUARIO  ME","sit":"A","regime":"SIMPLES","municipio":"PETROLINA","igi":0,"uf":"PE","valor":4045.00},
 {"ie":58529438,"cnpj":"20719532000190","razao":"CICERO PEREIRA GONCALVES CONFECCAO ME","sit":"A","regime":"SIMPLES","municipio":"SALGUEIRO","igi":0,"uf":"PE","valor":9710.00},
 {"ie":0,"cnpj":"20635830000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4046.00},
-{"ie":57767408,"cnpj":"20277598000178","razao":"GILVANEIDE M MACEDO DE ALBUQUERQUE ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1000.00},
+{"ie":57767408,"cnpj":"20277598000178","razao":"GILVANEIDE M MACEDO DE ALBUQUERQUE ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1000.00},
 {"ie":0,"cnpj":"20083856000185","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2040.00},
 {"ie":0,"cnpj":"20051641000182","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":3850.00},
 {"ie":0,"cnpj":"19759503000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":5000.00},

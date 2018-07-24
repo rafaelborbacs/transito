@@ -23,8 +23,8 @@ SaidasData.saidas = [{"ie":0,"cnpj":"51038180000131","razao":"","sit":"","regime
 {"ie":0,"cnpj":"03137236487","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":750.00},
 {"ie":0,"cnpj":"02734618000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1000.00},
 {"ie":20395752,"cnpj":"00180383000127","razao":"MERCADINHO MACKSON LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":440.00}];
-SociosData.socios = [{"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":77738896,"cnpj":"30701183000133","razao":"COMERCIAL DE ALIMENTOS BREJO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"MACAPARANA","igi":1},
-{"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":77541081,"cnpj":"30577635000117","razao":"J A LIMA LOURENCO COMERCIO DE ALIMENTOS","sit":"A","regime":"NORMAL","municipio":"POCAO","igi":1},
+SociosData.socios = [{"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":77738896,"cnpj":"30701183000133","razao":"COMERCIAL DE ALIMENTOS BREJO VERDE LTDA","sit":"C","regime":"NORMAL","municipio":"MACAPARANA","igi":1},
+{"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":77541081,"cnpj":"30577635000117","razao":"J A LIMA LOURENCO COMERCIO DE ALIMENTOS","sit":"C","regime":"NORMAL","municipio":"POCAO","igi":1},
 {"cpf":"43588069453","nome":"JOSE ALBERTO LIMA LOURENCO","ie":73077216,"cnpj":"28322237000108","razao":"COMERCIAL JOSE ALBERTO LIMA LOURENCO EIRELI EPP","sit":"C","regime":"NORMAL","municipio":"POCAO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];

@@ -3,5 +3,5 @@ EntradasData.entradas = [{"ie":0,"cnpj":"07488144000188","razao":"","sit":"","re
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"11051846412","nome":"ANDERSON HENRIQUE DA SILVA","ie":77096339,"cnpj":"30365354000109","razao":"ANDERSON HENRIQUE DA SILVA - MERCADINHO","sit":"C","regime":"NORMAL","municipio":"CAETES","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [{"cnpj":"68927622472","tel":"8737831140","razao":"JOSEFA ISABEL","municipio":"CAETES"}];
+TelsData.tels = [];
 PlacasData.placas = [];

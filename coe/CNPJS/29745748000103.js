@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":76022609,"cnpj":"29745748000103","razao":"SUEDILSON ANTONIO DE SOBRAL 08614452446","sit":"C","arrecadacao":0.00,"entradas":566.40,"saidas":402809.00,"regime":"SIMEI","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"26/02/2018","contador":""}];
-EntradasData.entradas = [{"ie":34937412,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":566.40},
-{"ie":35375442,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":566.40}];
+EntradasData.entradas = [{"ie":35375442,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":566.40},
+{"ie":34937412,"cnpj":"08736750000138","razao":"R F DA SILVA AVIAMENTOS EPP","sit":"B","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":566.40}];
 SaidasData.saidas = [{"ie":0,"cnpj":"96380730559","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":510.00},
 {"ie":0,"cnpj":"91882079353","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2560.00},
 {"ie":0,"cnpj":"73301756000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":5792.00},

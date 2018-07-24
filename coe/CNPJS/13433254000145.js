@@ -1,16 +1,16 @@
 EstabelecimentoData.estabelecimento = [{"ie":43777880,"cnpj":"13433254000145","razao":"JEITO MOLEQUE COMERCIO VAREJISTA DE VESTUARIO LTDA","sit":"A","arrecadacao":32393.10,"entradas":377463.26,"saidas":612467.75,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"12/04/2011","contador":"VALDEMAR FERNANDES DA COSTA FILHO"}];
-EntradasData.entradas = [{"ie":32316666,"cnpj":"02425885000287","razao":"FILOTEX INDUSTRIA TEXTIL DO NORDESTE LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":24528.36},
+EntradasData.entradas = [{"ie":0,"cnpj":"03324077000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":109042.13},
 {"ie":0,"cnpj":"60822079000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":59899.65},
-{"ie":43285902,"cnpj":"13249898000188","razao":"NASCIMENTO & CAVALCANTI VARIEDADES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":4701.48},
-{"ie":0,"cnpj":"03324077000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":109042.13},
+{"ie":0,"cnpj":"11768152000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":9200.40},
+{"ie":32316666,"cnpj":"02425885000287","razao":"FILOTEX INDUSTRIA TEXTIL DO NORDESTE LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":24528.36},
 {"ie":0,"cnpj":"60409125000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":141970.03},
-{"ie":44272545,"cnpj":"13720273000152","razao":"TACI BABY CONFECCOES LTDA","sit":"A","regime":"SIMPLES","municipio":"SURUBIM","igi":0,"uf":"PE","valor":2370.00},
+{"ie":43285902,"cnpj":"13249898000188","razao":"NASCIMENTO & CAVALCANTI VARIEDADES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":4701.48},
 {"ie":24926361,"cnpj":"02610419000190","razao":"SONHO DE NENE CONFECCOES INFANTIS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":17801.50},
 {"ie":74339052,"cnpj":"28931555000176","razao":"JOSE M BARBOSA ME","sit":"S","regime":"NORMAL","municipio":"TAQUARITINGA DO NORTE","igi":1,"uf":"PE","valor":1960.00},
-{"ie":0,"cnpj":"11768152000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":9200.40},
-{"ie":59965118,"cnpj":"21332718000155","razao":"MYDOUU BABY CONFECCOES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":2300.34},
-{"ie":38953196,"cnpj":"11413988000137","razao":"VALDEREZ EMILIA DA SILVA  VESTUARIO ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1061.40},
+{"ie":38953196,"cnpj":"11413988000137","razao":"VALDEREZ EMILIA DA SILVA  VESTUARIO ME","sit":"S","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1061.40},
 {"ie":59998474,"cnpj":"21374741000102","razao":"PRE-ZIM CONFECCOES INFANTIS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":1859.97},
+{"ie":44272545,"cnpj":"13720273000152","razao":"TACI BABY CONFECCOES LTDA","sit":"A","regime":"SIMPLES","municipio":"SURUBIM","igi":0,"uf":"PE","valor":2370.00},
+{"ie":59965118,"cnpj":"21332718000155","razao":"MYDOUU BABY CONFECCOES LTDA ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":2300.34},
 {"ie":67281036,"cnpj":"24771465000104","razao":"TACI BABY ACESSORIOS E MODA INFANTIL EIRELI ME","sit":"A","regime":"SIMPLES","municipio":"SURUBIM","igi":0,"uf":"PE","valor":768.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97412506000140","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":523.50},
 {"ie":0,"cnpj":"96460837000192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2110.00},
@@ -193,11 +193,11 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97412506000140","razao":"","sit":"","regime
 {"ie":0,"cnpj":"00319404000304","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":1090.75},
 {"ie":0,"cnpj":"00319404000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":172.50},
 {"ie":0,"cnpj":"00314987000119","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":3266.50}];
-SociosData.socios = [{"cpf":"67106447234","nome":"ERON TIAGO CARVALHO DA CRUZ","ie":43777880,"cnpj":"13433254000145","razao":"JEITO MOLEQUE COMERCIO VAREJISTA DE VESTUARIO LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":1},
+SociosData.socios = [{"cpf":"67106447234","nome":"ERON TIAGO CARVALHO DA CRUZ","ie":43777880,"cnpj":"13433254000145","razao":"JEITO MOLEQUE COMERCIO VAREJISTA DE VESTUARIO LTDA","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"67106447234","nome":"ERON TIAGO CARVALHO DA CRUZ","ie":31524303,"cnpj":"06914744000106","razao":"MOSQUITEIROS DURMA BEM LTDA","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"67106447234","nome":"ERON TIAGO CARVALHO DA CRUZ","ie":27518108,"cnpj":"04003762000100","razao":"ERON TIAGO CARVALHO DA CRUZ","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"00802754430","nome":"MANOEL ERIKSSON CARVALHO DA CRUZ","ie":75810417,"cnpj":"29700308000121","razao":"MANOEL ERIKSSON CARVALHO DA CRUZ EIRELI","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0},
-{"cpf":"00802754430","nome":"MANOEL ERIKSSON CARVALHO DA CRUZ","ie":43777880,"cnpj":"13433254000145","razao":"JEITO MOLEQUE COMERCIO VAREJISTA DE VESTUARIO LTDA","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":1},
+{"cpf":"00802754430","nome":"MANOEL ERIKSSON CARVALHO DA CRUZ","ie":43777880,"cnpj":"13433254000145","razao":"JEITO MOLEQUE COMERCIO VAREJISTA DE VESTUARIO LTDA","sit":"S","regime":"NORMAL","municipio":"CARUARU","igi":1},
 {"cpf":"00802754430","nome":"MANOEL ERIKSSON CARVALHO DA CRUZ","ie":31524303,"cnpj":"06914744000106","razao":"MOSQUITEIROS DURMA BEM LTDA","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0},
 {"cpf":"00802754430","nome":"MANOEL ERIKSSON CARVALHO DA CRUZ","ie":27404196,"cnpj":"03985034000170","razao":"MANOEL ERIKSSON CARVALHO DA CRUZ","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":0}];
 EmailsData.emails = [];

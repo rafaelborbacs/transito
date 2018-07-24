@@ -1,5 +1,5 @@
 EstabelecimentoData.estabelecimento = [{"ie":73627496,"cnpj":"27744825000410","razao":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","sit":"C","arrecadacao":0.00,"entradas":35760.41,"saidas":829201.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"06/09/2017","contador":""}];
-EntradasData.entradas = [{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2856.00},
+EntradasData.entradas = [{"ie":65072715,"cnpj":"23701504000134","razao":"NAZARE DO SOCORRO DA SILVA ROCHA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2856.00},
 {"ie":44479301,"cnpj":"13788573000173","razao":"PANNOS E PANNOS LTDA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":32904.41}];
 SaidasData.saidas = [{"ie":0,"cnpj":"92142753353","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1000.00},
 {"ie":0,"cnpj":"89518748187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
@@ -33,7 +33,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92142753353","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"30727280899","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":8500.00},
 {"ie":0,"cnpj":"29709970100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":13400.00},
 {"ie":0,"cnpj":"29166381134","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3000.00},
-{"ie":77639561,"cnpj":"28494620000143","razao":"HELLEN CAROLYNE COSTA PIRES","sit":"S","regime":"NORMAL","municipio":"ARARIPINA","igi":0,"uf":"PI","valor":4980.00},
+{"ie":77639561,"cnpj":"28494620000143","razao":"HELLEN CAROLYNE COSTA PIRES","sit":"A","regime":"NORMAL","municipio":"ARARIPINA","igi":0,"uf":"PI","valor":4980.00},
 {"ie":0,"cnpj":"28265772000174","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":4950.00},
 {"ie":0,"cnpj":"28178893000189","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":1556.00},
 {"ie":0,"cnpj":"28165020153","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5200.00},
@@ -71,7 +71,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"92142753353","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"24003935000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AP","valor":1026.00},
 {"ie":0,"cnpj":"23891194000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":2400.00},
 {"ie":0,"cnpj":"23863268000152","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3048.00},
-{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2856.00},
+{"ie":65072715,"cnpj":"23701504000134","razao":"NAZARE DO SOCORRO DA SILVA ROCHA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":2856.00},
 {"ie":0,"cnpj":"23466862000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1916.00},
 {"ie":0,"cnpj":"23417454824","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":4000.00},
 {"ie":64292541,"cnpj":"23341505000115","razao":"FERNANDA PATRICIA DA COSTA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":24360.00},

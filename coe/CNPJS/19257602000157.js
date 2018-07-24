@@ -26,14 +26,14 @@ SaidasData.saidas = [{"ie":18828132,"cnpj":"69898468000141","razao":"M L SILVA F
 {"ie":28606515,"cnpj":"04491448000106","razao":"M.M.SILVA RIBEIRAO EPP","sit":"A","regime":"NORMAL","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":6414.00},
 {"ie":51530694,"cnpj":"04127762000376","razao":"SUPERMERCADO LEALDADE LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":51443.00},
 {"ie":27593908,"cnpj":"04127762000104","razao":"SUPERMERCADO LEALDADE LTDA","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0,"uf":"PE","valor":917.00},
-{"ie":27444570,"cnpj":"04006833000110","razao":"E. FRANCISCO DA SILVA RIBEIRAO","sit":"S","regime":"SIMPLES","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":295.00},
+{"ie":27444570,"cnpj":"04006833000110","razao":"E. FRANCISCO DA SILVA RIBEIRAO","sit":"A","regime":"SIMPLES","municipio":"RIBEIRAO","igi":0,"uf":"PE","valor":295.00},
 {"ie":25573713,"cnpj":"02942406000119","razao":"RIVALDO SOARES & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"XEXEU","igi":0,"uf":"PE","valor":3967.22},
 {"ie":54617740,"cnpj":"02534585000236","razao":"SUPERMERCADO QUEIROZ LTDA","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":27266.98},
 {"ie":24728721,"cnpj":"02505332000153","razao":"EDVALDO PAULO LIRA MERCADINHO","sit":"A","regime":"NORMAL","municipio":"CHA GRANDE","igi":0,"uf":"PE","valor":3976.80},
 {"ie":24398080,"cnpj":"02309894000121","razao":"MARIA LOURDES SILVA SANTOS","sit":"A","regime":"NORMAL","municipio":"SAO BENEDITO DO SUL","igi":0,"uf":"PE","valor":9343.00},
 {"ie":24243396,"cnpj":"01892524000105","razao":"LINDINALVA M DA SILVA ME","sit":"A","regime":"NORMAL","municipio":"SIRINHAEM","igi":0,"uf":"PE","valor":5015.10}];
 SociosData.socios = [{"cpf":"01378493460","nome":"IZOA IRIS PIMENTEL MIRANDA DE CARVALHO","ie":55852955,"cnpj":"19257602000157","razao":"EDILANGELO E IZOA COMERCIO LTDA - ME","sit":"C","regime":"SIMPLES","municipio":"PALMARES","igi":1},
-{"cpf":"01091092443","nome":"EDILANGELO DA SILVA MIRANDA DE CARVALHO","ie":69055360,"cnpj":"26226007000110","razao":"EDILANGELO DA SILVA MIRANDA DE CARVALHO","sit":"C","regime":"NORMAL","municipio":"PALMARES","igi":1},
+{"cpf":"01091092443","nome":"EDILANGELO DA SILVA MIRANDA DE CARVALHO","ie":69055360,"cnpj":"26226007000110","razao":"EDILANGELO DA SILVA MIRANDA DE CARVALHO","sit":"A","regime":"NORMAL","municipio":"PALMARES","igi":0},
 {"cpf":"01091092443","nome":"EDILANGELO DA SILVA MIRANDA DE CARVALHO","ie":55852955,"cnpj":"19257602000157","razao":"EDILANGELO E IZOA COMERCIO LTDA - ME","sit":"C","regime":"SIMPLES","municipio":"PALMARES","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];

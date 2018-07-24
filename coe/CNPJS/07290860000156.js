@@ -1,44 +1,7 @@
 EstabelecimentoData.estabelecimento = [{"ie":32356374,"cnpj":"07290860000156","razao":"CARLOS ARAUJO DA SILVA VESTUARIO ME","sit":"A","arrecadacao":21006.56,"entradas":421307.55,"saidas":0.00,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"TUPANATINGA","drr":"II","igi":1,"dataie":"05/04/2005","contador":"DEYVIDY ANDERSON DOS SANTOS ROLIM"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"79653119000113","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":196734.67},
-{"ie":0,"cnpj":"18208260000201","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1602.60},
-{"ie":0,"cnpj":"07599090000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":2290.00},
-{"ie":0,"cnpj":"79653119000970","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":8320.60},
-{"ie":0,"cnpj":"17825288000217","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5448.99},
-{"ie":0,"cnpj":"12470512000109","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":644.36},
-{"ie":0,"cnpj":"85120939000495","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":31386.90},
-{"ie":0,"cnpj":"17787730000187","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":5685.33},
-{"ie":0,"cnpj":"07024263000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":619.10},
-{"ie":0,"cnpj":"85120939010377","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"GO","valor":6073.90},
-{"ie":0,"cnpj":"25281593000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2257.40},
-{"ie":0,"cnpj":"12136253000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":11897.63},
-{"ie":0,"cnpj":"86046463000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":8224.69},
-{"ie":0,"cnpj":"24206160000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":15558.74},
-{"ie":0,"cnpj":"05522382000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2711.64},
-{"ie":0,"cnpj":"75552133000927","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":19208.33},
-{"ie":0,"cnpj":"21253449000131","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2847.50},
-{"ie":0,"cnpj":"13419020000143","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1015.17},
-{"ie":32049870,"cnpj":"04206050008246","razao":"TIM CELULAR S.A.","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":7.54},
-{"ie":0,"cnpj":"21979331000357","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":340.00},
-{"ie":0,"cnpj":"05083083000143","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":700.00},
-{"ie":0,"cnpj":"00675534000207","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":11885.40},
-{"ie":0,"cnpj":"21979331000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":630.00},
-{"ie":0,"cnpj":"12298166000115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1037.00},
-{"ie":0,"cnpj":"02756790000165","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1549.00},
-{"ie":0,"cnpj":"21031992000194","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":4014.00},
-{"ie":34488944,"cnpj":"08463070000198","razao":"JOCIMAR VILELA DA SILVA GRAFICA ME","sit":"A","regime":"SIMPLES","municipio":"ARCOVERDE","igi":0,"uf":"PE","valor":135.00},
-{"ie":0,"cnpj":"00336481000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1432.90},
-{"ie":0,"cnpj":"23736293000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1538.90},
-{"ie":0,"cnpj":"07296319000317","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"ES","valor":38785.07},
-{"ie":0,"cnpj":"03009621000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1114.00},
-{"ie":0,"cnpj":"21525985000149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1680.20},
-{"ie":0,"cnpj":"05093088000157","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":959.60},
-{"ie":0,"cnpj":"25785023000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":17657.05},
-{"ie":0,"cnpj":"09653752000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":517.00},
-{"ie":0,"cnpj":"09333834000274","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2860.29},
-{"ie":0,"cnpj":"11434895000199","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1848.50},
-{"ie":0,"cnpj":"05830195000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":10088.55}];
+EntradasData.entradas = [];
 SaidasData.saidas = [];
-SociosData.socios = [{"cpf":"02510562444","nome":"CARLOS ARAUJO DA SILVA","ie":32356374,"cnpj":"07290860000156","razao":"CARLOS ARAUJO DA SILVA VESTUARIO ME","sit":"A","regime":"SIMPLES","municipio":"TUPANATINGA","igi":1}];
+SociosData.socios = [];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

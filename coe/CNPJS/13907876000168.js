@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":44750463,"cnpj":"13907876000168","razao":"CANDIDO BEZERRA DA SILVA JUNIOR ARREIOS ME","sit":"S","arrecadacao":5608.74,"entradas":51449.49,"saidas":59409.00,"regime":"SIMPLES","segmento":"VAREJO","municipio":"CACHOEIRINHA","drr":"II","igi":1,"dataie":"07/07/2011","contador":"PAULO HENRIQUE SIQUEIRA"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"14732601000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":16444.00},
-{"ie":0,"cnpj":"01807598000198","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8647.45},
+EntradasData.entradas = [{"ie":0,"cnpj":"11003995000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":706.90},
 {"ie":0,"cnpj":"59971267000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2700.00},
-{"ie":0,"cnpj":"11954859000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7330.98},
-{"ie":0,"cnpj":"02319159000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2000.00},
-{"ie":0,"cnpj":"10417354000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1720.00},
+{"ie":0,"cnpj":"01807598000198","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8647.45},
+{"ie":0,"cnpj":"12067902000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":8467.44},
 {"ie":65502400,"cnpj":"06066832000197","razao":"NET+PHONE TELECOMUNICACOES LTDA","sit":"A","regime":"EC 87/2015","municipio":"SAO PAULO","igi":0,"uf":"SP","valor":778.80},
 {"ie":0,"cnpj":"12900194000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":520.00},
-{"ie":0,"cnpj":"12067902000124","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":8467.44},
-{"ie":0,"cnpj":"11970598000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2133.92},
-{"ie":0,"cnpj":"11003995000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":706.90}];
+{"ie":0,"cnpj":"02319159000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":2000.00},
+{"ie":0,"cnpj":"10417354000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1720.00},
+{"ie":0,"cnpj":"11954859000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":7330.98},
+{"ie":0,"cnpj":"14732601000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":16444.00},
+{"ie":0,"cnpj":"11970598000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2133.92}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99348519115","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":5780.00},
 {"ie":0,"cnpj":"87526735291","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":300.00},
 {"ie":0,"cnpj":"81599404168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":200.00},

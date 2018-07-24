@@ -2,7 +2,7 @@ EstabelecimentoData.estabelecimento = [{"ie":77414306,"cnpj":"30501261000156","r
 EntradasData.entradas = [{"ie":0,"cnpj":"04072954000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":9090.40},
 {"ie":0,"cnpj":"08307549000135","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":125000.00}];
 SaidasData.saidas = [];
-SociosData.socios = [{"cpf":"46244376838","nome":"SERGIO TEOFILO MANOEL JUNIOR","ie":77414306,"cnpj":"30501261000156","razao":"SERGIO TEOFILO MANOEL JUNIOR 46244376838","sit":"A","regime":"SIMEI","municipio":"FREI MIGUELINHO","igi":1}];
+SociosData.socios = [{"cpf":"46244376838","nome":"SERGIO TEOFILO MANOEL JUNIOR","ie":77414306,"cnpj":"30501261000156","razao":"SERGIO TEOFILO MANOEL JUNIOR 46244376838","sit":"B","regime":"SIMEI","municipio":"SAO PAULO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

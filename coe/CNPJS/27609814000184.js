@@ -1,14 +1,14 @@
 EstabelecimentoData.estabelecimento = [{"ie":71721509,"cnpj":"27609814000184","razao":"COMERCIAL BREJAO EIRELI ME","sit":"C","arrecadacao":0.00,"entradas":448776.11,"saidas":4950525.07,"regime":"NORMAL","segmento":"BEBIDAS","municipio":"LAJEDO","drr":"II","igi":1,"dataie":"27/04/2017","contador":""}];
-EntradasData.entradas = [{"ie":10657428,"cnpj":"09058504000137","razao":"ARMAZEM DO GRAO COMERCIO DE ALIMENTOS E EMBALAGENS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13200.00},
+EntradasData.entradas = [{"ie":44646801,"cnpj":"13819887000196","razao":"F RAFAELA OLIVEIRA BEZERRA COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EIRELI","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":54395.76},
 {"ie":66916259,"cnpj":"24586303000104","razao":"SOARES BARRETO DISTRIBUIDORA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":47473.00},
 {"ie":18227724,"cnpj":"40878332000198","razao":"ANTONIO JAIME RIBEIRO LUCENA-MERCEARIA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1626.50},
 {"ie":43500307,"cnpj":"12988833000191","razao":"COMERCIAL SAFRA - COMERCIO ATACADISTA DE ALIMENTOS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":213300.00},
-{"ie":52118754,"cnpj":"17733830000120","razao":"QUALLYHORTI COMERCIO & IMPORTACAO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":54135.00},
 {"ie":57230358,"cnpj":"08999776000330","razao":"R. G. ATACADO DE PRODUTOS ALIMENTICIOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":64645.85},
-{"ie":44646801,"cnpj":"13819887000196","razao":"F RAFAELA OLIVEIRA BEZERRA COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EIRELI","sit":"S","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":54395.76}];
+{"ie":10657428,"cnpj":"09058504000137","razao":"ARMAZEM DO GRAO COMERCIO DE ALIMENTOS E EMBALAGENS EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":13200.00},
+{"ie":52118754,"cnpj":"17733830000120","razao":"QUALLYHORTI COMERCIO & IMPORTACAO LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":54135.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"73576902000144","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":120893.00},
-{"ie":19587201,"cnpj":"70222278000199","razao":"MARIA DOS ANJOS FERREIRA LINS EPP","sit":"A","regime":"SIMPLES","municipio":"PALMARES","igi":0,"uf":"PE","valor":463.74},
 {"ie":20328052,"cnpj":"70222278000199","razao":"MARIA DOS ANJOS FERREIRA LINS EPP","sit":"B","regime":"SIMPLES","municipio":"PALMARES","igi":0,"uf":"PE","valor":463.74},
+{"ie":19587201,"cnpj":"70222278000199","razao":"MARIA DOS ANJOS FERREIRA LINS EPP","sit":"A","regime":"SIMPLES","municipio":"PALMARES","igi":0,"uf":"PE","valor":463.74},
 {"ie":19024665,"cnpj":"41103987000157","razao":"SUPERMERCADO CIDADE LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":55687.70},
 {"ie":18227724,"cnpj":"40878332000198","razao":"ANTONIO JAIME RIBEIRO LUCENA-MERCEARIA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1626.50},
 {"ie":70120803,"cnpj":"26768875000121","razao":"AVISTAO AUTOSERVICO LTDA.","sit":"A","regime":"NORMAL","municipio":"SERTANIA","igi":0,"uf":"PE","valor":10344.00},
@@ -74,13 +74,13 @@ SaidasData.saidas = [{"ie":0,"cnpj":"73576902000144","razao":"","sit":"","regime
 {"ie":31124461,"cnpj":"05678702000142","razao":"VENEZA SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":5000.50},
 {"ie":30252687,"cnpj":"05608640000100","razao":"LEONARDO ALBUQUERQUE DA SILVA FRIGORIFICO EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1941.40},
 {"ie":30022843,"cnpj":"05553541000160","razao":"SUPERMERCADO O GRANDE RIO DE CUSTODIA LTDA ME","sit":"A","regime":"NORMAL","municipio":"CUSTODIA","igi":0,"uf":"PE","valor":976.00},
-{"ie":29822262,"cnpj":"05461395000143","razao":"LATICINIOS RODEIO LTDA","sit":"S","regime":"NORMAL","municipio":"CANHOTINHO","igi":0,"uf":"PE","valor":180750.00},
+{"ie":29822262,"cnpj":"05461395000143","razao":"LATICINIOS RODEIO LTDA","sit":"A","regime":"NORMAL","municipio":"CANHOTINHO","igi":0,"uf":"PE","valor":180750.00},
 {"ie":29793904,"cnpj":"05429222000148","razao":"DISTRIBUIDORA E LOGISTICA DE PERNAMBUCO IMPORTACAO E EXPORTACAO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":50620.00},
 {"ie":29207274,"cnpj":"05032501000173","razao":"COMERCIAL SIRINHAEM LTDA","sit":"A","regime":"NORMAL","municipio":"SIRINHAEM","igi":0,"uf":"PE","valor":306444.28},
-{"ie":68776306,"cnpj":"03111550000176","razao":"MERCADINHO E PADARIA BOM DE PRECO COMERCIO VAREJISTA DE ALIMENTOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":80616.64},
+{"ie":68776306,"cnpj":"03111550000176","razao":"MERCADINHO E PADARIA BOM DE PRECO COMERCIO VAREJISTA DE ALIMENTOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":80616.64},
 {"ie":25099620,"cnpj":"02715440000150","razao":"AMIGAO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"CAMOCIM DE SAO FELIX","igi":0,"uf":"PE","valor":7769.47},
 {"ie":23653400,"cnpj":"01867414000185","razao":"BRENO ALAPENHA MIRANDA","sit":"A","regime":"NORMAL","municipio":"BOM CONSELHO","igi":0,"uf":"PE","valor":92250.00}];
-SociosData.socios = [{"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":77738896,"cnpj":"30701183000133","razao":"COMERCIAL DE ALIMENTOS BREJO VERDE LTDA","sit":"A","regime":"NORMAL","municipio":"MACAPARANA","igi":1},
+SociosData.socios = [{"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":77738896,"cnpj":"30701183000133","razao":"COMERCIAL DE ALIMENTOS BREJO VERDE LTDA","sit":"C","regime":"NORMAL","municipio":"MACAPARANA","igi":1},
 {"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":73070807,"cnpj":"28301960000100","razao":"MARCELO FRANCISCO PEREIRA ME","sit":"C","regime":"NORMAL","municipio":"RIACHO DAS ALMAS","igi":1},
 {"cpf":"02276840447","nome":"MARCELO FRANCISCO PEREIRA","ie":71721509,"cnpj":"27609814000184","razao":"COMERCIAL BREJAO EIRELI ME","sit":"C","regime":"NORMAL","municipio":"LAJEDO","igi":1}];
 EmailsData.emails = [];

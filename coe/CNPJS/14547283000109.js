@@ -66,7 +66,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"70613699491","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"01827681128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":2500.00},
 {"ie":0,"cnpj":"01666492000111","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},
 {"ie":0,"cnpj":"01629423000138","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":720.00}];
-SociosData.socios = [{"cpf":"07880567437","nome":"JONAS DE ALMEIDA FERREIRA","ie":46440267,"cnpj":"14547283000109","razao":"JONAS DE ALMEIDA FERREIRA 07880567437","sit":"C","regime":"NORMAL","municipio":"CARUARU","igi":1}];
+SociosData.socios = [{"cpf":"07880567437","nome":"JONAS DE ALMEIDA FERREIRA","ie":46440267,"cnpj":"14547283000109","razao":"JONAS DE ALMEIDA FERREIRA","sit":"C","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

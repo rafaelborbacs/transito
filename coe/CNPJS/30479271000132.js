@@ -17,7 +17,7 @@ SaidasData.saidas = [{"ie":73409901,"cnpj":"28518388000136","razao":"JOSEFA MARI
 {"ie":0,"cnpj":"03336734000215","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3220.00},
 {"ie":0,"cnpj":"02789612000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":12256.00},
 {"ie":67490972,"cnpj":"00693182000476","razao":"EDJANE NUNES DE ARAUJO ME","sit":"A","regime":"NORMAL","municipio":"CARUARU","igi":0,"uf":"PE","valor":14553.10}];
-SociosData.socios = [{"cpf":"79952771487","nome":"IVANIA MARIA DA SILVA","ie":77307216,"cnpj":"30479271000132","razao":"IVANIA MARIA DA SILVA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":1}];
+SociosData.socios = [{"cpf":"79952771487","nome":"IVANIA MARIA DA SILVA","ie":77307216,"cnpj":"30479271000132","razao":"IVANIA MARIA DA SILVA","sit":"C","regime":"NORMAL","municipio":"VERTENTES","igi":1}];
 EmailsData.emails = [];
-TelsData.tels = [];
+TelsData.tels = [{"cnpj":"30479271000213","tel":"IVANIA MARIA DA SILVA","razao":"FREI MIGUELINHO","municipio":"8100000000"}];
 PlacasData.placas = [];

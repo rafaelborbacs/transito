@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":76947416,"cnpj":"30252994000102","razao":"JOSE DO EGITO CRUZ DE BRITO 14713697494","sit":"B","arrecadacao":0.00,"entradas":23564.67,"saidas":577879.49,"regime":"NORMAL","segmento":"VAREJO","municipio":"VERTENTES","drr":"II","igi":1,"dataie":"23/04/2018","contador":""}];
-EntradasData.entradas = [{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15064.21},
-{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":8500.46}];
+EntradasData.entradas = [{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":8500.46},
+{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":15064.21}];
 SaidasData.saidas = [{"ie":0,"cnpj":"98690256253","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MT","valor":350.00},
 {"ie":0,"cnpj":"90787501204","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":254.50},
 {"ie":0,"cnpj":"90566076268","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":148.00},
@@ -87,7 +87,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"98690256253","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"17699955000181","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":3600.00},
 {"ie":0,"cnpj":"17586073000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":210.00},
 {"ie":0,"cnpj":"17502921000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":6000.00},
-{"ie":51618273,"cnpj":"17483755000197","razao":"ADAILTON ALVES DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"CABROBO","igi":0,"uf":"PE","valor":2400.00},
+{"ie":51618273,"cnpj":"17483755000197","razao":"ADAILTON ALVES DA SILVA ME","sit":"S","regime":"SIMPLES","municipio":"CABROBO","igi":0,"uf":"PE","valor":2400.00},
 {"ie":0,"cnpj":"17205136000211","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},
 {"ie":0,"cnpj":"17047103000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1500.00},
 {"ie":0,"cnpj":"17024635000121","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":5600.00},

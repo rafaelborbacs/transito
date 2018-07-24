@@ -1,9 +1,9 @@
 EstabelecimentoData.estabelecimento = [{"ie":74797000,"cnpj":"29129282000103","razao":"WALLACE FERREIRA DA SILVA 04286612465","sit":"C","arrecadacao":0.00,"entradas":212824.58,"saidas":500770.40,"regime":"SIMEI","segmento":"TECIDOS","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"29/11/2017","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":34373.04},
-{"ie":72086181,"cnpj":"27775414000149","razao":"MARCELO FALCAO AMORIM ATACADISTA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":14999.91},
+EntradasData.entradas = [{"ie":72086181,"cnpj":"27775414000149","razao":"MARCELO FALCAO AMORIM ATACADISTA ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":14999.91},
+{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":58077.00},
 {"ie":33692505,"cnpj":"01665658000185","razao":"R JOSE DE LIMA ME","sit":"A","regime":"SIMPLES","municipio":"TORITAMA","igi":0,"uf":"PE","valor":85447.10},
-{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":19927.53},
-{"ie":73701726,"cnpj":"28610733000167","razao":"JULIO CESAR NARCISIO DE FARIAS TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":58077.00}];
+{"ie":0,"cnpj":"22378054000128","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":34373.04},
+{"ie":71278125,"cnpj":"27361549000168","razao":"JULIANE C DE S MOURA TECIDOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":19927.53}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99710986104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MS","valor":494.00},
 {"ie":0,"cnpj":"97473030272","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":500.00},
 {"ie":0,"cnpj":"96918020234","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":468.00},

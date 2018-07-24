@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":77252993,"cnpj":"30414001000143","razao":"JOSE HILTON RODRIGUES DA SILVA 02231437406","sit":"C","arrecadacao":0.00,"entradas":34114.11,"saidas":788610.85,"regime":"SIMEI","segmento":"VAREJO","municipio":"TORITAMA","drr":"II","igi":1,"dataie":"14/05/2018","contador":""}];
-EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":30308.97},
-{"ie":69045216,"cnpj":"26204881000156","razao":"ERICLYS CRISTIANO BEZERRA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":3805.14}];
+EntradasData.entradas = [{"ie":69045216,"cnpj":"26204881000156","razao":"ERICLYS CRISTIANO BEZERRA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":3805.14},
+{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":30308.97}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99125757091","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RS","valor":420.00},
 {"ie":0,"cnpj":"84332147000179","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":3300.00},
 {"ie":0,"cnpj":"70435211145","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":8400.00},

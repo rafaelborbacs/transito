@@ -81,5 +81,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"94469199672","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00532779614","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":7045.00}];
 SociosData.socios = [];
 EmailsData.emails = [];
-TelsData.tels = [];
+TelsData.tels = [{"cnpj":"27744825000762","tel":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","razao":"Taquaritinga do Norte","municipio":"0000000000"}];
 PlacasData.placas = [];

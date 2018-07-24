@@ -2,9 +2,6 @@ EstabelecimentoData.estabelecimento = [{"ie":74979620,"cnpj":"26025979000146","r
 EntradasData.entradas = [{"ie":0,"cnpj":"03481212000126","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":248960.00}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"08599090429","nome":"FRANCISCA CLAUDIA BRAS DE ALMEIDA","ie":74979620,"cnpj":"26025979000146","razao":"FRANCISCA CLAUDIA BRAS DE ALMEIDA 08599090429","sit":"S","regime":"SIMPLES","municipio":"GAMELEIRA","igi":1}];
-EmailsData.emails = [{"cnpj":"47508411038048","email":"FATURAMENTO@FRIGORIFICOCAMBUI.COM.BR","razao":"COMPANHIA BRASILEIRA DE DISTRIBUICAO","municipio":"CABO DE SANTO AGOSTINHO"},
-{"cnpj":"45543915056489","email":"FATURAMENTO@FRIGORIFICOCAMBUI.COM.BR","razao":"CARREFOUR COMERCIO E INDUSTRIA LTDA","municipio":"CABO DE SANTO AGOSTINHO"},
-{"cnpj":"24150377000195","email":"FATURAMENTO@FRIGORIFICOCAMBUI.COM.BR","razao":"KARNE KEIJO - LOGISTICA INTEGRADA LTDA","municipio":"RECIFE"},
-{"cnpj":"14931524400","email":"FATURAMENTO@FRIGORIFICOCAMBUI.COM.BR","razao":"TEREZA CRISTINA DA SILVA","municipio":"RECIFE"}];
+EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

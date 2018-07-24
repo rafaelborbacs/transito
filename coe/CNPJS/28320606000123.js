@@ -51,7 +51,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97124325000118","razao":"","sit":"","regime
 {"ie":0,"cnpj":"26275244000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":3000.00},
 {"ie":0,"cnpj":"25404218000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RR","valor":375.00},
 {"ie":0,"cnpj":"25313646000150","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AC","valor":7440.00},
-{"ie":68214219,"cnpj":"25246446000121","razao":"MARLEIDE BEZERRA CAVALCANTI-COMERCIO DE ROUPAS ME","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":6050.00},
+{"ie":68214219,"cnpj":"25246446000121","razao":"MARLEIDE BEZERRA CAVALCANTI-COMERCIO DE ROUPAS ME","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":6050.00},
 {"ie":0,"cnpj":"25163301000400","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":600.00},
 {"ie":0,"cnpj":"25163301000329","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":1200.00},
 {"ie":0,"cnpj":"25163301000248","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RO","valor":1200.00},

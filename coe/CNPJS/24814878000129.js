@@ -5,7 +5,7 @@ SaidasData.saidas = [{"ie":20283873,"cnpj":"70085568000138","razao":"AMORIM PROD
 {"ie":69968845,"cnpj":"26719869000184","razao":"FORROS NORDESTE INDUSTRIA E COMERCIO DE PLASTICOS LTDA","sit":"A","regime":"NORMAL","municipio":"ESCADA","igi":0,"uf":"PE","valor":15850.00},
 {"ie":64287548,"cnpj":"22418143000150","razao":"GARANHUNS HOME CARE LTDA ME","sit":"B","regime":"NORMAL","municipio":"GARANHUNS","igi":0,"uf":"PE","valor":7521.25},
 {"ie":61077372,"cnpj":"21805352000194","razao":"ALBUQUERQUE GERENCIAMENTO DE RESIDUOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":872105.40},
-{"ie":60604808,"cnpj":"21601010000152","razao":"LYLIANE S.RAMOS MATERIAL DE CONSTRUCAO ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":63400.00},
+{"ie":60604808,"cnpj":"21601010000152","razao":"LYLIANE S.RAMOS MATERIAL DE CONSTRUCAO ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":63400.00},
 {"ie":0,"cnpj":"20593185000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":1430.00},
 {"ie":57238766,"cnpj":"20059156000155","razao":"B. T. DE LIRA ZAIDAN EIRELI","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":543967.10},
 {"ie":0,"cnpj":"19685979000107","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":20379.14},

@@ -2,9 +2,9 @@ EstabelecimentoData.estabelecimento = [{"ie":25356615,"cnpj":"02835129000145","r
 EntradasData.entradas = [{"ie":19425813,"cnpj":"69963932000136","razao":"COMERCIAL FERREIRA TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":5020.00},
 {"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":122.00},
 {"ie":40556409,"cnpj":"12250331000169","razao":"LEUDO DE PONTES VALENCA FILHO ME","sit":"A","regime":"SIMPLES","municipio":"CARUARU","igi":0,"uf":"PE","valor":390.00},
-{"ie":22245340,"cnpj":"01168266000100","razao":"KIMD TECIDOS COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":162416.33},
+{"ie":23437626,"cnpj":"01815301000136","razao":"SANTEX - COMERCIAL TEXTIL LTDA","sit":"S","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4139.29},
 {"ie":33893160,"cnpj":"08064417000120","razao":"ESPACO TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":18901.59},
-{"ie":23437626,"cnpj":"01815301000136","razao":"SANTEX - COMERCIAL TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":4139.29}];
+{"ie":22245340,"cnpj":"01168266000100","razao":"KIMD TECIDOS COMERCIO LTDA","sit":"A","regime":"NORMAL","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":162416.33}];
 SaidasData.saidas = [{"ie":0,"cnpj":"68404581000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2000.00},
 {"ie":0,"cnpj":"23529298000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":920.00},
 {"ie":0,"cnpj":"22950855000116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":120.00},

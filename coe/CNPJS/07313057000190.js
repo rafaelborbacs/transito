@@ -69,8 +69,8 @@ SaidasData.saidas = [{"ie":36490083,"cnpj":"71476527002855","razao":"CONSTRUTORA
 {"ie":0,"cnpj":"00421097000882","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2052.00},
 {"ie":45885338,"cnpj":"00421097000530","razao":"C C A EMPREENDIMENTOS IMOBILIARIOS LTDA","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":8674.50},
 {"ie":21479470,"cnpj":"00421097000106","razao":"C C A EMPREENDIMENTOS IMOBILIARIOS LTDA","sit":"B","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1892.00}];
-SociosData.socios = [{"cpf":"40458989487","nome":"EDINALDO CASSIANO DOS SANTOS","ie":74931423,"cnpj":"07313057000190","razao":"CASSIANO & PEREIRA PERNAMBUCO CONSTRUCAO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":1},
-{"cpf":"06328411413","nome":"ELISABETE MARIA DE QUEIROZ","ie":74931423,"cnpj":"07313057000190","razao":"CASSIANO & PEREIRA PERNAMBUCO CONSTRUCAO LTDA - ME","sit":"A","regime":"NORMAL","municipio":"PAUDALHO","igi":1}];
+SociosData.socios = [{"cpf":"40458989487","nome":"EDINALDO CASSIANO DOS SANTOS","ie":74931423,"cnpj":"07313057000190","razao":"CASSIANO & PEREIRA PERNAMBUCO CONSTRUCAO LTDA - ME","sit":"C","regime":"NORMAL","municipio":"PAUDALHO","igi":1},
+{"cpf":"06328411413","nome":"ELISABETE MARIA DE QUEIROZ","ie":74931423,"cnpj":"07313057000190","razao":"CASSIANO & PEREIRA PERNAMBUCO CONSTRUCAO LTDA - ME","sit":"C","regime":"NORMAL","municipio":"PAUDALHO","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

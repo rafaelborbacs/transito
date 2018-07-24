@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":70337101,"cnpj":"26859115000120","razao":"JOSE ROBERTO NUNES DE LIMA 18766518814","sit":"A","arrecadacao":13.00,"entradas":54115.09,"saidas":106042.10,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"OLINDA","drr":"I","igi":1,"dataie":"16/01/2017","contador":"SANDRA ROGERIA CESARIO DA SILVA"}];
-EntradasData.entradas = [{"ie":23689510,"cnpj":"01912239000109","razao":"SUPERFIOS TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":53915.09},
-{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":200.00}];
+EntradasData.entradas = [{"ie":0,"cnpj":"01554285000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":200.00},
+{"ie":23689510,"cnpj":"01912239000109","razao":"SUPERFIOS TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":53915.09}];
 SaidasData.saidas = [{"ie":19127715,"cnpj":"41115080000108","razao":"LAJ COMERCIO LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":40262.80},
 {"ie":74044095,"cnpj":"28803320000107","razao":"EVA OLIVEIRA COMERCIO DE ALIMENTOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":355.00},
 {"ie":73185965,"cnpj":"28389995000143","razao":"POINT MULT COMERCIO E SERVICOS DE MATERIAIS DE LIMPEZA E ESCRITORIO EIRELI EPP","sit":"A","regime":"SIMPLES","municipio":"ITAPISSUMA","igi":0,"uf":"PE","valor":500.00},
@@ -34,7 +34,7 @@ SaidasData.saidas = [{"ie":19127715,"cnpj":"41115080000108","razao":"LAJ COMERCI
 {"ie":29978947,"cnpj":"05498402000181","razao":"MAVIS DISTRIBUIDORA DE PRODUTOS LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":770.00},
 {"ie":28950801,"cnpj":"04925042000194","razao":"I. BARBOSA DA SILVA - EPP","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":3830.00},
 {"ie":37044400,"cnpj":"04390483000139","razao":"TRIAGIL LTDA","sit":"C","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":18794.50},
-{"ie":27483550,"cnpj":"04004741000100","razao":"NORLUX LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":2800.00},
+{"ie":27483550,"cnpj":"04004741000100","razao":"NORLUX LTDA","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":2800.00},
 {"ie":25714473,"cnpj":"02726118000127","razao":"SERVCAF EIRELI","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":3100.00}];
 SociosData.socios = [{"cpf":"18766518814","nome":"JOSE ROBERTO NUNES DE LIMA","ie":70337101,"cnpj":"26859115000120","razao":"JOSE ROBERTO NUNES DE LIMA 18766518814","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":1},
 {"cpf":"18766518814","nome":"JOSE ROBERTO NUNES DE LIMA","ie":40332217,"cnpj":"12102167000142","razao":"J R NUNES DE LIMA TECELAGEM EIRELI  ME","sit":"A","regime":"SIMPLES","municipio":"OLINDA","igi":0}];

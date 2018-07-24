@@ -2,7 +2,7 @@ EstabelecimentoData.estabelecimento = [{"ie":38391767,"cnpj":"11087265000195","r
 EntradasData.entradas = [{"ie":28513690,"cnpj":"04406988000144","razao":"BR PAPEIS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1,"uf":"PE","valor":1530.27},
 {"ie":30853923,"cnpj":"61016028000705","razao":"IBEP - INSTITUTO BRASILEIRO DE EDICOES PEDAGOGICAS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":80.23},
 {"ie":14630559,"cnpj":"24073694000155","razao":"CIL COMERCIO DE INFORMATICA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":35195.96}];
-SaidasData.saidas = [{"ie":29083958,"cnpj":"41057324000143","razao":"DATA VOICE COMERCIO E SERVICOS LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1103.00},
+SaidasData.saidas = [{"ie":29083958,"cnpj":"41057324000143","razao":"DATA VOICE COMERCIO E SERVICOS LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1103.00},
 {"ie":16067789,"cnpj":"35413186000195","razao":"JOSE FLORENCIO SILVA-COMERCIO","sit":"S","regime":"SIMPLES","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":16043.25},
 {"ie":65260554,"cnpj":"23778043000106","razao":"FAMILIA CONCEICAO SUPERMERCADO LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":1710.00},
 {"ie":0,"cnpj":"11868692000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1820.50},

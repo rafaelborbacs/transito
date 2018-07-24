@@ -73,5 +73,5 @@ SaidasData.saidas = [{"ie":0,"cnpj":"95059660168","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00132556570","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":14220.00}];
 SociosData.socios = [];
 EmailsData.emails = [];
-TelsData.tels = [];
+TelsData.tels = [{"cnpj":"27744825000843","tel":"JOSE ALAN DA SILVA VAREJISTA DE TECIDOS EPP","razao":"Brejo da Madre de Deus","municipio":"0000000000"}];
 PlacasData.placas = [];

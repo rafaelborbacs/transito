@@ -40,7 +40,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"97538306000138","razao":"","sit":"","regime
 {"ie":0,"cnpj":"26492347000192","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":1690.00},
 {"ie":69051887,"cnpj":"26220166000107","razao":"DEBORA MODA SURF COMERCIO DE CONFECCOES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"CABO DE SANTO AGOSTINHO","igi":0,"uf":"PE","valor":1224.00},
 {"ie":0,"cnpj":"26020432000158","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":10029.00},
-{"ie":68508638,"cnpj":"25453120000175","razao":"J & D SURF CONFECCOES LTDA EPP","sit":"S","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1296.00},
+{"ie":68508638,"cnpj":"25453120000175","razao":"J & D SURF CONFECCOES LTDA EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1296.00},
 {"ie":68508476,"cnpj":"25451552000147","razao":"D M DA CUNHA SANTANA EPP","sit":"A","regime":"SIMPLES","municipio":"CAMARAGIBE","igi":0,"uf":"PE","valor":1260.00},
 {"ie":68500491,"cnpj":"25421458000145","razao":"J V A DE OLIVEIRA CONFECCOES EPP","sit":"A","regime":"SIMPLES","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":1260.00},
 {"ie":68500653,"cnpj":"25421358000119","razao":"J M G A DE OLIVEIRA COMERCIO DE CONFECCOES EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":1260.00},

@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":74190318,"cnpj":"28834285000185","razao":"ADRIANO FARIAS DAS NEVES 12945814498","sit":"C","arrecadacao":150.00,"entradas":38249.98,"saidas":143592.60,"regime":"NORMAL","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"18/10/2017","contador":""}];
 EntradasData.entradas = [{"ie":18699812,"cnpj":"40838658000191","razao":"ARA TEXTIL LTDA","sit":"A","regime":"NORMAL","municipio":"ABREU E LIMA","igi":0,"uf":"PE","valor":15919.51},
-{"ie":0,"cnpj":"00141965000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":10270.47},
+{"ie":0,"cnpj":"03479097000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":6460.00},
 {"ie":0,"cnpj":"07647049000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":5600.00},
-{"ie":0,"cnpj":"03479097000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":6460.00}];
+{"ie":0,"cnpj":"00141965000102","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":10270.47}];
 SaidasData.saidas = [{"ie":0,"cnpj":"99164892034","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2629.50},
 {"ie":0,"cnpj":"95087206387","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2605.00},
 {"ie":0,"cnpj":"82812713372","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":2657.50},
@@ -48,5 +48,4 @@ SaidasData.saidas = [{"ie":0,"cnpj":"99164892034","razao":"","sit":"","regime":"
 SociosData.socios = [{"cpf":"12945814498","nome":"ADRIANO FARIAS DAS NEVES","ie":74190318,"cnpj":"28834285000185","razao":"ADRIANO FARIAS DAS NEVES 12945814498","sit":"C","regime":"NORMAL","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
 EmailsData.emails = [];
 TelsData.tels = [];
-PlacasData.placas = [{"cnpj":"27378498000187","placa":"PDG0402","razao":"SILMARA ALCANTARA ANDRADE ME","municipio":"SANTA CRUZ DO C"},
-{"cnpj":"19905999000146","placa":"PDG0402","razao":"MALHARIA MELO & CIA LTDA -ME","municipio":"SANTA CRUZ DO C"}];
+PlacasData.placas = [];

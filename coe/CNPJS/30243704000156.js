@@ -68,7 +68,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96380730559","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"24661422000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1300.00},
 {"ie":0,"cnpj":"24028841000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":5016.00},
 {"ie":0,"cnpj":"23719018000143","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1400.00},
-{"ie":65072715,"cnpj":"23701504000134","razao":"V A RAIOL DA SILVA ME","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":9888.00},
+{"ie":65072715,"cnpj":"23701504000134","razao":"NAZARE DO SOCORRO DA SILVA ROCHA ME","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":9888.00},
 {"ie":0,"cnpj":"23277597814","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4000.00},
 {"ie":0,"cnpj":"22406588000200","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":8600.00},
 {"ie":0,"cnpj":"22302348000176","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":3055.00},
@@ -191,8 +191,6 @@ SaidasData.saidas = [{"ie":0,"cnpj":"96380730559","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"00378673000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":337.50},
 {"ie":0,"cnpj":"00319302000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":1725.00}];
 SociosData.socios = [{"cpf":"09777595476","nome":"EDVAN JOSE DOS SANTOS","ie":76934519,"cnpj":"30243704000156","razao":"EDVAN JOSE DOS SANTOS 09777595476","sit":"A","regime":"SIMEI","municipio":"BREJO DA MADRE DE DEUS","igi":1}];
-EmailsData.emails = [{"cnpj":"70083597000241","email":"mosquiteiro.saojose@hotmail.com","razao":"MOSQUITEIROS SAO JOSE LTDA","municipio":"TAQUARITINGA DO NORTE"},
-{"cnpj":"70083597000160","email":"mosquiteiro.saojose@hotmail.com","razao":"MOSQUITEIROS SAO JOSE LTDA-EPP","municipio":"TAQUARITINGA DO NORT"},
-{"cnpj":"46129448449","email":"mosquiteiro.saojose@hotmail.com","razao":"JOSE ADAILTON DE ARAUJO","municipio":"TAQUARITINGA DO NORTE"}];
+EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

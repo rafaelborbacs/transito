@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":48893048,"cnpj":"15610582000103","razao":"MARIA DE FATIMA MOURA FRAGOSO 43426034468","sit":"A","arrecadacao":23.66,"entradas":14359.96,"saidas":221970.22,"regime":"SIMPLES","segmento":"TELECOMUNICACAO","municipio":"RECIFE","drr":"I","igi":1,"dataie":"11/06/2012","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"64873615000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":60.66},
+EntradasData.entradas = [{"ie":19995083,"cnpj":"70091483000162","razao":"INCAPA INDUSTRIA DE ARTEFATOS DE PAPELAO LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":533.40},
 {"ie":0,"cnpj":"03514129000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":9827.50},
 {"ie":9362002,"cnpj":"08665085000139","razao":"SISTEMAQ AUTOMACAO S/A","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2422.00},
 {"ie":0,"cnpj":"44022333000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":4.40},
 {"ie":0,"cnpj":"17740079000190","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1512.00},
-{"ie":19995083,"cnpj":"70091483000162","razao":"INCAPA INDUSTRIA DE ARTEFATOS DE PAPELAO LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":533.40}];
+{"ie":0,"cnpj":"64873615000105","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":60.66}];
 SaidasData.saidas = [{"ie":0,"cnpj":"64765393704","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1400.00},
 {"ie":0,"cnpj":"62955505926116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":195.00},
 {"ie":0,"cnpj":"62955505014389","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":845.00},
@@ -53,7 +53,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"64765393704","razao":"","sit":"","regime":"
 {"ie":61643076,"cnpj":"22074879000159","razao":"S & V ARTIGOS E VESTUARIOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"IPOJUCA","igi":0,"uf":"PE","valor":1449.00},
 {"ie":0,"cnpj":"22044811000127","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":1200.00},
 {"ie":0,"cnpj":"21330408000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":105.00},
-{"ie":59716835,"cnpj":"21256790000140","razao":"JM CALCADOS EIRELI ME","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":200.00},
+{"ie":59716835,"cnpj":"21256790000140","razao":"JM CALCADOS EIRELI ME","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":200.00},
 {"ie":70600090,"cnpj":"21171595000207","razao":"ROSA AMARELA CONFECCOES E ACESSORIOS LTDA ME","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":345.00},
 {"ie":56189834,"cnpj":"19571767000107","razao":"MARANHAO RESTAURANTES LTDA - EPP","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":0,"uf":"PE","valor":1080.00},
 {"ie":55422438,"cnpj":"19244635000162","razao":"FAZ SERVICOS DE PUBLICIDADE LTDA - ME","sit":"B","regime":"SIMPLES","municipio":"OLINDA","igi":0,"uf":"PE","valor":1399.00},
@@ -93,9 +93,9 @@ SaidasData.saidas = [{"ie":0,"cnpj":"64765393704","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"10869782001206","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2625.00},
 {"ie":0,"cnpj":"10869782000404","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":280.00},
 {"ie":0,"cnpj":"10847721000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":70.00},
-{"ie":1651315,"cnpj":"10782639000120","razao":"INTERLANDIA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":4032.00},
 {"ie":13180800,"cnpj":"10782639000120","razao":"INTERLANDIA LTDA","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":4032.00},
 {"ie":170194,"cnpj":"10782639000120","razao":"INTERLANDIA LTDA","sit":"B","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":4032.00},
+{"ie":1651315,"cnpj":"10782639000120","razao":"INTERLANDIA LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":4032.00},
 {"ie":0,"cnpj":"10583920000990","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2212.50},
 {"ie":0,"cnpj":"10583920000800","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":700.00},
 {"ie":0,"cnpj":"10583920000303","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":2365.00},
@@ -170,8 +170,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"64765393704","razao":"","sit":"","regime":"
 {"ie":22676244,"cnpj":"01384165000177","razao":"NORSCENT FRAGRANCIAS E AROMAS LTDA","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0,"uf":"PE","valor":2484.72},
 {"ie":22488677,"cnpj":"01250181000177","razao":"VASCONCELOS FARMACIA DE MANIPULACAO EIRELI EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":12406.49},
 {"ie":0,"cnpj":"00396895007138","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":99.90}];
-SociosData.socios = [{"cpf":"43426034468","nome":"MARIA DE FATIMA MOURA FRAGOSO","ie":48893048,"cnpj":"15610582000103","razao":"MARIA DE FATIMA MOURA FRAGOSO 43426034468","sit":"A","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
-EmailsData.emails = [{"cnpj":"01781007000150","email":"fabio@infotecrecife.com.br","razao":"F G Infotec Recife Eireli - ME","municipio":"Recife"}];
-TelsData.tels = [{"cnpj":"84698624487","tel":"8188254008","razao":"Fabio Fragoso","municipio":"RECIFE"},
-{"cnpj":"28339211000172","tel":"81988254008","razao":"FABIO BOTELHO BATALHA 92218920425","municipio":"RECIFE"}];
+SociosData.socios = [{"cpf":"43426034468","nome":"MARIA DE FATIMA MOURA FRAGOSO","ie":48893048,"cnpj":"15610582000103","razao":"MARIA DE FATIMA MOURA FRAGOSO 43426034468","sit":"S","regime":"SIMPLES","municipio":"RECIFE","igi":1}];
+EmailsData.emails = [];
+TelsData.tels = [];
 PlacasData.placas = [];

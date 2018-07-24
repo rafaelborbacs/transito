@@ -7,12 +7,6 @@ EntradasData.entradas = [{"ie":57679037,"cnpj":"02558157038640","razao":"TELEFON
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"10076146413","nome":"JOSE EDVALDO SOARES DE SOUZA FILHO","ie":75156695,"cnpj":"29324590000190","razao":"SOARES E MAGALHAES LTDA ME","sit":"C","regime":"NORMAL","municipio":"PARNAMIRIM","igi":1},
 {"cpf":"10076146413","nome":"JOSE EDVALDO SOARES DE SOUZA FILHO","ie":74993887,"cnpj":"29251564000189","razao":"JOSE EDVALDO SOARES DE SOUZA FILHO ME","sit":"C","regime":"NORMAL","municipio":"PARNAMIRIM","igi":1}];
-EmailsData.emails = [{"cnpj":"28641077000160","email":"jpncontabilidade1@hotmail.com","razao":"SAMPAIO VASCONCELOS LTDA","municipio":"SALGUEIRO"},
-{"cnpj":"28300950000150","email":"jpncontabilidade1@hotmail.com","razao":"JOSE NILTON DUARTE PANIFICADORA ME","municipio":"PARNAMIRIM"},
-{"cnpj":"23516358000177","email":"jpncontabilidade1@hotmail.com","razao":"SOCIEDADE DE ADVOGADOS VERAS ADVOGADOS ASSOCIADOS","municipio":"SALGUEIRO"},
-{"cnpj":"23483244000178","email":"jpncontabilidade1@hotmail.com","razao":"FILGUEIRA SAMPAIO MEDICAMENTOS LTDA","municipio":"SALGUEIRO"},
-{"cnpj":"13977895000160","email":"jpncontabilidade1@hotmail.com","razao":"GERLANIA BATISTA DE ALENCAR","municipio":"SALGUEIRO"},
-{"cnpj":"11887064000172","email":"jpncontabilidade1@hotmail.com","razao":"RAMOS ALENCAR LTDA","municipio":"SALGUEIRO"},
-{"cnpj":"09060857000171","email":"jpncontabilidade1@hotmail.com","razao":"GILNEY BATISTA ALENCAR RESTAURANTE ME","municipio":"PARNAMIRIM"}];
+EmailsData.emails = [];
 TelsData.tels = [];
 PlacasData.placas = [];

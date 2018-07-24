@@ -1,10 +1,10 @@
 EstabelecimentoData.estabelecimento = [{"ie":56292090,"cnpj":"19618034000172","razao":"NOALDO VIDAL EUFRAUSINO CONFECCOES ME","sit":"C","arrecadacao":14149.01,"entradas":5959394.65,"saidas":156796.50,"regime":"NORMAL","segmento":"TECIDOS","municipio":"CARUARU","drr":"II","igi":1,"dataie":"31/01/2014","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"09093785000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":6930.95},
-{"ie":0,"cnpj":"01208098000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1354944.55},
-{"ie":0,"cnpj":"96209382000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2672.12},
-{"ie":0,"cnpj":"12193881000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":59718.71},
-{"ie":23491329,"cnpj":"01800067000173","razao":"PAULISTEX INDUSTRIAL LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":331273.80},
+EntradasData.entradas = [{"ie":0,"cnpj":"12193881000193","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":59718.71},
 {"ie":49968360,"cnpj":"07428876000425","razao":"KTRFIOS IMPORTACAO E EXPORTACAO LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":2687258.98},
+{"ie":0,"cnpj":"96209382000137","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":2672.12},
+{"ie":0,"cnpj":"09093785000169","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":6930.95},
+{"ie":23491329,"cnpj":"01800067000173","razao":"PAULISTEX INDUSTRIAL LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"PAULISTA","igi":0,"uf":"PE","valor":331273.80},
+{"ie":0,"cnpj":"01208098000130","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1354944.55},
 {"ie":0,"cnpj":"03652452000146","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1516595.54}];
 SaidasData.saidas = [{"ie":0,"cnpj":"69250314000149","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},
 {"ie":0,"cnpj":"67227900000147","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":500.00},

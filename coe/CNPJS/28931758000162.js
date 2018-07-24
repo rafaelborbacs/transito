@@ -1,15 +1,15 @@
 EstabelecimentoData.estabelecimento = [{"ie":74339648,"cnpj":"28931758000162","razao":"S. SILVA COMERCIO VAREJISTA DE ALIMENTOS LTDA ME","sit":"C","arrecadacao":16569.12,"entradas":1984775.48,"saidas":2051029.69,"regime":"SIMPLES","segmento":"SUPERMERCADOS","municipio":"ITAMBE","drr":"I","igi":1,"dataie":"25/10/2017","contador":"JOSE ANTONIO BARBOSA JUNIOR"}];
-EntradasData.entradas = [{"ie":0,"cnpj":"04985298000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":27130.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"08395782000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":15732.00},
 {"ie":0,"cnpj":"03860617000175","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"TO","valor":95310.50},
 {"ie":0,"cnpj":"28999388000103","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":247728.54},
+{"ie":0,"cnpj":"10537593000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":50265.00},
+{"ie":0,"cnpj":"07764918000237","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":189000.00},
+{"ie":0,"cnpj":"07817316000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":685754.30},
+{"ie":22863435,"cnpj":"01514118000109","razao":"JADIR ALVES DE SOUSA LADEIRA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51541.90},
 {"ie":0,"cnpj":"17120250000168","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":129974.52},
 {"ie":0,"cnpj":"03376307000180","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MA","valor":176833.94},
-{"ie":0,"cnpj":"08395782000117","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":15732.00},
-{"ie":22863435,"cnpj":"01514118000109","razao":"JADIR ALVES DE SOUSA LADEIRA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":51541.90},
-{"ie":0,"cnpj":"10537593000183","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":50265.00},
 {"ie":0,"cnpj":"07764918000156","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":315504.78},
-{"ie":0,"cnpj":"07764918000237","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":189000.00},
-{"ie":0,"cnpj":"07817316000110","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":685754.30}];
+{"ie":0,"cnpj":"04985298000197","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":27130.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"71454845449","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":6000.00},
 {"ie":0,"cnpj":"70097068000116","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":4890.00},
 {"ie":0,"cnpj":"67490727472","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RJ","valor":1500.00},
@@ -80,25 +80,6 @@ SaidasData.saidas = [{"ie":0,"cnpj":"71454845449","razao":"","sit":"","regime":"
 {"ie":0,"cnpj":"01165063000160","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PB","valor":1120.00}];
 SociosData.socios = [{"cpf":"70600887413","nome":"STEFANY PEREIRA GONCALVES DA SILVA","ie":74339648,"cnpj":"28931758000162","razao":"S. SILVA COMERCIO VAREJISTA DE ALIMENTOS LTDA ME","sit":"C","regime":"SIMPLES","municipio":"ITAMBE","igi":1},
 {"cpf":"06716184406","nome":"ALINE TASSIA PEREIRA DA SILVA","ie":74339648,"cnpj":"28931758000162","razao":"S. SILVA COMERCIO VAREJISTA DE ALIMENTOS LTDA ME","sit":"C","regime":"SIMPLES","municipio":"ITAMBE","igi":1}];
-EmailsData.emails = [{"cnpj":"84046101024882","email":"nfe@dsasousa.com.br","razao":"BUNGE ALIMENTOS SA","municipio":"IPOJUCA"},
-{"cnpj":"55681107434","email":"nfe@dsasousa.com.br","razao":"VITAL LUCIANO DE LUCENA","municipio":"CEDRO"},
-{"cnpj":"40856494000125","email":"nfe@dsasousa.com.br","razao":"LUIZ MARIANO ALVEZ","municipio":"CEDRO"},
-{"cnpj":"29389396000192","email":"nfe@dsasousa.com.br","razao":"SAO LUIS ATACADISTA DE ALIMENTOS LTDA ME","municipio":"ITAMBE"},
-{"cnpj":"26124885000124","email":"nfe@dsasousa.com.br","razao":"F COSTA MINIMERCADO EIRELI ME","municipio":"CARPINA"},
-{"cnpj":"20810203000150","email":"nfe@dsasousa.com.br","razao":"MARIA ILDERLANDIA VIEIRA LEITE","municipio":"CEDRO"},
-{"cnpj":"19185250000171","email":"nfe@dsasousa.com.br","razao":"MARIA JOSILENE PEREIRA","municipio":"CEDRO"},
-{"cnpj":"18500524000107","email":"nfe@dsasousa.com.br","razao":"WEDSON FERREIRA DE SOUZA","municipio":"CEDRO"},
-{"cnpj":"15808847000174","email":"nfe@dsasousa.com.br","razao":"F W BASTOS LTDA ME","municipio":"SALGUEIRO"},
-{"cnpj":"11112828000158","email":"nfe@dsasousa.com.br","razao":"CARLOTO FURTADO PARENTE","municipio":"CEDRO"},
-{"cnpj":"10557159000327","email":"nfe@dsasousa.com.br","razao":"SUPER SELETO LTDA EPP","municipio":"SALGUEIRO"},
-{"cnpj":"10256001000155","email":"nfe@dsasousa.com.br","razao":"MERCIA BEM ELIAS ME","municipio":"CEDRO"},
-{"cnpj":"08813022000182","email":"nfe@dsasousa.com.br","razao":"ADERINA DE OLIVEIRA LEITE ME","municipio":"CEDRO"},
-{"cnpj":"08384959404","email":"nfe@dsasousa.com.br","razao":"PEDRO JORGE INACIO","municipio":"CEDRO"},
-{"cnpj":"07817316000110","email":"nfe@dsasousa.com.br","razao":"DSA DISTRIBUIDORA SORRISO DE ALIMENTOS LTDA","municipio":"SOUSA"},
-{"cnpj":"07632179488","email":"nfe@dsasousa.com.br","razao":"MARIA SIMONE LEITE BENTO CAVALCANTE","municipio":"CEDRO"},
-{"cnpj":"03652900000101","email":"nfe@dsasousa.com.br","razao":"MARIA MARIAVANIA LENADOR CEDRO","municipio":"CEDRO"},
-{"cnpj":"02340534000192","email":"nfe@dsasousa.com.br","razao":"TAMBAU INDALIMENTICIA LTDA","municipio":"CUSTODIA"},
-{"cnpj":"01124989498","email":"nfe@dsasousa.com.br","razao":"MARIA SOCORRO DE FIGUEIREDO","municipio":"CEDRO"},
-{"cnpj":"00680712000107","email":"nfe@dsasousa.com.br","razao":"MARIA SOCORRO LEITE BEM SOUZA","municipio":"CEDRO"}];
+EmailsData.emails = [];
 TelsData.tels = [];
-PlacasData.placas = [{"cnpj":"29389396000192","placa":"QFF0619","razao":"SAO LUIS ATACADISTA DE ALIMENTOS LTDA ME","municipio":"ITAMBE"}];
+PlacasData.placas = [];

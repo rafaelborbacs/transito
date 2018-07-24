@@ -44,7 +44,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"79508354000100","razao":"","sit":"","regime
 {"ie":0,"cnpj":"00521113000132","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SC","valor":172032.00},
 {"ie":20635575,"cnpj":"00286904000125","razao":"KFP DISTRIBUIDORA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":3270.00}];
 SociosData.socios = [{"cpf":"63931486400","nome":"ALEXSANDRO CAETANO DA SILVA","ie":72684593,"cnpj":"28154247000181","razao":"SOBRANTE COMERCIO ATACADISTA DE METAIS LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":1},
-{"cpf":"63931486400","nome":"ALEXSANDRO CAETANO DA SILVA","ie":71728856,"cnpj":"27630016000134","razao":"RECOEXP COMERCIO E REPRESENTACAO DE PRODUTOS ALIMENTICIOS LTDA EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0},
+{"cpf":"63931486400","nome":"ALEXSANDRO CAETANO DA SILVA","ie":71728856,"cnpj":"27630016000134","razao":"RECOEXP COMERCIO E REPRESENTACAO DE PRODUTOS ALIMENTICIOS LTDA EPP","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"63931486400","nome":"ALEXSANDRO CAETANO DA SILVA","ie":70464480,"cnpj":"26934756000100","razao":"REALEZA RESIDUOS LTDA ME","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},
 {"cpf":"63931486400","nome":"ALEXSANDRO CAETANO DA SILVA","ie":59185023,"cnpj":"21010511000164","razao":"A. C. DA SILVA COMERCIO, COLETA E TRANSPORTE DE RESIDUOS E CIA. LTDA EPP","sit":"A","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"63931486400","nome":"ALEXSANDRO CAETANO DA SILVA","ie":49337297,"cnpj":"11133934000118","razao":"ASMA METAIS E RECICLAGENS LTDA","sit":"C","regime":"NORMAL","municipio":"RECIFE","igi":0},

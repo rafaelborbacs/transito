@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":76975975,"cnpj":"30284323000115","razao":"K V DA SILVA","sit":"A","arrecadacao":0.00,"entradas":11152.00,"saidas":783878.00,"regime":"NORMAL","segmento":"TECIDOS","municipio":"TAQUARITINGA DO NORTE","drr":"II","igi":1,"dataie":"24/04/2018","contador":""}];
-EntradasData.entradas = [{"ie":0,"cnpj":"01586092000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8000.00},
-{"ie":0,"cnpj":"11068669000131","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1600.00},
+EntradasData.entradas = [{"ie":0,"cnpj":"11068669000131","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1600.00},
+{"ie":0,"cnpj":"01586092000104","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":8000.00},
 {"ie":0,"cnpj":"05851708000170","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1552.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"30512790000155","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":7239.00},
 {"ie":0,"cnpj":"30428617000173","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"AM","valor":6539.00},

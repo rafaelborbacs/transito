@@ -1,8 +1,8 @@
 EstabelecimentoData.estabelecimento = [{"ie":66339782,"cnpj":"05136880001032","razao":"FIO JEITOSO INDUSTRIA E COMERCIO DE CONFECCOES LTDA","sit":"C","arrecadacao":56092.39,"entradas":677354.38,"saidas":1035688.55,"regime":"NORMAL","segmento":"TECIDOS","municipio":"RECIFE","drr":"I","igi":1,"dataie":"04/03/2016","contador":"LIZ RAQUEL GOMES ELOI"}];
-EntradasData.entradas = [{"ie":21577560,"cnpj":"10230480001960","razao":"FERREIRA COSTA & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4068.42},
-{"ie":0,"cnpj":"05136880000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":669985.96},
+EntradasData.entradas = [{"ie":0,"cnpj":"05136880000141","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"CE","valor":669985.96},
+{"ie":0,"cnpj":"13535493000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1800.00},
 {"ie":0,"cnpj":"06307203000101","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1500.00},
-{"ie":0,"cnpj":"13535493000106","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"SP","valor":1800.00}];
+{"ie":21577560,"cnpj":"10230480001960","razao":"FERREIRA COSTA & CIA LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":4068.42}];
 SaidasData.saidas = [{"ie":0,"cnpj":"98946927453","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":875.00},
 {"ie":0,"cnpj":"97277738420","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":995.00},
 {"ie":0,"cnpj":"97273368415","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PE","valor":471.70},

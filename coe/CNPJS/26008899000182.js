@@ -1,6 +1,6 @@
 EstabelecimentoData.estabelecimento = [{"ie":68679360,"cnpj":"26008899000182","razao":"GEORGE DE LIMA PIMENTEL MERCADOS EPP","sit":"B","arrecadacao":0.00,"entradas":374403.26,"saidas":0.00,"regime":"NORMAL","segmento":"SUPERMERCADOS","municipio":"BREJAO","drr":"II","igi":1,"dataie":"25/08/2016","contador":""}];
-EntradasData.entradas = [{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":374323.26},
-{"ie":10575880,"cnpj":"09038712000174","razao":"IGAL-INDUSTRIA GRAFICA ANDRADE LTDA","sit":"A","regime":"SIMPLES","municipio":"BEZERROS","igi":0,"uf":"PE","valor":80.00}];
+EntradasData.entradas = [{"ie":10575880,"cnpj":"09038712000174","razao":"IGAL-INDUSTRIA GRAFICA ANDRADE LTDA","sit":"A","regime":"SIMPLES","municipio":"BEZERROS","igi":0,"uf":"PE","valor":80.00},
+{"ie":793833,"cnpj":"11856283000194","razao":"ENGARRAFAMENTO PITU LTDA","sit":"A","regime":"NORMAL","municipio":"VITORIA DE SANTO ANTAO","igi":0,"uf":"PE","valor":374323.26}];
 SaidasData.saidas = [];
 SociosData.socios = [{"cpf":"05515903439","nome":"GEORGE DE LIMA PIMENTEL","ie":73720003,"cnpj":"28678607000144","razao":"COMERCIAL CAJUEIRO LTDA ME","sit":"S","regime":"NORMAL","municipio":"JABOATAO DOS GUARARAPES","igi":0},
 {"cpf":"05515903439","nome":"GEORGE DE LIMA PIMENTEL","ie":73697940,"cnpj":"28630009000103","razao":"COMERCIAL RIACHO DAS ALMAS ALIMENTOS LTDA ME","sit":"S","regime":"SIMPLES","municipio":"RIACHO DAS ALMAS","igi":0},

@@ -1,11 +1,11 @@
 EstabelecimentoData.estabelecimento = [{"ie":77824202,"cnpj":"29435626000374","razao":"VALERIA APARECIDA DA SILVA","sit":"A","arrecadacao":0.00,"entradas":650727.26,"saidas":106751.20,"regime":"SIMPLES","segmento":"TECIDOS","municipio":"BREJO DA MADRE DE DEUS","drr":"II","igi":1,"dataie":"19/06/2018","contador":""}];
 EntradasData.entradas = [{"ie":60395702,"cnpj":"21538059000108","razao":"VR ATACADO DE TECIDOS LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":11482.24},
-{"ie":76452107,"cnpj":"30035225000144","razao":"MILTON P BARBOSA TECIDOS","sit":"A","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":0,"uf":"PE","valor":3.00},
 {"ie":33461961,"cnpj":"07800463000187","razao":"ABILIO LAURINDO FILHO","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":98262.71},
 {"ie":61170666,"cnpj":"11173344000623","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"SURUBIM","igi":0,"uf":"PE","valor":53457.10},
+{"ie":76452107,"cnpj":"30035225000144","razao":"MILTON P BARBOSA TECIDOS","sit":"S","regime":"SIMPLES","municipio":"SANTA CRUZ DO CAPIBARIBE","igi":1,"uf":"PE","valor":3.00},
 {"ie":53307500,"cnpj":"11173344000542","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"VERTENTES","igi":0,"uf":"PE","valor":136414.79},
-{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":314168.21},
-{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":36939.21}];
+{"ie":35626623,"cnpj":"09034841000194","razao":"ELIENE J DA SILVA TECIDOS EIRELI","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":36939.21},
+{"ie":38536404,"cnpj":"11173344000119","razao":"LEOTEX DENIM PREMIUM LTDA","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":314168.21}];
 SaidasData.saidas = [{"ie":0,"cnpj":"86999943000195","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":2500.00},
 {"ie":0,"cnpj":"30150665000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":3200.00},
 {"ie":0,"cnpj":"30069093000171","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PR","valor":8900.00},

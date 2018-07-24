@@ -15,7 +15,7 @@ SaidasData.saidas = [{"ie":0,"cnpj":"70047741000456","razao":"","sit":"","regime
 {"ie":1892789,"cnpj":"10404960000170","razao":"FRICALOR PLASTICOS EIRELI","sit":"B","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":41325.00},
 {"ie":1892860,"cnpj":"10404960000170","razao":"FRICALOR PLASTICOS EIRELI","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":41325.00},
 {"ie":35385677,"cnpj":"08962962000133","razao":"D. S. ARTIGOS ESCOLARES E DE FESTAS LTDA - EPP","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":554020.00},
-{"ie":52235807,"cnpj":"05688475000136","razao":"PUBLIKIMAGEM PROJETOS E MARKETING LTDA","sit":"A","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":402.50},
+{"ie":52235807,"cnpj":"05688475000136","razao":"PUBLIKIMAGEM PROJETOS E MARKETING LTDA","sit":"S","regime":"NORMAL","municipio":"RECIFE","igi":0,"uf":"PE","valor":402.50},
 {"ie":0,"cnpj":"05009904000100","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"RN","valor":2535.75},
 {"ie":0,"cnpj":"03828581000142","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"BA","valor":954.50},
 {"ie":43259901,"cnpj":"01067819000139","razao":"LCT MATERIAIS PLASTICOS LTDA","sit":"A","regime":"NORMAL","municipio":"OLINDA","igi":0,"uf":"PE","valor":1527945.96},

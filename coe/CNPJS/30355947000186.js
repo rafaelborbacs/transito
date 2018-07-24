@@ -1,5 +1,5 @@
 EstabelecimentoData.estabelecimento = [{"ie":77146298,"cnpj":"30355947000186","razao":"MARIA DE FATIMA TORRES DA SILVA 86194135468","sit":"A","arrecadacao":0.00,"entradas":10020.00,"saidas":326358.30,"regime":"SIMEI","segmento":"VAREJO","municipio":"CARUARU","drr":"II","igi":1,"dataie":"07/05/2018","contador":""}];
-EntradasData.entradas = [{"ie":45973628,"cnpj":"14270296000175","razao":"D V DA SILVA ME","sit":"A","regime":"NORMAL","municipio":"TORITAMA","igi":0,"uf":"PE","valor":10020.00}];
+EntradasData.entradas = [{"ie":45973628,"cnpj":"14270296000175","razao":"D V DA SILVA ME","sit":"S","regime":"NORMAL","municipio":"TORITAMA","igi":1,"uf":"PE","valor":10020.00}];
 SaidasData.saidas = [{"ie":0,"cnpj":"97548596553","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1030.00},
 {"ie":0,"cnpj":"79014178549","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"PA","valor":14050.00},
 {"ie":0,"cnpj":"70991740530","razao":"","sit":"","regime":"","municipio":"","igi":0,"uf":"MG","valor":1020.00},
